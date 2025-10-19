@@ -8,6 +8,22 @@
 - **Scope**: Design model to predion Price of renting house in Vietnam
 
 ## 2. Project file structure
+```text
+/
+├── data/                   # chứa dữ liệu thô, dữ liệu đã xử lý
+│   ├── raw/                # dữ liệu gốc từ crawling
+│   ├── processed/          # dữ liệu đã làm sạch, biến đổi
+│   └── README.md           # mô tả dữ liệu nếu riêng biệt
+├── notebooks/              # Jupyter notebooks phân tích, khám phá dữ liệu
+├── src/                    # mã nguồn chính
+│   ├── crawler/            # module crawl dữ liệu
+│   ├── preprocessing/      # module xử lý dữ liệu
+│   ├── models/             # module huấn luyện, lưu mô hình
+│   └── api/                # module triển khai inference API
+├── models/                 # mô hình đã huấn luyện lưu lại (.pkl, .pt,…)
+├── requirements.txt        # các thư viện cần thiết
+└── README.md               # file bạn đang đọc
+```
 ## 3. Setup guide
 **Install and setup Python environment**
 ```shell
