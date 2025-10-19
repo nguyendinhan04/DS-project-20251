@@ -2,7 +2,7 @@
 *The project aims to develop a robust, scalable data platfrom and machine learning model to predict house renting price in Vietnam*
 
 ## 1. Project description
-- **Project purpose**: Crawl data from Renting house platfrom such as Travoloka, Agoda, Booking.com → Processing and model training → provide REST API for users to send request and return inference results.
+- **Project purpose**: Crawl data from Renting house platfrom such as [Traveloka](https://www.traveloka.com/vi-vn), [Agoda](https://www.agoda.com/vi-vn), [Booking.com](https://www.booking.com/index.vi.html) → Processing and model training → Provide REST API for users to send request and return inference results.
 - **Why matter**:
 - **Solution**:
 - **Scope**: Design model to predion Price of renting house in Vietnam
