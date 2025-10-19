@@ -11,7 +11,7 @@
 ## 3. Setup guide
 **Install and setup Python environment**
 ```shell
-conda create -n rent-price-predict python=3.15.5
+conda create -n rent-price-predict python=3.12
 conda activate rent-price-predict
 pip install -r requirements.txt
 ```
