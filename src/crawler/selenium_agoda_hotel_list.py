@@ -9,7 +9,19 @@ import random
 from datetime import datetime
 from selenium_utils import *
 
+import os
 
+
+def execution_time(func):
+    def wrapper(*args, **kwargs):
+        start_time = time.time()  # Record the start time
+        result = func(*args, **kwargs)  # Execute the function
+        end_time = time.time()  # Record the end time
+        print(f"Execution time for '{func.__name__}': {end_time - start_time:.2f} seconds")
+        return result
+    return wrapper
+
+@execution_time
 def crawl_hotel_list(url,region=None):
     driver = get_driver()
     if driver is None:
@@ -19,7 +31,7 @@ def crawl_hotel_list(url,region=None):
     driver.get(url)
     time.sleep(20)
     crawl_time = datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
-    with open(f"output/{crawl_time}.txt", "w", encoding="utf-8") as f:
+    with open(f"data/raw/hotel_list/{region}_{crawl_time}.csv", "w", encoding="utf-8") as f:
         f.write(f"# Region: {region}\n")
 
     try:
@@ -30,7 +42,7 @@ def crawl_hotel_list(url,region=None):
         current_page = int(pagination_line.split(' ')[1])
 
         #duyet qua tat ca cac trang
-        while current_page < total_pages:
+        while current_page <= total_pages:
             contentContainer = safe_find_element(driver, 'div[id = "contentContainer"]')
             pagination_line = safe_find_element(driver,'span[id="paginationPageCount"]').get_attribute("innerText")
             total_pages = int(pagination_line.split(' ')[3])
@@ -95,6 +107,15 @@ def crawl_hotel_list(url,region=None):
             print(f"Tổng số lượng khách sạn tìm thấy: {len(hotels_id_list)}")
 
 
+            # Ghi danh sách hotel_id ra file sau mỗi trang
+            try:
+                with open(f"data/raw/hotel_list/{region}_{crawl_time}.csv", "a", encoding="utf-8") as f:
+                    for hotel_id, hotel_link in hotels_id_list:     
+                        f.write(f"{hotel_id}, {hotel_link}\n")
+            except Exception as e:
+                print(f"Lỗi khi ghi file: {e}")
+
+
             # Kiểm tra nếu đã đến trang cuối cùng
             if current_page == total_pages:
                 print(format_string("Đã đến trang cuối cùng, dừng lại", 50))
@@ -109,13 +130,13 @@ def crawl_hotel_list(url,region=None):
                 print(format_string("Không tìm thấy nút 'Next'", 50))
                 break
             
-            # Ghi danh sách hotel_id ra file sau mỗi trang
-            try:
-                with open(f"output/{crawl_time}.txt", "a", encoding="utf-8") as f:
-                    for hotel_id, hotel_link in hotels_id_list:     
-                        f.write(f"{hotel_id}, {hotel_link}\n")
-            except Exception as e:
-                print(f"Lỗi khi ghi file: {e}")
+            # # Ghi danh sách hotel_id ra file sau mỗi trang
+            # try:
+            #     with open(f"data/raw/hotel_list/{region}_{crawl_time}.csv", "a", encoding="utf-8") as f:
+            #         for hotel_id, hotel_link in hotels_id_list:     
+            #             f.write(f"{hotel_id}, {hotel_link}\n")
+            # except Exception as e:
+            #     print(f"Lỗi khi ghi file: {e}")
 
             time.sleep(random.uniform(5, 15))  # Chờ ngẫu nhiên từ 5 đến 15 giây trước khi chuyển trang tiếp theo
             if current_page % 10 ==0:
@@ -127,13 +148,24 @@ def crawl_hotel_list(url,region=None):
         print(f"Đã xảy ra lỗi: {e}")
     finally:
         driver.quit()
-    return hotels_id_list
+
 
 
 if __name__ == "__main__":
-    url = r"https://www.agoda.com/search?guid=b946eb98-39be-4c6f-bdbc-ce5a5f5af3db&asq=NQVGXW6jsE3tbdY9S%2BqUCpufa9Vwpz6XltTHq4n%2B9gPt6Sc9VYM%2BOtJvOdzFsuZ%2FR3540Dw%2FPKliKXr42QsJdLFCp4UBSEfk9sgyztRQL3Ho1ifkkJKRFygk%2Bspk5G9DK%2Fz%2B8iDeoBw4V4Q3nxNwkQqQMycviD3CIWSJVwpQ8soDVIDBxx2rZh%2BVcp5yQ1YQhEVtH7S5N5TRuYy%2Bg2LTsEHb%2BKC2e3zym6tmyvlzCzM%3D&city=17245&tick=638968609925&locale=en-us&ckuid=9ad60962-bba9-4bba-b472-3bd113b95394&prid=0&gclid=CjwKCAjwmNLHBhA4EiwA3ts3mem8w8e3oa3DkreXLIFWzQsvhzGkRtPaEZq3Sa-osnLh8Su4BTDwQhoCSbYQAvD_BwE&currency=VND&correlationId=23364059-5ec7-43f8-aa8f-a5d443288384&analyticsSessionId=-5756775562513916165&pageTypeId=103&realLanguageId=1&languageId=1&origin=VN&stateCode=HN&cid=1844104&userId=9ad60962-bba9-4bba-b472-3bd113b95394&whitelabelid=1&loginLvl=0&storefrontId=3&currencyId=78&currencyCode=VND&htmlLanguage=en-us&cultureInfoName=en-us&machineName=hk-pc-2f-acm-web-user-6dcf557767-dfx2c&trafficGroupId=1&trafficSubGroupId=84&aid=130589&useFullPageLogin=true&cttp=4&isRealUser=true&mode=production&browserFamily=Chrome&cdnDomain=agoda.net&checkIn=2025-10-26&checkOut=2025-10-29&rooms=1&adults=2&children=0&priceCur=VND&los=3&textToSearch=Ninh+B%C3%ACnh&productType=-1&travellerType=1&familyMode=off&ds=eBjFLNkoDVRqVzyY"
-
-    crawl_hotel_list(url,"Ninh Binh")
+    with open("data/raw/region.csv","r",encoding="utf-8") as f:
+        lines = f.readlines()
+        for line in lines[2:]:
+            line_element = line.strip().split(",")  
+            region_name = line_element[0]
+            if len(line_element) < 2:
+                continue
+            region_url_list = line_element[1].split(" ")
+            for region_url in region_url_list:
+                print(format_string(f"Crawling region: {region_name}", 50))
+                crawl_hotel_list(region_url,region_name)
+                break
+            break
     
 
-    
+
+
