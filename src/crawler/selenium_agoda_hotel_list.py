@@ -153,16 +153,7 @@ def crawl_hotel_list(url,region=None):
 
 if __name__ == "__main__":
     # Ví dụ crawl một vùng cụ thể
-    with open("data/processed/processed_hotel_list/region_list_link.tsv","r",encoding="utf-8") as f:
-        header = f.readline()
-        line = f.readline()
-        line_element = line.strip().split("\t")
-        print(line_element)
-        region_name = line_element[0]
-        region_url_list = line_element[1]
-        print(format_string(f"Crawling region: {region_name}", 50))
-        crawl_hotel_list(region_url_list,region_name)
-
+    crawl_hotel_list(r"https://www.agoda.com/vi-vn/search?lastSearchedCity=17161&asq=DGdSYo0CvFm6Ih0NBpaAPpufa9Vwpz6XltTHq4n%2B9gN5ZZLftax4Zadaq%2Flw%2FZyN7ZZoMyVEKCXPwZMiNYO0FiJ1DYihg%2Bfph6tRRwkAwN78gOdijE%2FWgtwVo40FNfPnD35jFW73mUXJ2m8e6%2FZsXtX%2BLTLQpFDnBugEEhZpLmIupxdMu1qtbp1hIAukNfY%2BS%2B0lI8CXHRDPWmTIPG1ORUGJd1dYsvZ2%2FtKsTNEekJo%3D&city=17161&tick=638971697039&locale=vi-vn&currency=VND&pageTypeId=103&realLanguageId=24&languageId=24&origin=VN&stateCode=HN&cid=1922896&tag=7adbeb35-4108-414c-9559-32893b4cdfe5&userId=9ad60962-bba9-4bba-b472-3bd113b95394&whitelabelid=1&loginLvl=0&storefrontId=3&currencyId=78&currencyCode=VND&htmlLanguage=vi-vn&cultureInfoName=vi-vn&machineName=hk-pc-2f-acm-web-user-75869d7f67-rngfw&trafficGroupId=5&trafficSubGroupId=122&aid=82361&useFullPageLogin=true&cttp=4&isRealUser=true&mode=production&browserFamily=Chrome&cdnDomain=agoda.net&checkIn=2025-10-29&checkOut=2025-10-31&rooms=1&adults=2&children=0&priceCur=VND&los=2&textToSearch=H%E1%BA%A3i+Ph%C3%B2ng&productType=-1&travellerType=1&familyMode=off&ds=N%2FLNfGY6XS%2BIUP7P","Hải Phòng")
 
 
     # with open("data/raw/region.csv","r",encoding="utf-8") as f:
