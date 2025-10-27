@@ -152,19 +152,32 @@ def crawl_hotel_list(url,region=None):
 
 
 if __name__ == "__main__":
-    with open("data/raw/region.csv","r",encoding="utf-8") as f:
-        lines = f.readlines()
-        for line in lines[2:]:
-            line_element = line.strip().split(",")  
-            region_name = line_element[0]
-            if len(line_element) < 2:
-                continue
-            region_url_list = line_element[1].split(" ")
-            for region_url in region_url_list:
-                print(format_string(f"Crawling region: {region_name}", 50))
-                crawl_hotel_list(region_url,region_name)
-                break
-            break
+    # Ví dụ crawl một vùng cụ thể
+    with open("data/processed/processed_hotel_list/region_list_link.tsv","r",encoding="utf-8") as f:
+        header = f.readline()
+        line = f.readline()
+        line_element = line.strip().split("\t")
+        print(line_element)
+        region_name = line_element[0]
+        region_url_list = line_element[1]
+        print(format_string(f"Crawling region: {region_name}", 50))
+        crawl_hotel_list(region_url_list,region_name)
+
+
+
+    # with open("data/raw/region.csv","r",encoding="utf-8") as f:
+    #     lines = f.readlines()
+    #     for line in lines[2:]:
+    #         line_element = line.strip().split(",")  
+    #         region_name = line_element[0]
+    #         if len(line_element) < 2:
+    #             continue
+    #         region_url_list = line_element[1].split(" ")
+    #         for region_url in region_url_list:
+    #             print(format_string(f"Crawling region: {region_name}", 50))
+    #             crawl_hotel_list(region_url,region_name)
+    #             time.sleep(random.uniform(10, 20))  # Chờ ngẫu nhiên từ 10 đến 20 giây trước khi chuyển vùng tiếp theo
+            
     
 
 
