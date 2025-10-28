@@ -167,7 +167,7 @@ if __name__ == "__main__":
             print(format_string(f"Crawling region: {region_name}", 50))
             print("Region URL:", region_url)
             crawl_hotel_list(region_url,region_name)
-            time.sleep(random.uniform(40, 60))  # Chờ ngẫu nhiên từ 10 đến 20 giây trước khi chuyển vùng tiếp theo
+            time.sleep(random.uniform(40, 60))  # Chờ ngẫu nhiên từ 40 đến 60 giây trước khi chuyển vùng tiếp theo
             
     
 
