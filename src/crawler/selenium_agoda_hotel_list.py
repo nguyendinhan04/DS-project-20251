@@ -139,15 +139,16 @@ def crawl_hotel_list(url,region=None):
             #     print(f"Lỗi khi ghi file: {e}")
 
             time.sleep(random.uniform(5, 15))  # Chờ ngẫu nhiên từ 5 đến 15 giây trước khi chuyển trang tiếp theo
-            if current_page % 10 ==0:
-                print(format_string("Nghỉ dài hơn sau mỗi 10 trang", 50))
-                time.sleep(random.uniform(6, 12))  # Nghỉ dài hơn sau mỗi 10 trang
+            if current_page % 5 ==0:
+                print(format_string("Nghỉ dài hơn sau mỗi 5 trang", 50))
+                time.sleep(random.uniform(15,20))  # Nghỉ dài hơn sau mỗi 10 trang
                 
 
     except Exception as e:
         print(f"Đã xảy ra lỗi: {e}")
     finally:
         driver.quit()
+        input("Nhấn Enter để tiếp tục")
 
 
 
