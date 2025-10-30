@@ -168,18 +168,17 @@ if __name__ == "__main__":
             region_url = line_element[1]
 
             print(format_string(f"Crawling region: {region_name}", 50))
-            print("Region URL:", region_url)
 
 
             parsed_url = urlparse(region_url)
 
             query_params = parse_qs(parsed_url.query)
-            query_params["checkIn"] = datetime.strftime(datetime.now(),r"%Y-%m-%d")
-            query_params["checkOut"] = datetime.strftime(datetime.now() + timedelta(days=1),r"%Y-%m-%d")
+            query_params["checkIn"] = datetime.strftime(datetime.now()+ timedelta(days=2),r"%Y-%m-%d")
+            query_params["checkOut"] = datetime.strftime(datetime.now() + timedelta(days=3),r"%Y-%m-%d")
 
             modified_query = urlencode(query_params, doseq=True) # doseq=True handles list values
-
             modified_url = urlunparse(parsed_url._replace(query=modified_query))
+            print(modified_url)
 
             crawl_hotel_list(modified_url,region_name)
             time.sleep(random.uniform(40, 60))  # Chờ ngẫu nhiên từ 40 đến 60 giây trước khi chuyển vùng tiếp theo
