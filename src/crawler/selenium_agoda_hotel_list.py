@@ -85,8 +85,8 @@ def crawl_hotel_list(url,region=None):
                     except:
                         print("Lỗi khi lấy hotel_id")
                         error_hotel_list_element = safe_find_element(driver, 'div:nth-child(4) > ol')
-                        with open(f"error_log.txt","w",encoding="utf-8") as f:
-                            f.write(error_hotel_list_element.get_attribute("innerHTML"))
+                        with open(f"error_log.txt","a",encoding="utf-8") as f:
+                            f.write(f"Lỗi khi lấy hotel_id: {region} page {current_page}")
                         continue
                     if hotel_id not in current_hotel_id:
                         hotel_link = safe_find_element(hotel, 'div > a').get_attribute("href")
