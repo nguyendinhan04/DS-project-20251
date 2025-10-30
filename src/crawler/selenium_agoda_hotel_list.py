@@ -6,8 +6,10 @@ from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.chrome.service import Service
 import time
 import random
-from datetime import datetime
+from datetime import datetime,timedelta
 from selenium_utils import *
+from urllib.parse import urlparse, parse_qs, urlencode, urlunparse
+
 
 import os
 
@@ -167,7 +169,19 @@ if __name__ == "__main__":
 
             print(format_string(f"Crawling region: {region_name}", 50))
             print("Region URL:", region_url)
-            crawl_hotel_list(region_url,region_name)
+
+
+            parsed_url = urlparse(region_url)
+
+            query_params = parse_qs(parsed_url.query)
+            query_params["checkIn"] = datetime.strftime(datetime.now(),r"%Y-%m-%d")
+            query_params["checkOut"] = datetime.strftime(datetime.now() + timedelta(days=1),r"%Y-%m-%d")
+
+            modified_query = urlencode(query_params, doseq=True) # doseq=True handles list values
+
+            modified_url = urlunparse(parsed_url._replace(query=modified_query))
+
+            crawl_hotel_list(modified_url,region_name)
             time.sleep(random.uniform(40, 60))  # Chờ ngẫu nhiên từ 40 đến 60 giây trước khi chuyển vùng tiếp theo
             
     
