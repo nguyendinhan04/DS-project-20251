@@ -36,6 +36,7 @@ def process_region_list_link(input_file):
     region_list_df = region_list_df[region_list_df['parameter_list'].str.contains('guid') == False]
     region_list_df = region_list_df[region_list_df['parameter_list'].str.contains('gclid') == False]
     region_list_df = region_list_df[region_list_df['parameter_list'].str.contains('analyticsSessionId') == False]
+    region_list_df = region_list_df[region_list_df['parameter_list'].str.contains('userId') == False]
     
 
     grouped_region_list_df = region_list_df.groupby(region_list_df.index).agg({
