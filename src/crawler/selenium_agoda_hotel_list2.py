@@ -95,7 +95,6 @@ def crawl_hotel_list(url,region=None):
                     break
             
             print(f"Tổng số lượng khách sạn tìm thấy: {len(hotels_id_list)}")
-            input("Tam dung de check")
 
             # Ghi danh sách hotel_id ra file sau mỗi trang
             try:
@@ -130,7 +129,6 @@ def crawl_hotel_list(url,region=None):
         print(f"Đã xảy ra lỗi: {e}")
     finally:
         driver.quit()
-        input("Nhấn Enter để tiếp tục")
 
 
 
