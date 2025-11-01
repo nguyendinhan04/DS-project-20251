@@ -75,7 +75,7 @@ def crawl_hotel_list(url,region=None):
 
             #-------------------- Phần 2: Lấy danh sách khách sạn ở phần 2 --------------------#
             print(format_string("Start part 2", 50))
-            current_hotel_list = safe_find_elements_many(contentContainer, 'div:nth-child(4) > ol > li')
+            current_hotel_list = safe_find_elements_many(contentContainer, 'ol[class = "hotel-list-container"] > li')
             current_parse = 0
             current_hotel_id = set([])
 
@@ -107,7 +107,7 @@ def crawl_hotel_list(url,region=None):
                     break
             
             print(f"Tổng số lượng khách sạn tìm thấy: {len(hotels_id_list)}")
-
+            input("Tam dung de check")
 
             # Ghi danh sách hotel_id ra file sau mỗi trang
             try:
