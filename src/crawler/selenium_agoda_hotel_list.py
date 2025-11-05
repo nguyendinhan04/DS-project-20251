@@ -96,7 +96,7 @@ def crawl_hotel_list(url,region=None):
                         current_hotel_id.add(hotel_id)
                         current_parse += 1
 
-                driver.execute_script("window.scrollBy(0, 1200);")
+                driver.execute_script("window.scrollBy(0, 800);")
                 time.sleep(2)
                 current_hotel_list = safe_find_elements_many(contentContainer, 'div:nth-child(4) > ol > li')
 
