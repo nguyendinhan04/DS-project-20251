@@ -128,7 +128,8 @@ def crawl_hotel_list(url,region=None):
     except Exception as e:
         print(f"Đã xảy ra lỗi: {e}")
     finally:
-        driver.quit()
+    	input("tam dung")
+    	driver.quit()
 
 
 
