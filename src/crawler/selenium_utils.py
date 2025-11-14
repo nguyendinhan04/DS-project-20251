@@ -6,50 +6,58 @@ from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.chrome.service import Service
 import random
 
+
 def format_string(text, length):
     # Replace spaces with "-"
     text = text.replace(" ", "-")
     # Center the text with "-" padding
     return text.center(length, "-")
 
+
 def safe_find_element(parent, selector):
     from selenium.common.exceptions import NoSuchElementException
+
     try:
         return parent.find_element(By.CSS_SELECTOR, selector)
     except NoSuchElementException:
         return None
 
+
 def safe_find_elements_many(parent, selector):
     from selenium.common.exceptions import NoSuchElementException
+
     try:
         return parent.find_elements(By.CSS_SELECTOR, selector)
     except NoSuchElementException:
         return []
 
+
 def safe_find_text(element):
     if element:
         return element.get_attribute("innerText").strip()
     return None
-    
+
+
 # Function to check if the page has been scrolled to the end
 def is_end_of_page(driver):
     # Get the current scroll position
-    current_scroll_position = driver.execute_script("return window.scrollY + window.innerHeight;")
+    current_scroll_position = driver.execute_script(
+        "return window.scrollY + window.innerHeight;"
+    )
     # Get the total scrollable height of the page
     total_scroll_height = driver.execute_script("return document.body.scrollHeight;")
     # Check if the current scroll position is at the bottom
     return current_scroll_position >= total_scroll_height
 
+
 def get_driver():
     # List of user-agents
     user_agents = [
-    # 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0',
-    # "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0",
-    "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0",
-    # 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0'
-
+        # 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/124.0',
+        # "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0",
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0",
+        # 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0'
     ]
-
 
     chrome_options = Options()
     # chrome_options.add_argument("--headless=new")
@@ -72,7 +80,7 @@ def get_driver():
 
     # Tắt các dịch vụ Google không cần thiết
     chrome_options.add_experimental_option("excludeSwitches", ["enable-automation"])
-    chrome_options.add_experimental_option('useAutomationExtension', False)
+    chrome_options.add_experimental_option("useAutomationExtension", False)
 
     # Tắt logging để giảm noise
     chrome_options.add_argument("--log-level=3")
@@ -83,6 +91,7 @@ def get_driver():
     # Cách 1: Thử sử dụng webdriver-manager (cần cài đặt: pip install webdriver-manager)
     try:
         from webdriver_manager.chrome import ChromeDriverManager
+
         service = Service(ChromeDriverManager().install())
         driver = webdriver.Chrome(service=service, options=chrome_options)
         return driver
