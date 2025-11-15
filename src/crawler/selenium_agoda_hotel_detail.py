@@ -571,7 +571,7 @@ if __name__ == "__main__":
     file_path = r"data\processed\processed_hotel_detail_link\Sơn La\hotel_list_Sơn La_part_0.csv"  # Thay đổi đường dẫn tới file của bạn
 
     # crawl_hotel_detail(file_path)
-    max_files = 1
+    max_files = 5
     processed_files = 0
     folder_path = r"data/processed/processed_hotel_detail_link"
     for region in os.listdir(folder_path):
@@ -581,7 +581,7 @@ if __name__ == "__main__":
                 if file_name.endswith(".csv"):
                     file_path = os.path.join(region_folder_path, file_name)
                     print(f"Processing file: {file_path}")
-                    crawl_hotel_detail(file_path)
+                    #crawl_hotel_detail(file_path)
                     processed_files += 1
                     if processed_files >= max_files:
                         break
