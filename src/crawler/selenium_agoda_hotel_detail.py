@@ -133,6 +133,12 @@ def crawl_interface_1(driver, hotel_link, hotel_id):
                 driver, 'div[class*="MasterRoom"][data-selenium="MasterRoom"]'
             )
             if len(rooms_types_elements) == 0:
+                rooms_types_elements_test = safe_find_elements_many(
+                driver, 'div[data-testid="room-item"]'
+                )
+                if len(rooms_types_elements_test) > 0:
+                    print("Switching to interface 2...")
+                    return None
 
                 while True:
                             print("Scrolling to load more price options...")
