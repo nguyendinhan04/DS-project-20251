@@ -582,21 +582,21 @@ def crawl_hotel_detail(file_path):
 
 
 if __name__ == "__main__":
-    file_path = r"data\test.csv"  # Thay đổi đường dẫn tới file của bạn
+    # file_path = r"data\test.csv"  # Thay đổi đường dẫn tới file của bạn
 
-    crawl_hotel_detail(file_path)
+    # crawl_hotel_detail(file_path)
     # max_files = 5
 
     # processed_files = 0
-    # folder_path = r"data/processed/choose"
-    # for region in os.listdir(folder_path):
-    #     region_folder_path = os.path.join(folder_path, region)
-    #     if os.path.isdir(region_folder_path):
-    #         for file_name in os.listdir(region_folder_path):
-    #             if file_name.endswith(".csv"):
-    #                 file_path = os.path.join(region_folder_path, file_name)
-    #                 print(f"Processing file: {file_path}")
-    #                 crawl_hotel_detail(file_path)
+    folder_path = r"data/processed/choose"
+    for region in os.listdir(folder_path):
+        region_folder_path = os.path.join(folder_path, region)
+        if os.path.isdir(region_folder_path):
+            for file_name in os.listdir(region_folder_path):
+                if file_name.endswith(".csv"):
+                    file_path = os.path.join(region_folder_path, file_name)
+                    print(f"Processing file: {file_path}")
+                    crawl_hotel_detail(file_path)
 
         #             processed_files += 1
         #             if processed_files >= max_files:
