@@ -146,123 +146,121 @@ def crawl_interface_1(driver, hotel_link, hotel_id):
 
                 if len(rooms_types_elements) == 0:
                     return None
-                return None
-            else:
-                # print("Found room types elements: ", len(rooms_types_elements))
-                for room_type_element in rooms_types_elements:
-                    # get name of child room type
-                    room_type_name_element = safe_find_element(
-                        room_type_element,
-                        'span[data-selenium="masterroom-title-name"]',
+            # print("Found room types elements: ", len(rooms_types_elements))
+            for room_type_element in rooms_types_elements:
+                # get name of child room type
+                room_type_name_element = safe_find_element(
+                    room_type_element,
+                    'span[data-selenium="masterroom-title-name"]',
+                )
+                if room_type_name_element:
+                    room_type_name = room_type_name_element.get_attribute(
+                        "innerText"
+                    ).strip()
+
+                # get amenities
+                amenities = None
+                amenities = safe_find_elements_many(
+                    room_type_element,
+                    'ul[class = "MasterRoom-amenities"] > li[class="MasterRoom-amenitiesItem"]',
+                )
+                amenities_list = []
+                if amenities:
+                    for amenity_item in amenities:
+                        amenities_type = None
+                        amenities_type_element = safe_find_element(
+                            amenity_item,
+                            'div[data-testid = "amenity-item"] > i',
+                        )
+                        if amenities_type_element:
+                            amenities_type = (
+                                amenities_type_element.get_attribute("class")
+                                .replace("ficon ficon-", "")
+                                .replace(" MasterRoom-amenitiesIcon", "")
+                                .strip()
+                            )
+                        amenities_list.append(
+                            {
+                                "amenity": amenity_item.get_attribute(
+                                    "innerText"
+                                ).strip(),
+                                "type": amenities_type,
+                            }
+                        )
+
+                # get options price
+                price_option_list = []
+                price_option_list_elements = safe_find_elements_many(
+                    room_type_element,
+                    'div[class*="MasterRoom"] div[class*="ChildRoomsList-room"][data-element-name = "child-room-item"]',
+                )
+
+                if len(price_option_list_elements) == 0:
+                    while True:
+                        print("Scrolling to load more price options...")
+                        driver.execute_script("window.scrollBy(0, 1000);")
+                        time.sleep(1)
+                        price_option_list_elements = safe_find_elements_many(
+                            room_type_element,
+                            'div[class*="MasterRoom"] div[class*="ChildRoomsList-room"][data-element-name = "child-room-item"]',
+                        )
+                        if len(price_option_list_elements) > 0 or is_end_of_page(
+                            driver
+                        ):
+                            break
+
+                # print(
+                #     "Found price option elements: ",
+                #     len(price_option_list_elements),
+                # )
+                for price_option_element in price_option_list_elements:
+                    # get each option price
+                    price_option_price = None
+                    price_option_price_element = safe_find_element(
+                        price_option_element,
+                        'span[data-selenium="PriceDisplay"]',
                     )
-                    if room_type_name_element:
-                        room_type_name = room_type_name_element.get_attribute(
-                            "innerText"
+
+                    if price_option_price_element:
+                        # print("Found price option price element")
+                        price_option_price = (
+                            price_option_price_element.get_attribute(
+                                "innerText"
+                            ).strip()
+                        )
+
+                    # get each option
+                    price_option_name = None
+                    price_option_name_element = safe_find_element(
+                        price_option_element,
+                        'button[data-selenium="ChildRoomsList-capacity-container"]',
+                    )
+                    if price_option_name_element:
+                        # print("Found price option name element")
+                        price_option_name = price_option_name_element.get_attribute(
+                            "aria-label"
                         ).strip()
 
-                    # get amenities
-                    amenities = None
-                    amenities = safe_find_elements_many(
-                        room_type_element,
-                        'ul[class = "MasterRoom-amenities"] > li[class="MasterRoom-amenitiesItem"]',
-                    )
-                    if amenities:
-                        amenities_list = []
-                        for amenity_item in amenities:
-                            amenities_type = None
-                            amenities_type_element = safe_find_element(
-                                amenity_item,
-                                'div[data-testid = "amenity-item"] > i',
-                            )
-                            if amenities_type_element:
-                                amenities_type = (
-                                    amenities_type_element.get_attribute("class")
-                                    .replace("ficon ficon-", "")
-                                    .replace(" MasterRoom-amenitiesIcon", "")
-                                    .strip()
-                                )
-                            amenities_list.append(
-                                {
-                                    "amenity": amenity_item.get_attribute(
-                                        "innerText"
-                                    ).strip(),
-                                    "type": amenities_type,
-                                }
-                            )
-
-                    # get options price
-                    price_option_list = []
-                    price_option_list_elements = safe_find_elements_many(
-                        room_type_element,
-                        'div[class*="MasterRoom"] div[class*="ChildRoomsList-room"][data-element-name = "child-room-item"]',
-                    )
-
-                    if len(price_option_list_elements) == 0:
-                        while True:
-                            print("Scrolling to load more price options...")
-                            driver.execute_script("window.scrollBy(0, 1000);")
-                            time.sleep(1)
-                            price_option_list_elements = safe_find_elements_many(
-                                room_type_element,
-                                'div[class*="MasterRoom"] div[class*="ChildRoomsList-room"][data-element-name = "child-room-item"]',
-                            )
-                            if len(price_option_list_elements) > 0 or is_end_of_page(
-                                driver
-                            ):
-                                break
-
-                    # print(
-                    #     "Found price option elements: ",
-                    #     len(price_option_list_elements),
-                    # )
-                    for price_option_element in price_option_list_elements:
-                        # get each option price
-                        price_option_price = None
-                        price_option_price_element = safe_find_element(
-                            price_option_element,
-                            'span[data-selenium="PriceDisplay"]',
+                    ame_for_price_elements = safe_find_elements_many(price_option_element, 'div[class="a3315-box a3315-fill-inherit a3315-text-inherit a3315-mt-16      "]>div')
+                    ame_for_price = []
+                    if len(ame_for_price_elements) > 0:
+                        for ame_for_price_element in ame_for_price_elements:
+                            ame_for_price.append(ame_for_price_element.get_attribute("innerText").strip())
+                    if price_option_price and price_option_name:
+                        price_option_list.append(
+                            {
+                                "option_name": price_option_name,
+                                "option_price": price_option_price,
+                                "amenities_for_price": ame_for_price,
+                            }
                         )
-
-                        if price_option_price_element:
-                            # print("Found price option price element")
-                            price_option_price = (
-                                price_option_price_element.get_attribute(
-                                    "innerText"
-                                ).strip()
-                            )
-
-                        # get each option
-                        price_option_name = None
-                        price_option_name_element = safe_find_element(
-                            price_option_element,
-                            'button[data-selenium="ChildRoomsList-capacity-container"]',
-                        )
-                        if price_option_name_element:
-                            # print("Found price option name element")
-                            price_option_name = price_option_name_element.get_attribute(
-                                "aria-label"
-                            ).strip()
-
-                        ame_for_price_elements = safe_find_elements_many(price_option_element, 'div[class="a3315-box a3315-fill-inherit a3315-text-inherit a3315-mt-16      "]>div')
-                        ame_for_price = []
-                        if len(ame_for_price_elements) > 0:
-                            for ame_for_price_element in ame_for_price_elements:
-                                ame_for_price.append(ame_for_price_element.get_attribute("innerText").strip())
-                        if price_option_price and price_option_name:
-                            price_option_list.append(
-                                {
-                                    "option_name": price_option_name,
-                                    "option_price": price_option_price,
-                                    "amenities_for_price": ame_for_price,
-                                }
-                            )
-                    room_types.append(
-                        {
-                            "room_type_name": room_type_name,
-                            "amenities": amenities_list,
-                            "price_options": price_option_list,
-                        }
-                    )
+                room_types.append(
+                    {
+                        "room_type_name": room_type_name,
+                        "amenities": amenities_list,
+                        "price_options": price_option_list,
+                    }
+                )
             hotel_detail["room_types"] = room_types
 
             # print(f"Hotel Name: {hotel_name}")
@@ -335,108 +333,107 @@ def crawl_interface_2(driver, hotel_link, hotel_id):
 
                 if len(rooms_types_elements) == 0:
                     return None
-            else:
-                # print("Found room types elements: ", len(rooms_types_elements))
-                for room_type_element in rooms_types_elements:
-                    # get name of child room type
-                    room_type_name_element = safe_find_element(
-                        room_type_element,
-                        'span[class="sc-dlfnbm Typographystyled__TypographyStyled-sc-1uoovui-0 czBDpX hsiwJn"]',
+            # print("Found room types elements: ", len(rooms_types_elements))
+            for room_type_element in rooms_types_elements:
+                # get name of child room type
+                room_type_name_element = safe_find_element(
+                    room_type_element,
+                    'span[class="sc-dlfnbm Typographystyled__TypographyStyled-sc-1uoovui-0 czBDpX hsiwJn"]',
+                )
+                if room_type_name_element:
+                    room_type_name = room_type_name_element.get_attribute(
+                        "innerText"
+                    ).strip()
+
+                # get amenities
+                amenities = None
+                amenities = safe_find_elements_many(
+                    room_type_element,
+                    'span[class="sc-dlfnbm Typographystyled__TypographyStyled-sc-1uoovui-0 eBEczI kLOGfH"]',
+                )
+                if amenities:
+                    amenities_list = []
+                    for amenity_item in amenities:
+                        amenities_list.append(
+                            amenity_item.get_attribute("innerText").strip()
+                        )
+                    amenities = amenities_list
+
+                addtition_amenities = None
+                addtition_amenities_element = safe_find_elements_many(room_type_element, 'span[class = "sc-dlfnbm Typographystyled__TypographyStyled-sc-1uoovui-0 hIcJVw kptZcO"]')
+                if addtition_amenities_element:
+                    addtition_amenities_list = []
+                    for addtition_amenity_item in addtition_amenities_element:
+                        addtition_amenities_list.append(
+                            addtition_amenity_item.get_attribute("innerText").strip()
+                        )
+                    amenities += addtition_amenities_list
+
+                # get options
+                option_list = []
+                option_elements = safe_find_elements_many(
+                    room_type_element, 'div[data-element-name="mob-room-offer"]'
+                )
+
+                if len(option_elements) == 0:
+                    while True:
+                        print("Scrolling to load more price options...")
+                        driver.execute_script("window.scrollBy(0, 1000);")
+                        time.sleep(1)
+                        option_elements = safe_find_elements_many(
+                            room_type_element, 'div[data-element-name="mob-room-offer"]'
+                        )
+                        if len(option_elements) > 0 or is_end_of_page(driver):
+                            break
+                
+                
+
+                # print("Found option elements: ", len(option_elements))
+                for option_element in option_elements:
+                    # get each option price
+                    option_price = None
+                    option_price_element = safe_find_element(
+                        option_element,
+                        'span[class="sc-dlfnbm Typographystyled__TypographyStyled-sc-1uoovui-0 eBEczI iwOmxK"]',
                     )
-                    if room_type_name_element:
-                        room_type_name = room_type_name_element.get_attribute(
+
+                    if option_price_element:
+                        # print("Found price option price element")
+                        option_price = option_price_element.get_attribute(
                             "innerText"
                         ).strip()
 
-                    # get amenities
-                    amenities = None
-                    amenities = safe_find_elements_many(
-                        room_type_element,
-                        'span[class="sc-dlfnbm Typographystyled__TypographyStyled-sc-1uoovui-0 eBEczI kLOGfH"]',
-                    )
-                    if amenities:
-                        amenities_list = []
-                        for amenity_item in amenities:
-                            amenities_list.append(
-                                amenity_item.get_attribute("innerText").strip()
-                            )
-                        amenities = amenities_list
-
-                    addtition_amenities = None
-                    addtition_amenities_element = safe_find_elements_many(room_type_element, 'span[class = "sc-dlfnbm Typographystyled__TypographyStyled-sc-1uoovui-0 hIcJVw kptZcO"]')
-                    if addtition_amenities_element:
-                        addtition_amenities_list = []
-                        for addtition_amenity_item in addtition_amenities_element:
-                            addtition_amenities_list.append(
-                                addtition_amenity_item.get_attribute("innerText").strip()
-                            )
-                        amenities += addtition_amenities_list
-
-                    # get options
-                    option_list = []
-                    option_elements = safe_find_elements_many(
-                        room_type_element, 'div[data-element-name="mob-room-offer"]'
+                    # get each option name
+                    option_name = None
+                    option_name_element = safe_find_element(
+                        option_element,
+                        'span[class="sc-dlfnbm Typographystyled__TypographyStyled-sc-1uoovui-0 eBEczI gyiEcV"]',
                     )
 
-                    if len(option_elements) == 0:
-                        while True:
-                            print("Scrolling to load more price options...")
-                            driver.execute_script("window.scrollBy(0, 1000);")
-                            time.sleep(1)
-                            option_elements = safe_find_elements_many(
-                                room_type_element, 'div[data-element-name="mob-room-offer"]'
-                            )
-                            if len(option_elements) > 0 or is_end_of_page(driver):
-                                break
-                    
-                    
+                    if option_name_element:
+                        # print("Found option name element")
+                        option_name = option_name_element.get_attribute(
+                            "innerText"
+                        ).strip()
 
-                    # print("Found option elements: ", len(option_elements))
-                    for option_element in option_elements:
-                        # get each option price
-                        option_price = None
-                        option_price_element = safe_find_element(
-                            option_element,
-                            'span[class="sc-dlfnbm Typographystyled__TypographyStyled-sc-1uoovui-0 eBEczI iwOmxK"]',
+                    ame_for_price = []
+                    ame_for_price_elements = safe_find_elements_many(option_element, 'button[class="a3315-box a3315-bg-generic-base-transparent a3315-fill-inherit a3315-text-inherit a3315-w-full a3315-cursor-pointer a3315-flex a3315-px-0 a3315-py-2   a3315-border-0   "]')
+                    if len(ame_for_price_elements) > 0:
+                        for ame_for_price_element in ame_for_price_elements:
+                            ame_for_price.append(ame_for_price_element.get_attribute("innerText").strip())
+
+                    if option_price and option_name:
+                        option_list.append(
+                            {"option_name": option_name, "option_price": option_price, "amenities_for_price": ame_for_price}
                         )
 
-                        if option_price_element:
-                            # print("Found price option price element")
-                            option_price = option_price_element.get_attribute(
-                                "innerText"
-                            ).strip()
-
-                        # get each option name
-                        option_name = None
-                        option_name_element = safe_find_element(
-                            option_element,
-                            'span[class="sc-dlfnbm Typographystyled__TypographyStyled-sc-1uoovui-0 eBEczI gyiEcV"]',
-                        )
-
-                        if option_name_element:
-                            # print("Found option name element")
-                            option_name = option_name_element.get_attribute(
-                                "innerText"
-                            ).strip()
-
-                        ame_for_price = []
-                        ame_for_price_elements = safe_find_elements_many(option_element, 'button[class="a3315-box a3315-bg-generic-base-transparent a3315-fill-inherit a3315-text-inherit a3315-w-full a3315-cursor-pointer a3315-flex a3315-px-0 a3315-py-2   a3315-border-0   "]')
-                        if len(ame_for_price_elements) > 0:
-                            for ame_for_price_element in ame_for_price_elements:
-                                ame_for_price.append(ame_for_price_element.get_attribute("innerText").strip())
-
-                        if option_price and option_name:
-                            option_list.append(
-                                {"option_name": option_name, "option_price": option_price, "amenities_for_price": ame_for_price}
-                            )
-
-                    room_types.append(
-                        {
-                            "room_type_name": room_type_name,
-                            "amenities": amenities,
-                            "price_options": option_list,
-                        }
-                    )
+                room_types.append(
+                    {
+                        "room_type_name": room_type_name,
+                        "amenities": amenities,
+                        "price_options": option_list,
+                    }
+                )
             hotel_detail["room_types"] = room_types
 
             # print(f"Hotel Name: {hotel_name}")
@@ -571,23 +568,23 @@ def crawl_hotel_detail(file_path):
 
 
 if __name__ == "__main__":
-    # file_path = r"data\processed\processed_hotel_detail_link\Bà Rịa\hotel_list_Bà Rịa_part_0.csv"  # Thay đổi đường dẫn tới file của bạn
+    file_path = r"data\processed\processed_hotel_detail_link\Sơn La\hotel_list_Sơn La_part_0.csv"  # Thay đổi đường dẫn tới file của bạn
 
-    # crawl_hotel_detail(file_path)
-    max_files = 10
-    processed_files = 0
-    folder_path = r"data\processed\processed_hotel_detail_link"
-    for region in os.listdir(folder_path):
-        region_folder_path = os.path.join(folder_path, region)
-        if os.path.isdir(region_folder_path):
-            for file_name in os.listdir(region_folder_path):
-                if file_name.endswith(".csv"):
-                    file_path = os.path.join(region_folder_path, file_name)
-                    print(f"Processing file: {file_path}")
-                    crawl_hotel_detail(file_path)
-                    processed_files += 1
-                    if processed_files >= max_files:
-                        break
-        if processed_files >= max_files:
-            break
+    crawl_hotel_detail(file_path)
+    # max_files = 2
+    # processed_files = 0
+    # folder_path = r"data\processed\processed_hotel_detail_link"
+    # for region in os.listdir(folder_path):
+    #     region_folder_path = os.path.join(folder_path, region)
+    #     if os.path.isdir(region_folder_path):
+    #         for file_name in os.listdir(region_folder_path):
+    #             if file_name.endswith(".csv"):
+    #                 file_path = os.path.join(region_folder_path, file_name)
+    #                 print(f"Processing file: {file_path}")
+    #                 crawl_hotel_detail(file_path)
+    #                 processed_files += 1
+    #                 if processed_files >= max_files:
+    #                     break
+    #     if processed_files >= max_files:
+    #         break
 # https://www.agoda.com/vi-vn/sky-hotel-h79351871/hotel/all/ninh-binh-vn.html?countryId=38&finalPriceView=1&isShowMobileAppPrice=false&cid=1844104&numberOfBedrooms=&familyMode=false&adults=2&children=0&rooms=1&maxRooms=0&checkIn=2025-10-26&isCalendarCallout=false&childAges=&numberOfGuest=0&missingChildAges=false&travellerType=1&showReviewSubmissionEntry=false&currencyCode=VND&isFreeOccSearch=false&los=3&searchrequestid=0f33f416-3067-47d0-8fa6-12fe79e987f1
