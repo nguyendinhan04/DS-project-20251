@@ -467,7 +467,7 @@ def crawl_one_link_with_retry(driver, hotel_link, hotel_id, max_retries=3):
     # ---------------- Parse link ----------------#
     parsed_url = urlparse(hotel_link)
     query_params = parse_qs(parsed_url.query)
-
+    print(format_string(f"{hotel_link}",50))
     # retries loop
     for attempt in range(max_retries):
         # initiate driver
@@ -574,9 +574,9 @@ if __name__ == "__main__":
     # file_path = r"data\processed\processed_hotel_detail_link\Bà Rịa\hotel_list_Bà Rịa_part_0.csv"  # Thay đổi đường dẫn tới file của bạn
 
     # crawl_hotel_detail(file_path)
-    max_files = 10
+    max_files = 1
     processed_files = 0
-    folder_path = r"data\processed\processed_hotel_detail_link"
+    folder_path = r"data/processed/processed_hotel_detail_link"
     for region in os.listdir(folder_path):
         region_folder_path = os.path.join(folder_path, region)
         if os.path.isdir(region_folder_path):
