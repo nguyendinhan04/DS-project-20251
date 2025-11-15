@@ -147,9 +147,17 @@ def crawl_interface_1(driver, hotel_link, hotel_id):
                             rooms_types_elements = safe_find_elements_many(
                                 driver, 'div[class="MasterRoom"]'
                             )
-                            if len(rooms_types_elements) > 0 or is_end_of_page(driver):
-                                break
 
+                            rooms_types_elements_test = safe_find_elements_many(
+                            driver, 'div[data-testid="room-item"]'
+                            )
+                            print(f"Found {len(rooms_types_elements_test)} room items with interface 2 selector.")
+
+                            if len(rooms_types_elements) > 0 or is_end_of_page(driver) or len(rooms_types_elements_test) > 0:
+                                break
+                if len(rooms_types_elements_test) > 0:
+                    print("Switching to interface 2...")
+                    return None
                 if len(rooms_types_elements) == 0:
                     return None
             # print("Found room types elements: ", len(rooms_types_elements))
@@ -432,14 +440,14 @@ def crawl_interface_2(driver, hotel_link, hotel_id):
                         option_list.append(
                             {"option_name": option_name, "option_price": option_price, "amenities_for_price": ame_for_price}
                         )
-
-                room_types.append(
-                    {
-                        "room_type_name": room_type_name,
-                        "amenities": amenities,
-                        "price_options": option_list,
-                    }
-                )
+                if option_list and len(option_list) > 0:
+                    room_types.append(
+                        {
+                            "room_type_name": room_type_name,
+                            "amenities": amenities,
+                            "price_options": option_list,
+                        }
+                    )
             hotel_detail["room_types"] = room_types
 
             # print(f"Hotel Name: {hotel_name}")
@@ -574,20 +582,22 @@ def crawl_hotel_detail(file_path):
 
 
 if __name__ == "__main__":
-    file_path = r"data\processed\processed_hotel_detail_link\Sơn La\hotel_list_Sơn La_part_0.csv"  # Thay đổi đường dẫn tới file của bạn
+    file_path = r"data\test.csv"  # Thay đổi đường dẫn tới file của bạn
 
-    # crawl_hotel_detail(file_path)
+    crawl_hotel_detail(file_path)
     # max_files = 5
-    processed_files = 0
-    folder_path = r"data/processed/choose"
-    for region in os.listdir(folder_path):
-        region_folder_path = os.path.join(folder_path, region)
-        if os.path.isdir(region_folder_path):
-            for file_name in os.listdir(region_folder_path):
-                if file_name.endswith(".csv"):
-                    file_path = os.path.join(region_folder_path, file_name)
-                    print(f"Processing file: {file_path}")
-                    crawl_hotel_detail(file_path)
+
+    # processed_files = 0
+    # folder_path = r"data/processed/choose"
+    # for region in os.listdir(folder_path):
+    #     region_folder_path = os.path.join(folder_path, region)
+    #     if os.path.isdir(region_folder_path):
+    #         for file_name in os.listdir(region_folder_path):
+    #             if file_name.endswith(".csv"):
+    #                 file_path = os.path.join(region_folder_path, file_name)
+    #                 print(f"Processing file: {file_path}")
+    #                 crawl_hotel_detail(file_path)
+
         #             processed_files += 1
         #             if processed_files >= max_files:
         #                 break
