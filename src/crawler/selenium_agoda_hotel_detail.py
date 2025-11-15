@@ -464,7 +464,7 @@ def crawl_one_link_with_retry(driver, hotel_link, hotel_id, max_retries=3):
     # ---------------- Parse link ----------------#
     parsed_url = urlparse(hotel_link)
     query_params = parse_qs(parsed_url.query)
-
+    print(format_string(f"{hotel_link}",50))
     # retries loop
     for attempt in range(max_retries):
         # initiate driver
@@ -570,21 +570,21 @@ def crawl_hotel_detail(file_path):
 if __name__ == "__main__":
     file_path = r"data\processed\processed_hotel_detail_link\Sơn La\hotel_list_Sơn La_part_0.csv"  # Thay đổi đường dẫn tới file của bạn
 
-    crawl_hotel_detail(file_path)
-    # max_files = 2
-    # processed_files = 0
-    # folder_path = r"data\processed\processed_hotel_detail_link"
-    # for region in os.listdir(folder_path):
-    #     region_folder_path = os.path.join(folder_path, region)
-    #     if os.path.isdir(region_folder_path):
-    #         for file_name in os.listdir(region_folder_path):
-    #             if file_name.endswith(".csv"):
-    #                 file_path = os.path.join(region_folder_path, file_name)
-    #                 print(f"Processing file: {file_path}")
-    #                 crawl_hotel_detail(file_path)
-    #                 processed_files += 1
-    #                 if processed_files >= max_files:
-    #                     break
-    #     if processed_files >= max_files:
-    #         break
+    # crawl_hotel_detail(file_path)
+    max_files = 1
+    processed_files = 0
+    folder_path = r"data/processed/processed_hotel_detail_link"
+    for region in os.listdir(folder_path):
+        region_folder_path = os.path.join(folder_path, region)
+        if os.path.isdir(region_folder_path):
+            for file_name in os.listdir(region_folder_path):
+                if file_name.endswith(".csv"):
+                    file_path = os.path.join(region_folder_path, file_name)
+                    print(f"Processing file: {file_path}")
+                    crawl_hotel_detail(file_path)
+                    processed_files += 1
+                    if processed_files >= max_files:
+                        break
+        if processed_files >= max_files:
+            break
 # https://www.agoda.com/vi-vn/sky-hotel-h79351871/hotel/all/ninh-binh-vn.html?countryId=38&finalPriceView=1&isShowMobileAppPrice=false&cid=1844104&numberOfBedrooms=&familyMode=false&adults=2&children=0&rooms=1&maxRooms=0&checkIn=2025-10-26&isCalendarCallout=false&childAges=&numberOfGuest=0&missingChildAges=false&travellerType=1&showReviewSubmissionEntry=false&currencyCode=VND&isFreeOccSearch=false&los=3&searchrequestid=0f33f416-3067-47d0-8fa6-12fe79e987f1
