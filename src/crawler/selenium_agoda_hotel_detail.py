@@ -581,7 +581,7 @@ if __name__ == "__main__":
                 if file_name.endswith(".csv"):
                     file_path = os.path.join(region_folder_path, file_name)
                     print(f"Processing file: {file_path}")
-                    #crawl_hotel_detail(file_path)
+                    crawl_hotel_detail(file_path)
         #             processed_files += 1
         #             if processed_files >= max_files:
         #                 break
