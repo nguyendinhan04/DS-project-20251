@@ -139,11 +139,20 @@ def crawl_interface_1(driver, hotel_link, hotel_id):
                 if len(rooms_types_elements_test) > 0:
                     print("Switching to interface 2...")
                     return None
-
+                before_scroll_position = 0
+                new_height = 0
                 while True:
                             print("Scrolling to load more price options...")
                             driver.execute_script("window.scrollBy(0, 1000);")
                             time.sleep(1)
+                            # return current position after scroll
+                            new_height = driver.execute_script("return window.pageYOffset;")
+                            # if scroll position not change after scroll -> reach end of page
+                            if before_scroll_position == new_height:
+                                print("Reached end of page while scrolling.")
+                                break
+                            before_scroll_position = new_height
+                            
                             rooms_types_elements = safe_find_elements_many(
                                 driver, 'div[class="MasterRoom"]'
                             )
