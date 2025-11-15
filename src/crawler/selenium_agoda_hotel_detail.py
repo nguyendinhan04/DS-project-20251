@@ -155,6 +155,8 @@ def crawl_interface_1(driver, hotel_link, hotel_id):
 
                             if len(rooms_types_elements) > 0 or is_end_of_page(driver) or len(rooms_types_elements_test) > 0:
                                 break
+                            if is_end_of_page(driver):
+                                break
                 if len(rooms_types_elements_test) > 0:
                     print("Switching to interface 2...")
                     return None
@@ -222,6 +224,8 @@ def crawl_interface_1(driver, hotel_link, hotel_id):
                             driver
                         ):
                             break
+                        if is_end_of_page(driver):
+                                break
 
                 # print(
                 #     "Found price option elements: ",
