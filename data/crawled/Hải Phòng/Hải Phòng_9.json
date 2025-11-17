@@ -1,0 +1,1778 @@
+[
+    {
+        "hotel_id": "42092719",
+        "hotel_name": "Meliá Vinpearl Hai Phong Rivera",
+        "hotel_address": "Manhattan 9 Street, Vinhomes Imperia Hai Phong, Thuong Ly, Hai Phong, 180000, Vietnam, Ven sông - Sông Cấm/Cảng cũ, Hải Phòng, Việt Nam, 180000",
+        "room_types": [
+            {
+                "room_type_name": "Phòng Loại Sang (Deluxe Room)",
+                "amenities": [
+                    "Tối đa 2 người lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "1.692.291",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt và trả tiền ngay"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "79077431",
+        "hotel_name": "Tom Homestay Hải Phòng (Tom Homestay Hai Phong)",
+        "hotel_address": "Cầu Rào, Hải Phòng, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Căn Hộ 1 Phòng Ngủ (One-Bedroom Apartment)",
+                "amenities": [
+                    "Hướng Ngoài trời",
+                    "2 phòng tắm",
+                    "Điều hòa",
+                    "Bể bơi riêng",
+                    "Ban công/sân hiên",
+                    "Tối đa 5 người lớn",
+                    "1 giường sofa / 2 giường đôi"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "5 người lớn",
+                        "option_price": "925.000",
+                        "amenities_for_price": [
+                            "5 người lớn",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt không cần thẻ tín dụng",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "39422613",
+        "hotel_name": "Căn hộ 25 m² 1 phòng ngủ, 1 phòng tắm riêng ở Cầu Rào (HappyHome)",
+        "hotel_address": "Cầu Rào, Hải Phòng, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Căn hộ (Apartment)",
+                "amenities": [
+                    "Studio/1 phòng ngủ",
+                    "1 phòng tắm",
+                    "Wi-Fi [miễn phí]",
+                    "Điều hòa",
+                    "Tủ quần áo",
+                    "25 m²",
+                    "Tối đa 3 người lớn",
+                    "1 giường đôi"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "3 người lớn & 1 trẻ em (0-7 tuổi)",
+                        "option_price": "260.159",
+                        "amenities_for_price": [
+                            "3 người lớn & 1 trẻ em (0-7 tuổi)",
+                            "Chính sách hủy",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 33.786 ₫!"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "62152352",
+        "hotel_name": "SH17 Villa Hải Phòng (SH17 Villa Hai Phong)",
+        "hotel_address": "SH17 Vinhome Marina, Đại Lộ Thăng Long, Vĩnh Niệm, Lê Chân, Cầu Rào, Hải Phòng, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Phòng Đôi (Double Room)",
+                "amenities": [
+                    "Hướng Ngoài trời",
+                    "Ấm nước điện",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Phòng tắm đứng",
+                    "Đồ dùng cho giấc ngủ thoải mái",
+                    "Nước đóng chai miễn phí",
+                    "Ban công/sân hiên",
+                    "Tủ quần áo",
+                    "Điều hòa cá nhân",
+                    "30 m²",
+                    "Tối đa 2 người lớn, 1 bé (0-5 tuổi) ở MIỄN PHÍ!",
+                    "1 giường đôi lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn & 1 trẻ em (0-5 tuổi)",
+                        "option_price": "786.407",
+                        "amenities_for_price": [
+                            "2 người lớn & 1 trẻ em (0-5 tuổi)",
+                            "Chính sách hủy",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Phòng Đôi Loại Sang (Deluxe Double Room)",
+                "amenities": [
+                    "Hướng Ngoài trời",
+                    "Ấm nước điện",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Phòng tắm đứng",
+                    "Đồ dùng cho giấc ngủ thoải mái",
+                    "Nước đóng chai miễn phí",
+                    "Ban công/sân hiên",
+                    "Tủ quần áo",
+                    "Điều hòa cá nhân",
+                    "40 m²",
+                    "Tối đa 2 người lớn, 1 bé (0-5 tuổi) ở MIỄN PHÍ!",
+                    "1 giường đôi lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn & 1 trẻ em (0-5 tuổi)",
+                        "option_price": "1.310.574",
+                        "amenities_for_price": [
+                            "2 người lớn & 1 trẻ em (0-5 tuổi)",
+                            "Chính sách hủy",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "79345207",
+        "hotel_name": "Avani Hai Phong Harbour View",
+        "hotel_address": "12 Tran Phu Street, Haiphong, 180000, Vietnam, Ven sông - Sông Cấm/Cảng cũ, Hải Phòng, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Phòng Hai Giường Đơn Loại Sang (Deluxe Twin Room)",
+                "amenities": [
+                    "Vòi sen",
+                    "Tối đa 2 người lớn",
+                    "2 giường đơn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "1.240.499",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt và trả tiền ngay"
+                        ]
+                    },
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "1.712.419",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Có ăn sáng",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt và trả tiền ngay"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Phòng Loại Sang -- 1 Giường (Deluxe Room -- 1 Bed)",
+                "amenities": [
+                    "Vòi sen",
+                    "Tối đa 2 người lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "1.254.343",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt và trả tiền ngay"
+                        ]
+                    },
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "1.712.419",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Có ăn sáng",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt và trả tiền ngay"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Phòng Được sắp xếp tùy ý khi đến (Room Assigned on Arrival)",
+                "amenities": [
+                    "Vòi sen",
+                    "Tối đa 2 người lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "1.255.426",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt và trả tiền ngay"
+                        ]
+                    },
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "1.540.771",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Có ăn sáng",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt và trả tiền ngay"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "45568649",
+        "hotel_name": "Khách Sạn Nam Sơn (Khach San Nam Son)",
+        "hotel_address": "8a Lê Hồng Phong Số 18 Lô 8A2 , Lê Hồng Phong , Đông Khê , Ngô Quyền , Hải Phòng, Trung tâm thành phố/chợ Sắt, Hải Phòng, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Phòng Đôi Loại Sang (Deluxe Double Room)",
+                "amenities": [
+                    "Ấm nước điện",
+                    "Máy sấy tóc",
+                    "Vòi sen",
+                    "Giường cực dài",
+                    "Tủ quần áo",
+                    "Điều hòa cá nhân",
+                    "17 m²",
+                    "Tối đa 2 người lớn",
+                    "1 giường đôi lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "400.950",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe"
+                        ]
+                    },
+                    {
+                        "option_name": "1 người lớn Vượt quá sức chứa phòng",
+                        "option_price": "380.903",
+                        "amenities_for_price": [
+                            "1 người lớn Vượt quá sức chứa phòng",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Phòng Đôi Loại Sang (Deluxe Double Room)",
+                "amenities": [
+                    "Ấm nước điện",
+                    "Máy sấy tóc",
+                    "Vòi sen",
+                    "Giường cực dài",
+                    "Tủ quần áo",
+                    "Điều hòa cá nhân",
+                    "23 m²",
+                    "Tối đa 3 người lớn",
+                    "1 giường đôi lớn hoặc 1 giường đơn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "507.870",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe"
+                        ]
+                    },
+                    {
+                        "option_name": "3 người lớn",
+                        "option_price": "534.600",
+                        "amenities_for_price": [
+                            "3 người lớn",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe"
+                        ]
+                    },
+                    {
+                        "option_name": "1 người lớn Vượt quá sức chứa phòng",
+                        "option_price": "481.140",
+                        "amenities_for_price": [
+                            "1 người lớn Vượt quá sức chứa phòng",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "34092604",
+        "hotel_name": "Khách Sạn Nam Sơn (Khach San Nam Son)",
+        "hotel_address": "Số 18 , lô 8A , lê hồng phong , ngô quyền , hải phòng. 555 nguyễn bỉnh khiêm , đông hải 1 , hải an , hải phòng, Trung tâm thành phố/chợ Sắt, Hải Phòng, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Phòng Đôi Loại Sang (Deluxe Double Room)",
+                "amenities": [
+                    "Ấm nước điện",
+                    "Bồn tắm tạo sóng",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Phòng tắm đứng",
+                    "Đồ dùng cho giấc ngủ thoải mái",
+                    "Tủ lạnh",
+                    "Tủ quần áo",
+                    "Điều hòa cá nhân",
+                    "17 m²",
+                    "Tối đa 2 người lớn",
+                    "1 giường đôi lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "366.883",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Chính sách hủy",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe"
+                        ]
+                    },
+                    {
+                        "option_name": "1 người lớn Vượt quá sức chứa phòng",
+                        "option_price": "579.045",
+                        "amenities_for_price": [
+                            "1 người lớn Vượt quá sức chứa phòng",
+                            "Chính sách hủy",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Phòng Đôi (Double Room)",
+                "amenities": [
+                    "Ấm nước điện",
+                    "Bồn tắm tạo sóng",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Phòng tắm đứng",
+                    "Đồ dùng cho giấc ngủ thoải mái",
+                    "Tủ lạnh",
+                    "Tủ quần áo",
+                    "Điều hòa cá nhân",
+                    "23 m²",
+                    "Tối đa 3 người lớn",
+                    "1 giường đơn và 1 giường đôi"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "3 người lớn",
+                        "option_price": "497.912",
+                        "amenities_for_price": [
+                            "3 người lớn",
+                            "Chính sách hủy",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "16259377",
+        "hotel_name": "Lotus House",
+        "hotel_address": "Ngoc Lien Dai ha Kien Thuy, Kiến Thụy, Hải Phòng, Việt Nam, 186700",
+        "room_types": [
+            {
+                "room_type_name": "Phòng Loại Sang (Deluxe Room)",
+                "amenities": [
+                    "Hướng Hồ",
+                    "Điều hòa",
+                    "Không hút thuốc",
+                    "20 m²",
+                    "Tối đa 2 người lớn",
+                    "1 giường lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "564.650",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Có ăn sáng",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt và trả tiền ngay",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 39.920 ₫!"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "52210543",
+        "hotel_name": "Căn hộ 45 m² 2 phòng ngủ, 1 phòng tắm riêng ở Cầu Rào (Hai phong Friendly Apartment)",
+        "hotel_address": "Ngã năm – Sân bay Cát Bi, Hải Phòng, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Căn hộ (Apartment)",
+                "amenities": [
+                    "7 phòng ngủ",
+                    "7 phòng tắm",
+                    "Wi-Fi [miễn phí]",
+                    "Điều hòa",
+                    "45 m²",
+                    "Tối đa 2 người lớn",
+                    "1 giường đôi lớn / 1 giường đơn / 1 giường đơn / 1 giường đơn / 1 giường đơn / 1 giường đơn / 1 giường đơn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn & 1 trẻ em (0-7 tuổi)",
+                        "option_price": "608.843",
+                        "amenities_for_price": [
+                            "2 người lớn & 1 trẻ em (0-7 tuổi)",
+                            "Chính sách hủy",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 52.533 ₫!"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "78762316",
+        "hotel_name": "Căn hộ nhà Mopius 2 phòng ngủ, 2 phòng tắm ở toà Lotus, Hoàng Huy Võ Nguyên Giáp (Apartment 2 Bedroom 2wc Lotus)",
+        "hotel_address": "Cầu Rào, Hải Phòng, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Nhà riêng (home)",
+                "amenities": [
+                    "2 phòng ngủ",
+                    "2 phòng tắm",
+                    "Wi-Fi [miễn phí]",
+                    "Điều hòa",
+                    "70 m²",
+                    "Tối đa 4 người lớn",
+                    "1 giường siêu lớn / 1 giường lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "4 người lớn & 1 trẻ em (0-7 tuổi)",
+                        "option_price": "926.588",
+                        "amenities_for_price": [
+                            "4 người lớn & 1 trẻ em (0-7 tuổi)",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 61.067 ₫!"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "76937855",
+        "hotel_name": "Căn hộ m² 2 phòng ngủ, 1 phòng tắm riêng ở Cầu Rào (Green Home 2)",
+        "hotel_address": "Cầu Rào, Hải Phòng, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Căn hộ (Apartment)",
+                "amenities": [
+                    "2 phòng ngủ",
+                    "1 phòng tắm",
+                    "Wi-Fi [miễn phí]",
+                    "Điều hòa",
+                    "Tối đa 4 người lớn",
+                    "1 giường đôi / 1 giường đôi"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "4 người lớn & 1 trẻ em (0-7 tuổi)",
+                        "option_price": "1.664.674",
+                        "amenities_for_price": [
+                            "4 người lớn & 1 trẻ em (0-7 tuổi)",
+                            "Chính sách hủy",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 98.995 ₫!"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "10149919",
+        "hotel_name": "Chung cư 35 m² 1 phòng ngủ, 1 phòng tắm riêng ở Thượng Lý/Quán Toan (Vinhomes Serviced Apartment high quality 3)",
+        "hotel_address": "Thượng Lý/Quán Toan, Hải Phòng, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Căn hộ (Apartment)",
+                "amenities": [
+                    "Studio/1 phòng ngủ",
+                    "1 phòng tắm",
+                    "Máy sấy tóc",
+                    "Wi-Fi [miễn phí]",
+                    "Điều hòa",
+                    "Tủ quần áo",
+                    "Cho phép hút thuốc",
+                    "35 m²",
+                    "Tối đa 2 người lớn",
+                    "1 giường đơn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn & 1 trẻ em (0-7 tuổi)",
+                        "option_price": "507.492",
+                        "amenities_for_price": [
+                            "2 người lớn & 1 trẻ em (0-7 tuổi)",
+                            "Chính sách hủy",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 56.000 ₫!"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "76734407",
+        "hotel_name": "Nhà riêng m² 1 phòng ngủ, 2 phòng tắm riêng ở Cầu Rào (Happy Home Apartment & Homestay)",
+        "hotel_address": "Cầu Rào, Hải Phòng, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Nhà riêng (home)",
+                "amenities": [
+                    "Studio/1 phòng ngủ",
+                    "2 phòng tắm",
+                    "Wi-Fi [miễn phí]",
+                    "Điều hòa",
+                    "Tối đa 4 người lớn",
+                    "2 giường đôi lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "4 người lớn & 1 trẻ em (0-7 tuổi)",
+                        "option_price": "762.683",
+                        "amenities_for_price": [
+                            "4 người lớn & 1 trẻ em (0-7 tuổi)",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt và trả tiền ngay",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 64.477 ₫!"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "13608637",
+        "hotel_name": "Chung cư 15 m² 1 phòng ngủ, 1 phòng tắm riêng ở Thượng Lý/Quán Toan (Rainbow Apartments)",
+        "hotel_address": "Thượng Lý/Quán Toan, Hải Phòng, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Căn hộ (Apartment)",
+                "amenities": [
+                    "Studio/1 phòng ngủ",
+                    "1 phòng tắm",
+                    "Máy sấy tóc",
+                    "Wi-Fi [miễn phí]",
+                    "Điều hòa",
+                    "Cà phê hòa tan miễn phí",
+                    "Tủ quần áo",
+                    "15 m²",
+                    "Tối đa 2 người lớn",
+                    "1 giường đôi / 1 nệm futon"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn & 1 trẻ em (0-12 tuổi)",
+                        "option_price": "910.856",
+                        "amenities_for_price": [
+                            "2 người lớn & 1 trẻ em (0-12 tuổi)",
+                            "Chính sách hủy",
+                            "Đặt và trả tiền ngay",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 68.959 ₫!"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "39806972",
+        "hotel_name": "Căn hộ 40 m² 1 phòng ngủ, 1 phòng tắm riêng ở Trung tâm thành phố/chợ Sắt (Căn Hộ VIP Sakura 193 Văn Cao supper large)",
+        "hotel_address": "Ngã năm – Sân bay Cát Bi, Hải Phòng, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Căn hộ (Apartment)",
+                "amenities": [
+                    "Studio/1 phòng ngủ",
+                    "1 phòng tắm",
+                    "Wi-Fi [miễn phí]",
+                    "Điều hòa",
+                    "40 m²",
+                    "Tối đa 2 người lớn",
+                    "1 giường đôi lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn & 1 trẻ em (0-7 tuổi)",
+                        "option_price": "637.654",
+                        "amenities_for_price": [
+                            "2 người lớn & 1 trẻ em (0-7 tuổi)",
+                            "Chính sách hủy",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 116.315 ₫!"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "76261053",
+        "hotel_name": "Căn hộ m² 1 phòng ngủ, 1 phòng tắm riêng ở Khác (Luna’s Homestay )",
+        "hotel_address": "Trung tâm thành phố/chợ Sắt, Hải Phòng, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Căn hộ (Apartment)",
+                "amenities": [
+                    "2 phòng ngủ",
+                    "1 phòng tắm",
+                    "Máy sấy tóc",
+                    "Wi-Fi [miễn phí]",
+                    "Điều hòa",
+                    "Tủ quần áo",
+                    "60 m²",
+                    "Tối đa 5 người lớn",
+                    "5 giường đôi / 2 giường đôi"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "5 người lớn & 1 trẻ em (0-7 tuổi)",
+                        "option_price": "1.163.321",
+                        "amenities_for_price": [
+                            "5 người lớn & 1 trẻ em (0-7 tuổi)",
+                            "Chính sách hủy",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 71.247 ₫!"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "59002672",
+        "hotel_name": "LeeVy Hai Phong",
+        "hotel_address": "Võ Nguyên Giáp, Cầu Rào, Hải Phòng, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Căn hộ 1 Phòng ngủ có Ban công và Tầm nhìn ra Thành phố (One-Bedroom Apartment with Balcony and City View)",
+                "amenities": [
+                    "Hướng Ngoài trời",
+                    "2 phòng tắm",
+                    "Ấm nước điện",
+                    "Phòng tắm chung",
+                    "Máy sấy tóc",
+                    "Phòng tắm đứng",
+                    "Đồ dùng cho giấc ngủ thoải mái",
+                    "Tủ lạnh",
+                    "Ban công/sân hiên",
+                    "Giường cực dài",
+                    "72 m²",
+                    "Tối đa 2 người lớn",
+                    "1 giường sofa / 1 giường lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "1.708.575",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt không cần thẻ tín dụng",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Căn hộ 2 phòng ngủ nhìn ra cảnh thành phố (Two-Bedroom Apartment with City View)",
+                "amenities": [
+                    "Hướng Ngoài trời",
+                    "2 phòng ngủ",
+                    "2 phòng tắm",
+                    "Ấm nước điện",
+                    "Phòng tắm chung",
+                    "Máy sấy tóc",
+                    "Phòng tắm đứng",
+                    "Đồ dùng cho giấc ngủ thoải mái",
+                    "Tủ lạnh",
+                    "Ban công/sân hiên",
+                    "72 m²",
+                    "Tối đa 4 người lớn",
+                    "1 giường đôi lớn / 1 giường lớn / 1 giường sofa"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "4 người lớn",
+                        "option_price": "1.976.250",
+                        "amenities_for_price": [
+                            "4 người lớn",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt không cần thẻ tín dụng",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "39686583",
+        "hotel_name": "Căn hộ 45 m² 2 phòng ngủ, 2 phòng tắm riêng ở Trung tâm thành phố/chợ Sắt (Căn hộ SAKURA 2 Ngủ)",
+        "hotel_address": "Ngã năm – Sân bay Cát Bi, Hải Phòng, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Căn hộ (Apartment)",
+                "amenities": [
+                    "2 phòng ngủ",
+                    "2 phòng tắm",
+                    "Wi-Fi [miễn phí]",
+                    "Điều hòa",
+                    "45 m²",
+                    "Tối đa 4 người lớn",
+                    "1 giường đôi / 1 giường đôi"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "4 người lớn & 1 trẻ em (0-7 tuổi)",
+                        "option_price": "1.019.445",
+                        "amenities_for_price": [
+                            "4 người lớn & 1 trẻ em (0-7 tuổi)",
+                            "Chính sách hủy",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 58.352 ₫!"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "36830259",
+        "hotel_name": "Căn hộ 80 m² 1 phòng ngủ, 1 phòng tắm riêng ở Ven sông - Sông Cấm/Cảng cũ (Stay 1986)",
+        "hotel_address": "Trung tâm thành phố/chợ Sắt, Hải Phòng, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Nhà riêng (home)",
+                "amenities": [
+                    "3 phòng ngủ",
+                    "1 phòng tắm",
+                    "Máy sấy tóc",
+                    "Wi-Fi [miễn phí]",
+                    "Điều hòa",
+                    "Tủ quần áo",
+                    "80 m²",
+                    "Tối đa 2 người lớn",
+                    "1 giường đôi lớn / 1 giường đôi lớn / 1 giường đôi lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn & 1 trẻ em (0-7 tuổi)",
+                        "option_price": "1.629.038",
+                        "amenities_for_price": [
+                            "2 người lớn & 1 trẻ em (0-7 tuổi)",
+                            "Có ăn sáng",
+                            "Chính sách hủy",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 96.876 ₫!"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "10946562",
+        "hotel_name": "Nhà mặt đất 25 m² 1 phòng ngủ, 1 phòng tắm riêng ở Khu đô thị Ngã Năm - sân bay Cát Bi (HyminHome)",
+        "hotel_address": "Ngã năm – Sân bay Cát Bi, Hải Phòng, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Nhà riêng (home)",
+                "amenities": [
+                    "Studio/1 phòng ngủ",
+                    "1 phòng tắm",
+                    "Máy sấy tóc",
+                    "Wi-Fi [miễn phí]",
+                    "Điều hòa",
+                    "Tủ quần áo",
+                    "25 m²",
+                    "Tối đa 4 người lớn",
+                    "1 giường đôi lớn và 1 nệm futon"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "4 người lớn & 1 trẻ em (0-12 tuổi)",
+                        "option_price": "407.582",
+                        "amenities_for_price": [
+                            "4 người lớn & 1 trẻ em (0-12 tuổi)",
+                            "Chính sách hủy",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 52.931 ₫!"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "65561493",
+        "hotel_name": "Căn hộ m² 3 phòng ngủ, 1 phòng tắm riêng ở Khác (Cozihotel)",
+        "hotel_address": "Trung tâm thành phố/chợ Sắt, Hải Phòng, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Căn hộ (Apartment)",
+                "amenities": [
+                    "1 phòng tắm",
+                    "Wi-Fi [miễn phí]",
+                    "Điều hòa",
+                    "Tối đa 2 người lớn",
+                    "2 giường đơn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn & 1 trẻ em (0-7 tuổi)",
+                        "option_price": "390.238",
+                        "amenities_for_price": [
+                            "2 người lớn & 1 trẻ em (0-7 tuổi)",
+                            "Chính sách hủy",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 50.679 ₫!"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "18526823",
+        "hotel_name": "Căn hộ 150 m² 20 phòng ngủ, 20 phòng tắm riêng ở Khu đô thị Ngã Năm - sân bay Cát Bi (Sương giang hotel)",
+        "hotel_address": "Ngã năm – Sân bay Cát Bi, Hải Phòng, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Căn hộ (Apartment)",
+                "amenities": [
+                    "20 phòng ngủ",
+                    "20 phòng tắm",
+                    "Máy sấy tóc",
+                    "Wi-Fi [miễn phí]",
+                    "Điều hòa",
+                    "Tủ quần áo",
+                    "Cho phép hút thuốc",
+                    "150 m²",
+                    "Tối đa 30 người lớn",
+                    "1 giường đơn / 1 giường đơn / 1 giường đơn / 1 giường đơn / 1 giường đơn / 1 giường đơn / 1 giường đơn / 1 giường đơn / 1 giường đơn / 1 giường đơn / 1 giường đơn / 1 giường đơn / 1 giường đơn / 1 giường đơn / 1 giường đơn / 1 giường đơn / 1 giường đơn / 1 giường đơn / 1 giường đơn / 1 giường đơn / 1 giường đơn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "30 người lớn & 1 trẻ em (0-12 tuổi)",
+                        "option_price": "307",
+                        "amenities_for_price": [
+                            "30 người lớn & 1 trẻ em (0-12 tuổi)",
+                            "Chính sách hủy",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 36 ₫!"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "78200358",
+        "hotel_name": "Anmie Home - Hoàng Huy CMC Camelia (Anmie Home - Hoang Huy CMC Camelia)",
+        "hotel_address": "Cầu Rào, Hải Phòng, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Căn Hộ 2 Phòng Ngủ (Two-Bedroom Apartment)",
+                "amenities": [
+                    "Hướng Ngoài trời",
+                    "2 phòng ngủ",
+                    "2 phòng tắm",
+                    "Ấm nước điện",
+                    "Máy sấy tóc",
+                    "Vòi sen",
+                    "Đồ dùng cho giấc ngủ thoải mái",
+                    "Trái cây/đồ ăn vặt",
+                    "Nước đóng chai miễn phí",
+                    "Tủ lạnh",
+                    "77 m²",
+                    "Tối đa 6 người lớn",
+                    "1 giường đôi lớn / 1 giường đôi lớn / 1 giường sofa"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "6 người lớn",
+                        "option_price": "766.667",
+                        "amenities_for_price": [
+                            "6 người lớn",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt không cần thẻ tín dụng",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "78700526",
+        "hotel_name": "Ari Apartment cùng bạn khám phá foodtour Hải Phòng (Ari Apartment cung ban kham pha foodtour Hai Phong)",
+        "hotel_address": "Thượng Lý/Quán Toan, Hải Phòng, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Căn Hộ 3 Phòng Ngủ (Three-Bedroom Apartment)",
+                "amenities": [
+                    "Hướng Ngoài trời",
+                    "3 phòng ngủ",
+                    "2 phòng tắm",
+                    "phòng tắm riêng",
+                    "Vòi sen",
+                    "Bể bơi riêng",
+                    "Ban công/sân hiên",
+                    "Điều hòa cá nhân",
+                    "80 m²",
+                    "Tối đa 9 người lớn",
+                    "1 giường lớn / 1 giường lớn / 1 giường lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "9 người lớn",
+                        "option_price": "1.388.889",
+                        "amenities_for_price": [
+                            "9 người lớn",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt không cần thẻ tín dụng",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "65765051",
+        "hotel_name": "Căn hộ m² 1 phòng ngủ, 1 phòng tắm riêng ở Ven sông - Sông Cấm/Cảng cũ (Studio PG02-20 KP Apartment Neo classic.)",
+        "hotel_address": "Trung tâm thành phố/chợ Sắt, Hải Phòng, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Căn hộ (Apartment)",
+                "amenities": [
+                    "Studio/1 phòng ngủ",
+                    "1 phòng tắm",
+                    "Máy sấy tóc",
+                    "Wi-Fi [miễn phí]",
+                    "Điều hòa",
+                    "Cho phép hút thuốc",
+                    "Tối đa 2 người lớn",
+                    "1 giường đôi lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn & 1 trẻ em (0-7 tuổi)",
+                        "option_price": "313.683",
+                        "amenities_for_price": [
+                            "2 người lớn & 1 trẻ em (0-7 tuổi)",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 39.051 ₫!"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "55661215",
+        "hotel_name": "JOYCE-Celia 25",
+        "hotel_address": "Cầu Rào, Hải Phòng, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Căn Hộ 2 Phòng Ngủ (Two-Bedroom Apartment)",
+                "amenities": [
+                    "Hướng Ngoài trời",
+                    "2 phòng ngủ",
+                    "1 phòng tắm",
+                    "Ấm nước điện",
+                    "Phòng tắm chung",
+                    "Vòi sen",
+                    "Tủ lạnh",
+                    "Ban công/sân hiên",
+                    "Tủ quần áo",
+                    "Điều hòa cá nhân",
+                    "60 m²",
+                    "Tối đa 4 người lớn",
+                    "1 giường đôi lớn / 1 giường sofa / 1 giường đôi lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "4 người lớn & 2 trẻ em (0-9 tuổi)",
+                        "option_price": "1.111.111",
+                        "amenities_for_price": [
+                            "4 người lớn & 2 trẻ em (0-9 tuổi)",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "79084039",
+        "hotel_name": "Nhà riêng m² 1 phòng ngủ, 3 phòng tắm riêng ở Khác (Khanh Phong Apartment Vin Vu Yen 3 Bedroom)",
+        "hotel_address": "Trung tâm thành phố/chợ Sắt, Hải Phòng, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Nhà riêng (home)",
+                "amenities": [
+                    "Studio/1 phòng ngủ",
+                    "3 phòng tắm",
+                    "Wi-Fi [miễn phí]",
+                    "Điều hòa",
+                    "Tối đa 6 người lớn",
+                    "3 giường đôi lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "6 người lớn & 1 trẻ em (0-7 tuổi)",
+                        "option_price": "878.794",
+                        "amenities_for_price": [
+                            "6 người lớn & 1 trẻ em (0-7 tuổi)",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt và trả tiền ngay",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 66.532 ₫!"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "79884214",
+        "hotel_name": "HAMA HOUSE Lạch Tray (HAMA HOUSE Lach Tray)",
+        "hotel_address": "30/2 Nguyễn Văn Linh số 30 Ngõ 2 Nguyễn Văn Linh, Thượng Lý/Quán Toan, Hải Phòng, Việt Nam, 180000",
+        "room_types": [
+            {
+                "room_type_name": "Phòng Đôi (Double Room)",
+                "amenities": [
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Vòi sen",
+                    "Đồ dùng cho giấc ngủ thoải mái",
+                    "Nước đóng chai miễn phí",
+                    "Tủ quần áo",
+                    "Điều hòa cá nhân",
+                    "18 m²",
+                    "Tối đa 2 người lớn",
+                    "1 giường đôi lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "475.000",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    },
+                    {
+                        "option_name": "1 người lớn Vượt quá sức chứa phòng",
+                        "option_price": "427.500",
+                        "amenities_for_price": [
+                            "1 người lớn Vượt quá sức chứa phòng",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Phòng Đôi (Double Room)",
+                "amenities": [
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Vòi sen",
+                    "Đồ dùng cho giấc ngủ thoải mái",
+                    "Nước đóng chai miễn phí",
+                    "Tủ quần áo",
+                    "Điều hòa cá nhân",
+                    "18 m²",
+                    "Tối đa 2 người lớn",
+                    "1 giường đôi lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "475.000",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    },
+                    {
+                        "option_name": "1 người lớn Vượt quá sức chứa phòng",
+                        "option_price": "427.500",
+                        "amenities_for_price": [
+                            "1 người lớn Vượt quá sức chứa phòng",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "61404353",
+        "hotel_name": "Căn hộ m² 2 phòng ngủ, 2 phòng tắm riêng ở Cầu Rào (Chuỗi căn hộ cc The Minato Residence Hải Phòng)",
+        "hotel_address": "Cầu Rào, Hải Phòng, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Căn hộ (Apartment)",
+                "amenities": [
+                    "2 phòng ngủ",
+                    "2 phòng tắm",
+                    "Máy sấy tóc",
+                    "Wi-Fi [miễn phí]",
+                    "Điều hòa",
+                    "Tối đa 4 người lớn",
+                    "1 giường đôi / 1 giường đôi"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "4 người lớn & 1 trẻ em (0-7 tuổi)",
+                        "option_price": "992.772",
+                        "amenities_for_price": [
+                            "4 người lớn & 1 trẻ em (0-7 tuổi)",
+                            "Chính sách hủy",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 65.429 ₫!"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "47648201",
+        "hotel_name": "Căn hộ 65 m² 2 phòng ngủ, 2 phòng tắm riêng ở Thượng Lý/Quán Toan (Blue House Apartment & Homestay)",
+        "hotel_address": "Thượng Lý/Quán Toan, Hải Phòng, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Căn hộ (Apartment)",
+                "amenities": [
+                    "2 phòng ngủ",
+                    "2 phòng tắm",
+                    "Máy sấy tóc",
+                    "Wi-Fi [miễn phí]",
+                    "Điều hòa",
+                    "65 m²",
+                    "Tối đa 4 người lớn",
+                    "1 giường siêu lớn / 1 giường siêu lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "4 người lớn & 1 trẻ em (0-7 tuổi)",
+                        "option_price": "1.229.451",
+                        "amenities_for_price": [
+                            "4 người lớn & 1 trẻ em (0-7 tuổi)",
+                            "Chính sách hủy",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 70.372 ₫!"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "37333260",
+        "hotel_name": "Căn hộ 90 m² 1 phòng ngủ, 1 phòng tắm riêng ở Cầu Rào (Khánh Linh Hotel )",
+        "hotel_address": "Ngã năm – Sân bay Cát Bi, Hải Phòng, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Căn hộ (Apartment)",
+                "amenities": [
+                    "Studio/1 phòng ngủ",
+                    "1 phòng tắm",
+                    "Máy sấy tóc",
+                    "Wi-Fi [miễn phí]",
+                    "Điều hòa",
+                    "Tủ quần áo",
+                    "35 m²",
+                    "Tối đa 4 người lớn",
+                    "2 giường đơn / 1 giường đôi"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "4 người lớn & 1 trẻ em (0-7 tuổi)",
+                        "option_price": "819.771",
+                        "amenities_for_price": [
+                            "4 người lớn & 1 trẻ em (0-7 tuổi)",
+                            "Chính sách hủy",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 62.063 ₫!"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "47148994",
+        "hotel_name": "Căn hộ 45 m² 1 phòng ngủ, 1 phòng tắm riêng ở Phước Mỹ (R301 ( MHT09-15))",
+        "hotel_address": "Trung tâm thành phố/chợ Sắt, Hải Phòng, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Căn hộ (Apartment)",
+                "amenities": [
+                    "Studio/1 phòng ngủ",
+                    "1 phòng tắm",
+                    "Wi-Fi [miễn phí]",
+                    "Điều hòa",
+                    "45 m²",
+                    "Tối đa 2 người lớn",
+                    "1 giường đơn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn & 1 trẻ em (0-7 tuổi)",
+                        "option_price": "608.962",
+                        "amenities_for_price": [
+                            "2 người lớn & 1 trẻ em (0-7 tuổi)",
+                            "Chính sách hủy",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 114.142 ₫!"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "78706354",
+        "hotel_name": "Khách sạn Cat Ba Friendly (Cat Ba Friendly hotel)",
+        "hotel_address": "192 N i Ngọc, Cát Bà, Quần Đảo Cát Bà, Việt Nam, 01234",
+        "room_types": [
+            {
+                "room_type_name": "Phòng Tiêu Chuẩn (Standard Room)",
+                "amenities": [
+                    "Bồn tắm/vòi sen riêng",
+                    "Máy sấy tóc",
+                    "Phòng tắm đứng",
+                    "Wi-Fi [miễn phí]",
+                    "Rèm che ánh sáng",
+                    "Tủ lạnh nhỏ trong phòng",
+                    "Cà phê hòa tan miễn phí",
+                    "Ấm nước",
+                    "Cửa sổ có thể mở ra",
+                    "Tủ quần áo",
+                    "20 m²",
+                    "Tối đa 2 người lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "349.742",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Có ăn sáng",
+                            "Chính sách hủy",
+                            "Đặt và trả tiền ngay",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 47.083 ₫!"
+                        ]
+                    },
+                    {
+                        "option_name": "1 người lớn Vượt quá sức chứa phòng",
+                        "option_price": "295.419",
+                        "amenities_for_price": [
+                            "1 người lớn Vượt quá sức chứa phòng",
+                            "Có ăn sáng",
+                            "Chính sách hủy",
+                            "Đặt và trả tiền ngay",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 22.041 ₫!"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Deluxe hướng thành phố (Deluxe City View)",
+                "amenities": [
+                    "Hướng Thành phố",
+                    "Máy sấy tóc",
+                    "Phòng tắm đứng",
+                    "Wi-Fi [miễn phí]",
+                    "Tủ lạnh nhỏ trong phòng",
+                    "Cà phê hòa tan miễn phí",
+                    "Ấm nước",
+                    "Cửa sổ có thể mở ra",
+                    "tầng thượng",
+                    "Tủ quần áo",
+                    "20 m²",
+                    "Tối đa 2 người lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "424.081",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Có ăn sáng",
+                            "Chính sách hủy",
+                            "Đặt và trả tiền ngay",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 52.110 ₫!"
+                        ]
+                    },
+                    {
+                        "option_name": "1 người lớn Vượt quá sức chứa phòng",
+                        "option_price": "369.274",
+                        "amenities_for_price": [
+                            "1 người lớn Vượt quá sức chứa phòng",
+                            "Có ăn sáng",
+                            "Chính sách hủy",
+                            "Đặt và trả tiền ngay",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 27.552 ₫!"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "80448769",
+        "hotel_name": "Nhà riêng m² 2 phòng ngủ, 2 phòng tắm riêng ở Trung tâm thành phố/chợ Sắt (căn hộ tiện nghi trung tâm phố cổ Hải Phòng)",
+        "hotel_address": "Trung tâm thành phố/chợ Sắt, Hải Phòng, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Nhà riêng (home)",
+                "amenities": [
+                    "2 phòng ngủ",
+                    "2 phòng tắm",
+                    "Máy sấy tóc",
+                    "Wi-Fi [miễn phí]",
+                    "Điều hòa",
+                    "Tủ quần áo",
+                    "67 m²",
+                    "Tối đa 4 người lớn",
+                    "1 giường lớn / 1 giường đôi lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "4 người lớn & 1 trẻ em (0-7 tuổi)",
+                        "option_price": "533.719",
+                        "amenities_for_price": [
+                            "4 người lớn & 1 trẻ em (0-7 tuổi)",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 69.456 ₫!"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "21918164",
+        "hotel_name": "SAOLA Apartment Le Chan, Haiphong, 301",
+        "hotel_address": "Cầu Rào, Hải Phòng, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Căn hộ (Apartment)",
+                "amenities": [
+                    "Studio/1 phòng ngủ",
+                    "1 phòng tắm",
+                    "Máy sấy tóc",
+                    "Wi-Fi [miễn phí]",
+                    "Điều hòa",
+                    "45 m²",
+                    "Tối đa 2 người lớn",
+                    "1 giường đôi lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn & 1 trẻ em (0-7 tuổi)",
+                        "option_price": "680.210",
+                        "amenities_for_price": [
+                            "2 người lớn & 1 trẻ em (0-7 tuổi)",
+                            "Chính sách hủy",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 54.652 ₫!"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "62143586",
+        "hotel_name": "Nhà riêng 75 m² 2 phòng ngủ, 2 phòng tắm riêng ở Ngã năm – Sân bay Cát Bi (Two bedrooms Apt. in Diamond Crown tower (1923))",
+        "hotel_address": "Ngã năm – Sân bay Cát Bi, Hải Phòng, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Nhà riêng (home)",
+                "amenities": [
+                    "2 phòng ngủ",
+                    "2 phòng tắm",
+                    "Máy sấy tóc",
+                    "Wi-Fi [miễn phí]",
+                    "Điều hòa",
+                    "Tủ quần áo",
+                    "75 m²",
+                    "Tối đa 4 người lớn",
+                    "1 giường đôi lớn / 1 giường đôi lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "4 người lớn & 1 trẻ em (0-7 tuổi)",
+                        "option_price": "1.216.186",
+                        "amenities_for_price": [
+                            "4 người lớn & 1 trẻ em (0-7 tuổi)",
+                            "Chính sách hủy",
+                            "Đặt và trả tiền ngay",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 212.386 ₫!"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "34383065",
+        "hotel_name": "Căn hộ 40 m² 1 phòng ngủ, 1 phòng tắm riêng ở Trung tâm thành phố/chợ Sắt (Relax & Beautiful Apartment for weekend at Van Cao)",
+        "hotel_address": "Ngã năm – Sân bay Cát Bi, Hải Phòng, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Căn hộ (Apartment)",
+                "amenities": [
+                    "Studio/1 phòng ngủ",
+                    "1 phòng tắm",
+                    "Wi-Fi [miễn phí]",
+                    "Điều hòa",
+                    "40 m²",
+                    "Tối đa 2 người lớn",
+                    "1 giường đơn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn & 1 trẻ em (0-7 tuổi)",
+                        "option_price": "637.654",
+                        "amenities_for_price": [
+                            "2 người lớn & 1 trẻ em (0-7 tuổi)",
+                            "Chính sách hủy",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 116.315 ₫!"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "61200042",
+        "hotel_name": "Căn hộ 30 m² 1 phòng ngủ, 1 phòng tắm riêng ở Cầu Rào (Homestay HP)",
+        "hotel_address": "Cầu Rào, Hải Phòng, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Căn hộ (Apartment)",
+                "amenities": [
+                    "Studio/1 phòng ngủ",
+                    "1 phòng tắm",
+                    "Wi-Fi [miễn phí]",
+                    "Điều hòa",
+                    "Tủ quần áo",
+                    "30 m²",
+                    "Tối đa 2 người lớn",
+                    "1 giường đôi lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn & 1 trẻ em (0-7 tuổi)",
+                        "option_price": "649.432",
+                        "amenities_for_price": [
+                            "2 người lớn & 1 trẻ em (0-7 tuổi)",
+                            "Chính sách hủy",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 56.035 ₫!"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "70752304",
+        "hotel_name": "KATKA - Muffin Room",
+        "hotel_address": "Thượng Lý/Quán Toan, Hải Phòng, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Nhà riêng (home)",
+                "amenities": [
+                    "Studio/1 phòng ngủ",
+                    "1 phòng tắm",
+                    "Wi-Fi [miễn phí]",
+                    "Điều hòa",
+                    "Cho phép hút thuốc",
+                    "Tối đa 2 người lớn",
+                    "1 giường lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn & 1 trẻ em (0-7 tuổi)",
+                        "option_price": "390.607",
+                        "amenities_for_price": [
+                            "2 người lớn & 1 trẻ em (0-7 tuổi)",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 52.514 ₫!"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "10614251",
+        "hotel_name": "Nhà mặt đất 20 m² 1 phòng ngủ, 1 phòng tắm riêng ở Trung tâm thành phố/chợ Sắt (Khanh Phong Apartment PG02-20 Vincom Shophouse)",
+        "hotel_address": "Trung tâm thành phố/chợ Sắt, Hải Phòng, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Căn hộ (Apartment)",
+                "amenities": [
+                    "Studio/1 phòng ngủ",
+                    "1 phòng tắm",
+                    "Máy sấy tóc",
+                    "Wi-Fi [miễn phí]",
+                    "Điều hòa",
+                    "Tủ quần áo",
+                    "25 m²",
+                    "Tối đa 2 người lớn",
+                    "1 giường đôi"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn & 1 trẻ em (0-7 tuổi)",
+                        "option_price": "460.608",
+                        "amenities_for_price": [
+                            "2 người lớn & 1 trẻ em (0-7 tuổi)",
+                            "Chính sách hủy",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 68.492 ₫!"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "61423186",
+        "hotel_name": "Căn hộ 50 m² 1 phòng ngủ, 1 phòng tắm riêng ở Ven sông - Sông Cấm/Cảng cũ (MiMi Homestay-Delux room for 4 persons-2King beds)",
+        "hotel_address": "Trung tâm thành phố/chợ Sắt, Hải Phòng, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Căn hộ (Apartment)",
+                "amenities": [
+                    "Studio/1 phòng ngủ",
+                    "1 phòng tắm",
+                    "Wi-Fi [miễn phí]",
+                    "Điều hòa",
+                    "50 m²",
+                    "Tối đa 4 người lớn",
+                    "2 giường đôi lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "4 người lớn & 1 trẻ em (0-7 tuổi)",
+                        "option_price": "1.296.198",
+                        "amenities_for_price": [
+                            "4 người lớn & 1 trẻ em (0-7 tuổi)",
+                            "Chính sách hủy",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 202.921 ₫!"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "13759577",
+        "hotel_name": "Chung cư studio 30 m² có 1 phòng tắm riêng ở Ven sông - Sông Cấm/Cảng cũ (The Flamboyant - Deluxe Room @ Vinhomes Imperia)",
+        "hotel_address": "Ven sông - Sông Cấm/Cảng cũ, Hải Phòng, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Căn hộ (Apartment)",
+                "amenities": [
+                    "1 phòng tắm",
+                    "Máy sấy tóc",
+                    "Wi-Fi [miễn phí]",
+                    "Điều hòa",
+                    "Cà phê hòa tan miễn phí",
+                    "30 m²",
+                    "Tối đa 2 người lớn",
+                    "1 giường lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn & 1 trẻ em (0-12 tuổi)",
+                        "option_price": "508.286",
+                        "amenities_for_price": [
+                            "2 người lớn & 1 trẻ em (0-12 tuổi)",
+                            "Chính sách hủy",
+                            "Đặt và trả tiền ngay",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 56.087 ₫!"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "56865071",
+        "hotel_name": "Căn hộ 67 m² 2 phòng ngủ, 2 phòng tắm riêng ở Cầu Rào (Happy House)",
+        "hotel_address": "Cầu Rào, Hải Phòng, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Căn hộ (Apartment)",
+                "amenities": [
+                    "2 phòng ngủ",
+                    "2 phòng tắm",
+                    "Wi-Fi [miễn phí]",
+                    "Điều hòa",
+                    "Tủ quần áo",
+                    "67 m²",
+                    "Tối đa 4 người lớn",
+                    "2 giường siêu lớn / 1 giường đôi lớn / 1 giường đơn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "4 người lớn & 1 trẻ em (0-7 tuổi)",
+                        "option_price": "1.001.026",
+                        "amenities_for_price": [
+                            "4 người lớn & 1 trẻ em (0-7 tuổi)",
+                            "Chính sách hủy",
+                            "Đặt và trả tiền ngay",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 57.175 ₫!"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

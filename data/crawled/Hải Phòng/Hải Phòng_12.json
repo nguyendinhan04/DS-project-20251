@@ -1,0 +1,65 @@
+[
+    {
+        "hotel_id": "58579997",
+        "hotel_name": "Homestay giá SV gần Ga HP (Homestay gia SV gan Ga HP)",
+        "hotel_address": "Trung tâm thành phố/chợ Sắt, Hải Phòng, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Phòng Gia Đình (Family Room)",
+                "amenities": [
+                    {
+                        "amenity": "Diện tích phòng: 60 m²",
+                        "type": "sqm"
+                    },
+                    {
+                        "amenity": "Hướng Ngoài trời",
+                        "type": "views"
+                    },
+                    {
+                        "amenity": "1 giường đôi và 4 giường lớn",
+                        "type": "bed"
+                    },
+                    {
+                        "amenity": "Studio/1 phòng ngủ",
+                        "type": "bedroom"
+                    },
+                    {
+                        "amenity": "1 phòng tắm",
+                        "type": "bathrooms"
+                    },
+                    {
+                        "amenity": "Ban công/sân hiên",
+                        "type": "balcony-terrace"
+                    },
+                    {
+                        "amenity": "Giường cực dài",
+                        "type": "extra-long-beds"
+                    },
+                    {
+                        "amenity": "Đồ dùng cho giấc ngủ thoải mái",
+                        "type": "confirmation-instant"
+                    },
+                    {
+                        "amenity": "Phòng thay đồ",
+                        "type": "dressing-room"
+                    },
+                    {
+                        "amenity": "Điều hòa",
+                        "type": "air-conditioning"
+                    }
+                ],
+                "price_options": [
+                    {
+                        "option_name": "Thông tin sức chứa phòng: 2 người lớn và 8 trẻ em.",
+                        "option_price": "268.519₫",
+                        "amenities_for_price": [
+                            "Không hoàn tiền (Giá thấp!)\n\ntooltip\n\nKhuyến mại đặc biệt này bao gồm giá cực thấp, nhưng không thể nào thay đổi hoặc hủy bỏ được. Trong trường hợp vắng mặt, chỗ nghỉ sẽ không hoàn tiền đặt phòng.\n\nNếu chắc về ngày quý khách đến/đi, quý khách có thể tận dụng khuyến mại đặc biệt này!",
+                            "Thanh toán tại nơi ở",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

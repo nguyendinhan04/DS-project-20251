@@ -1,0 +1,2211 @@
+[
+    {
+        "hotel_id": "41592214",
+        "hotel_name": "Homie Hava Homestay",
+        "hotel_address": "Lăng Cô - Huế, Lăng Cô, Đà Nẵng, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Phòng có giường cỡ King nhìn ra cảnh núi non (King Room with Mountain View)",
+                "amenities": [
+                    "Hướng Núi",
+                    "Phòng tắm chung",
+                    "Vòi sen",
+                    "Đồ dùng cho giấc ngủ thoải mái",
+                    "Điều hòa",
+                    "Nước đóng chai miễn phí",
+                    "Ban công/sân hiên",
+                    "tầng trệt",
+                    "Đồ gỗ ngoài trời",
+                    "12 m²",
+                    "Tối đa 2 người lớn",
+                    "1 giường đôi lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "462.963",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Có ăn sáng",
+                            "Miễn phí hủy trước ngày 19 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "78726280",
+        "hotel_name": "HT Villa Đà Nẵng by Hometown (Hometown Bamboo Villa Da Nang)",
+        "hotel_address": "13 Ng Cao L ng, Thọ Quang, Đà Nẵng, Việt Nam, 550000",
+        "room_types": [
+            {
+                "room_type_name": "Biệt Thự Có Hồ Bơi Riêng (Villa with Private Pool)",
+                "amenities": [
+                    "Hướng Núi",
+                    "5 phòng ngủ",
+                    "3 phòng tắm",
+                    "Ấm nước điện",
+                    "Bồn tắm",
+                    "Phòng tắm chung",
+                    "Máy sấy tóc",
+                    "Phòng tắm đứng",
+                    "Được vào phòng chờ Thương Gia",
+                    "Đồ dùng cho giấc ngủ thoải mái",
+                    "200 m²",
+                    "Tối đa 12 người lớn, 4 bé (0-7 tuổi) ở MIỄN PHÍ!",
+                    "1 giường đôi lớn / 1 giường đôi lớn / 1 giường đôi lớn / 1 giường lớn / 2 giường lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "12 người lớn & 4 trẻ em (0-7 tuổi)",
+                        "option_price": "4.001.634",
+                        "amenities_for_price": [
+                            "12 người lớn & 4 trẻ em (0-7 tuổi)",
+                            "Miễn phí hủy trước ngày 19 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "2653836",
+        "hotel_name": "Khách sạn & Căn hộ Annie Đà Nẵng (Annie Danang Hotel & Apartment)",
+        "hotel_address": "191-193 Thanh Thuy St., Thanh Binh, Xuân Hà, Đà Nẵng, Việt Nam, 550000",
+        "room_types": [
+            {
+                "room_type_name": "Superior giường đôi (Superior Double)",
+                "amenities": [
+                    "Hướng Vườn",
+                    "2 phòng ngủ",
+                    "Ấm nước điện",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Phòng tắm đứng",
+                    "Wi-Fi [miễn phí]",
+                    "Đồ dùng cho giấc ngủ thoải mái",
+                    "Điều hòa",
+                    "Tủ lạnh nhỏ trong phòng",
+                    "22 m²",
+                    "Tối đa 2 người lớn",
+                    "1 giường đôi / 1 giường đôi"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "273.369",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Trả tiền cho khách sạn",
+                            "Phòng tập",
+                            "Bãi đậu xe",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí"
+                        ]
+                    },
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "313.618",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt và trả tiền ngay",
+                            "Phòng tập",
+                            "Bãi đậu xe",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "38462721",
+        "hotel_name": "Motel Minh Thảo (Motel Minh Thao)",
+        "hotel_address": "Trương Định, Phước Mỹ, Đà Nẵng, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Phòng Giường Đôi Lớn (Large Double Room)",
+                "amenities": [
+                    "Hướng Ngoài trời",
+                    "Ấm nước điện",
+                    "Phòng tắm chung",
+                    "Máy sấy tóc",
+                    "Vòi sen",
+                    "Đồ dùng cho giấc ngủ thoải mái",
+                    "Nước đóng chai miễn phí",
+                    "Tủ lạnh",
+                    "Ban công/sân hiên",
+                    "Phòng thay đồ",
+                    "25 m²",
+                    "Tối đa 2 người lớn",
+                    "1 giường đôi"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "277.778",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Miễn phí hủy trước ngày 18 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí"
+                        ]
+                    },
+                    {
+                        "option_name": "1 người lớn & 1 trẻ em (0-8 tuổi) Vượt quá sức chứa phòng",
+                        "option_price": "272.222",
+                        "amenities_for_price": [
+                            "1 người lớn & 1 trẻ em (0-8 tuổi) Vượt quá sức chứa phòng",
+                            "Miễn phí hủy trước ngày 18 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "47850971",
+        "hotel_name": "Luxury Apartment Ocean View Free Pool",
+        "hotel_address": "120 Võ Nguyên Giáp, Phước Mỹ, Đà Nẵng, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Suite Tiêu Chuẩn (Standard Suite)",
+                "amenities": [
+                    "Hướng Núi",
+                    "2 phòng ngủ",
+                    "2 phòng tắm",
+                    "Ấm nước điện",
+                    "Bồn tắm tạo sóng",
+                    "Phòng tắm chung",
+                    "Máy sấy tóc",
+                    "Phòng tắm đứng",
+                    "Đồ dùng cho giấc ngủ thoải mái",
+                    "Nước đóng chai miễn phí",
+                    "80 m²",
+                    "Tối đa 3 người lớn, 1 bé (0-5 tuổi) ở MIỄN PHÍ!",
+                    "1 giường đơn / 1 giường đôi lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "3 người lớn & 1 trẻ em (0-5 tuổi)",
+                        "option_price": "3.111.111",
+                        "amenities_for_price": [
+                            "3 người lớn & 1 trẻ em (0-5 tuổi)",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt không cần thẻ tín dụng",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "51235229",
+        "hotel_name": "Khách sạn & Căn hộ Amis - cách bãi biển Mỹ Khê 50m (Amis Hotel & Apartment - 50m to My Khe Beach)",
+        "hotel_address": "216 Trần Bạch Đằng, Phường Mỹ An, Quận Ngũ Hanh Sơn, Đa Nẵng, Phước Mỹ, Đà Nẵng, Việt Nam, 550000",
+        "room_types": [
+            {
+                "room_type_name": "Phòng Ba Người (Triple Room)",
+                "amenities": [
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Phòng tắm đứng",
+                    "Wi-Fi [miễn phí]",
+                    "Rèm che ánh sáng",
+                    "Tủ lạnh nhỏ trong phòng",
+                    "Nước đóng chai miễn phí",
+                    "Ấm nước",
+                    "Cửa sổ",
+                    "Tủ quần áo",
+                    "25 m²",
+                    "Tối đa 3 người lớn, 1 bé (0-10 tuổi) ở MIỄN PHÍ!",
+                    "1 giường đôi và 1 giường đơn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn & 1 trẻ em (0-10 tuổi)",
+                        "option_price": "470.213",
+                        "amenities_for_price": [
+                            "2 người lớn & 1 trẻ em (0-10 tuổi)",
+                            "Chính sách hủy",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "Nhận phòng trễ",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí",
+                            "Các kênh truyền hình cáp",
+                            "Cho phép order đồ ăn bên ngoài",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 41.745 ₫!"
+                        ]
+                    },
+                    {
+                        "option_name": "3 người lớn & 1 trẻ em (0-10 tuổi)",
+                        "option_price": "590.000",
+                        "amenities_for_price": [
+                            "3 người lớn & 1 trẻ em (0-10 tuổi)",
+                            "Miễn phí hủy trước ngày 18 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "71008764",
+        "hotel_name": "Khách sạn Queen (Queen Hotel)",
+        "hotel_address": "Dũng Sĩ Điện Ngọc, Điện Ngọc, Hòa Hải, Đà Nẵng, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Phòng Đôi (Double Room)",
+                "amenities": [
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Phòng tắm đứng",
+                    "Wi-Fi [miễn phí]",
+                    "Nước đóng chai miễn phí",
+                    "Ấm nước",
+                    "Tủ lạnh",
+                    "Giường cực dài",
+                    "Phòng thay đồ",
+                    "Không hút thuốc",
+                    "25 m²",
+                    "Tối đa 2 người lớn",
+                    "1 giường lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "412.436",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "Nhận phòng trễ",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí",
+                            "Các kênh truyền hình cáp",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 41.559 ₫!"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Studio",
+                "amenities": [
+                    "Hướng Đường phố",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Phòng tắm đứng",
+                    "Wi-Fi [miễn phí]",
+                    "Rèm che ánh sáng",
+                    "Nước đóng chai miễn phí",
+                    "Ấm nước",
+                    "Tủ lạnh",
+                    "Cửa sổ",
+                    "30 m²",
+                    "Tối đa 2 người lớn",
+                    "1 giường lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "508.304",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "Nhận phòng trễ",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí",
+                            "Các kênh truyền hình cáp",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 36.490 ₫!"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "73318393",
+        "hotel_name": "Purama Villas Đà Nẵng (Purama Villas Danang)",
+        "hotel_address": "107 V Nguy n Gi p, Hòa Hải, Đà Nẵng, Việt Nam, 550000",
+        "room_types": [
+            {
+                "room_type_name": "Biệt Thự 3 Phòng Ngủ (Villa 3-Bedroom)",
+                "amenities": [
+                    "Hướng Bể bơi",
+                    "3 phòng ngủ",
+                    "4 phòng tắm",
+                    "Bồn tắm/vòi sen riêng",
+                    "Phòng tắm chung",
+                    "Máy sấy tóc",
+                    "Phòng tắm đứng",
+                    "Lối vào bãi biển riêng",
+                    "Phòng xông khô",
+                    "Wi-Fi [miễn phí]",
+                    "Tối đa 6 người lớn, 3 bé (0-11 tuổi) ở MIỄN PHÍ!",
+                    "1 giường siêu lớn / 1 giường siêu lớn / 2 giường đơn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn & 3 trẻ em (0-11 tuổi)",
+                        "option_price": "10.462.870",
+                        "amenities_for_price": [
+                            "2 người lớn & 3 trẻ em (0-11 tuổi)",
+                            "Phục vụ bữa sáng (560.000 ₫ / người)",
+                            "Miễn phí hủy trước ngày 18 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng",
+                            "Phòng tập",
+                            "Bãi đậu xe",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "32720232",
+        "hotel_name": "Khách sạn Sơn Trà Green (Sơn Trà Green Hotel)",
+        "hotel_address": "116 Nguyễn Huy Chương, Phước Mỹ, Đà Nẵng, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Phòng Tiêu Chuẩn (Standard Room)",
+                "amenities": [
+                    "phòng tắm riêng",
+                    "Vòi sen",
+                    "Tủ lạnh",
+                    "Tủ quần áo",
+                    "Không hút thuốc",
+                    "Điều hòa cá nhân",
+                    "25 m²",
+                    "Tối đa 2 người lớn",
+                    "1 giường lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "317.460",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Trả tiền cho khách sạn",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    },
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "724.222",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Miễn phí hủy trước ngày 18 thg 11, 25",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 16.519 ₫!"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "64324170",
+        "hotel_name": "Sun hotel",
+        "hotel_address": "08 Phạm Kiệt, Hòa Hải, Đà Nẵng, Việt Nam, 550000",
+        "room_types": [
+            {
+                "room_type_name": "Phòng 4 Người (Quadruple Room)",
+                "amenities": [
+                    "Ấm nước điện",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Vòi sen",
+                    "Điều hòa",
+                    "Tủ quần áo",
+                    "Tối đa 4 người lớn",
+                    "2 giường đơn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "4 người lớn",
+                        "option_price": "324.074",
+                        "amenities_for_price": [
+                            "4 người lớn",
+                            "Miễn phí hủy trước ngày 19 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "2627359",
+        "hotel_name": "Babylon Garden Đà Nẵng (Babylon Garden Da Nang)",
+        "hotel_address": "30/2 Ha Bong, Phuoc My, Son Tra, Da Nang, Phước Mỹ, Đà Nẵng, Việt Nam, 550000",
+        "room_types": [
+            {
+                "room_type_name": "Căn hộ (Apartment)",
+                "amenities": [
+                    "Hướng Thành phố",
+                    "Ấm nước điện",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Phòng tắm đứng",
+                    "Wi-Fi [miễn phí]",
+                    "Rèm che ánh sáng",
+                    "Điều hòa",
+                    "Tủ lạnh nhỏ trong phòng",
+                    "Cà phê hòa tan miễn phí",
+                    "26 m²",
+                    "Tối đa 2 người lớn, 1 bé (0-5 tuổi) ở MIỄN PHÍ!",
+                    "1 giường lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn & 1 trẻ em (0-5 tuổi)",
+                        "option_price": "672.389",
+                        "amenities_for_price": [
+                            "2 người lớn & 1 trẻ em (0-5 tuổi)",
+                            "Đã gồm bữa sáng tuyệt hảo",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Trả tiền cho khách sạn",
+                            "Bãi đậu xe",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí"
+                        ]
+                    },
+                    {
+                        "option_name": "2 người lớn & 1 trẻ em (0-5 tuổi)",
+                        "option_price": "707.778",
+                        "amenities_for_price": [
+                            "2 người lớn & 1 trẻ em (0-5 tuổi)",
+                            "Đã gồm bữa sáng tuyệt hảo",
+                            "Miễn phí hủy trước ngày 23 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "72816826",
+        "hotel_name": "Villa Đà nẵng Lavender Luxury (Villa Đa nang Lavender Luxury)",
+        "hotel_address": "Đường Nguyễn Tuấn Thiện , Đường Nước Mặn , Nguyễn Đình Thi, Thọ Quang, Đà Nẵng, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Biệt Thự 1 Phòng Ngủ (One-Bedroom Villa)",
+                "amenities": [
+                    "phòng tắm riêng",
+                    "Điều hòa",
+                    "Tối đa 2 người lớn",
+                    "1 giường đôi lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "4.961.111",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Chính sách hủy",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Biệt Thự 1 Phòng Ngủ (One-Bedroom Villa)",
+                "amenities": [
+                    "Hướng Vườn",
+                    "Bồn tắm tạo sóng",
+                    "phòng tắm riêng",
+                    "Điều hòa",
+                    "Tủ lạnh nhỏ trong phòng",
+                    "Bể bơi riêng",
+                    "Ban công/sân hiên",
+                    "250 m²",
+                    "Tối đa 2 người lớn",
+                    "1 giường đôi lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "5.147.222",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Chính sách hủy",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "67292846",
+        "hotel_name": "Biệt thự và Khu nghỉ dưỡng Dreamy Beach (Dreamy Beach Villas And Resort)",
+        "hotel_address": "The Ocean Villa, Truong Sa Street, Hoa Hai Ward, Ngu Hanh Son District, Da Nang City, Hòa Hải, Đà Nẵng, Việt Nam, 550000",
+        "room_types": [
+            {
+                "room_type_name": "Căn Hộ 1 Phòng Ngủ Có Ban Công (One-Bedroom Apartment with Balcony)",
+                "amenities": [
+                    "Hướng Vườn",
+                    "Ấm nước điện",
+                    "Phòng tắm chung",
+                    "Máy sấy tóc",
+                    "Vòi sen",
+                    "Đồ dùng cho giấc ngủ thoải mái",
+                    "Tủ lạnh nhỏ trong phòng",
+                    "Nước đóng chai miễn phí",
+                    "Tủ lạnh",
+                    "Ban công/sân hiên",
+                    "56 m²",
+                    "Tối đa 2 người lớn",
+                    "1 giường đôi lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "2.828.889",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Phục vụ bữa sáng (240.000 ₫ / người)",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Trả tiền cho khách sạn",
+                            "Phòng tập",
+                            "Bãi đậu xe",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí"
+                        ]
+                    },
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "3.287.963",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Có ăn sáng",
+                            "Chính sách hủy",
+                            "Trả tiền cho khách sạn",
+                            "Phòng tập",
+                            "Bãi đậu xe",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "71446663",
+        "hotel_name": "N&N Modern House-3BRs-Mini Golf-Bida-5mins walk to My Khe Beach",
+        "hotel_address": "Phước Mỹ, Đà Nẵng, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Biệt Thự (Villa)",
+                "amenities": [
+                    "Hướng Ngoài trời",
+                    "3 phòng ngủ",
+                    "3 phòng tắm",
+                    "Ấm nước điện",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Vòi sen",
+                    "Đồ dùng cho giấc ngủ thoải mái",
+                    "Điều hòa",
+                    "Rượu",
+                    "200 m²",
+                    "Tối đa 10 người lớn",
+                    "1 giường đôi lớn / 2 giường đôi lớn / 1 giường sofa / 2 giường đôi lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "10 người lớn",
+                        "option_price": "2.893.981",
+                        "amenities_for_price": [
+                            "10 người lớn",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "36953351",
+        "hotel_name": "Mường Thanh Grand Seaview Đà Nẵng Apartment (Muong Thanh Grand Seaview Đa Nang Apartment)",
+        "hotel_address": "51 Trần Bạch Đằng, Phước Mỹ, Đà Nẵng, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Căn Hộ 2 Phòng Ngủ (Two-Bedroom Apartment)",
+                "amenities": [
+                    "Hướng Ngoài trời",
+                    "2 phòng ngủ",
+                    "2 phòng tắm",
+                    "phòng tắm riêng",
+                    "Điều hòa",
+                    "Ban công/sân hiên",
+                    "70 m²",
+                    "Tối đa 4 người lớn",
+                    "1 giường đôi lớn / 1 giường đôi lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "4 người lớn",
+                        "option_price": "1.250.000",
+                        "amenities_for_price": [
+                            "4 người lớn",
+                            "Miễn phí hủy trước ngày 19 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "33945010",
+        "hotel_name": "Căn hộ H&H (H&H Apartment)",
+        "hotel_address": "97 Dinh Dat, Phuoc My, Son Tra, Da Nang, Phước Mỹ, Đà Nẵng, Việt Nam, 10000",
+        "room_types": [
+            {
+                "room_type_name": "Phòng giường Queen (Queen Room)",
+                "amenities": [
+                    "Hướng Thành phố",
+                    "Ấm nước điện",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Vòi sen",
+                    "Wi-Fi [miễn phí]",
+                    "Rèm che ánh sáng",
+                    "Tủ lạnh nhỏ trong phòng",
+                    "Nước đóng chai miễn phí",
+                    "Tủ lạnh",
+                    "40 m²",
+                    "Tối đa 2 người lớn",
+                    "1 giường đôi lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "1.098.230",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Miễn phí hủy trước ngày 18 thg 11, 25",
+                            "Đặt và trả tiền ngay",
+                            "Phòng tập",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 101.065 ₫!"
+                        ]
+                    },
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "1.530.000",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Miễn phí hủy trước ngày 19 thg 11, 25",
+                            "Trả tiền ở khách sạn",
+                            "Phòng tập",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "65721797",
+        "hotel_name": "Biệt thự 250 m² 6 phòng ngủ, 6 phòng tắm riêng ở An Hải Bắc (Korea Town Villa 6 Bedrooms Near My Khe Beach)",
+        "hotel_address": "An Hải Bắc, Đà Nẵng, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Villa riêng (Private Villa)",
+                "amenities": [
+                    "6 phòng ngủ",
+                    "6 phòng tắm",
+                    "Wi-Fi [miễn phí]",
+                    "Điều hòa",
+                    "250 m²",
+                    "Tối đa 16 người lớn",
+                    "1 giường lớn / 1 giường lớn / 1 giường lớn / 1 giường lớn / 1 giường lớn / 1 giường lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "16 người lớn & 1 trẻ em (0-7 tuổi)",
+                        "option_price": "6.766.466",
+                        "amenities_for_price": [
+                            "16 người lớn & 1 trẻ em (0-7 tuổi)",
+                            "Chính sách hủy",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 111.841 ₫!"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "72812856",
+        "hotel_name": "Villa Đà Nẵng LN View (Villa Đa Nang LN View)",
+        "hotel_address": "Đường Nguyễn Đình Thi , Đường Đa Phước , Đường Thành Vinh, Cẩm Lệ, Đà Nẵng, Việt Nam, 550000",
+        "room_types": [
+            {
+                "room_type_name": "Biệt Thự 1 Phòng Ngủ (One-Bedroom Villa)",
+                "amenities": [
+                    "phòng tắm riêng",
+                    "Điều hòa",
+                    "Tối đa 2 người lớn",
+                    "1 giường đôi lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "4.625.000",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Chính sách hủy",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "45887499",
+        "hotel_name": "Biệt thự 350 m² 3 phòng ngủ, 3 phòng tắm riêng ở Hòa Hải (Vila Hya.....tt Regencyy)",
+        "hotel_address": "Hòa Hải, Đà Nẵng, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Villa riêng (Private Villa)",
+                "amenities": [
+                    "3 phòng ngủ",
+                    "3 phòng tắm",
+                    "Máy sấy tóc",
+                    "Wi-Fi [miễn phí]",
+                    "Điều hòa",
+                    "Cà phê hòa tan miễn phí",
+                    "Bể bơi riêng",
+                    "Tủ quần áo",
+                    "600 m²",
+                    "Tối đa 9 người lớn",
+                    "1 giường siêu lớn / 2 giường đơn / 1 giường đôi lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "9 người lớn & 1 trẻ em (0-7 tuổi)",
+                        "option_price": "10.449.982",
+                        "amenities_for_price": [
+                            "9 người lớn & 1 trẻ em (0-7 tuổi)",
+                            "Chính sách hủy",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 1.013.862 ₫!"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "36867255",
+        "hotel_name": "MD Tropical Sea Apartment",
+        "hotel_address": "51 Trần Bạch Đằng, Phước Mỹ, Đà Nẵng, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Căn Hộ 2 Phòng Ngủ (Two-Bedroom Apartment)",
+                "amenities": [
+                    "Hướng Biển",
+                    "2 phòng ngủ",
+                    "2 phòng tắm",
+                    "Ấm nước điện",
+                    "Phòng tắm chung",
+                    "Máy sấy tóc",
+                    "Vòi sen",
+                    "Đồ dùng cho giấc ngủ thoải mái",
+                    "Nước đóng chai miễn phí",
+                    "Tủ lạnh",
+                    "68 m²",
+                    "Tối đa 5 người lớn",
+                    "1 giường đôi / 1 giường đôi lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "1.068.750",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí"
+                        ]
+                    },
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "1.187.500",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Miễn phí hủy trước ngày 18 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí"
+                        ]
+                    },
+                    {
+                        "option_name": "5 người lớn",
+                        "option_price": "1.319.444",
+                        "amenities_for_price": [
+                            "5 người lớn",
+                            "Miễn phí hủy trước ngày 18 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "2646633",
+        "hotel_name": "Khách sạn Blue Summer (Blue Summer Hotel)",
+        "hotel_address": "35 Tôn Thất Đạm, Xuân Hà, Đà Nẵng, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Tiêu chuẩn giường King (Standard King)",
+                "amenities": [
+                    "Hướng Thành phố",
+                    "Phòng tắm chung",
+                    "Vòi sen",
+                    "Wi-Fi [miễn phí]",
+                    "Quạt",
+                    "Tủ lạnh",
+                    "tầng cao",
+                    "Tủ quần áo",
+                    "Không hút thuốc",
+                    "25 m²",
+                    "Tối đa 2 người lớn",
+                    "1 giường lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "322.406",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "69926045",
+        "hotel_name": "Anthome at Muong Thanh Apartments",
+        "hotel_address": "51 Trần Bạch Đằng, Bắc Mỹ An, Phước Mỹ, Đà Nẵng, Việt Nam, 550000",
+        "room_types": [
+            {
+                "room_type_name": "Căn Hộ 2 Phòng Ngủ (Two-Bedroom Apartment)",
+                "amenities": [
+                    "Hướng Núi",
+                    "2 phòng ngủ",
+                    "2 phòng tắm",
+                    "Ấm nước điện",
+                    "Phòng tắm chung",
+                    "Máy sấy tóc",
+                    "Vòi sen",
+                    "Đồ dùng cho giấc ngủ thoải mái",
+                    "Tủ lạnh",
+                    "Ban công/sân hiên",
+                    "67 m²",
+                    "Tối đa 5 người lớn",
+                    "1 giường lớn / 1 giường lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "708.333",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Miễn phí hủy trước ngày 18 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng",
+                            "WiFi miễn phí"
+                        ]
+                    },
+                    {
+                        "option_name": "5 người lớn",
+                        "option_price": "747.685",
+                        "amenities_for_price": [
+                            "5 người lớn",
+                            "Miễn phí hủy trước ngày 18 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "13361127",
+        "hotel_name": "OYO 962 Nhà Nghỉ Tulip (OYO 962 Tulip Motel)",
+        "hotel_address": "192/64 To Hieu, Hoa Minh Ward, Lien Chieu District, Da Nang City, Hòa Minh, Đà Nẵng, Việt Nam, 550000",
+        "room_types": [
+            {
+                "room_type_name": "Phòng Standard giường đôi (Standard Double Room)",
+                "amenities": [
+                    "phòng tắm riêng",
+                    "Vòi sen",
+                    "Wi-Fi [miễn phí]",
+                    "Điều hòa",
+                    "Tủ quần áo",
+                    "Không hút thuốc",
+                    "29 m²",
+                    "Tối đa 2 người lớn",
+                    "1 giường đôi"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "426.591",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt và trả tiền ngay",
+                            "Miễn Phí Internet Không Dây"
+                        ]
+                    },
+                    {
+                        "option_name": "2 người lớn & 1 trẻ em (0-6 tuổi)",
+                        "option_price": "428.173",
+                        "amenities_for_price": [
+                            "2 người lớn & 1 trẻ em (0-6 tuổi)",
+                            "Miễn phí hủy trước ngày 18 thg 11, 25",
+                            "Đặt và trả tiền ngay",
+                            "Miễn Phí Internet Không Dây"
+                        ]
+                    },
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "487.589",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Miễn phí hủy trước ngày 18 thg 11, 25",
+                            "Trả tiền ở khách sạn",
+                            "Miễn Phí Internet Không Dây"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Phòng Superior gia đình (Superior Family Room)",
+                "amenities": [
+                    "Hướng Thành phố",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Vòi sen",
+                    "Wi-Fi [miễn phí]",
+                    "Điều hòa",
+                    "Tủ quần áo",
+                    "Không hút thuốc",
+                    "30 m²",
+                    "Tối đa 4 người lớn, 1 bé (0-6 tuổi) ở MIỄN PHÍ!",
+                    "2 giường đôi"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "766.043",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Miễn phí hủy trước ngày 18 thg 11, 25",
+                            "Đặt và trả tiền ngay",
+                            "Miễn Phí Internet Không Dây"
+                        ]
+                    },
+                    {
+                        "option_name": "4 người lớn & 1 trẻ em (0-6 tuổi)",
+                        "option_price": "773.367",
+                        "amenities_for_price": [
+                            "4 người lớn & 1 trẻ em (0-6 tuổi)",
+                            "Miễn phí hủy trước ngày 18 thg 11, 25",
+                            "Đặt và trả tiền ngay",
+                            "Miễn Phí Internet Không Dây"
+                        ]
+                    },
+                    {
+                        "option_name": "4 người lớn",
+                        "option_price": "877.459",
+                        "amenities_for_price": [
+                            "4 người lớn",
+                            "Miễn phí hủy trước ngày 18 thg 11, 25",
+                            "Trả tiền ở khách sạn",
+                            "Miễn Phí Internet Không Dây"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "70926469",
+        "hotel_name": "Căn hộ Sea and Sun (Sea and Sun Apartments)",
+        "hotel_address": "88 Vo Nguyen Giap , Man Thai , Son Tra , Da Nang , Viet Nam, Phước Mỹ, Đà Nẵng, Việt Nam, 840511",
+        "room_types": [
+            {
+                "room_type_name": "Business Studio Suite, Kitchen, Beach View",
+                "amenities": [
+                    "Tối đa 2 người lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "919.872",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "High Floor City View King",
+                "amenities": [
+                    "Hướng Bãi biển",
+                    "Ấm nước điện",
+                    "Phòng tắm chung",
+                    "Máy sấy tóc",
+                    "Phòng tắm đứng",
+                    "Truy cập Internet - không dây",
+                    "Rèm che ánh sáng",
+                    "Cà phê hòa tan miễn phí",
+                    "Tủ lạnh",
+                    "Cửa sổ mở",
+                    "38 m²",
+                    "Tối đa 2 người lớn",
+                    "1 giường siêu lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "1.111.111",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Miễn phí hủy trước ngày 18 thg 11, 25",
+                            "Trả tiền ở khách sạn",
+                            "Bãi đậu xe",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "4915233",
+        "hotel_name": "Toan Thang Hotel",
+        "hotel_address": "172-174 Nguyen Van Thoai, Phước Mỹ, Đà Nẵng, Việt Nam, 59000",
+        "room_types": [
+            {
+                "room_type_name": "Phòng Đôi Tiêu Chuẩn (Standard Double Room)",
+                "amenities": [
+                    "Hướng Không có cửa sổ",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Vòi sen",
+                    "Truy cập Internet - không dây",
+                    "Rèm che ánh sáng",
+                    "Điều hòa",
+                    "Tủ lạnh nhỏ trong phòng",
+                    "Cà phê hòa tan miễn phí",
+                    "Ban công/sân hiên",
+                    "20 m²",
+                    "Tối đa 2 người lớn",
+                    "1 giường đôi lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "247.690",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Phục vụ bữa sáng (80.000 ₫ / người)",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Standard Twin Room",
+                "amenities": [
+                    "Hướng Không có cửa sổ",
+                    "Máy sấy tóc",
+                    "Vòi sen",
+                    "Wi-Fi [miễn phí]",
+                    "Điều hòa",
+                    "Tủ lạnh nhỏ trong phòng",
+                    "Cà phê hòa tan miễn phí",
+                    "Ban công/sân hiên",
+                    "tầng cao",
+                    "Tủ quần áo",
+                    "22 m²",
+                    "Tối đa 2 người lớn",
+                    "2 giường đơn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "247.690",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Phục vụ bữa sáng (80.000 ₫ / người)",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "1332521",
+        "hotel_name": "An Binh Tai Hotel",
+        "hotel_address": "92 Tran Thanh Mai, Son Tra, An Hải Bắc, Đà Nẵng, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Phòng Tiêu Chuẩn Giường Đôi Lớn (Standard Queen Room)",
+                "amenities": [
+                    "Ấm nước điện",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Vòi sen",
+                    "Đồ dùng cho giấc ngủ thoải mái",
+                    "Tủ lạnh nhỏ trong phòng",
+                    "Tủ lạnh",
+                    "Điều hòa cá nhân",
+                    "18 m²",
+                    "Tối đa 2 người lớn",
+                    "1 giường đôi"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "221.429",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí"
+                        ]
+                    },
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "246.032",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Miễn phí hủy trước ngày 18 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "34146478",
+        "hotel_name": "Khách sạn The Gold Summer (The Gold Summer Hotel)",
+        "hotel_address": "47 Phước Trường 11, Gold Summer 2, Phước Mỹ, Đà Nẵng, Việt Nam, 550000",
+        "room_types": [
+            {
+                "room_type_name": "Phòng Được sắp xếp tùy ý khi đến (Room Assigned on Arrival)",
+                "amenities": [
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Vòi sen",
+                    "Wi-Fi [miễn phí]",
+                    "Điều hòa",
+                    "Tối đa 2 người lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "263.386",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí"
+                        ]
+                    },
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "263.859",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Miễn phí hủy trước ngày 18 thg 11, 25",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Phòng Đôi Tiêu Chuẩn (Standard Double Room)",
+                "amenities": [
+                    "Ấm nước điện",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Phòng tắm đứng",
+                    "Wi-Fi [miễn phí]",
+                    "Rèm che ánh sáng",
+                    "Tủ lạnh nhỏ trong phòng",
+                    "Nước đóng chai miễn phí",
+                    "Tủ lạnh",
+                    "Cửa sổ",
+                    "20 m²",
+                    "Tối đa 2 người lớn",
+                    "1 giường đôi"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "270.471",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Chính sách hủy",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí"
+                        ]
+                    },
+                    {
+                        "option_name": "2 người lớn & 1 trẻ em (1-5 tuổi)",
+                        "option_price": "344.329",
+                        "amenities_for_price": [
+                            "2 người lớn & 1 trẻ em (1-5 tuổi)",
+                            "Miễn phí hủy trước ngày 19 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "68570201",
+        "hotel_name": "Nhà nghỉ Việt Thương (Việt Thương Motel)",
+        "hotel_address": "Th n ph sơn 1,x h a khương,huyện h a vang Vietnam, Hòa Vang, Đà Nẵng, Việt Nam, 550000",
+        "room_types": [
+            {
+                "room_type_name": "Phòng Đôi (Double Room)",
+                "amenities": [
+                    "Hướng Ngoài trời",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Phòng tắm đứng",
+                    "Wi-Fi [miễn phí]",
+                    "Đồ dùng cho giấc ngủ thoải mái",
+                    "Nước đóng chai miễn phí",
+                    "Ấm nước",
+                    "Cửa sổ",
+                    "Tủ quần áo",
+                    "15 m²",
+                    "Tối đa 2 người lớn",
+                    "1 giường đôi"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "230.125",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Miễn phí hủy trước ngày 18 thg 11, 25",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 38.640 ₫!"
+                        ]
+                    },
+                    {
+                        "option_name": "2 người lớn & 1 trẻ em (0-5 tuổi)",
+                        "option_price": "258.333",
+                        "amenities_for_price": [
+                            "2 người lớn & 1 trẻ em (0-5 tuổi)",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    },
+                    {
+                        "option_name": "2 người lớn & 1 trẻ em (0-5 tuổi)",
+                        "option_price": "284.167",
+                        "amenities_for_price": [
+                            "2 người lớn & 1 trẻ em (0-5 tuổi)",
+                            "Miễn phí hủy trước ngày 18 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Phòng 4 người (Quadruple Room)",
+                "amenities": [
+                    "Hướng Ngoài trời",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Phòng tắm đứng",
+                    "Wi-Fi [miễn phí]",
+                    "Đồ dùng cho giấc ngủ thoải mái",
+                    "Nước đóng chai miễn phí",
+                    "Ấm nước",
+                    "Ban công/sân hiên",
+                    "Cửa sổ",
+                    "25 m²",
+                    "Tối đa 4 người lớn",
+                    "2 giường đôi"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "4 người lớn",
+                        "option_price": "281.021",
+                        "amenities_for_price": [
+                            "4 người lớn",
+                            "Miễn phí hủy trước ngày 18 thg 11, 25",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 32.538 ₫!"
+                        ]
+                    },
+                    {
+                        "option_name": "4 người lớn & 1 trẻ em (0-5 tuổi)",
+                        "option_price": "301.389",
+                        "amenities_for_price": [
+                            "4 người lớn & 1 trẻ em (0-5 tuổi)",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    },
+                    {
+                        "option_name": "4 người lớn & 1 trẻ em (0-5 tuổi)",
+                        "option_price": "331.528",
+                        "amenities_for_price": [
+                            "4 người lớn & 1 trẻ em (0-5 tuổi)",
+                            "Miễn phí hủy trước ngày 18 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "51523503",
+        "hotel_name": "Kidona's House",
+        "hotel_address": "1 Phan Bội Châu, Hải Châu, Đà Nẵng, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Phòng Đôi Phổ Thông (Economy Double Room)",
+                "amenities": [
+                    "Phòng tắm chung",
+                    "Vòi sen",
+                    "Điều hòa",
+                    "Tối đa 2 người lớn",
+                    "1 giường đôi"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "277.778",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Miễn phí hủy trước ngày 19 thg 11, 25",
+                            "Trả tiền ở khách sạn",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Phòng Đôi (Double Room)",
+                "amenities": [
+                    "phòng tắm riêng",
+                    "Vòi sen",
+                    "Điều hòa",
+                    "Tối đa 2 người lớn",
+                    "1 giường đôi lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "277.778",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Miễn phí hủy trước ngày 19 thg 11, 25",
+                            "Trả tiền ở khách sạn",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "545929",
+        "hotel_name": "Khách sạn Đại Long (Dai Long Hotel Da Nang)",
+        "hotel_address": "190-192-194 Ha Huy Tap, phuong Hoa Khe, quan Thanh Khe, Hải Châu, Đà Nẵng, Việt Nam, 550000",
+        "room_types": [
+            {
+                "room_type_name": "Superior giường đôi (Superior Double)",
+                "amenities": [
+                    "Hướng Hồ",
+                    "Bồn tắm",
+                    "Phòng tắm chung",
+                    "Máy sấy tóc",
+                    "Phòng tắm đứng",
+                    "Wi-Fi [miễn phí]",
+                    "Được vào phòng chờ Thương Gia",
+                    "Rèm che ánh sáng",
+                    "Tủ lạnh nhỏ trong phòng",
+                    "Cà phê hòa tan miễn phí",
+                    "27 m²",
+                    "Tối đa 2 người lớn, 1 bé (0-12 tuổi) ở MIỄN PHÍ!",
+                    "1 giường đôi"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn & 1 trẻ em (0-12 tuổi)",
+                        "option_price": "502.645",
+                        "amenities_for_price": [
+                            "2 người lớn & 1 trẻ em (0-12 tuổi)",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Trả tiền cho khách sạn",
+                            "Phòng tập",
+                            "Bãi đậu xe",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí"
+                        ]
+                    },
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "507.807",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Có ăn sáng",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt và trả tiền ngay",
+                            "Phòng tập",
+                            "Bãi đậu xe",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí"
+                        ]
+                    },
+                    {
+                        "option_name": "2 người lớn & 1 trẻ em (0-12 tuổi)",
+                        "option_price": "670.194",
+                        "amenities_for_price": [
+                            "2 người lớn & 1 trẻ em (0-12 tuổi)",
+                            "Có ăn sáng",
+                            "Miễn phí hủy trước ngày 18 thg 11, 25",
+                            "Trả tiền ở khách sạn",
+                            "Phòng tập",
+                            "Bãi đậu xe",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "46737711",
+        "hotel_name": "Romantic APT with SeaView - Beachfont",
+        "hotel_address": "200 Võ Nguyên Giáp, Phước Mỹ, Đà Nẵng, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Căn hộ kiểu Studio Nhìn ra Biển (Studio Apartment with Sea View)",
+                "amenities": [
+                    "Hướng Biển",
+                    "Ấm nước điện",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Phòng tắm đứng",
+                    "Đồ dùng cho giấc ngủ thoải mái",
+                    "Tủ lạnh nhỏ trong phòng",
+                    "Nước đóng chai miễn phí",
+                    "Tủ lạnh",
+                    "Giường cực dài",
+                    "40 m²",
+                    "Tối đa 2 người lớn",
+                    "1 giường lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "1.424.288",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Miễn phí hủy trước ngày 18 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí"
+                        ]
+                    },
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "1.503.415",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt không cần thẻ tín dụng",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Căn Hộ 1 Phòng Ngủ Nhìn Ra Biển (One-Bedroom Apartment with Sea View)",
+                "amenities": [
+                    "Hướng Biển",
+                    "2 phòng tắm",
+                    "Ấm nước điện",
+                    "Bồn tắm tạo sóng",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Phòng tắm đứng",
+                    "Được vào phòng chờ Thương Gia",
+                    "Đồ dùng cho giấc ngủ thoải mái",
+                    "Tủ lạnh nhỏ trong phòng",
+                    "71 m²",
+                    "Tối đa 2 người lớn",
+                    "1 giường lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "1.781.250",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Miễn phí hủy trước ngày 18 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí"
+                        ]
+                    },
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "1.880.208",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt không cần thẻ tín dụng",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí"
+                        ]
+                    },
+                    {
+                        "option_name": "1 người lớn & 1 trẻ em (0-12 tuổi) Vượt quá sức chứa phòng",
+                        "option_price": "1.692.188",
+                        "amenities_for_price": [
+                            "1 người lớn & 1 trẻ em (0-12 tuổi) Vượt quá sức chứa phòng",
+                            "Miễn phí hủy trước ngày 18 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí"
+                        ]
+                    },
+                    {
+                        "option_name": "1 người lớn & 1 trẻ em (0-12 tuổi) Vượt quá sức chứa phòng",
+                        "option_price": "1.786.198",
+                        "amenities_for_price": [
+                            "1 người lớn & 1 trẻ em (0-12 tuổi) Vượt quá sức chứa phòng",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt không cần thẻ tín dụng",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Phòng Có Giường Cỡ King Nhìn Ra Biển (King Room with Sea View)",
+                "amenities": [
+                    "Hướng Núi",
+                    "phòng tắm riêng",
+                    "Vòi sen",
+                    "Điều hòa",
+                    "Máy pha trà/cà phê",
+                    "Ban công/sân hiên",
+                    "Tối đa 2 người lớn",
+                    "1 giường lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "1.900.000",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Miễn phí hủy trước ngày 18 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí"
+                        ]
+                    },
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "2.005.556",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt không cần thẻ tín dụng",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "28139109",
+        "hotel_name": "Vevy House",
+        "hotel_address": "k16/15 Hung Vuong St, Hai Chau, Da Nang, Hải Châu, Đà Nẵng, Việt Nam, 550000",
+        "room_types": [
+            {
+                "room_type_name": "Phòng Giường Đôi Với Phòng Tắm Riêng Bên Ngoài (Double Room with Private External Bathroom)",
+                "amenities": [
+                    "Ấm nước điện",
+                    "Bồn tắm/vòi sen riêng",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Vòi sen",
+                    "Đồ dùng cho giấc ngủ thoải mái",
+                    "Điều hòa",
+                    "Nước đóng chai miễn phí",
+                    "Tủ lạnh",
+                    "Cửa sổ",
+                    "40 m²",
+                    "Tối đa 2 người lớn",
+                    "1 giường đôi lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "433.333",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Miễn phí hủy trước ngày 18 thg 11, 25",
+                            "Trả tiền ở khách sạn",
+                            "Bãi đậu xe",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí"
+                        ]
+                    },
+                    {
+                        "option_name": "1 người lớn & 1 trẻ em (0-12 tuổi) Vượt quá sức chứa phòng",
+                        "option_price": "411.667",
+                        "amenities_for_price": [
+                            "1 người lớn & 1 trẻ em (0-12 tuổi) Vượt quá sức chứa phòng",
+                            "Miễn phí hủy trước ngày 18 thg 11, 25",
+                            "Trả tiền ở khách sạn",
+                            "Bãi đậu xe",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "60814028",
+        "hotel_name": "Riverside Suites",
+        "hotel_address": "16 Lý Thường Kiệt, Hải Châu, Đà Nẵng, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Căn hộ 2 Phòng ngủ Nhìn ra cảnh Mặt nước (Two-Bedroom Apartment with Water View)",
+                "amenities": [
+                    "Hướng Sông",
+                    "2 phòng ngủ",
+                    "2 phòng tắm",
+                    "Ấm nước điện",
+                    "Bồn tắm",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Phòng tắm đứng",
+                    "Đồ dùng cho giấc ngủ thoải mái",
+                    "Nước đóng chai miễn phí",
+                    "75 m²",
+                    "Tối đa 3 người lớn",
+                    "1 giường đôi / 1 giường đôi lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "1.226.667",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Miễn phí hủy trước ngày 18 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng",
+                            "WiFi miễn phí"
+                        ]
+                    },
+                    {
+                        "option_name": "3 người lớn",
+                        "option_price": "1.349.333",
+                        "amenities_for_price": [
+                            "3 người lớn",
+                            "Miễn phí hủy trước ngày 18 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "42073839",
+        "hotel_name": "Nhà khách Gia Huy (Gia Huy Guesthouse)",
+        "hotel_address": "1203 Nguyễn Tất Thành, Thanh Khê Đông, Xuân Hà, Đà Nẵng, Việt Nam, 50307",
+        "room_types": [
+            {
+                "room_type_name": "Phòng Tiêu Chuẩn (Standard Room)",
+                "amenities": [
+                    "Ấm nước điện",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Vòi sen",
+                    "Wi-Fi [miễn phí]",
+                    "Đồ dùng cho giấc ngủ thoải mái",
+                    "Rượu",
+                    "Tủ lạnh",
+                    "Giường cực dài",
+                    "tầng cao",
+                    "20 m²",
+                    "Tối đa 2 người lớn",
+                    "1 giường đôi lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "309.127",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Miễn phí hủy trước ngày 19 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "VUA TIÊU CHUẨN 2 (STANDARD 2 KING)",
+                "amenities": [
+                    "Hướng Ngoài trời",
+                    "Ấm nước điện",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Vòi sen",
+                    "Đồ dùng cho giấc ngủ thoải mái",
+                    "Điều hòa",
+                    "Giường cực dài",
+                    "Phòng thay đồ",
+                    "25 m²",
+                    "Tối đa 3 người lớn",
+                    "2 giường lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "451.984",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Miễn phí hủy trước ngày 19 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng",
+                            "WiFi miễn phí"
+                        ]
+                    },
+                    {
+                        "option_name": "3 người lớn",
+                        "option_price": "489.206",
+                        "amenities_for_price": [
+                            "3 người lớn",
+                            "Miễn phí hủy trước ngày 19 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng",
+                            "WiFi miễn phí"
+                        ]
+                    },
+                    {
+                        "option_name": "1 người lớn Vượt quá sức chứa phòng",
+                        "option_price": "425.397",
+                        "amenities_for_price": [
+                            "1 người lớn Vượt quá sức chứa phòng",
+                            "Miễn phí hủy trước ngày 19 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "16346983",
+        "hotel_name": "Nhà nghỉ My Little Pig (My Little Pig Home)",
+        "hotel_address": "04 An Nhơn 1, Da Nang, An Hải Bắc, Đà Nẵng, Việt Nam, 550000",
+        "room_types": [
+            {
+                "room_type_name": "Phòng Loại Sang Giường Đôi (Deluxe Double Room)",
+                "amenities": [
+                    "Hướng Thành phố",
+                    "Bồn tắm/vòi sen riêng",
+                    "Phòng tắm chung",
+                    "Máy sấy tóc",
+                    "Phòng tắm đứng",
+                    "Wi-Fi [miễn phí]",
+                    "Rèm che ánh sáng",
+                    "Điều hòa",
+                    "Trái cây/đồ ăn vặt",
+                    "Nước đóng chai miễn phí",
+                    "25 m²",
+                    "Tối đa 2 người lớn, 1 bé (0-5 tuổi) ở MIỄN PHÍ!",
+                    "1 giường đôi lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn & 1 trẻ em (0-5 tuổi)",
+                        "option_price": "370.370",
+                        "amenities_for_price": [
+                            "2 người lớn & 1 trẻ em (0-5 tuổi)",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt không cần thẻ tín dụng",
+                            "WiFi miễn phí"
+                        ]
+                    },
+                    {
+                        "option_name": "2 người lớn & 1 trẻ em (0-5 tuổi)",
+                        "option_price": "405.626",
+                        "amenities_for_price": [
+                            "2 người lớn & 1 trẻ em (0-5 tuổi)",
+                            "Miễn phí hủy trước ngày 19 thg 11, 25",
+                            "Đặt và trả tiền ngay",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 110.247 ₫!"
+                        ]
+                    },
+                    {
+                        "option_name": "1 người lớn & 1 trẻ em (0-5 tuổi) Vượt quá sức chứa phòng",
+                        "option_price": "417.735",
+                        "amenities_for_price": [
+                            "1 người lớn & 1 trẻ em (0-5 tuổi) Vượt quá sức chứa phòng",
+                            "Miễn phí hủy trước ngày 19 thg 11, 25",
+                            "Đặt và trả tiền ngay",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 87.820 ₫!"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "44883289",
+        "hotel_name": "Khách sạn Carinae Đà Nẵng (Carinae Danang Hotel)",
+        "hotel_address": "Trường Sa, Hòa Hải, Đà Nẵng, Việt Nam, 550000",
+        "room_types": [
+            {
+                "room_type_name": "Grand Suite Loại Sang 2 Phòng Ngủ có Ban Công (2-Bedroom Grand Deluxe Suite with Balcony)",
+                "amenities": [
+                    "2 phòng ngủ",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Phòng tắm đứng",
+                    "Wi-Fi [miễn phí]",
+                    "Rèm che ánh sáng",
+                    "Điều hòa",
+                    "Tủ lạnh nhỏ trong phòng",
+                    "Nước đóng chai miễn phí",
+                    "Ban công/sân hiên",
+                    "60 m²",
+                    "Tối đa 4 người lớn, 1 bé (0-3 tuổi) ở MIỄN PHÍ!",
+                    "1 giường đôi lớn / 1 giường đôi lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "4 người lớn & 1 trẻ em (0-3 tuổi)",
+                        "option_price": "3.337.146",
+                        "amenities_for_price": [
+                            "4 người lớn & 1 trẻ em (0-3 tuổi)",
+                            "Có ăn sáng",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt và trả tiền ngay",
+                            "Phòng tập",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 55.711 ₫!"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "51214382",
+        "hotel_name": "Nhà nghỉ Biển Xanh (Nha nghi Bien Xanh)",
+        "hotel_address": "Thôn Cảnh Dương, xã Lộc Vĩnh, huyện Phú Lộc, Thừa Thiên Huế, Lăng Cô, Đà Nẵng, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Phòng Tiêu Chuẩn Giường Đôi (Standard Double Room)",
+                "amenities": [
+                    "phòng tắm riêng",
+                    "Vòi sen",
+                    "Nước đóng chai miễn phí",
+                    "Điều hòa cá nhân",
+                    "14 m²",
+                    "Tối đa 2 người lớn",
+                    "1 giường đôi lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "277.778",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Miễn phí hủy trước ngày 18 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Phòng Gia Đình Giường Đôi (Family Double Room)",
+                "amenities": [
+                    "phòng tắm riêng",
+                    "Vòi sen",
+                    "Nước đóng chai miễn phí",
+                    "Điều hòa cá nhân",
+                    "20 m²",
+                    "Tối đa 4 người lớn",
+                    "2 giường đôi lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "4 người lớn",
+                        "option_price": "388.889",
+                        "amenities_for_price": [
+                            "4 người lớn",
+                            "Miễn phí hủy trước ngày 18 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "59054207",
+        "hotel_name": "Khách sạn Phú Mỹ Thành (Phú Mỹ Thành Hotel)",
+        "hotel_address": "Phu My Thanh Hotel, No. 419, Nguyen Tat Thanh, Thanh Binh, Vietnam, Phú Mỹ Thành Hotel, Xuân Hà, Đà Nẵng, Việt Nam, 550000",
+        "room_types": [
+            {
+                "room_type_name": "Phòng Giường Đôi – Nhận Phòng Sau 11:00 Tối, Trả Phòng Đến 12:00 Trưa, Hút Thuốc (Double Room - Check-in After 11:00 PM, Check-out Until 12:00 PM, Smoking)",
+                "amenities": [
+                    "Ấm nước điện",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Vòi sen",
+                    "Điều hòa",
+                    "Ban công/sân hiên",
+                    "Tủ quần áo",
+                    "16 m²",
+                    "Tối đa 2 người lớn, 1 bé (0-2 tuổi) ở MIỄN PHÍ!",
+                    "8 giường đôi lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn & 1 trẻ em (0-2 tuổi)",
+                        "option_price": "332.416",
+                        "amenities_for_price": [
+                            "2 người lớn & 1 trẻ em (0-2 tuổi)",
+                            "Chính sách hủy",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 20.317 ₫!"
+                        ]
+                    },
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "370.370",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Miễn phí hủy trước ngày 19 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Phòng Ngủ 3 Người - Có 3 Giường Đơn (Triple Bedroom - with 3 Single Bed)",
+                "amenities": [
+                    "Hướng Ngoài trời",
+                    "Ấm nước điện",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Vòi sen",
+                    "Điều hòa",
+                    "Tủ quần áo",
+                    "20 m²",
+                    "Tối đa 3 người lớn",
+                    "3 giường đơn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "3 người lớn",
+                        "option_price": "433.717",
+                        "amenities_for_price": [
+                            "3 người lớn",
+                            "Chính sách hủy",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 7.200 ₫!"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "31432641",
+        "hotel_name": "Căn hộ 250 m² 6 phòng ngủ, 6 phòng tắm riêng ở Hải Châu (AIRPORT HOMESTAY)",
+        "hotel_address": "Hải Châu, Đà Nẵng, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Căn hộ (Apartment)",
+                "amenities": [
+                    "Studio/1 phòng ngủ",
+                    "1 phòng tắm",
+                    "Máy sấy tóc",
+                    "Wi-Fi [miễn phí]",
+                    "Điều hòa",
+                    "Tủ quần áo",
+                    "35 m²",
+                    "Tối đa 4 người lớn",
+                    "2 giường đôi"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "4 người lớn",
+                        "option_price": "597.404",
+                        "amenities_for_price": [
+                            "4 người lớn",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 9.739 ₫!"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]
