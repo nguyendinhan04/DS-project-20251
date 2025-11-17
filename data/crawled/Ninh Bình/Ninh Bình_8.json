@@ -1,0 +1,2095 @@
+[
+    {
+        "hotel_id": "81047060",
+        "hotel_name": "Trang an mountain view bungalow",
+        "hotel_address": "Quận Hoa Lư, Ninh Bình, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Bungalow Gia Đình (Family Bungalow)",
+                "amenities": [
+                    "Hướng Ngoài trời",
+                    "Studio/1 phòng ngủ",
+                    "1 phòng tắm",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Vòi sen",
+                    "Điều hòa",
+                    "Ban công/sân hiên",
+                    "Tủ quần áo",
+                    "25 m²",
+                    "Tối đa 4 người lớn",
+                    "1 giường đôi lớn và 1 giường lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "4 người lớn",
+                        "option_price": "585.586",
+                        "amenities_for_price": [
+                            "4 người lớn",
+                            "Có ăn sáng",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "42031269",
+        "hotel_name": "Nhà riêng 5000 m² 1 phòng ngủ, 1 phòng tắm riêng ở Động Tam Cốc - Bích Động (Tam Coc Mountain Flower Homestay)",
+        "hotel_address": "Động Tam Cốc - Bích Động, Ninh Bình, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Nhà riêng (home)",
+                "amenities": [
+                    "Studio/1 phòng ngủ",
+                    "1 phòng tắm",
+                    "Máy sấy tóc",
+                    "Wi-Fi [miễn phí]",
+                    "Điều hòa",
+                    "Cà phê hòa tan miễn phí",
+                    "45 m²",
+                    "Tối đa 4 người lớn",
+                    "1 giường đôi nhỏ"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "4 người lớn & 1 trẻ em (0-7 tuổi)",
+                        "option_price": "527.469",
+                        "amenities_for_price": [
+                            "4 người lớn & 1 trẻ em (0-7 tuổi)",
+                            "Có ăn sáng",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 51.850 ₫!"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "66754487",
+        "hotel_name": "Tam Cốc Newway Homestay (Tam Coc Newway Homestay)",
+        "hotel_address": "NEWWAY HOMESTAY, Động Tam Cốc - Bích Động, Ninh Bình, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Phòng 4 Người Có Ban Công (Quadruple Room with Balcony)",
+                "amenities": [
+                    "Hướng Vườn",
+                    "Ấm nước điện",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Phòng tắm đứng",
+                    "Đồ dùng cho giấc ngủ thoải mái",
+                    "Tủ lạnh",
+                    "Ban công/sân hiên",
+                    "Giường cực dài",
+                    "Đồ gỗ ngoài trời",
+                    "35 m²",
+                    "Tối đa 4 người lớn, 2 bé (0-5 tuổi) ở MIỄN PHÍ!",
+                    "2 giường lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn & 2 trẻ em (0-5 tuổi)",
+                        "option_price": "545.455",
+                        "amenities_for_price": [
+                            "2 người lớn & 2 trẻ em (0-5 tuổi)",
+                            "Có ăn sáng",
+                            "Miễn phí hủy trước ngày 18 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí"
+                        ]
+                    },
+                    {
+                        "option_name": "4 người lớn & 2 trẻ em (0-5 tuổi)",
+                        "option_price": "681.818",
+                        "amenities_for_price": [
+                            "4 người lớn & 2 trẻ em (0-5 tuổi)",
+                            "Có ăn sáng",
+                            "Miễn phí hủy trước ngày 18 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "56784828",
+        "hotel_name": "Non Nuoc Hotel",
+        "hotel_address": "Zone 4, Dong Thanh, Ninh Bình, Ninh Bình, Việt Nam, 430000",
+        "room_types": [
+            {
+                "room_type_name": "Phòng Được sắp xếp tùy ý khi đến (Room Assigned on Arrival)",
+                "amenities": [
+                    "Tối đa 2 người lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "384.323",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt và trả tiền ngay",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 33.096 ₫!"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "64342647",
+        "hotel_name": "Biệt thự 320 m² 4 phòng ngủ, 4 phòng tắm riêng ở Quận Hoa Lư (Tomas Retreat — Villa Ninh Bình)",
+        "hotel_address": "Thị trấn Thiên Tôn, Ninh Bình, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Villa riêng (Private Villa)",
+                "amenities": [
+                    "4 phòng ngủ",
+                    "4 phòng tắm",
+                    "Máy sấy tóc",
+                    "Wi-Fi [miễn phí]",
+                    "Điều hòa",
+                    "Cà phê hòa tan miễn phí",
+                    "Bể bơi riêng",
+                    "Tủ quần áo",
+                    "Tối đa 15 người lớn",
+                    "1 giường lớn / 1 giường lớn / 1 giường siêu lớn / 1 giường siêu lớn / 1 giường đôi nhỏ và 1 giường đôi"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "15 người lớn & 1 trẻ em (0-7 tuổi)",
+                        "option_price": "10.404.762",
+                        "amenities_for_price": [
+                            "15 người lớn & 1 trẻ em (0-7 tuổi)",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 701.000 ₫!"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "45874750",
+        "hotel_name": "Căn hộ 100 m² 5 phòng ngủ, 6 phòng tắm riêng ở Động Tam Cốc - Bích Động (Hai Le tam coc happy homestay)",
+        "hotel_address": ", Hoa Lư, Động Tam Cốc - Bích Động, Ninh Bình, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Phòng Đôi (Double Room)",
+                "amenities": [
+                    "Ấm nước điện",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Vòi sen",
+                    "Đồ dùng cho giấc ngủ thoải mái",
+                    "Nước đóng chai miễn phí",
+                    "Điều hòa cá nhân",
+                    "15 m²",
+                    "Tối đa 2 người lớn",
+                    "1 giường đôi lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "666.667",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Có ăn sáng",
+                            "Miễn phí hủy trước ngày 18 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Phòng Giường Đôi Có Ban Công (Double Room with Balcony)",
+                "amenities": [
+                    "Hướng Hồ",
+                    "Ấm nước điện",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Vòi sen",
+                    "Đồ dùng cho giấc ngủ thoải mái",
+                    "Nước đóng chai miễn phí",
+                    "Ban công/sân hiên",
+                    "Điều hòa cá nhân",
+                    "20 m²",
+                    "Tối đa 2 người lớn",
+                    "1 giường lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "675.000",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Có ăn sáng",
+                            "Miễn phí hủy trước ngày 18 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "77631744",
+        "hotel_name": "Ham rong de lodge",
+        "hotel_address": "Tràng An đi Hang Múa 1, Quận Hoa Lư, Ninh Bình, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Phòng Deluxe Giường Đôi Có Ban Công (Deluxe Double Room with Balcony)",
+                "amenities": [
+                    "Hướng Vườn",
+                    "Ấm nước điện",
+                    "Bồn tắm tạo sóng",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Vòi sen",
+                    "Điều hòa",
+                    "Ban công/sân hiên",
+                    "Tủ quần áo",
+                    "38 m²",
+                    "Tối đa 3 người lớn",
+                    "1 giường đôi và 1 giường sofa"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "3 người lớn",
+                        "option_price": "1.414.141",
+                        "amenities_for_price": [
+                            "3 người lớn",
+                            "Có ăn sáng",
+                            "Miễn phí hủy trước ngày 19 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "Nhận phòng nhanh"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "78329712",
+        "hotel_name": "Tràng An Sunny Homestay",
+        "hotel_address": "Thon Noi, Ninh Xuan, Hoa Lu, Ninh Binh, Quận Hoa Lư, Ninh Bình, Việt Nam, 08101",
+        "room_types": [
+            {
+                "room_type_name": "Double Room, Patio, Courtyard View",
+                "amenities": [
+                    "Tối đa 2 người lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "343.683",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Có ăn sáng",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt và trả tiền ngay",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 51.307 ₫!"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "78340128",
+        "hotel_name": "Chinh Thu Garden Homestay",
+        "hotel_address": "Khe Thuong, Quận Hoa Lư, Ninh Bình, Việt Nam, 430000",
+        "room_types": [
+            {
+                "room_type_name": "Deluxe Double Room, Patio, Lake View",
+                "amenities": [
+                    "31 m²",
+                    "Tối đa 2 người lớn",
+                    "1 giường lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "966.003",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Có ăn sáng",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt và trả tiền ngay",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 81.024 ₫!"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "79351871",
+        "hotel_name": "Sky Hotel",
+        "hotel_address": "Sky hotel, Ninh Bình, Ninh Bình, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Phòng Đôi (Double Room)",
+                "amenities": [
+                    "Hướng Ngoài trời",
+                    "Ấm nước điện",
+                    "Bồn tắm",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Vòi sen",
+                    "Điều hòa",
+                    "Tủ quần áo",
+                    "20 m²",
+                    "Tối đa 2 người lớn",
+                    "1 giường đôi lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "648.148",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    },
+                    {
+                        "option_name": "1 người lớn Vượt quá sức chứa phòng",
+                        "option_price": "583.333",
+                        "amenities_for_price": [
+                            "1 người lớn Vượt quá sức chứa phòng",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "75536205",
+        "hotel_name": "Căn hộ m² 3 phòng ngủ, 2 phòng tắm riêng ở Ninh Bình (Riverside Hotel )",
+        "hotel_address": "Ninh Bình, Ninh Bình, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Căn hộ (Apartment)",
+                "amenities": [
+                    "3 phòng ngủ",
+                    "2 phòng tắm",
+                    "Wi-Fi [miễn phí]",
+                    "Điều hòa",
+                    "Tối đa 2 người lớn",
+                    "6 giường lớn / 2 giường đôi lớn / 1 giường đôi"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn & 1 trẻ em (0-7 tuổi)",
+                        "option_price": "624.180",
+                        "amenities_for_price": [
+                            "2 người lớn & 1 trẻ em (0-7 tuổi)",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 42.180 ₫!"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "78331520",
+        "hotel_name": "Tam Coc Harbor View Hotel & Travel",
+        "hotel_address": "Van Lam, Ninh Hai, Hoa Lu, Ninh Binh, Động Tam Cốc - Bích Động, Ninh Bình, Việt Nam, 432010",
+        "room_types": [
+            {
+                "room_type_name": "Deluxe Triple Room, Non Smoking, Balcony",
+                "amenities": [
+                    "Tối đa 2 người lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "572.439",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Có ăn sáng",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt và trả tiền ngay",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 62.637 ₫!"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "61773594",
+        "hotel_name": "Căn hộ 26 m² 1 phòng ngủ, 1 phòng tắm riêng ở Động Tam Cốc - Bích Động (Vi Hotel)",
+        "hotel_address": "Động Tam Cốc - Bích Động, Ninh Bình, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Căn hộ (Apartment)",
+                "amenities": [
+                    "Studio/1 phòng ngủ",
+                    "1 phòng tắm",
+                    "Máy sấy tóc",
+                    "Wi-Fi [miễn phí]",
+                    "Điều hòa",
+                    "26 m²",
+                    "Tối đa 2 người lớn",
+                    "1 giường siêu lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn & 1 trẻ em (0-7 tuổi)",
+                        "option_price": "527.469",
+                        "amenities_for_price": [
+                            "2 người lớn & 1 trẻ em (0-7 tuổi)",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 51.850 ₫!"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "76060720",
+        "hotel_name": "Nhà riêng m² 1 phòng ngủ, 1 phòng tắm riêng ở [location not yet specified] (Minh Triết Homestay)",
+        "hotel_address": "Ninh Bình, Ninh Bình, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Nhà riêng (home)",
+                "amenities": [
+                    "Studio/1 phòng ngủ",
+                    "1 phòng tắm",
+                    "Wi-Fi [miễn phí]",
+                    "Điều hòa",
+                    "Tối đa 4 người lớn",
+                    "2 giường siêu lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "4 người lớn & 1 trẻ em (0-7 tuổi)",
+                        "option_price": "531.945",
+                        "amenities_for_price": [
+                            "4 người lớn & 1 trẻ em (0-7 tuổi)",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 46.774 ₫!"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "46594166",
+        "hotel_name": "Tam coc happy homestay",
+        "hotel_address": "tam coc happy homestay xóm lò vôi,văn lâm,ninh hải,hoa lư,ninh bình, Động Tam Cốc - Bích Động, Ninh Bình, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Phòng Có Giường Cỡ King Nhìn Ra Vườn (King Room with Garden View)",
+                "amenities": [
+                    "phòng tắm riêng",
+                    "Điều hòa",
+                    "20 m²",
+                    "Tối đa 2 người lớn",
+                    "1 giường lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "527.778",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Có ăn sáng",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    },
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "555.556",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Có ăn sáng",
+                            "Miễn phí hủy trước ngày 20 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "44258591",
+        "hotel_name": "Nhà riêng 16 m² 18 phòng ngủ, 18 phòng tắm riêng ở Đầm Vân Long (Nha Nghi Long An)",
+        "hotel_address": "Đầm Vân Long, Ninh Bình, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Nhà riêng (home)",
+                "amenities": [
+                    "18 phòng ngủ",
+                    "18 phòng tắm",
+                    "Wi-Fi [miễn phí]",
+                    "Điều hòa",
+                    "16 m²",
+                    "Tối đa 30 người lớn",
+                    "1 giường đôi lớn / 1 giường đôi lớn / 1 giường đôi lớn / 1 giường đôi lớn / 1 giường đôi lớn / 2 giường đơn / 2 giường đơn / 2 giường đơn / 1 giường đôi lớn / 1 giường đôi lớn / 1 giường đôi lớn / 1 giường đôi lớn / 1 giường đôi lớn / 2 giường đơn / 1 giường đôi lớn / 1 giường đôi lớn / 1 giường đôi lớn / 1 giường đôi lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "30 người lớn & 1 trẻ em (0-7 tuổi)",
+                        "option_price": "195.945",
+                        "amenities_for_price": [
+                            "30 người lớn & 1 trẻ em (0-7 tuổi)",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 22.446 ₫!"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "9372857",
+        "hotel_name": "Ninh Binh Village 1990 Homestay",
+        "hotel_address": "thon Khe Ha,xa Ninh Xuan,huyen Hoa Lu,tinh Ninh Binh, Quận Hoa Lư, Ninh Bình, Việt Nam, 630500",
+        "room_types": [
+            {
+                "room_type_name": "Phòng Có Giường Cỡ King Nhìn Ra Vườn (King Room with Garden View)",
+                "amenities": [
+                    "Hướng Vườn",
+                    "Ấm nước điện",
+                    "Phòng tắm chung",
+                    "Máy sấy tóc",
+                    "Phòng tắm đứng",
+                    "Được vào phòng chờ Thương Gia",
+                    "Chăn điện",
+                    "Điều hòa",
+                    "Nước đóng chai miễn phí",
+                    "Ban công/sân hiên",
+                    "20 m²",
+                    "Tối đa 2 người lớn",
+                    "1 giường lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "360.000",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí"
+                        ]
+                    },
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "369.630",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Miễn phí hủy trước ngày 18 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí"
+                        ]
+                    },
+                    {
+                        "option_name": "1 người lớn Vượt quá sức chứa phòng",
+                        "option_price": "342.000",
+                        "amenities_for_price": [
+                            "1 người lớn Vượt quá sức chứa phòng",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí"
+                        ]
+                    },
+                    {
+                        "option_name": "1 người lớn Vượt quá sức chứa phòng",
+                        "option_price": "351.148",
+                        "amenities_for_price": [
+                            "1 người lớn Vượt quá sức chứa phòng",
+                            "Miễn phí hủy trước ngày 18 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "79103072",
+        "hotel_name": "Hoalu Rosa Hotel",
+        "hotel_address": "Number 322, 30/6 street, Ninh Bình, Ninh Bình, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Phòng Đôi (Double Room)",
+                "amenities": [
+                    "Hướng Vườn",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Vòi sen",
+                    "Đồ dùng cho giấc ngủ thoải mái",
+                    "Điều hòa",
+                    "Máy pha trà/cà phê",
+                    "Giường cực dài",
+                    "Phòng thay đồ",
+                    "30 m²",
+                    "Tối đa 2 người lớn",
+                    "1 giường đôi lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "248.162",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Miễn phí hủy trước ngày 18 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "Nhận phòng nhanh"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Phòng Gia Đình (Family Room)",
+                "amenities": [
+                    "Hướng Vườn",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Vòi sen",
+                    "Đồ dùng cho giấc ngủ thoải mái",
+                    "Điều hòa",
+                    "Máy pha trà/cà phê",
+                    "Giường cực dài",
+                    "Phòng thay đồ",
+                    "45 m²",
+                    "Tối đa 3 người lớn",
+                    "2 giường đơn và 1 giường lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "3 người lớn",
+                        "option_price": "372.243",
+                        "amenities_for_price": [
+                            "3 người lớn",
+                            "Miễn phí hủy trước ngày 18 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "Nhận phòng nhanh"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Phòng Ba Người (Triple Room)",
+                "amenities": [
+                    "Hướng Ngoài trời",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Vòi sen",
+                    "Đồ dùng cho giấc ngủ thoải mái",
+                    "Điều hòa",
+                    "Máy pha trà/cà phê",
+                    "Ban công/sân hiên",
+                    "Giường cực dài",
+                    "Phòng thay đồ",
+                    "43 m²",
+                    "Tối đa 3 người lớn",
+                    "1 giường đơn và 1 giường lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "3 người lớn",
+                        "option_price": "413.603",
+                        "amenities_for_price": [
+                            "3 người lớn",
+                            "Miễn phí hủy trước ngày 18 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "Nhận phòng nhanh"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "6595276",
+        "hotel_name": "Nhà mặt đất studio 70 m² có 1 phòng tắm riêng ở Quận Hoa Lư (Hoang Homestay)",
+        "hotel_address": "Quận Hoa Lư, Ninh Bình, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Nhà riêng (home)",
+                "amenities": [
+                    "1 phòng tắm",
+                    "Máy sấy tóc",
+                    "Wi-Fi [miễn phí]",
+                    "Điều hòa",
+                    "Trà miễn phí",
+                    "Tủ quần áo",
+                    "Cho phép hút thuốc",
+                    "70 m²",
+                    "Tối đa 4 người lớn",
+                    "1 giường đơn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "4 người lớn & 1 trẻ em (0-12 tuổi)",
+                        "option_price": "249.177",
+                        "amenities_for_price": [
+                            "4 người lớn & 1 trẻ em (0-12 tuổi)",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 28.544 ₫!"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "1143853",
+        "hotel_name": "Riverside Homestay (Riverside Homestay Ninh Binh)",
+        "hotel_address": "Nguyen Huu An Street, Co Loan Ha 1 Village, Ninh Tien Commuce, Ninh Bình, Ninh Bình, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Phòng Deluxe Đôi nhìn ra quang cảnh Núi (Deluxe Double Room with Mountain View)",
+                "amenities": [
+                    "Hướng Núi",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Vòi sen",
+                    "Wi-Fi [miễn phí]",
+                    "Điều hòa",
+                    "Tủ lạnh nhỏ trong phòng",
+                    "Nước đóng chai miễn phí",
+                    "Ban công/sân hiên",
+                    "Không hút thuốc",
+                    "30 m²",
+                    "Tối đa 2 người lớn",
+                    "1 giường đôi hoặc 2 giường đơn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "428.753",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 64.006 ₫!"
+                        ]
+                    },
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "614.834",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Có ăn sáng",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 27.662 ₫!"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Phòng Được sắp xếp tùy ý khi đến (Room Assigned on Arrival)",
+                "amenities": [
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Vòi sen",
+                    "Wi-Fi [miễn phí]",
+                    "Điều hòa",
+                    "Tủ lạnh nhỏ trong phòng",
+                    "Nước đóng chai miễn phí",
+                    "Ban công/sân hiên",
+                    "Tối đa 2 người lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "483.700",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 9.390 ₫!"
+                        ]
+                    },
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "531.101",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Có ăn sáng",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "7125996",
+        "hotel_name": "Gia Nguyen Hotel",
+        "hotel_address": "No. 3, Xom, Gia Sinh, Bai Dinh Pagoda, Ninh Binh, Huyện Gia Viễn, Ninh Bình, Việt Nam, 08000",
+        "room_types": [
+            {
+                "room_type_name": "Phòng 2 giường đơn có ban công (Twin Room with Balcony)",
+                "amenities": [
+                    "Hướng Vườn",
+                    "phòng tắm riêng",
+                    "Vòi sen",
+                    "Đồ dùng cho giấc ngủ thoải mái",
+                    "Điều hòa",
+                    "Nước đóng chai miễn phí",
+                    "Ban công/sân hiên",
+                    "Tủ quần áo",
+                    "20 m²",
+                    "Tối đa 2 người lớn",
+                    "2 giường đôi"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "342.935",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Phục vụ bữa sáng (52.701 ₫ / người)",
+                            "Miễn phí hủy trước ngày 18 thg 11, 25",
+                            "Trả tiền ở khách sạn",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Phòng Có Giường Cỡ King Nhìn Ra Vườn (King Room with Garden View)",
+                "amenities": [
+                    "Hướng Núi",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Vòi sen",
+                    "Đồ dùng cho giấc ngủ thoải mái",
+                    "Điều hòa",
+                    "Nước đóng chai miễn phí",
+                    "Ban công/sân hiên",
+                    "Tủ quần áo",
+                    "20 m²",
+                    "Tối đa 2 người lớn",
+                    "1 giường đôi lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "342.935",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Phục vụ bữa sáng (52.701 ₫ / người)",
+                            "Miễn phí hủy trước ngày 18 thg 11, 25",
+                            "Trả tiền ở khách sạn",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "71446872",
+        "hotel_name": "Sen Villa Tam Cốc (Sen Villa Tam Coc)",
+        "hotel_address": "Động Tam Cốc - Bích Động, Ninh Bình, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Phòng Có Giường Cỡ King Nhìn Ra Vườn (King Room with Garden View)",
+                "amenities": [
+                    "Studio/1 phòng ngủ",
+                    "1 phòng tắm",
+                    "Ấm nước điện",
+                    "Bồn tắm",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Vòi sen",
+                    "Điều hòa",
+                    "Ban công/sân hiên",
+                    "Tủ quần áo",
+                    "25 m²",
+                    "Tối đa 3 người lớn",
+                    "1 giường lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "827.206",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Chính sách hủy",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "78330782",
+        "hotel_name": "Sunset Garden",
+        "hotel_address": "co loan ben, Ninh Bình, Ninh Bình, Việt Nam, 430000",
+        "room_types": [
+            {
+                "room_type_name": "Basic Double Room, Garden View",
+                "amenities": [
+                    "Hướng Vườn",
+                    "Sưởi",
+                    "Tối đa 2 người lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "445.483",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Có ăn sáng",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt và trả tiền ngay",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 38.001 ₫!"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "78342721",
+        "hotel_name": "Ninh Binh Peaceful Retreat",
+        "hotel_address": "Truong Yen , Hoa Lu , Ninh Binh, Quận Hoa Lư, Ninh Bình, Việt Nam, 430000",
+        "room_types": [
+            {
+                "room_type_name": "Standard Room, Garden View",
+                "amenities": [
+                    "Tối đa 2 người lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "309.659",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Có ăn sáng",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt và trả tiền ngay",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 46.223 ₫!"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "81042417",
+        "hotel_name": "Tam Coc Anna Villa",
+        "hotel_address": "Tam Coc Anna Villa 5, Động Tam Cốc - Bích Động, Ninh Bình, Việt Nam, 430000",
+        "room_types": [
+            {
+                "room_type_name": "Phòng Đôi Loại Sang (Deluxe Double Room)",
+                "amenities": [
+                    "Hướng Núi",
+                    "Ấm nước điện",
+                    "Phòng tắm chung",
+                    "Máy sấy tóc",
+                    "Vòi sen",
+                    "Được vào phòng chờ Thương Gia",
+                    "Đồ dùng cho giấc ngủ thoải mái",
+                    "Rượu",
+                    "Nước đóng chai miễn phí",
+                    "Tủ lạnh",
+                    "25 m²",
+                    "Tối đa 2 người lớn",
+                    "1 giường đôi"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "470.909",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Có ăn sáng",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Phòng Deluxe Gia đình (Deluxe Family Room)",
+                "amenities": [
+                    "Hướng Núi",
+                    "Ấm nước điện",
+                    "Phòng tắm chung",
+                    "Máy sấy tóc",
+                    "Vòi sen",
+                    "Được vào phòng chờ Thương Gia",
+                    "Đồ dùng cho giấc ngủ thoải mái",
+                    "Rượu",
+                    "Nước đóng chai miễn phí",
+                    "Tủ lạnh",
+                    "30 m²",
+                    "Tối đa 4 người lớn",
+                    "2 giường đôi"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "4 người lớn",
+                        "option_price": "672.727",
+                        "amenities_for_price": [
+                            "4 người lớn",
+                            "Có ăn sáng",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Phòng Gia Đình Tiêu Chuẩn (Standard Family Room)",
+                "amenities": [
+                    "Hướng Núi",
+                    "Ấm nước điện",
+                    "Phòng tắm chung",
+                    "Máy sấy tóc",
+                    "Vòi sen",
+                    "Được vào phòng chờ Thương Gia",
+                    "Đồ dùng cho giấc ngủ thoải mái",
+                    "Rượu",
+                    "Nước đóng chai miễn phí",
+                    "Tủ lạnh",
+                    "27 m²",
+                    "Tối đa 3 người lớn",
+                    "1 giường đơn và 1 giường đôi"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "3 người lớn",
+                        "option_price": "692.236",
+                        "amenities_for_price": [
+                            "3 người lớn",
+                            "Có ăn sáng",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "71410272",
+        "hotel_name": "m² 12 phòng ngủ, 12 phòng tắm riêng ở Quận Hoa Lư (Bamboo Riverside Homestay)",
+        "hotel_address": "Quận Hoa Lư, Ninh Bình, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Căn Hộ 1 Phòng Ngủ (Homestay)",
+                "amenities": [
+                    "Studio/1 phòng ngủ",
+                    "1 phòng tắm",
+                    "Máy sấy tóc",
+                    "Wi-Fi [miễn phí]",
+                    "Điều hòa",
+                    "Tủ quần áo",
+                    "Tối đa 2 người lớn",
+                    "1 giường đơn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "761.262",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 106.729 ₫!"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "39514528",
+        "hotel_name": "Nhà riêng 130 m² 2 phòng ngủ, 1 phòng tắm riêng ở Ninh Bình (One Day 2 bedrooms apartment with sky view)",
+        "hotel_address": "Ninh Bình, Ninh Bình, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Nhà riêng (home)",
+                "amenities": [
+                    "2 phòng ngủ",
+                    "1 phòng tắm",
+                    "Máy sấy tóc",
+                    "Wi-Fi [miễn phí]",
+                    "Điều hòa",
+                    "Tủ quần áo",
+                    "130 m²",
+                    "Tối đa 4 người lớn",
+                    "1 giường đôi lớn / 1 giường đôi lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "4 người lớn & 1 trẻ em (0-7 tuổi)",
+                        "option_price": "4.053.106",
+                        "amenities_for_price": [
+                            "4 người lớn & 1 trẻ em (0-7 tuổi)",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 181.556 ₫!"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "39574501",
+        "hotel_name": "Nhà riêng 130 m² 2 phòng ngủ, 1 phòng tắm riêng ở Ninh Bình (Romantic lake getaway, suitable for family)",
+        "hotel_address": "Ninh Bình, Ninh Bình, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Nhà riêng (home)",
+                "amenities": [
+                    "2 phòng ngủ",
+                    "1 phòng tắm",
+                    "Máy sấy tóc",
+                    "Wi-Fi [miễn phí]",
+                    "Điều hòa",
+                    "Cà phê hòa tan miễn phí",
+                    "Tủ quần áo",
+                    "Cho phép hút thuốc",
+                    "130 m²",
+                    "Tối đa 4 người lớn",
+                    "2 giường đôi lớn / 2 giường đôi lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "4 người lớn & 1 trẻ em (0-7 tuổi)",
+                        "option_price": "4.053.106",
+                        "amenities_for_price": [
+                            "4 người lớn & 1 trẻ em (0-7 tuổi)",
+                            "Có ăn sáng",
+                            "Đặt và trả tiền ngay",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 181.556 ₫!"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "80091180",
+        "hotel_name": "Ninh Binh Mountain Resort",
+        "hotel_address": "Tràng An đi Hang Múa, Quận Hoa Lư, Ninh Bình, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Phòng Đôi (Double Room)",
+                "amenities": [
+                    "Hướng Vườn",
+                    "Ấm nước điện",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Vòi sen",
+                    "Điều hòa",
+                    "30 m²",
+                    "Tối đa 2 người lớn",
+                    "1 giường đôi"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "1.652.893",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Có ăn sáng",
+                            "Miễn phí hủy trước ngày 19 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "79528877",
+        "hotel_name": "Cometa Villas Ninh Bình",
+        "hotel_address": ", Gia Minh, Cometa Villas Ninh Binh, Huyện Gia Viễn, Ninh Bình, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Biệt Thự 1 Phòng Ngủ (One-Bedroom Villa)",
+                "amenities": [
+                    "Hướng Núi",
+                    "Ấm nước điện",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Phòng tắm đứng",
+                    "Được vào phòng chờ Thương Gia",
+                    "Đồ dùng cho giấc ngủ thoải mái",
+                    "Điều hòa",
+                    "Rượu",
+                    "Nước đóng chai miễn phí",
+                    "110 m²",
+                    "Tối đa 2 người lớn",
+                    "1 giường đôi / 1 giường sofa"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "2.491.582",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Có ăn sáng",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Trả tiền ở khách sạn",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Biệt Thự 2 Phòng Ngủ (Two-Bedroom Villa)",
+                "amenities": [
+                    "Hướng Núi",
+                    "2 phòng ngủ",
+                    "2 phòng tắm",
+                    "Ấm nước điện",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Phòng tắm đứng",
+                    "Được vào phòng chờ Thương Gia",
+                    "Đồ dùng cho giấc ngủ thoải mái",
+                    "Điều hòa",
+                    "160 m²",
+                    "Tối đa 4 người lớn",
+                    "1 giường lớn / 1 giường lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "4 người lớn",
+                        "option_price": "3.737.374",
+                        "amenities_for_price": [
+                            "4 người lớn",
+                            "Có ăn sáng",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Trả tiền ở khách sạn",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "25916946",
+        "hotel_name": "Nhà riêng 29 m² 1 phòng ngủ, 1 phòng tắm riêng ở Quận Hoa Lư (Twin Room with Garden View)",
+        "hotel_address": "Quận Hoa Lư, Ninh Bình, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Nhà riêng (home)",
+                "amenities": [
+                    "Studio/1 phòng ngủ",
+                    "1 phòng tắm",
+                    "Máy sấy tóc",
+                    "Wi-Fi [miễn phí]",
+                    "Điều hòa",
+                    "Cà phê hòa tan miễn phí",
+                    "Máy pha trà/cà phê",
+                    "Tủ quần áo",
+                    "29 m²",
+                    "Tối đa 4 người lớn",
+                    "2 giường đôi lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "4 người lớn & 1 trẻ em (0-7 tuổi)",
+                        "option_price": "585.297",
+                        "amenities_for_price": [
+                            "4 người lớn & 1 trẻ em (0-7 tuổi)",
+                            "Có ăn sáng",
+                            "Chính sách hủy",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 176.795 ₫!"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "79458038",
+        "hotel_name": "Hang Mua Cozy Homestay",
+        "hotel_address": "Đường Thượng Nam, Quận Hoa Lư, Ninh Bình, Việt Nam, 08212",
+        "room_types": [
+            {
+                "room_type_name": "Phòng có giường cỡ King nhìn ra cảnh núi non (King Room with Mountain View)",
+                "amenities": [
+                    "Hướng Núi",
+                    "Ấm nước điện",
+                    "Phòng tắm chung",
+                    "Máy sấy tóc",
+                    "Phòng tắm đứng",
+                    "Đồ dùng cho giấc ngủ thoải mái",
+                    "Nước đóng chai miễn phí",
+                    "Tủ lạnh",
+                    "Ban công/sân hiên",
+                    "Giường cực dài",
+                    "28 m²",
+                    "Tối đa 2 người lớn",
+                    "1 giường lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "392.727",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Có ăn sáng",
+                            "Miễn phí hủy trước ngày 19 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí"
+                        ]
+                    },
+                    {
+                        "option_name": "1 người lớn Vượt quá sức chứa phòng",
+                        "option_price": "370.909",
+                        "amenities_for_price": [
+                            "1 người lớn Vượt quá sức chứa phòng",
+                            "Có ăn sáng",
+                            "Miễn phí hủy trước ngày 19 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "16996206",
+        "hotel_name": "Nhà riêng 20 m² 1 phòng ngủ, 1 phòng tắm riêng ở Động Tam Cốc - Bích Động (GREEN SPACE HOMESTAY - 102)",
+        "hotel_address": "Động Tam Cốc - Bích Động, Ninh Bình, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Nhà riêng (home)",
+                "amenities": [
+                    "Studio/1 phòng ngủ",
+                    "1 phòng tắm",
+                    "Máy sấy tóc",
+                    "Wi-Fi [miễn phí]",
+                    "Điều hòa",
+                    "20 m²",
+                    "Tối đa 2 người lớn",
+                    "1 giường lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn & 1 trẻ em (0-7 tuổi)",
+                        "option_price": "328.380",
+                        "amenities_for_price": [
+                            "2 người lớn & 1 trẻ em (0-7 tuổi)",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 37.617 ₫!"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "75242410",
+        "hotel_name": "Chian homestay Hoa Lư (Chian Homestay Hoa Lu)",
+        "hotel_address": "45 Đ. Đinh Điền, Ninh Khánh, Ninh Bình, Ninh Bình, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Studio Có Sân Hiên (Studio with Terrace)",
+                "amenities": [
+                    "Hướng Vườn",
+                    "Ấm nước điện",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Vòi sen",
+                    "Điều hòa",
+                    "Ban công/sân hiên",
+                    "Giường cực dài",
+                    "tầng trệt",
+                    "23 m²",
+                    "Tối đa 2 người lớn",
+                    "1 giường lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "707.546",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt không cần thẻ tín dụng",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Phòng 3 Người Nhìn Ra Vườn (Triple Room with Garden View)",
+                "amenities": [
+                    "Hướng Vườn",
+                    "Ấm nước điện",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Vòi sen",
+                    "Điều hòa",
+                    "Ban công/sân hiên",
+                    "Giường cực dài",
+                    "tầng trệt",
+                    "27 m²",
+                    "Tối đa 3 người lớn",
+                    "1 giường đôi và 1 giường lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "3 người lớn",
+                        "option_price": "1.022.361",
+                        "amenities_for_price": [
+                            "3 người lớn",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt không cần thẻ tín dụng",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "74540579",
+        "hotel_name": "Căn hộ m² 1 phòng ngủ, 1 phòng tắm riêng ở Động Tam Cốc - Bích Động (Hang Múa Bungalow )",
+        "hotel_address": "Quận Hoa Lư, Ninh Bình, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Căn hộ (Apartment)",
+                "amenities": [
+                    "3 phòng ngủ",
+                    "8 phòng tắm",
+                    "Wi-Fi [miễn phí]",
+                    "Điều hòa",
+                    "Tối đa 8 người lớn",
+                    "6 giường đôi lớn / 2 giường đơn / 2 giường đơn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "8 người lớn & 1 trẻ em (0-7 tuổi)",
+                        "option_price": "518.523",
+                        "amenities_for_price": [
+                            "8 người lớn & 1 trẻ em (0-7 tuổi)",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 48.495 ₫!"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "503335",
+        "hotel_name": "Khách sạn Nhà hàng Tam Cốc Panorama and Vegan (Tam Coc Panorama Hotel Restaurant and Vegan )",
+        "hotel_address": "Tam Coc, Bich Dong, Hai Nham, Động Tam Cốc - Bích Động, Ninh Bình, Việt Nam, 70000",
+        "room_types": [
+            {
+                "room_type_name": "Phòng Đôi (Double Room)",
+                "amenities": [
+                    "Hướng Vườn",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Phòng tắm đứng",
+                    "Wi-Fi [miễn phí]",
+                    "Tủ lạnh nhỏ trong phòng",
+                    "Nước đóng chai miễn phí",
+                    "Ấm nước",
+                    "Tủ lạnh",
+                    "Cửa sổ",
+                    "20 m²",
+                    "Tối đa 2 người lớn, 1 bé (0-10 tuổi) ở MIỄN PHÍ!",
+                    "1 giường đôi"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn & 1 trẻ em (0-10 tuổi)",
+                        "option_price": "264.863",
+                        "amenities_for_price": [
+                            "2 người lớn & 1 trẻ em (0-10 tuổi)",
+                            "Có ăn sáng",
+                            "Chính sách hủy",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 55.896 ₫!"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Phòng Ba Người (Triple Room)",
+                "amenities": [
+                    "Hướng Vườn",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Phòng tắm đứng",
+                    "Wi-Fi [miễn phí]",
+                    "Tủ lạnh nhỏ trong phòng",
+                    "Nước đóng chai miễn phí",
+                    "Ấm nước",
+                    "Tủ lạnh",
+                    "Cửa sổ",
+                    "26 m²",
+                    "Tối đa 3 người lớn, 1 bé (0-10 tuổi) ở MIỄN PHÍ!",
+                    "1 giường đơn và 1 giường đôi"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "3 người lớn & 1 trẻ em (0-10 tuổi)",
+                        "option_price": "422.361",
+                        "amenities_for_price": [
+                            "3 người lớn & 1 trẻ em (0-10 tuổi)",
+                            "Có ăn sáng",
+                            "Chính sách hủy",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 35.183 ₫!"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "46748971",
+        "hotel_name": "Nhà riêng 39 m² 1 phòng ngủ, 1 phòng tắm riêng ở Quận Hoa Lư (Deluxe Room with Mountain View)",
+        "hotel_address": "Quận Hoa Lư, Ninh Bình, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Nhà riêng (home)",
+                "amenities": [
+                    "Studio/1 phòng ngủ",
+                    "1 phòng tắm",
+                    "Máy sấy tóc",
+                    "Wi-Fi [miễn phí]",
+                    "Điều hòa",
+                    "Cà phê hòa tan miễn phí",
+                    "Máy pha trà/cà phê",
+                    "Tủ quần áo",
+                    "39 m²",
+                    "Tối đa 4 người lớn",
+                    "2 giường lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "4 người lớn & 1 trẻ em (0-7 tuổi)",
+                        "option_price": "874.050",
+                        "amenities_for_price": [
+                            "4 người lớn & 1 trẻ em (0-7 tuổi)",
+                            "Có ăn sáng",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 81.328 ₫!"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "73535142",
+        "hotel_name": "Núi Vàng Tràng An",
+        "hotel_address": "Xom Vang, xa Ninh Tien, Hoa Lu Ninh Binh, Thị trấn Thiên Tôn, Ninh Bình, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Phòng Đôi Cao Cấp (Superior Double Room)",
+                "amenities": [
+                    "Tối đa 2 người lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "370.906",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt và trả tiền ngay",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 55.370 ₫!"
+                        ]
+                    },
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "466.629",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Có ăn sáng",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt và trả tiền ngay",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 38.523 ₫!"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Phòng Đơn Cao Cấp (Superior Single Room)",
+                "amenities": [
+                    "Tối đa 2 người lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "370.906",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt và trả tiền ngay",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 55.370 ₫!"
+                        ]
+                    },
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "466.629",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Có ăn sáng",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt và trả tiền ngay",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 38.523 ₫!"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "5177341",
+        "hotel_name": "Tam Coc - Thành Homestay (Tam Coc - Thanh Homestay)",
+        "hotel_address": "Tam Coc, Van Lam, Ninh Hai, Hoa Lu, Động Tam Cốc - Bích Động, Ninh Bình, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Phòng Deluxe Giường Đôi/2 Giường Đơn Nhìn Ra Vườn (Deluxe Double or Twin Room with Garden View)",
+                "amenities": [
+                    "Hướng Vườn",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Phòng tắm đứng",
+                    "Đồ dùng cho giấc ngủ thoải mái",
+                    "Điều hòa",
+                    "Nước đóng chai miễn phí",
+                    "Ban công/sân hiên",
+                    "Cửa sổ",
+                    "Phòng thay đồ",
+                    "20 m²",
+                    "Tối đa 2 người lớn, 1 bé (0-3 tuổi) ở MIỄN PHÍ!",
+                    "1 giường đơn và 1 giường đôi lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn & 1 trẻ em (0-3 tuổi)",
+                        "option_price": "611.111",
+                        "amenities_for_price": [
+                            "2 người lớn & 1 trẻ em (0-3 tuổi)",
+                            "Có ăn sáng",
+                            "Miễn phí hủy trước ngày 19 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí"
+                        ]
+                    },
+                    {
+                        "option_name": "1 người lớn & 1 trẻ em (0-3 tuổi) Vượt quá sức chứa phòng",
+                        "option_price": "555.556",
+                        "amenities_for_price": [
+                            "1 người lớn & 1 trẻ em (0-3 tuổi) Vượt quá sức chứa phòng",
+                            "Có ăn sáng",
+                            "Miễn phí hủy trước ngày 19 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Phòng Deluxe Giường Đôi/2 Giường Đơn Có Ban Công (Deluxe Double or Twin Room with Balcony)",
+                "amenities": [
+                    "Hướng Núi",
+                    "Phòng tắm chung",
+                    "Máy sấy tóc",
+                    "Phòng tắm đứng",
+                    "Đồ dùng cho giấc ngủ thoải mái",
+                    "Điều hòa",
+                    "Nước đóng chai miễn phí",
+                    "Tủ lạnh",
+                    "Ban công/sân hiên",
+                    "Cửa sổ",
+                    "20 m²",
+                    "Tối đa 2 người lớn, 1 bé (0-3 tuổi) ở MIỄN PHÍ!",
+                    "1 giường đơn và 1 giường đôi lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn & 1 trẻ em (0-3 tuổi)",
+                        "option_price": "626.984",
+                        "amenities_for_price": [
+                            "2 người lớn & 1 trẻ em (0-3 tuổi)",
+                            "Có ăn sáng",
+                            "Miễn phí hủy trước ngày 19 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí"
+                        ]
+                    },
+                    {
+                        "option_name": "1 người lớn & 1 trẻ em (0-3 tuổi) Vượt quá sức chứa phòng",
+                        "option_price": "564.286",
+                        "amenities_for_price": [
+                            "1 người lớn & 1 trẻ em (0-3 tuổi) Vượt quá sức chứa phòng",
+                            "Có ăn sáng",
+                            "Miễn phí hủy trước ngày 19 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "45032692",
+        "hotel_name": "Ninh Binh Sona Resort",
+        "hotel_address": "Thon Thuong, Xa Ninh Nhat, Ninh Binh, Ninh Binh, 430000, Vietnam, Ninh Bình, Ninh Bình, Việt Nam, 430000",
+        "room_types": [
+            {
+                "room_type_name": "Phòng Được sắp xếp tùy ý khi đến (Room Assigned on Arrival)",
+                "amenities": [
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Vòi sen",
+                    "Wi-Fi [miễn phí]",
+                    "Điều hòa",
+                    "Tủ lạnh nhỏ trong phòng",
+                    "Nước đóng chai miễn phí",
+                    "Hành lang ngoài",
+                    "Tối đa 2 người lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "644.061",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Có ăn sáng",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt và trả tiền ngay",
+                            "Miễn Phí Internet Không Dây",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 24.378 ₫!"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "78345951",
+        "hotel_name": "Ali Home",
+        "hotel_address": "Ninh Xuan, 5, Quận Hoa Lư, Ninh Bình, Việt Nam, 08200",
+        "room_types": [
+            {
+                "room_type_name": "Deluxe Double Room Single Use, Mountain View",
+                "amenities": [
+                    "Tối đa 2 người lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "722.067",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Có ăn sáng",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt và trả tiền ngay",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 71.996 ₫!"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Deluxe Double Room Single Use, Mountain View",
+                "amenities": [
+                    "Hướng Núi",
+                    "Không hút thuốc",
+                    "30 m²",
+                    "Tối đa 2 người lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "885.404",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Có ăn sáng",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt và trả tiền ngay"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "48886323",
+        "hotel_name": "Nice homestay in Ninh Binh",
+        "hotel_address": "Quận Hoa Lư, Ninh Bình, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Căn Hộ 3 Phòng Ngủ (Three-Bedroom Apartment)",
+                "amenities": [
+                    "Hướng Núi",
+                    "3 phòng ngủ",
+                    "3 phòng tắm",
+                    "Ấm nước điện",
+                    "Phòng tắm chung",
+                    "Máy sấy tóc",
+                    "Vòi sen",
+                    "Đồ dùng cho giấc ngủ thoải mái",
+                    "Nước đóng chai miễn phí",
+                    "Tủ lạnh",
+                    "85 m²",
+                    "Tối đa 10 người lớn",
+                    "1 giường lớn và 1 nệm futon / 1 giường lớn và 1 nệm futon / 1 nệm futon và 1 giường lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "10 người lớn",
+                        "option_price": "1.737.037",
+                        "amenities_for_price": [
+                            "10 người lớn",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "4138431",
+        "hotel_name": "Nhà mặt đất 530 m² 8 phòng ngủ, 8 phòng tắm riêng ở Động Tam Cốc - Bích Động (Tam Coc Craft Homestay)",
+        "hotel_address": "Group 3, Van Lam, Ninh Hai, Hoa Lu, Ninh Binh, Tam Coc Craft Homestay, Động Tam Cốc - Bích Động, Ninh Bình, Việt Nam, 432010",
+        "room_types": [
+            {
+                "room_type_name": "Phòng 2 giường đơn có ban công (Twin Room with Balcony)",
+                "amenities": [
+                    "Hướng Vườn",
+                    "Phòng tắm chung",
+                    "Máy sấy tóc",
+                    "Vòi sen",
+                    "Đồ dùng cho giấc ngủ thoải mái",
+                    "Điều hòa",
+                    "Nước đóng chai miễn phí",
+                    "Ban công/sân hiên",
+                    "Tủ quần áo",
+                    "22 m²",
+                    "Tối đa 2 người lớn, 1 bé (0-7 tuổi) ở MIỄN PHÍ!",
+                    "2 giường đơn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn & 1 trẻ em (0-7 tuổi)",
+                        "option_price": "396.825",
+                        "amenities_for_price": [
+                            "2 người lớn & 1 trẻ em (0-7 tuổi)",
+                            "Miễn phí hủy trước ngày 18 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "74395911",
+        "hotel_name": "Tam Cốc Homestay Thanh Thắng (Tam Coc Homestay Thanh Thang)",
+        "hotel_address": "6W7P+4HG Hoa Lư, 430000 Vũ Lâm, Việt Nam, Động Tam Cốc - Bích Động, Ninh Bình, Việt Nam, 430000",
+        "room_types": [
+            {
+                "room_type_name": "Phòng Đôi Loại Sang (Deluxe Double Room)",
+                "amenities": [
+                    "Hướng Ngoài trời",
+                    "Ấm nước điện",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Vòi sen",
+                    "Điều hòa",
+                    "16 m²",
+                    "Tối đa 2 người lớn",
+                    "1 giường đôi lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "300.276",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Có ăn sáng",
+                            "Miễn phí hủy trước ngày 19 thg 11, 25",
+                            "Trả tiền ở khách sạn",
+                            "WiFi miễn phí"
+                        ]
+                    },
+                    {
+                        "option_name": "1 người lớn Vượt quá sức chứa phòng",
+                        "option_price": "278.438",
+                        "amenities_for_price": [
+                            "1 người lớn Vượt quá sức chứa phòng",
+                            "Có ăn sáng",
+                            "Miễn phí hủy trước ngày 19 thg 11, 25",
+                            "Trả tiền ở khách sạn",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Phòng 4 Người (Quadruple Room)",
+                "amenities": [
+                    "Hướng Ngoài trời",
+                    "Ấm nước điện",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Vòi sen",
+                    "Điều hòa",
+                    "25 m²",
+                    "Tối đa 3 người lớn",
+                    "2 giường đôi lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "502.279",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Có ăn sáng",
+                            "Miễn phí hủy trước ngày 19 thg 11, 25",
+                            "Trả tiền ở khách sạn",
+                            "WiFi miễn phí"
+                        ]
+                    },
+                    {
+                        "option_name": "3 người lớn",
+                        "option_price": "524.118",
+                        "amenities_for_price": [
+                            "3 người lớn",
+                            "Có ăn sáng",
+                            "Miễn phí hủy trước ngày 19 thg 11, 25",
+                            "Trả tiền ở khách sạn",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

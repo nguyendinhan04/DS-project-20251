@@ -1,0 +1,1120 @@
+[
+    {
+        "hotel_id": "75528052",
+        "hotel_name": "Khách sạn New Sun Nam Định (NEW SUN NAM ĐỊNH HOTEL)",
+        "hotel_address": "20 Trần Anh T ng, Nam Định, Nam Ðịnh, Việt Nam, 07117",
+        "room_types": [
+            {
+                "room_type_name": "Deluxe giường đôi hoặc 2 giường (Deluxe Double or Twin)",
+                "amenities": [
+                    "Hướng Thành phố",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Phòng tắm đứng",
+                    "Wi-Fi [miễn phí]",
+                    "Đồ dùng cho giấc ngủ thoải mái",
+                    "Đồ uống mời khách miễn phí",
+                    "Tủ lạnh nhỏ trong phòng",
+                    "Cà phê hòa tan miễn phí",
+                    "Ấm nước",
+                    "30 m²",
+                    "Tối đa 3 người lớn",
+                    "2 giường siêu lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "379.688",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Chính sách hủy",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    },
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "421.875",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Miễn phí hủy trước ngày 17 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Phòng Tiêu Chuẩn (Standard Room)",
+                "amenities": [
+                    "Hướng Thành phố",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Phòng tắm đứng",
+                    "Wi-Fi [miễn phí]",
+                    "Rèm che ánh sáng",
+                    "Điều hòa",
+                    "Đồ uống mời khách miễn phí",
+                    "Tủ lạnh nhỏ trong phòng",
+                    "Cà phê hòa tan miễn phí",
+                    "25 m²",
+                    "Tối đa 2 người lớn",
+                    "1 giường siêu lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "427.874",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Chính sách hủy",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 36.791 ₫!"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "64096515",
+        "hotel_name": "Khách sạn P&L (Khach san P&L)",
+        "hotel_address": "4 Mỹ Trọng, Nam Định, Nam Ðịnh, Việt Nam, 420000",
+        "room_types": [
+            {
+                "room_type_name": "Phòng Giường Đôi/2 Giường Đơn Với Ban Công (Double or Twin Room with Balcony)",
+                "amenities": [
+                    "Hướng Ngoài trời",
+                    "Ấm nước điện",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Vòi sen",
+                    "Đồ dùng cho giấc ngủ thoải mái",
+                    "Tủ lạnh nhỏ trong phòng",
+                    "Nước đóng chai miễn phí",
+                    "Tủ lạnh",
+                    "Ban công/sân hiên",
+                    "23 m²",
+                    "Tối đa 3 người lớn",
+                    "1 giường đôi và 1 giường đôi lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "3 người lớn",
+                        "option_price": "416.667",
+                        "amenities_for_price": [
+                            "3 người lớn",
+                            "Miễn phí hủy trước ngày 18 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Phòng Gia Đình Giường Đôi (Family Double Room)",
+                "amenities": [
+                    "Hướng Ngoài trời",
+                    "Ấm nước điện",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Vòi sen",
+                    "Đồ dùng cho giấc ngủ thoải mái",
+                    "Tủ lạnh nhỏ trong phòng",
+                    "Nước đóng chai miễn phí",
+                    "Tủ lạnh",
+                    "Ban công/sân hiên",
+                    "30 m²",
+                    "Tối đa 5 người lớn",
+                    "1 giường đơn và 2 giường lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "5 người lớn",
+                        "option_price": "462.963",
+                        "amenities_for_price": [
+                            "5 người lớn",
+                            "Miễn phí hủy trước ngày 18 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Suite Nhìn Ra Thành Phố (Suite with City View)",
+                "amenities": [
+                    "Hướng Ngoài trời",
+                    "Ấm nước điện",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Vòi sen",
+                    "Đồ dùng cho giấc ngủ thoải mái",
+                    "Tủ lạnh nhỏ trong phòng",
+                    "Nước đóng chai miễn phí",
+                    "Tủ lạnh",
+                    "Ban công/sân hiên",
+                    "40 m²",
+                    "Tối đa 2 người lớn",
+                    "1 giường đôi lớn / 1 giường sofa"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "583.333",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe"
+                        ]
+                    },
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "648.148",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Miễn phí hủy trước ngày 18 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe"
+                        ]
+                    },
+                    {
+                        "option_name": "1 người lớn Vượt quá sức chứa phòng",
+                        "option_price": "583.333",
+                        "amenities_for_price": [
+                            "1 người lớn Vượt quá sức chứa phòng",
+                            "Miễn phí hủy trước ngày 18 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "14953986",
+        "hotel_name": "Khách sạn Wiltons (The Wiltons Hotel)",
+        "hotel_address": "32 Hồ Xuân Hương, Nam Định, Nam Ðịnh, Việt Nam, 07000",
+        "room_types": [
+            {
+                "room_type_name": "Giường đôi VIP (Double VIP)",
+                "amenities": [
+                    "Hướng Vườn",
+                    "Ấm nước điện",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Vòi sen",
+                    "Đồ dùng cho giấc ngủ thoải mái",
+                    "Điều hòa",
+                    "Nước đóng chai miễn phí",
+                    "Ban công/sân hiên",
+                    "Giường cực dài",
+                    "25 m²",
+                    "Tối đa 2 người lớn, 1 bé (6-12 tuổi) ở MIỄN PHÍ!",
+                    "1 giường đơn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn & 1 trẻ em (6-12 tuổi)",
+                        "option_price": "511.414",
+                        "amenities_for_price": [
+                            "2 người lớn & 1 trẻ em (6-12 tuổi)",
+                            "Miễn phí hủy trước ngày 18 thg 11, 25",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 70.057 ₫!"
+                        ]
+                    },
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "601.852",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Miễn phí hủy trước ngày 17 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Phòng Hai Giường Đơn (TWIN)",
+                "amenities": [
+                    "Hướng Vườn",
+                    "Ấm nước điện",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Vòi sen",
+                    "Đồ dùng cho giấc ngủ thoải mái",
+                    "Điều hòa",
+                    "Nước đóng chai miễn phí",
+                    "Ban công/sân hiên",
+                    "Giường cực dài",
+                    "35 m²",
+                    "Tối đa 4 người lớn, 1 bé (6-12 tuổi) ở MIỄN PHÍ!",
+                    "2 giường đôi"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "4 người lớn & 1 trẻ em (6-12 tuổi)",
+                        "option_price": "778.976",
+                        "amenities_for_price": [
+                            "4 người lớn & 1 trẻ em (6-12 tuổi)",
+                            "Miễn phí hủy trước ngày 18 thg 11, 25",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 16.641 ₫!"
+                        ]
+                    },
+                    {
+                        "option_name": "4 người lớn",
+                        "option_price": "833.333",
+                        "amenities_for_price": [
+                            "4 người lớn",
+                            "Miễn phí hủy trước ngày 17 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "9403730",
+        "hotel_name": "Nam Cuong Nam Dinh Hotel",
+        "hotel_address": "Số 538 Trần Hưng Đạo, P. Hòa Vượng, TP. Nam Định, Nam Định, Nam Ðịnh, Việt Nam, 07000",
+        "room_types": [
+            {
+                "room_type_name": "Deluxe cổ điển (Classic Deluxe)",
+                "amenities": [
+                    "Hướng Hồ",
+                    "Ấm nước điện",
+                    "Bồn tắm/vòi sen riêng",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Vòi sen",
+                    "Wi-Fi [miễn phí]",
+                    "Rèm che ánh sáng",
+                    "Điều hòa",
+                    "Trái cây/đồ ăn vặt",
+                    "44 m²",
+                    "Tối đa 2 người lớn",
+                    "1 giường đôi hoặc 2 giường đơn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "1.977.989",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Có ăn sáng",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt và trả tiền ngay",
+                            "Phòng tập",
+                            "Bãi đậu xe",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí"
+                        ]
+                    },
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "2.069.040",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Có ăn sáng",
+                            "Miễn phí hủy trước ngày 18 thg 11, 25",
+                            "Đặt và trả tiền ngay",
+                            "Phòng tập",
+                            "Bãi đậu xe",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 38.709 ₫!"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Executive Deluxe",
+                "amenities": [
+                    "Hướng Thành phố",
+                    "Bồn tắm/vòi sen riêng",
+                    "Máy sấy tóc",
+                    "Vòi sen",
+                    "Wi-Fi [miễn phí]",
+                    "Rèm che ánh sáng",
+                    "Điều hòa",
+                    "Tủ lạnh nhỏ trong phòng",
+                    "Cà phê hòa tan miễn phí",
+                    "Tủ lạnh",
+                    "48 m²",
+                    "Tối đa 2 người lớn",
+                    "1 giường đôi lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "2.457.835",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Có ăn sáng",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt và trả tiền ngay",
+                            "Phòng tập",
+                            "Bãi đậu xe",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí"
+                        ]
+                    },
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "2.459.425",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Có ăn sáng",
+                            "Miễn phí hủy trước ngày 18 thg 11, 25",
+                            "Đặt và trả tiền ngay",
+                            "Phòng tập",
+                            "Bãi đậu xe",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 46.012 ₫!"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "20061348",
+        "hotel_name": "Tru by Hilton Nam Định City Centre (Tru by Hilton Nam Dinh City Centre)",
+        "hotel_address": "272 Tran Hung Dao, Cua Bac ward, Nam Định, Nam Ðịnh, Việt Nam, 420000",
+        "room_types": [
+            {
+                "room_type_name": "Phòng 1 Giường Lớn (1 King Bed Room)",
+                "amenities": [
+                    "Hướng Thành phố",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Vòi sen",
+                    "Internet mạng LAN trong phòng [miễn phí]",
+                    "Rèm che ánh sáng",
+                    "Điều hòa",
+                    "Tủ lạnh",
+                    "Không hút thuốc",
+                    "18 m²",
+                    "Tối đa 2 người lớn",
+                    "1 giường lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "1.289.274",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Có ăn sáng",
+                            "Miễn phí hủy trước ngày 18 thg 11, 25",
+                            "Đặt và trả tiền ngay",
+                            "WiFi miễn phí"
+                        ]
+                    },
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "1.300.000",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Có ăn sáng",
+                            "Miễn phí hủy trước ngày 18 thg 11, 25",
+                            "Trả tiền ở khách sạn"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "1 King Guest room with Sofa bed",
+                "amenities": [
+                    "Hướng Thành phố",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Vòi sen",
+                    "Internet mạng LAN trong phòng [miễn phí]",
+                    "Rèm che ánh sáng",
+                    "Điều hòa",
+                    "Tủ lạnh",
+                    "Không hút thuốc",
+                    "21 m²",
+                    "Tối đa 3 người lớn",
+                    "1 giường lớn và 1 giường sofa"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn & 1 trẻ em (0-11 tuổi)",
+                        "option_price": "1.690.224",
+                        "amenities_for_price": [
+                            "2 người lớn & 1 trẻ em (0-11 tuổi)",
+                            "Có ăn sáng",
+                            "Miễn phí hủy trước ngày 18 thg 11, 25",
+                            "Đặt và trả tiền ngay",
+                            "WiFi miễn phí"
+                        ]
+                    },
+                    {
+                        "option_name": "2 người lớn & 1 trẻ em (0-11 tuổi)",
+                        "option_price": "1.700.000",
+                        "amenities_for_price": [
+                            "2 người lớn & 1 trẻ em (0-11 tuổi)",
+                            "Có ăn sáng",
+                            "Miễn phí hủy trước ngày 18 thg 11, 25",
+                            "Trả tiền ở khách sạn"
+                        ]
+                    },
+                    {
+                        "option_name": "3 người lớn",
+                        "option_price": "1.986.781",
+                        "amenities_for_price": [
+                            "3 người lớn",
+                            "Có ăn sáng",
+                            "Miễn phí hủy trước ngày 18 thg 11, 25",
+                            "Đặt và trả tiền ngay",
+                            "WiFi miễn phí"
+                        ]
+                    },
+                    {
+                        "option_name": "3 người lớn",
+                        "option_price": "1.995.000",
+                        "amenities_for_price": [
+                            "3 người lớn",
+                            "Có ăn sáng",
+                            "Miễn phí hủy trước ngày 18 thg 11, 25",
+                            "Trả tiền ở khách sạn"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "37923378",
+        "hotel_name": "Khách sạn Ruby (Ruby Hotel)",
+        "hotel_address": "118pho Bắc Ninh, Nam Định, Nam Ðịnh, Việt Nam, 420000",
+        "room_types": [
+            {
+                "room_type_name": "Deluxe Suite 2 giường (Deluxe Suite Twin)",
+                "amenities": [
+                    "Hướng Thành phố",
+                    "Ấm nước điện",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Phòng tắm đứng",
+                    "Wi-Fi [miễn phí]",
+                    "Rèm che ánh sáng",
+                    "Trái cây/đồ ăn vặt",
+                    "Nước đóng chai miễn phí",
+                    "Tủ lạnh",
+                    "26 m²",
+                    "Tối đa 2 người lớn, 2 bé (0-1 tuổi) ở MIỄN PHÍ!",
+                    "2 giường đơn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn & 2 trẻ em (0-1 tuổi)",
+                        "option_price": "433.544",
+                        "amenities_for_price": [
+                            "2 người lớn & 2 trẻ em (0-1 tuổi)",
+                            "Miễn phí hủy trước ngày 17 thg 11, 25",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 72.361 ₫!"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Superior hướng thành phố (Superior City View)",
+                "amenities": [
+                    "Hướng Thành phố",
+                    "Ấm nước điện",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Phòng tắm đứng",
+                    "Wi-Fi [miễn phí]",
+                    "Rèm che ánh sáng",
+                    "Trái cây/đồ ăn vặt",
+                    "Nước đóng chai miễn phí",
+                    "Tủ lạnh",
+                    "26 m²",
+                    "Tối đa 2 người lớn, 2 bé (0-1 tuổi) ở MIỄN PHÍ!",
+                    "1 giường lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn & 2 trẻ em (0-1 tuổi)",
+                        "option_price": "433.544",
+                        "amenities_for_price": [
+                            "2 người lớn & 2 trẻ em (0-1 tuổi)",
+                            "Miễn phí hủy trước ngày 17 thg 11, 25",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 72.361 ₫!"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "79310560",
+        "hotel_name": "Khách sạn MD (MD Hotel)",
+        "hotel_address": "502 Đ. Kênh, Lộc Vượng, Nam Định, Nam Ðịnh, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Phòng Deluxe hướng Hồ (Deluxe Lake View)",
+                "amenities": [
+                    "Hướng Hồ",
+                    "Bồn tắm/vòi sen riêng",
+                    "Phòng tắm chung",
+                    "Máy sấy tóc",
+                    "Phòng tắm đứng",
+                    "Phòng xông khô",
+                    "Wi-Fi [miễn phí]",
+                    "Rèm che ánh sáng",
+                    "Đồ uống mời khách miễn phí",
+                    "Rượu",
+                    "30 m²",
+                    "Tối đa 2 người lớn",
+                    "1 giường đôi lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "943.015",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Có ăn sáng",
+                            "Miễn phí hủy trước ngày 18 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí"
+                        ]
+                    },
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "961.292",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Có ăn sáng",
+                            "Miễn phí hủy trước ngày 17 thg 11, 25",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 21.895 ₫!"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "63409225",
+        "hotel_name": "My Trà Hotel (My Tra Hotel)",
+        "hotel_address": "Khu Công Nghiệp Hoà Xá, Mỹ Xá, Nam Định, Nam Ðịnh, Việt Nam, 07118",
+        "room_types": [
+            {
+                "room_type_name": "Phòng Đôi (Double Room)",
+                "amenities": [
+                    "Ấm nước điện",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Phòng tắm đứng",
+                    "Đồ dùng cho giấc ngủ thoải mái",
+                    "Tủ quần áo",
+                    "Điều hòa cá nhân",
+                    "20 m²",
+                    "Tối đa 2 người lớn, 1 bé (0-5 tuổi) ở MIỄN PHÍ!",
+                    "1 giường đôi lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn & 1 trẻ em (0-5 tuổi)",
+                        "option_price": "195.185",
+                        "amenities_for_price": [
+                            "2 người lớn & 1 trẻ em (0-5 tuổi)",
+                            "Miễn phí hủy trước ngày 17 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Phòng 4 Người (Quadruple Room)",
+                "amenities": [
+                    "Ấm nước điện",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Phòng tắm đứng",
+                    "Đồ dùng cho giấc ngủ thoải mái",
+                    "Tủ quần áo",
+                    "Điều hòa cá nhân",
+                    "25 m²",
+                    "Tối đa 4 người lớn, 2 bé (0-5 tuổi) ở MIỄN PHÍ!",
+                    "2 giường đôi lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "4 người lớn & 2 trẻ em (0-5 tuổi)",
+                        "option_price": "292.778",
+                        "amenities_for_price": [
+                            "4 người lớn & 2 trẻ em (0-5 tuổi)",
+                            "Miễn phí hủy trước ngày 17 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Phòng Gia Đình (Family Room)",
+                "amenities": [
+                    "Ấm nước điện",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Phòng tắm đứng",
+                    "Đồ dùng cho giấc ngủ thoải mái",
+                    "Tủ quần áo",
+                    "Điều hòa cá nhân",
+                    "30 m²",
+                    "Tối đa 6 người lớn, 3 bé (0-5 tuổi) ở MIỄN PHÍ!",
+                    "3 giường đôi lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "6 người lớn & 3 trẻ em (0-5 tuổi)",
+                        "option_price": "327.407",
+                        "amenities_for_price": [
+                            "6 người lớn & 3 trẻ em (0-5 tuổi)",
+                            "Miễn phí hủy trước ngày 17 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "64903200",
+        "hotel_name": "Khách sạn Dệt",
+        "hotel_address": "62 Nguyễn Hiền, Trần Đăng Ninh, Nam Định, Nam Ðịnh, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Phòng Đôi (Double Room)",
+                "amenities": [
+                    "Hướng Vườn",
+                    "Ấm nước điện",
+                    "Vòi sen",
+                    "Nước đóng chai miễn phí",
+                    "Ban công/sân hiên",
+                    "tầng trệt",
+                    "Điều hòa cá nhân",
+                    "24 m²",
+                    "Tối đa 2 người lớn",
+                    "1 giường đôi"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "514.583",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "27848306",
+        "hotel_name": "NHÀ NGHỈ TRÀ MY (NHA NGHI TRA MY)",
+        "hotel_address": "KHU CÔNG NGHIỆP MAI XÁ-- MỸ XÁ- TP NAM ĐỊNH XÓM GÔI- MAI XÁ - MỸ XÁ- TPND, Nam Định, Nam Ðịnh, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Phòng 4 Người (Quadruple Room)",
+                "amenities": [
+                    "Hướng Ngoài trời",
+                    "Điều hòa",
+                    "Ban công/sân hiên",
+                    "25 m²",
+                    "Tối đa 4 người lớn",
+                    "2 giường đôi"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "4 người lớn",
+                        "option_price": "277.778",
+                        "amenities_for_price": [
+                            "4 người lớn",
+                            "Miễn phí hủy trước ngày 17 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Phòng Ba Người (Triple Room)",
+                "amenities": [
+                    "Hướng Ngoài trời",
+                    "Điều hòa",
+                    "Ban công/sân hiên",
+                    "30 m²",
+                    "Tối đa 6 người lớn",
+                    "3 giường đơn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "6 người lớn",
+                        "option_price": "314.815",
+                        "amenities_for_price": [
+                            "6 người lớn",
+                            "Miễn phí hủy trước ngày 17 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Phòng Đơn Có Ban Công (Single Room with Balcony)",
+                "amenities": [
+                    "Hướng Ngoài trời",
+                    "Điều hòa",
+                    "Ban công/sân hiên",
+                    "20 m²",
+                    "Tối đa 1 người lớn",
+                    "1 giường đơn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "1 người lớn Vượt quá sức chứa phòng",
+                        "option_price": "175.926",
+                        "amenities_for_price": [
+                            "1 người lớn Vượt quá sức chứa phòng",
+                            "Miễn phí hủy trước ngày 17 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "72523395",
+        "hotel_name": "Nhà riêng 20 m² 4 phòng ngủ, 2 phòng tắm riêng ở Nam Định (Big house with beautiful garden)",
+        "hotel_address": "Nam Định, Nam Ðịnh, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Four Bedroom - Entire House",
+                "amenities": [
+                    "4 phòng ngủ",
+                    "2 phòng tắm",
+                    "Wi-Fi [miễn phí]",
+                    "Điều hòa",
+                    "Tủ quần áo",
+                    "Cho phép hút thuốc",
+                    "20 m²",
+                    "Tối đa 10 người lớn",
+                    "1 giường đôi lớn / 1 giường đôi lớn / 1 giường đôi lớn / 1 giường đôi lớn / 1 giường sofa"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "10 người lớn & 1 trẻ em (0-7 tuổi)",
+                        "option_price": "523.004",
+                        "amenities_for_price": [
+                            "10 người lớn & 1 trẻ em (0-7 tuổi)",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "Miễn Phí Internet Không Dây",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 56.914 ₫!"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "55613252",
+        "hotel_name": "Khách sạn & Cà phê Hương Giang (Hương Giang Hotel & Coffee)",
+        "hotel_address": ", Hoà Bình, Thái Bình, Thái Bình, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Phòng Tiêu Chuẩn Giường Đôi (Standard Double Room)",
+                "amenities": [
+                    "Hướng Sông",
+                    "Ấm nước điện",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Vòi sen",
+                    "Đồ dùng cho giấc ngủ thoải mái",
+                    "Nước đóng chai miễn phí",
+                    "Ban công/sân hiên",
+                    "Tủ quần áo",
+                    "Điều hòa cá nhân",
+                    "30 m²",
+                    "Tối đa 2 người lớn",
+                    "1 giường đôi"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "194.444",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Miễn phí hủy trước ngày 18 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    },
+                    {
+                        "option_name": "1 người lớn Vượt quá sức chứa phòng",
+                        "option_price": "184.722",
+                        "amenities_for_price": [
+                            "1 người lớn Vượt quá sức chứa phòng",
+                            "Miễn phí hủy trước ngày 18 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "274250",
+        "hotel_name": "Khách sạn Phú Mỹ (Phu My Hotel)",
+        "hotel_address": "36 Lê Hồng Phong, Nam Định, Nam Ðịnh, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Phòng Tiêu chuẩn giường đôi (Standard Double)",
+                "amenities": [
+                    "Hướng Thiên nhiên",
+                    "Ấm nước điện",
+                    "Bồn tắm",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Vòi sen",
+                    "Đồ dùng cho giấc ngủ thoải mái",
+                    "Điều hòa",
+                    "Tủ lạnh nhỏ trong phòng",
+                    "Nước đóng chai miễn phí",
+                    "18 m²",
+                    "Tối đa 2 người lớn",
+                    "1 giường đôi"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "319.444",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Phục vụ bữa sáng (45.000 ₫ / người)",
+                            "Miễn phí hủy trước ngày 18 thg 11, 25",
+                            "Trả tiền ở khách sạn",
+                            "Bãi đậu xe"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "80971918",
+        "hotel_name": "Căn hộ m² 1 phòng ngủ, 1 phòng tắm riêng ở Nam Định (Goldenbell backpacker hostell)",
+        "hotel_address": "Nam Định, Nam Ðịnh, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Căn hộ (Apartment)",
+                "amenities": [
+                    "Studio/1 phòng ngủ",
+                    "1 phòng tắm",
+                    "Wi-Fi [miễn phí]",
+                    "Điều hòa",
+                    "Tối đa 2 người lớn",
+                    "1 giường đôi lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn & 1 trẻ em (0-7 tuổi)",
+                        "option_price": "139.008",
+                        "amenities_for_price": [
+                            "2 người lớn & 1 trẻ em (0-7 tuổi)",
+                            "Đặt và trả tiền ngay",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 13.215 ₫!"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "64233522",
+        "hotel_name": "Khu du lịch sinh thái Núi Ngăm",
+        "hotel_address": ", thôn Thượng, Minh Tân, Khu du lịch sinh thái Núi Ngăm, Nam Định, Nam Ðịnh, Việt Nam, 07000",
+        "room_types": [
+            {
+                "room_type_name": "Phòng Hai Giường Đơn (twin Room)",
+                "amenities": [
+                    "Điều hòa",
+                    "Tối đa 2 người lớn",
+                    "2 giường đơn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "555.556",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Có ăn sáng",
+                            "Miễn phí hủy trước ngày 17 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Phòng Hướng Vườn (Garden View)",
+                "amenities": [
+                    "Hướng Vườn",
+                    "Điều hòa",
+                    "20 m²",
+                    "Tối đa 2 người lớn",
+                    "1 giường đôi lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "638.889",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Có ăn sáng",
+                            "Miễn phí hủy trước ngày 17 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Phòng Gia Đình (Family Room)",
+                "amenities": [
+                    "Điều hòa",
+                    "Tối đa 2 người lớn",
+                    "1 giường đơn và 1 giường lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "722.222",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Có ăn sáng",
+                            "Miễn phí hủy trước ngày 17 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "10638351",
+        "hotel_name": "Chung cư 80 m² 2 phòng ngủ, 2 phòng tắm riêng ở Nam Định (Nam Dinh Tower )",
+        "hotel_address": "Nam Định, Nam Ðịnh, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Căn hộ (Apartment)",
+                "amenities": [
+                    "2 phòng ngủ",
+                    "2 phòng tắm",
+                    "Wi-Fi [miễn phí]",
+                    "Điều hòa",
+                    "Tủ quần áo",
+                    "80 m²",
+                    "Tối đa 4 người lớn",
+                    "1 giường đôi / 1 giường đôi"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "4 người lớn & 1 trẻ em (0-12 tuổi)",
+                        "option_price": "1.676.631",
+                        "amenities_for_price": [
+                            "4 người lớn & 1 trẻ em (0-12 tuổi)",
+                            "Chính sách hủy",
+                            "Đặt và trả tiền ngay",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 98.700 ₫!"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "76327768",
+        "hotel_name": "Căn hộ m² 2 phòng ngủ, 1 phòng tắm riêng ở Nam Định (An Eco Homestay Ramsar Xuân Thủy :) )",
+        "hotel_address": "Nam Định, Nam Ðịnh, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Căn hộ (Apartment)",
+                "amenities": [
+                    "2 phòng ngủ",
+                    "1 phòng tắm",
+                    "Wi-Fi [miễn phí]",
+                    "Điều hòa",
+                    "Tối đa 2 người lớn",
+                    "9 giường đôi / 2 giường đơn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn & 1 trẻ em (0-7 tuổi)",
+                        "option_price": "436.103",
+                        "amenities_for_price": [
+                            "2 người lớn & 1 trẻ em (0-7 tuổi)",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 41.460 ₫!"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

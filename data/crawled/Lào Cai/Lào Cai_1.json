@@ -1,0 +1,420 @@
+[
+    {
+        "hotel_id": "7170580",
+        "hotel_name": "Kim Cuong Hotel",
+        "hotel_address": "N358, Nguyen Hue, Pho Moi , Lào Cai, Lào Cai, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Phòng Cơ Bản Giường Đôi (Basic Double Room)",
+                "amenities": [
+                    "Hướng Thành phố",
+                    "Không hút thuốc",
+                    "Tối đa 2 người lớn",
+                    "1 giường đôi"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "343.706",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Có ăn sáng",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt và trả tiền ngay",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 33.814 ₫!"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Phòng Được sắp xếp tùy ý khi đến (Room Assigned on Arrival)",
+                "amenities": [
+                    "Tối đa 2 người lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "627.748",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Có ăn sáng",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt và trả tiền ngay",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "55683918",
+        "hotel_name": "Kim Thành Hotel - 718 Trần Thái Tông, TP Lào Cai - by Bay Luxury (Kim Thanh Hotel - 718 Tran Thai Tong, TP Lao Cai - by Bay Luxury)",
+        "hotel_address": "Duyen Hai, Lào Cai, Lào Cai, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Phòng Tiêu Chuẩn Giường Đôi Lớn (Standard Queen Room)",
+                "amenities": [
+                    "Hướng Ngoài trời",
+                    "phòng tắm riêng",
+                    "Điều hòa",
+                    "25 m²",
+                    "Tối đa 2 người lớn",
+                    "1 giường đôi lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "253.603",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Chính sách hủy",
+                            "Trả tiền cho khách sạn",
+                            "WiFi miễn phí"
+                        ]
+                    },
+                    {
+                        "option_name": "1 người lớn Vượt quá sức chứa phòng",
+                        "option_price": "253.603",
+                        "amenities_for_price": [
+                            "1 người lớn Vượt quá sức chứa phòng",
+                            "Chính sách hủy",
+                            "Trả tiền cho khách sạn",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Phòng 4 Người (Quadruple Room)",
+                "amenities": [
+                    "Hướng Ngoài trời",
+                    "phòng tắm riêng",
+                    "Điều hòa",
+                    "35 m²",
+                    "Tối đa 4 người lớn",
+                    "2 giường đôi lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "4 người lớn",
+                        "option_price": "332.594",
+                        "amenities_for_price": [
+                            "4 người lớn",
+                            "Chính sách hủy",
+                            "Trả tiền cho khách sạn",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "64465949",
+        "hotel_name": "Hòa Bình Hotel LC - by BAY LUXURY (Hoa Binh Hotel LC - by BAY LUXURY)",
+        "hotel_address": "51 Minh Khai, Lào Cai, Lào Cai, Việt Nam, 31100",
+        "room_types": [
+            {
+                "room_type_name": "Basic Room",
+                "amenities": [
+                    "20 m²",
+                    "Tối đa 2 người lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "342.891",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 12.399 ₫!"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Phòng Tiêu Chuẩn Giường Đôi Lớn (Standard Queen Room)",
+                "amenities": [
+                    "Ấm nước điện",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Điều hòa",
+                    "20 m²",
+                    "Tối đa 2 người lớn",
+                    "1 giường đôi lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "346.452",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Chính sách hủy",
+                            "Trả tiền ở khách sạn",
+                            "Bãi đậu xe"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Phòng Ba Người (Triple Room)",
+                "amenities": [
+                    "Ấm nước điện",
+                    "Điều hòa",
+                    "25 m²",
+                    "Tối đa 3 người lớn",
+                    "1 giường đơn và 1 giường đôi lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "3 người lớn",
+                        "option_price": "440.687",
+                        "amenities_for_price": [
+                            "3 người lớn",
+                            "Chính sách hủy",
+                            "Trả tiền ở khách sạn",
+                            "Bãi đậu xe"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "61453545",
+        "hotel_name": "A10 Thủy Hoa Hotel LC - by BAY LUXURY (A10 Thuy Hoa Hotel LC - by BAY LUXURY)",
+        "hotel_address": "10 Thủy Hoa, Lào Cai, Lào Cai, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Basic Room",
+                "amenities": [
+                    "Tối đa 2 người lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "333.548",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 32.777 ₫!"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Phòng Đôi (Double Room)",
+                "amenities": [
+                    "Ấm nước điện",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Điều hòa",
+                    "20 m²",
+                    "Tối đa 2 người lớn",
+                    "1 giường đôi lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "365.833",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Trả tiền cho khách sạn",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "71715416",
+        "hotel_name": "Kim Thanh Hotel Lao Cai - by Bay Luxury",
+        "hotel_address": "Tran Thai Tong, Duyen Hai, Lào Cai, Lào Cai, Việt Nam, 330000",
+        "room_types": [
+            {
+                "room_type_name": "Standard Room",
+                "amenities": [
+                    "Tối đa 2 người lớn",
+                    "1 giường đôi lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "236.640",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt và trả tiền ngay",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 24.605 ₫!"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "55259603",
+        "hotel_name": "Vân Hà Hotel Lào Cai - by Bay Luxury (Van Ha Hotel Lao Cai - by Bay Luxury)",
+        "hotel_address": "022 Thủy Hoa, Lào Cai, Lào Cai, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Phòng Hai Giường Đơn (twin Room)",
+                "amenities": [
+                    "Hướng Ngoài trời",
+                    "phòng tắm riêng",
+                    "Điều hòa",
+                    "25 m²",
+                    "Tối đa 2 người lớn",
+                    "2 giường đơn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "432.373",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Chính sách hủy",
+                            "Trả tiền cho khách sạn",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Phòng Ba Người (Triple Room)",
+                "amenities": [
+                    "Hướng Ngoài trời",
+                    "phòng tắm riêng",
+                    "Điều hòa",
+                    "30 m²",
+                    "Tối đa 3 người lớn",
+                    "3 giường đơn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "3 người lớn",
+                        "option_price": "582.040",
+                        "amenities_for_price": [
+                            "3 người lớn",
+                            "Chính sách hủy",
+                            "Trả tiền cho khách sạn",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "58351832",
+        "hotel_name": "Red River Hotel LC- by BAY LUXURY",
+        "hotel_address": "Lê Đại Hành, Lào Cai, Lào Cai, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Phòng Đôi Loại Sang (Deluxe Double Room)",
+                "amenities": [
+                    "Hướng Ngoài trời",
+                    "phòng tắm riêng",
+                    "Điều hòa",
+                    "20 m²",
+                    "Tối đa 2 người lớn",
+                    "1 giường đôi lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "775.862",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Chính sách hủy",
+                            "Trả tiền cho khách sạn",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    },
+                    {
+                        "option_name": "1 người lớn Vượt quá sức chứa phòng",
+                        "option_price": "775.862",
+                        "amenities_for_price": [
+                            "1 người lớn Vượt quá sức chứa phòng",
+                            "Chính sách hủy",
+                            "Trả tiền cho khách sạn",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Phòng Ba Người (Triple Room)",
+                "amenities": [
+                    "phòng tắm riêng",
+                    "Điều hòa",
+                    "Tối đa 3 người lớn",
+                    "1 giường đơn và 1 giường đôi lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "3 người lớn",
+                        "option_price": "947.542",
+                        "amenities_for_price": [
+                            "3 người lớn",
+                            "Chính sách hủy",
+                            "Trả tiền cho khách sạn",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "59871100",
+        "hotel_name": "bubukika",
+        "hotel_address": "Lào Cai, Lào Cai, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Căn Hộ 2 Phòng Ngủ (Two-Bedroom Apartment)",
+                "amenities": [
+                    "Hướng Vườn",
+                    "2 phòng ngủ",
+                    "1 phòng tắm",
+                    "Bồn tắm tạo sóng",
+                    "Phòng xông khô",
+                    "Điều hòa",
+                    "Tủ lạnh nhỏ trong phòng",
+                    "Bể bơi riêng",
+                    "Ban công/sân hiên",
+                    "25 m²",
+                    "Tối đa 23 người lớn",
+                    "2 giường đơn và 1 giường lớn và 1 giường đôi và 1 giường đôi lớn / 2 giường đơn và 1 giường lớn và 2 giường đôi lớn và 2 giường đôi / 3 giường sofa"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "23 người lớn",
+                        "option_price": "2.314.815",
+                        "amenities_for_price": [
+                            "23 người lớn",
+                            "Trả tiền ở khách sạn",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]
