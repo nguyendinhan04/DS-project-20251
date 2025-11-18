@@ -1,0 +1,3463 @@
+[
+    {
+        "hotel_id": "37843937",
+        "hotel_name": "Khách sạn VIN (VIN HOTEL)",
+        "hotel_address": "MG1-03 & MG1-05A Vincom, Pham Thai Buong Street, Ward 4, Vinh Long City, Vĩnh Long, Vĩnh Long, Việt Nam, 85000",
+        "room_types": [
+            {
+                "room_type_name": "Phòng Đôi Tiêu Chuẩn (Standard Double Room)",
+                "amenities": [
+                    "Ấm nước điện",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Phòng tắm đứng",
+                    "Wi-Fi [miễn phí]",
+                    "Đồ dùng cho giấc ngủ thoải mái",
+                    "Tủ lạnh nhỏ trong phòng",
+                    "Cà phê hòa tan miễn phí",
+                    "Tủ lạnh",
+                    "Phòng thay đồ",
+                    "11 m²",
+                    "Tối đa 2 người lớn",
+                    "1 giường đôi"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "416.667",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    },
+                    {
+                        "option_name": "2 người lớn & 1 trẻ em (0-2 tuổi)",
+                        "option_price": "452.897",
+                        "amenities_for_price": [
+                            "2 người lớn & 1 trẻ em (0-2 tuổi)",
+                            "Chính sách hủy",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 43.135 ₫!"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Tiêu chuẩn giường đôi (Double Standard Room)",
+                "amenities": [
+                    "Ấm nước điện",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Phòng tắm đứng",
+                    "Wi-Fi [miễn phí]",
+                    "Đồ dùng cho giấc ngủ thoải mái",
+                    "Tủ lạnh nhỏ trong phòng",
+                    "Cà phê hòa tan miễn phí",
+                    "Tủ lạnh",
+                    "Phòng thay đồ",
+                    "11 m²",
+                    "Tối đa 2 người lớn",
+                    "1 giường lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "416.667",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    },
+                    {
+                        "option_name": "2 người lớn & 1 trẻ em (0-2 tuổi)",
+                        "option_price": "452.897",
+                        "amenities_for_price": [
+                            "2 người lớn & 1 trẻ em (0-2 tuổi)",
+                            "Chính sách hủy",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 43.135 ₫!"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Tiêu Chuẩn - 1 Giường Đôi Lớn (Standard - 1 Queen Bed)",
+                "amenities": [
+                    "Hướng Không có cửa sổ",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Phòng tắm đứng",
+                    "Wi-Fi [miễn phí]",
+                    "Cà phê hòa tan miễn phí",
+                    "Tủ lạnh",
+                    "Không hút thuốc",
+                    "Điều hòa cá nhân",
+                    "20 m²",
+                    "Tối đa 2 người lớn, 1 bé (0-2 tuổi) ở MIỄN PHÍ!",
+                    "1 giường đôi lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn & 1 trẻ em (0-2 tuổi)",
+                        "option_price": "563.799",
+                        "amenities_for_price": [
+                            "2 người lớn & 1 trẻ em (0-2 tuổi)",
+                            "Chính sách hủy",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 42.463 ₫!"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "67707562",
+        "hotel_name": "Khách sạn RUBY Vĩnh Long (RUBY HOTEL Vinh Long)",
+        "hotel_address": "255 Nguyễn Văn Thiệt, Vĩnh Long, Vĩnh Long, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Phòng Tiêu Chuẩn Giường Đôi (Standard Double Room)",
+                "amenities": [
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Phòng tắm đứng",
+                    "Rèm che ánh sáng",
+                    "Tủ lạnh nhỏ trong phòng",
+                    "Nước đóng chai miễn phí",
+                    "Ấm nước",
+                    "Tủ lạnh",
+                    "Ban công/sân hiên",
+                    "Cửa sổ",
+                    "16 m²",
+                    "Tối đa 2 người lớn",
+                    "1 giường đôi lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "333.333",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Miễn phí hủy trước ngày 18 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Phòng Superior Có Giường Cỡ King (Superior King Room)",
+                "amenities": [
+                    "Hướng Ngoài trời",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Phòng tắm đứng",
+                    "Wi-Fi [miễn phí]",
+                    "Rèm che ánh sáng",
+                    "Tủ lạnh nhỏ trong phòng",
+                    "Nước đóng chai miễn phí",
+                    "Ấm nước",
+                    "Tủ lạnh",
+                    "18 m²",
+                    "Tối đa 2 người lớn",
+                    "1 giường lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "361.111",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Miễn phí hủy trước ngày 18 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Phòng 2 giường có ban công (Twin Room with Balcony)",
+                "amenities": [
+                    "Hướng Ngoài trời",
+                    "Bồn tắm",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Vòi sen",
+                    "Wi-Fi [miễn phí]",
+                    "Đồ dùng cho giấc ngủ thoải mái",
+                    "Tủ lạnh nhỏ trong phòng",
+                    "Nước đóng chai miễn phí",
+                    "Ấm nước",
+                    "22 m²",
+                    "Tối đa 2 người lớn",
+                    "2 giường đơn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "453.704",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Miễn phí hủy trước ngày 18 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "22750715",
+        "hotel_name": "Van Trang Hotel",
+        "hotel_address": "3c hung dao vuong, phuong 1, thanh pho vinh long, Vĩnh Long, Vĩnh Long, Việt Nam, 02703",
+        "room_types": [
+            {
+                "room_type_name": "Phòng Loại Sang (Deluxe)",
+                "amenities": [
+                    "Ấm nước điện",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Vòi sen",
+                    "Tủ lạnh",
+                    "Tủ quần áo",
+                    "Điều hòa cá nhân",
+                    "20 m²",
+                    "Tối đa 2 người lớn",
+                    "1 giường đôi lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "287.037",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Miễn phí hủy trước ngày 18 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Phòng Đôi (Double Room)",
+                "amenities": [
+                    "Ấm nước điện",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Vòi sen",
+                    "Truy cập Internet - không dây",
+                    "Tủ lạnh",
+                    "Ban công/sân hiên",
+                    "Tủ quần áo",
+                    "Không hút thuốc",
+                    "Điều hòa cá nhân",
+                    "16 m²",
+                    "Tối đa 2 người lớn, 1 bé (0-12 tuổi) ở MIỄN PHÍ!",
+                    "1 giường đôi"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn & 1 trẻ em (0-12 tuổi)",
+                        "option_price": "333.333",
+                        "amenities_for_price": [
+                            "2 người lớn & 1 trẻ em (0-12 tuổi)",
+                            "Miễn phí hủy trước ngày 18 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Phòng Lớn 2 Giường Đơn (Large Twin Room)",
+                "amenities": [
+                    "Hướng Ngoài trời",
+                    "Ấm nước điện",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Vòi sen",
+                    "Tủ lạnh",
+                    "Tủ quần áo",
+                    "Điều hòa cá nhân",
+                    "32 m²",
+                    "Tối đa 2 người lớn",
+                    "2 giường đôi lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "351.852",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Miễn phí hủy trước ngày 18 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "9401533",
+        "hotel_name": "Bình Minh EcoLodge (Binh Minh Eco Lodge)",
+        "hotel_address": "My Hoa Hamlet, Binh Minh Town, Vĩnh Long, Vĩnh Long, Việt Nam, 85000",
+        "room_types": [
+            {
+                "room_type_name": "Phòng Giường Đôi Nhìn Ra Hồ Nước (Double Room with Lake View)",
+                "amenities": [
+                    "Hướng Vườn",
+                    "Ấm nước điện",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Vòi sen",
+                    "Đồ dùng cho giấc ngủ thoải mái",
+                    "Điều hòa",
+                    "Trái cây/đồ ăn vặt",
+                    "Nước đóng chai miễn phí",
+                    "Tủ lạnh",
+                    "28 m²",
+                    "Tối đa 2 người lớn, 1 bé (0-6 tuổi) ở MIỄN PHÍ!",
+                    "1 giường đôi lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn & 1 trẻ em (0-6 tuổi)",
+                        "option_price": "2.500.000",
+                        "amenities_for_price": [
+                            "2 người lớn & 1 trẻ em (0-6 tuổi)",
+                            "Có ăn sáng",
+                            "Miễn phí hủy trước ngày 17 thg 11, 25",
+                            "Trả tiền ở khách sạn",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Phòng Deluxe hướng Hồ (Deluxe Lake View)",
+                "amenities": [
+                    "Hướng Hồ",
+                    "Ấm nước điện",
+                    "Bồn tắm tạo sóng",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Vòi sen",
+                    "Wi-Fi [miễn phí]",
+                    "Đồ dùng cho giấc ngủ thoải mái",
+                    "Điều hòa",
+                    "Trái cây/đồ ăn vặt",
+                    "28 m²",
+                    "Tối đa 2 người lớn, 1 bé (0-6 tuổi) ở MIỄN PHÍ!",
+                    "1 giường đôi"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn & 1 trẻ em (0-6 tuổi)",
+                        "option_price": "2.685.185",
+                        "amenities_for_price": [
+                            "2 người lớn & 1 trẻ em (0-6 tuổi)",
+                            "Có ăn sáng",
+                            "Miễn phí hủy trước ngày 17 thg 11, 25",
+                            "Trả tiền ở khách sạn",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Phòng Giường Đôi Nhìn Ra Hồ Nước (Double Room with Lake View)",
+                "amenities": [
+                    "Hướng Vườn",
+                    "Ấm nước điện",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Vòi sen",
+                    "Đồ dùng cho giấc ngủ thoải mái",
+                    "Điều hòa",
+                    "Trái cây/đồ ăn vặt",
+                    "Nước đóng chai miễn phí",
+                    "Tủ lạnh",
+                    "39 m²",
+                    "Tối đa 2 người lớn, 1 bé (0-6 tuổi) ở MIỄN PHÍ!",
+                    "1 giường đôi lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn & 1 trẻ em (0-6 tuổi)",
+                        "option_price": "2.685.185",
+                        "amenities_for_price": [
+                            "2 người lớn & 1 trẻ em (0-6 tuổi)",
+                            "Có ăn sáng",
+                            "Miễn phí hủy trước ngày 17 thg 11, 25",
+                            "Trả tiền ở khách sạn",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "28087503",
+        "hotel_name": "Khách sạn Phước Thành IV (Phuoc Thanh IV Hotel)",
+        "hotel_address": "116B 118 120 Nguyễn Huệ Phường 2 Thành Phố Vĩnh Long, Vĩnh Long, Vĩnh Long, Việt Nam, 890000",
+        "room_types": [
+            {
+                "room_type_name": "Phòng Suite - Giường đôi (Suite - Double)",
+                "amenities": [
+                    "Hướng Thành phố",
+                    "Ấm nước điện",
+                    "Bồn tắm/vòi sen riêng",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Vòi sen",
+                    "Truy cập Internet - không dây",
+                    "Rèm che ánh sáng",
+                    "Điều hòa",
+                    "Tủ lạnh nhỏ trong phòng",
+                    "70 m²",
+                    "Tối đa 2 người lớn",
+                    "1 giường đôi nhỏ"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "634.259",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Có ăn sáng",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "67574309",
+        "hotel_name": "Khách sạn Vân Trang Garden 2 (VAN TRANG GARDEN HOTEL 2)",
+        "hotel_address": "27C/7 tổ 7, ấp Tân An, xã Tân Hạnh, huyện Long Hồ, Vĩnh Long, Vĩnh Long, Vĩnh Long, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Phòng Tiêu Chuẩn Giường Đôi (Standard Double Room)",
+                "amenities": [
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Vòi sen",
+                    "Wi-Fi [miễn phí]",
+                    "Điều hòa",
+                    "Nước đóng chai miễn phí",
+                    "Ấm nước",
+                    "Cửa sổ mở",
+                    "tầng trệt",
+                    "Không hút thuốc",
+                    "18 m²",
+                    "Tối đa 2 người lớn",
+                    "1 giường đôi lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "305.556",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Miễn phí hủy trước ngày 18 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "Miễn Phí Internet Không Dây"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Phòng Có Giường Cỡ King Nhìn Ra Vườn (King Room with Garden View)",
+                "amenities": [
+                    "Hướng Vườn",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Vòi sen",
+                    "Wi-Fi [miễn phí]",
+                    "Điều hòa",
+                    "Nước đóng chai miễn phí",
+                    "Ấm nước",
+                    "Cửa sổ mở",
+                    "tầng trệt",
+                    "22 m²",
+                    "Tối đa 2 người lớn",
+                    "1 giường lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "351.852",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Miễn phí hủy trước ngày 18 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "Miễn Phí Internet Không Dây"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Phòng Đôi Loại Sang (Deluxe Double Room)",
+                "amenities": [
+                    "Hướng Sân trong",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Vòi sen",
+                    "Wi-Fi [miễn phí]",
+                    "Điều hòa",
+                    "Nước đóng chai miễn phí",
+                    "Ấm nước",
+                    "Cửa sổ mở",
+                    "tầng trệt",
+                    "22 m²",
+                    "Tối đa 2 người lớn",
+                    "1 giường đôi lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "407.407",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Miễn phí hủy trước ngày 18 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "Miễn Phí Internet Không Dây"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "47275728",
+        "hotel_name": "Khách sạn Phước Hưng 2 (Phước Hưng 2 Hotel)",
+        "hotel_address": "No. 44a, Trưng Nu Vuong, Phuong 1, Vietnam, Vĩnh Long, Vĩnh Long, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Phòng đôi C (Double Room C)",
+                "amenities": [
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Vòi sen",
+                    "Wi-Fi [miễn phí]",
+                    "Nước đóng chai miễn phí",
+                    "Tủ lạnh",
+                    "Tủ quần áo",
+                    "Không hút thuốc",
+                    "Điều hòa cá nhân",
+                    "15 m²",
+                    "Tối đa 2 người lớn, 1 bé (0-9 tuổi) ở MIỄN PHÍ!",
+                    "1 giường đôi lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn & 1 trẻ em (0-9 tuổi)",
+                        "option_price": "296.301",
+                        "amenities_for_price": [
+                            "2 người lớn & 1 trẻ em (0-9 tuổi)",
+                            "Miễn phí hủy trước ngày 17 thg 11, 25",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 18.514 ₫!"
+                        ]
+                    },
+                    {
+                        "option_name": "2 người lớn & 1 trẻ em (0-9 tuổi)",
+                        "option_price": "314.815",
+                        "amenities_for_price": [
+                            "2 người lớn & 1 trẻ em (0-9 tuổi)",
+                            "Miễn phí hủy trước ngày 17 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Phòng Standard giường đôi (Standard Double Room)",
+                "amenities": [
+                    "Ấm nước điện",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Phòng tắm đứng",
+                    "Wi-Fi [miễn phí]",
+                    "Đồ dùng cho giấc ngủ thoải mái",
+                    "Tủ lạnh nhỏ trong phòng",
+                    "Nước đóng chai miễn phí",
+                    "Tủ lạnh",
+                    "Cửa sổ",
+                    "17 m²",
+                    "Tối đa 2 người lớn, 1 bé (0-9 tuổi) ở MIỄN PHÍ!",
+                    "1 giường đôi lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn & 1 trẻ em (0-9 tuổi)",
+                        "option_price": "321.111",
+                        "amenities_for_price": [
+                            "2 người lớn & 1 trẻ em (0-9 tuổi)",
+                            "Chính sách hủy",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    },
+                    {
+                        "option_name": "2 người lớn & 1 trẻ em (0-9 tuổi)",
+                        "option_price": "358.781",
+                        "amenities_for_price": [
+                            "2 người lớn & 1 trẻ em (0-9 tuổi)",
+                            "Miễn phí hủy trước ngày 17 thg 11, 25",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 19.305 ₫!"
+                        ]
+                    },
+                    {
+                        "option_name": "2 người lớn & 1 trẻ em (0-9 tuổi)",
+                        "option_price": "378.086",
+                        "amenities_for_price": [
+                            "2 người lớn & 1 trẻ em (0-9 tuổi)",
+                            "Miễn phí hủy trước ngày 17 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Phòng Superior 4 Người (Superior Quadruple Room)",
+                "amenities": [
+                    "Ấm nước điện",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Phòng tắm đứng",
+                    "Đồ dùng cho giấc ngủ thoải mái",
+                    "Nước đóng chai miễn phí",
+                    "Tủ lạnh",
+                    "Ban công/sân hiên",
+                    "Tủ quần áo",
+                    "Điều hòa cá nhân",
+                    "25 m²",
+                    "Tối đa 2 người lớn",
+                    "2 giường đôi lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "513.463",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Chính sách hủy",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "34733523",
+        "hotel_name": "Khách sạn Mekong Star (Hotel Mekong Star)",
+        "hotel_address": "77a Hùng Vương, Vĩnh Long, Vĩnh Long, Việt Nam, 85000",
+        "room_types": [
+            {
+                "room_type_name": "Phòng Đôi (Double Room)",
+                "amenities": [
+                    "Ấm nước điện",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Phòng tắm đứng",
+                    "Đồ dùng cho giấc ngủ thoải mái",
+                    "Tủ lạnh nhỏ trong phòng",
+                    "Nước đóng chai miễn phí",
+                    "Tủ lạnh",
+                    "Tủ quần áo",
+                    "Điều hòa cá nhân",
+                    "18 m²",
+                    "Tối đa 2 người lớn",
+                    "1 giường đôi"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "277.778",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Trả tiền ở khách sạn",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Phòng Tiêu Chuẩn Giường Đôi (Standard Double Room)",
+                "amenities": [
+                    "Ấm nước điện",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Phòng tắm đứng",
+                    "Đồ dùng cho giấc ngủ thoải mái",
+                    "Tủ lạnh nhỏ trong phòng",
+                    "Nước đóng chai miễn phí",
+                    "Tủ lạnh",
+                    "Tủ quần áo",
+                    "Điều hòa cá nhân",
+                    "18 m²",
+                    "Tối đa 2 người lớn",
+                    "1 giường đôi"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "296.296",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Trả tiền ở khách sạn",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Phòng Hai Giường Đơn (Twin Room)",
+                "amenities": [
+                    "Ấm nước điện",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Phòng tắm đứng",
+                    "Đồ dùng cho giấc ngủ thoải mái",
+                    "Tủ lạnh nhỏ trong phòng",
+                    "Nước đóng chai miễn phí",
+                    "Tủ lạnh",
+                    "Tủ quần áo",
+                    "Điều hòa cá nhân",
+                    "24 m²",
+                    "Tối đa 2 người lớn",
+                    "2 giường đơn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "307.870",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Trả tiền ở khách sạn",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "5875532",
+        "hotel_name": "Khách sạn Sài Gòn Vĩnh Long (Sai Gon Vinh Long Hotel)",
+        "hotel_address": "02 Trưng Nữ Vương, Phường 1, Tp. Vĩnh Long, Vĩnh Long, Vĩnh Long, Việt Nam, 85000",
+        "room_types": [
+            {
+                "room_type_name": "Surperior Twin",
+                "amenities": [
+                    "28 m²",
+                    "Tối đa 2 người lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "1.008.931",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Có ăn sáng",
+                            "Miễn phí hủy trước ngày 19 thg 11, 25",
+                            "Đặt và trả tiền ngay",
+                            "Phòng tập",
+                            "Bãi đậu xe",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí"
+                        ]
+                    },
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "1.088.183",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Có ăn sáng",
+                            "Miễn phí hủy trước ngày 18 thg 11, 25",
+                            "Đặt và trả tiền ngay",
+                            "Phòng tập",
+                            "Bãi đậu xe",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Phòng Superior 2 giường đơn (Superior Twin Room)",
+                "amenities": [
+                    "Hướng Thành phố",
+                    "Ấm nước điện",
+                    "Bồn tắm",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Vòi sen",
+                    "Điều hòa",
+                    "Tủ lạnh nhỏ trong phòng",
+                    "Tủ lạnh",
+                    "Tủ quần áo",
+                    "28 m²",
+                    "Tối đa 2 người lớn",
+                    "2 giường đơn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "1.024.318",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Có ăn sáng",
+                            "Miễn phí hủy trước ngày 19 thg 11, 25",
+                            "Đặt và trả tiền ngay",
+                            "Phòng tập",
+                            "Bãi đậu xe",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí"
+                        ]
+                    },
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "1.035.181",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Có ăn sáng",
+                            "Chính sách hủy",
+                            "Đặt và trả tiền ngay",
+                            "Phòng tập",
+                            "Bãi đậu xe",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí"
+                        ]
+                    },
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "1.038.297",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Có ăn sáng",
+                            "Miễn phí hủy trước ngày 18 thg 11, 25",
+                            "Đặt và trả tiền ngay",
+                            "Phòng tập",
+                            "Bãi đậu xe",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí"
+                        ]
+                    },
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "1.157.407",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Có ăn sáng",
+                            "Miễn phí hủy trước ngày 18 thg 11, 25",
+                            "Trả tiền cho khách sạn",
+                            "Phòng tập",
+                            "Bãi đậu xe",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "46568020",
+        "hotel_name": "Khách sạn Phước Hưng 3 (Phước Hưng 3 Hotel)",
+        "hotel_address": "No. 40, Trưng Nữ Vương, Ward 1, Vietnam, Vĩnh Long, Vĩnh Long, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Phòng Standard giường đôi (Standard Double Room)",
+                "amenities": [
+                    "Hướng Thành phố",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Phòng tắm đứng",
+                    "Wi-Fi [miễn phí]",
+                    "Rèm che ánh sáng",
+                    "Nước đóng chai miễn phí",
+                    "Ấm nước",
+                    "Tủ lạnh",
+                    "Cửa sổ",
+                    "20 m²",
+                    "Tối đa 2 người lớn, 1 bé (0-5 tuổi) ở MIỄN PHÍ!",
+                    "1 giường đôi"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn & 1 trẻ em (0-5 tuổi)",
+                        "option_price": "451.619",
+                        "amenities_for_price": [
+                            "2 người lớn & 1 trẻ em (0-5 tuổi)",
+                            "Miễn phí hủy trước ngày 17 thg 11, 25",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 50.013 ₫!"
+                        ]
+                    },
+                    {
+                        "option_name": "2 người lớn & 1 trẻ em (0-5 tuổi)",
+                        "option_price": "501.631",
+                        "amenities_for_price": [
+                            "2 người lớn & 1 trẻ em (0-5 tuổi)",
+                            "Miễn phí hủy trước ngày 17 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Phòng Deluxe giường đôi có ban công (Deluxe Double Room with Balcony)",
+                "amenities": [
+                    "Hướng Thành phố",
+                    "Bồn tắm tạo sóng",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Phòng tắm đứng",
+                    "Wi-Fi [miễn phí]",
+                    "Rèm che ánh sáng",
+                    "Nước đóng chai miễn phí",
+                    "Ấm nước",
+                    "Tủ lạnh",
+                    "25 m²",
+                    "Tối đa 2 người lớn, 1 bé (0-5 tuổi) ở MIỄN PHÍ!",
+                    "1 giường đôi lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn & 1 trẻ em (0-5 tuổi)",
+                        "option_price": "567.672",
+                        "amenities_for_price": [
+                            "2 người lớn & 1 trẻ em (0-5 tuổi)",
+                            "Miễn phí hủy trước ngày 17 thg 11, 25",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 46.041 ₫!"
+                        ]
+                    },
+                    {
+                        "option_name": "2 người lớn & 1 trẻ em (0-5 tuổi)",
+                        "option_price": "613.713",
+                        "amenities_for_price": [
+                            "2 người lớn & 1 trẻ em (0-5 tuổi)",
+                            "Miễn phí hủy trước ngày 17 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Căn hộ (Apartment)",
+                "amenities": [
+                    "Hướng Thành phố",
+                    "2 phòng ngủ",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Phòng tắm đứng",
+                    "Wi-Fi [miễn phí]",
+                    "Rèm che ánh sáng",
+                    "Nước đóng chai miễn phí",
+                    "Ấm nước",
+                    "Tủ lạnh",
+                    "45 m²",
+                    "Tối đa 4 người lớn, 1 bé (0-5 tuổi) ở MIỄN PHÍ!",
+                    "1 giường đôi / 1 giường đôi"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "4 người lớn & 1 trẻ em (0-5 tuổi)",
+                        "option_price": "1.317.291",
+                        "amenities_for_price": [
+                            "4 người lớn & 1 trẻ em (0-5 tuổi)",
+                            "Miễn phí hủy trước ngày 17 thg 11, 25",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 20.848 ₫!"
+                        ]
+                    },
+                    {
+                        "option_name": "4 người lớn & 1 trẻ em (0-5 tuổi)",
+                        "option_price": "1.338.139",
+                        "amenities_for_price": [
+                            "4 người lớn & 1 trẻ em (0-5 tuổi)",
+                            "Miễn phí hủy trước ngày 17 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "2305737",
+        "hotel_name": "Thien Thanh Hotel",
+        "hotel_address": "2G Hung Vuong, Vĩnh Long, Vĩnh Long, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Phòng Tiêu Chuẩn Giường Đôi (Standard Double Room)",
+                "amenities": [
+                    "Ấm nước điện",
+                    "phòng tắm riêng",
+                    "Vòi sen",
+                    "Điều hòa",
+                    "Nước đóng chai miễn phí",
+                    "Tủ quần áo",
+                    "17 m²",
+                    "Tối đa 2 người lớn",
+                    "1 giường đôi"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "250.000",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Chính sách hủy",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Phòng 4 Người (Quadruple Room)",
+                "amenities": [
+                    "Ấm nước điện",
+                    "phòng tắm riêng",
+                    "Vòi sen",
+                    "Điều hòa",
+                    "Nước đóng chai miễn phí",
+                    "Tủ quần áo",
+                    "25 m²",
+                    "Tối đa 4 người lớn",
+                    "2 giường đôi"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "4 người lớn",
+                        "option_price": "388.889",
+                        "amenities_for_price": [
+                            "4 người lớn",
+                            "Chính sách hủy",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Phòng Deluxe 4 Người (Deluxe Quadruple Room)",
+                "amenities": [
+                    "Ấm nước điện",
+                    "phòng tắm riêng",
+                    "Vòi sen",
+                    "Điều hòa",
+                    "Nước đóng chai miễn phí",
+                    "Tủ quần áo",
+                    "25 m²",
+                    "Tối đa 4 người lớn",
+                    "2 giường đơn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "4 người lớn",
+                        "option_price": "416.667",
+                        "amenities_for_price": [
+                            "4 người lớn",
+                            "Chính sách hủy",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "36461240",
+        "hotel_name": "Paris Hotel & Cafe",
+        "hotel_address": "A1-A2 Tran Phu,Khom 6,Phuong 4, Vĩnh Long, Vĩnh Long, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Phòng Tiêu Chuẩn Giường Lớn (Standard King Room)",
+                "amenities": [
+                    "Hướng Sân trong",
+                    "Ấm nước điện",
+                    "Phòng tắm chung",
+                    "Máy sấy tóc",
+                    "Phòng tắm đứng",
+                    "Đồ dùng cho giấc ngủ thoải mái",
+                    "Tủ lạnh nhỏ trong phòng",
+                    "Nước đóng chai miễn phí",
+                    "Tủ lạnh",
+                    "Ban công/sân hiên",
+                    "Tối đa 2 người lớn",
+                    "1 giường lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "500.000",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Trả tiền cho khách sạn",
+                            "Bãi đậu xe",
+                            "Nhận phòng nhanh"
+                        ]
+                    },
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "555.556",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Miễn phí hủy trước ngày 17 thg 11, 25",
+                            "Trả tiền ở khách sạn",
+                            "Bãi đậu xe",
+                            "Nhận phòng nhanh"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Phòng Superior Có Giường Cỡ King (Superior King Room)",
+                "amenities": [
+                    "Hướng Thành phố",
+                    "Ấm nước điện",
+                    "Phòng tắm chung",
+                    "Máy sấy tóc",
+                    "Phòng tắm đứng",
+                    "Đồ dùng cho giấc ngủ thoải mái",
+                    "Tủ lạnh nhỏ trong phòng",
+                    "Nước đóng chai miễn phí",
+                    "Tủ lạnh",
+                    "Ban công/sân hiên",
+                    "Tối đa 2 người lớn",
+                    "1 giường lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "833.333",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Trả tiền cho khách sạn",
+                            "Bãi đậu xe",
+                            "Nhận phòng nhanh"
+                        ]
+                    },
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "925.926",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Miễn phí hủy trước ngày 17 thg 11, 25",
+                            "Trả tiền ở khách sạn",
+                            "Bãi đậu xe",
+                            "Nhận phòng nhanh"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Phòng Deluxe Giường Đôi Có Ban Công (Deluxe Double Room with Balcony)",
+                "amenities": [
+                    "Hướng Thành phố",
+                    "Ấm nước điện",
+                    "Phòng tắm chung",
+                    "Máy sấy tóc",
+                    "Phòng tắm đứng",
+                    "Đồ dùng cho giấc ngủ thoải mái",
+                    "Tủ lạnh nhỏ trong phòng",
+                    "Nước đóng chai miễn phí",
+                    "Tủ lạnh",
+                    "Điều hòa cá nhân",
+                    "Tối đa 2 người lớn",
+                    "1 giường lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "833.333",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Trả tiền cho khách sạn",
+                            "Bãi đậu xe",
+                            "Nhận phòng nhanh"
+                        ]
+                    },
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "925.926",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Miễn phí hủy trước ngày 17 thg 11, 25",
+                            "Trả tiền ở khách sạn",
+                            "Bãi đậu xe",
+                            "Nhận phòng nhanh"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "36840539",
+        "hotel_name": "Bình An Village (Bình An Village )",
+        "hotel_address": "Đường Phước Hậu 394C/19 Ngươn A, Phước Hậu, Long Hồ, Vĩnh Long ( Phó Cơ Điều – sau tòa án tỉnh Vĩnh Long ), Thanh Đức, Vĩnh Long, Việt Nam, 85000",
+        "room_types": [
+            {
+                "room_type_name": "Phòng Đôi (Double Room)",
+                "amenities": [
+                    "Hướng Vườn",
+                    "Ấm nước điện",
+                    "phòng tắm riêng",
+                    "Vòi sen",
+                    "Đồ dùng cho giấc ngủ thoải mái",
+                    "Nước đóng chai miễn phí",
+                    "Tủ lạnh",
+                    "Ban công/sân hiên",
+                    "tầng trệt",
+                    "Đồ gỗ ngoài trời",
+                    "20 m²",
+                    "Tối đa 2 người lớn",
+                    "1 giường đôi lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "462.963",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Có ăn sáng",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Trả tiền ở khách sạn",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    },
+                    {
+                        "option_name": "1 người lớn & 1 trẻ em (0-7 tuổi) Vượt quá sức chứa phòng",
+                        "option_price": "370.370",
+                        "amenities_for_price": [
+                            "1 người lớn & 1 trẻ em (0-7 tuổi) Vượt quá sức chứa phòng",
+                            "Có ăn sáng",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Trả tiền ở khách sạn",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Phòng Tiêu Chuẩn (Standard)",
+                "amenities": [
+                    "Hướng Vườn",
+                    "phòng tắm riêng",
+                    "Vòi sen",
+                    "Đồ dùng cho giấc ngủ thoải mái",
+                    "Nước đóng chai miễn phí",
+                    "Ban công/sân hiên",
+                    "tầng trệt",
+                    "Đồ gỗ ngoài trời",
+                    "Tủ quần áo",
+                    "Điều hòa cá nhân",
+                    "35 m²",
+                    "Tối đa 4 người lớn",
+                    "2 giường đôi lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "592.593",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Có ăn sáng",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Trả tiền ở khách sạn",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    },
+                    {
+                        "option_name": "4 người lớn",
+                        "option_price": "740.741",
+                        "amenities_for_price": [
+                            "4 người lớn",
+                            "Có ăn sáng",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Trả tiền ở khách sạn",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Phòng Đơn Lớn (Large Single Room)",
+                "amenities": [
+                    "Hướng Vườn",
+                    "phòng tắm riêng",
+                    "Vòi sen",
+                    "Đồ dùng cho giấc ngủ thoải mái",
+                    "Nước đóng chai miễn phí",
+                    "Ban công/sân hiên",
+                    "tầng trệt",
+                    "Đồ gỗ ngoài trời",
+                    "Tủ quần áo",
+                    "Điều hòa cá nhân",
+                    "18 m²",
+                    "Tối đa 1 người lớn, 1 bé (0-7 tuổi) ở MIỄN PHÍ!",
+                    "1 giường đơn hoặc 1 giường đôi lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "1 người lớn & 1 trẻ em (0-7 tuổi) Vượt quá sức chứa phòng",
+                        "option_price": "370.370",
+                        "amenities_for_price": [
+                            "1 người lớn & 1 trẻ em (0-7 tuổi) Vượt quá sức chứa phòng",
+                            "Có ăn sáng",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Trả tiền ở khách sạn",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "27848299",
+        "hotel_name": "Khách sạn Minh Khuê (Minh Khue Hotel)",
+        "hotel_address": "38 Trung Nu Vuong, Vĩnh Long, Vĩnh Long, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Phòng Đôi (Double Room)",
+                "amenities": [
+                    "Hướng Ngoài trời",
+                    "Ấm nước điện",
+                    "phòng tắm riêng",
+                    "Vòi sen",
+                    "Đồ dùng cho giấc ngủ thoải mái",
+                    "Điều hòa",
+                    "Nước đóng chai miễn phí",
+                    "Tủ lạnh",
+                    "Ban công/sân hiên",
+                    "Cửa sổ",
+                    "20 m²",
+                    "Tối đa 2 người lớn",
+                    "1 giường đôi lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "314.815",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Miễn phí hủy trước ngày 19 thg 11, 25",
+                            "Trả tiền ở khách sạn"
+                        ]
+                    },
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "388.889",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Miễn phí hủy trước ngày 17 thg 11, 25",
+                            "Trả tiền ở khách sạn"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Phòng 4 người (Quadruple Room)",
+                "amenities": [
+                    "Ấm nước điện",
+                    "phòng tắm riêng",
+                    "Vòi sen",
+                    "Đồ dùng cho giấc ngủ thoải mái",
+                    "Điều hòa",
+                    "Nước đóng chai miễn phí",
+                    "Tủ lạnh",
+                    "Cửa sổ",
+                    "Tủ quần áo",
+                    "25 m²",
+                    "Tối đa 4 người lớn",
+                    "2 giường đôi"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "4 người lớn",
+                        "option_price": "425.926",
+                        "amenities_for_price": [
+                            "4 người lớn",
+                            "Miễn phí hủy trước ngày 19 thg 11, 25",
+                            "Trả tiền ở khách sạn"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Phòng Ba Người (Triple Room)",
+                "amenities": [
+                    "Ấm nước điện",
+                    "phòng tắm riêng",
+                    "Vòi sen",
+                    "Đồ dùng cho giấc ngủ thoải mái",
+                    "Điều hòa",
+                    "Nước đóng chai miễn phí",
+                    "Tủ lạnh",
+                    "Cửa sổ",
+                    "Tủ quần áo",
+                    "25 m²",
+                    "Tối đa 3 người lớn, 1 bé (0-12 tuổi) ở MIỄN PHÍ!",
+                    "1 giường đơn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "3 người lớn & 1 trẻ em (0-12 tuổi)",
+                        "option_price": "462.963",
+                        "amenities_for_price": [
+                            "3 người lớn & 1 trẻ em (0-12 tuổi)",
+                            "Miễn phí hủy trước ngày 19 thg 11, 25",
+                            "Trả tiền ở khách sạn"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "5898099",
+        "hotel_name": "mekong riverside homestay",
+        "hotel_address": "145a/11 ap binh luong xa an binh huyen long ho tinh vinh longll, An Bình, Vĩnh Long, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Bungalow Cao cấp (Superior Bungalow)",
+                "amenities": [
+                    "Hướng Vườn",
+                    "Ấm nước điện",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Phòng tắm đứng",
+                    "Đồ dùng cho giấc ngủ thoải mái",
+                    "Nước đóng chai miễn phí",
+                    "Tủ lạnh",
+                    "Bể bơi riêng",
+                    "Ban công/sân hiên",
+                    "30 m²",
+                    "Tối đa 2 người lớn",
+                    "1 giường lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "509.259",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Có ăn sáng",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Trả tiền ở khách sạn",
+                            "Bãi đậu xe",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí"
+                        ]
+                    },
+                    {
+                        "option_name": "1 người lớn & 1 trẻ em (0-3 tuổi) Vượt quá sức chứa phòng",
+                        "option_price": "453.704",
+                        "amenities_for_price": [
+                            "1 người lớn & 1 trẻ em (0-3 tuổi) Vượt quá sức chứa phòng",
+                            "Có ăn sáng",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Trả tiền ở khách sạn",
+                            "Bãi đậu xe",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "2822366",
+        "hotel_name": "Homestay Ngoc Sang",
+        "hotel_address": "95/8 Binh Luong, An Binh, An Bình, Vĩnh Long, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Phòng Giường Đôi Nhìn Ra Vườn (Double Room with Garden View)",
+                "amenities": [
+                    "Hướng Vườn",
+                    "2 phòng tắm",
+                    "Ấm nước điện",
+                    "Phòng tắm chung",
+                    "Máy sấy tóc",
+                    "Vòi sen",
+                    "Đồ dùng cho giấc ngủ thoải mái",
+                    "Quạt",
+                    "Rượu",
+                    "Nước đóng chai miễn phí",
+                    "25 m²",
+                    "Tối đa 2 người lớn",
+                    "1 giường đôi lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "407.407",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Có ăn sáng",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Trả tiền ở khách sạn",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí"
+                        ]
+                    },
+                    {
+                        "option_name": "1 người lớn & 1 trẻ em (0-5 tuổi) Vượt quá sức chứa phòng",
+                        "option_price": "259.259",
+                        "amenities_for_price": [
+                            "1 người lớn & 1 trẻ em (0-5 tuổi) Vượt quá sức chứa phòng",
+                            "Có ăn sáng",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Trả tiền ở khách sạn",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Phòng 4 Người (Quadruple Room)",
+                "amenities": [
+                    "Hướng Vườn",
+                    "2 phòng tắm",
+                    "Ấm nước điện",
+                    "Phòng tắm chung",
+                    "Máy sấy tóc",
+                    "Vòi sen",
+                    "Đồ dùng cho giấc ngủ thoải mái",
+                    "Quạt",
+                    "Rượu",
+                    "Nước đóng chai miễn phí",
+                    "35 m²",
+                    "Tối đa 3 người lớn, 1 bé (0-5 tuổi) ở MIỄN PHÍ!",
+                    "2 giường đôi lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn & 2 trẻ em (0-5 tuổi)",
+                        "option_price": "444.444",
+                        "amenities_for_price": [
+                            "2 người lớn & 2 trẻ em (0-5 tuổi)",
+                            "Có ăn sáng",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Trả tiền ở khách sạn",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí"
+                        ]
+                    },
+                    {
+                        "option_name": "3 người lớn & 1 trẻ em (0-5 tuổi)",
+                        "option_price": "583.333",
+                        "amenities_for_price": [
+                            "3 người lớn & 1 trẻ em (0-5 tuổi)",
+                            "Có ăn sáng",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Trả tiền ở khách sạn",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí"
+                        ]
+                    },
+                    {
+                        "option_name": "1 người lớn & 3 trẻ em (0-5 tuổi) Vượt quá sức chứa phòng",
+                        "option_price": "305.556",
+                        "amenities_for_price": [
+                            "1 người lớn & 3 trẻ em (0-5 tuổi) Vượt quá sức chứa phòng",
+                            "Có ăn sáng",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Trả tiền ở khách sạn",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "621919",
+        "hotel_name": "Thúy An Homestay (Happy Family Guesthouse)",
+        "hotel_address": "53/4 Ấp Phú Mỹ 1 , Xã Đồng Phú, Huyện Long Hồ, Tỉnh Vĩnh Long, Đồng Phú, Vĩnh Long, Việt Nam, 890000",
+        "room_types": [
+            {
+                "room_type_name": "Phòng Standard giường đôi (Standard Double Room)",
+                "amenities": [
+                    "Hướng Thiên nhiên",
+                    "Phòng tắm chung",
+                    "Vòi sen",
+                    "Wi-Fi [miễn phí]",
+                    "Đồ dùng cho giấc ngủ thoải mái",
+                    "Bể bơi riêng",
+                    "Ban công/sân hiên",
+                    "tầng trệt",
+                    "Đồ gỗ ngoài trời",
+                    "Không hút thuốc",
+                    "20 m²",
+                    "Tối đa 4 người lớn",
+                    "2 giường đôi"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "444.537",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Có ăn sáng",
+                            "Miễn phí hủy trước ngày 17 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng",
+                            "Phòng tập",
+                            "Bãi đậu xe",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí"
+                        ]
+                    },
+                    {
+                        "option_name": "4 người lớn",
+                        "option_price": "694.676",
+                        "amenities_for_price": [
+                            "4 người lớn",
+                            "Có ăn sáng",
+                            "Miễn phí hủy trước ngày 17 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng",
+                            "Phòng tập",
+                            "Bãi đậu xe",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí"
+                        ]
+                    },
+                    {
+                        "option_name": "1 người lớn Vượt quá sức chứa phòng",
+                        "option_price": "377.856",
+                        "amenities_for_price": [
+                            "1 người lớn Vượt quá sức chứa phòng",
+                            "Có ăn sáng",
+                            "Miễn phí hủy trước ngày 17 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng",
+                            "Phòng tập",
+                            "Bãi đậu xe",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Phòng Cao Cấp Cho Hai Người (Superior Double Room)",
+                "amenities": [
+                    "Hướng Vườn",
+                    "Phòng tắm chung",
+                    "Vòi sen",
+                    "Đồ dùng cho giấc ngủ thoải mái",
+                    "Ban công/sân hiên",
+                    "tầng trệt",
+                    "Đồ gỗ ngoài trời",
+                    "Không hút thuốc",
+                    "Điều hòa cá nhân",
+                    "16 m²",
+                    "Tối đa 2 người lớn",
+                    "1 giường đôi"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "453.796",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Có ăn sáng",
+                            "Miễn phí hủy trước ngày 17 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng",
+                            "Phòng tập",
+                            "Bãi đậu xe",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí"
+                        ]
+                    },
+                    {
+                        "option_name": "1 người lớn & 1 trẻ em (0-12 tuổi) Vượt quá sức chứa phòng",
+                        "option_price": "385.727",
+                        "amenities_for_price": [
+                            "1 người lớn & 1 trẻ em (0-12 tuổi) Vượt quá sức chứa phòng",
+                            "Có ăn sáng",
+                            "Miễn phí hủy trước ngày 17 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng",
+                            "Phòng tập",
+                            "Bãi đậu xe",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "64294833",
+        "hotel_name": "Huỳnh Yên (Huynh Yen)",
+        "hotel_address": "219/17 ấp Long Thuận xã Long Phước huyện Long Hồ tỉnh Vĩnh Long, Thanh Đức, Vĩnh Long, Việt Nam, 85217",
+        "room_types": [
+            {
+                "room_type_name": "Phòng Đôi (Double Room)",
+                "amenities": [
+                    "phòng tắm riêng",
+                    "Vòi sen",
+                    "Điều hòa",
+                    "Ban công/sân hiên",
+                    "Tủ quần áo",
+                    "16 m²",
+                    "Tối đa 2 người lớn",
+                    "1 giường đôi lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "194.444",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Miễn phí hủy trước ngày 18 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe"
+                        ]
+                    },
+                    {
+                        "option_name": "1 người lớn Vượt quá sức chứa phòng",
+                        "option_price": "175.000",
+                        "amenities_for_price": [
+                            "1 người lớn Vượt quá sức chứa phòng",
+                            "Miễn phí hủy trước ngày 18 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "47853496",
+        "hotel_name": "Sông Mê Home (Song Me Home)",
+        "hotel_address": "52/4 Binh Thuan 2, Hoa Ninh, Long Ho, Vinh Long, Viet Nam, Hòa Ninh, Vĩnh Long, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Phòng Giường Đôi Có Ban Công (Double Room with Balcony)",
+                "amenities": [
+                    "Hướng Sông",
+                    "phòng tắm riêng",
+                    "Vòi sen",
+                    "Ban công/sân hiên",
+                    "Điều hòa cá nhân",
+                    "19 m²",
+                    "Tối đa 2 người lớn",
+                    "1 giường đôi lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "673.148",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Có ăn sáng",
+                            "Miễn phí hủy trước ngày 17 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí"
+                        ]
+                    },
+                    {
+                        "option_name": "1 người lớn & 1 trẻ em (0-6 tuổi) Vượt quá sức chứa phòng",
+                        "option_price": "605.833",
+                        "amenities_for_price": [
+                            "1 người lớn & 1 trẻ em (0-6 tuổi) Vượt quá sức chứa phòng",
+                            "Có ăn sáng",
+                            "Miễn phí hủy trước ngày 17 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "78731393",
+        "hotel_name": "Khách Sạn Và Nhà Hàng Ngọc Yến 5 Vĩnh Long (Khach San Va Nha Hang Ngoc Yen 5 Vinh Long)",
+        "hotel_address": "11 Đường Lê Lai, Vĩnh Long, Vĩnh Long, Việt Nam, 85000",
+        "room_types": [
+            {
+                "room_type_name": "Phòng Tiêu Chuẩn Giường Lớn (Standard King Room)",
+                "amenities": [
+                    "Hướng Ngoài trời",
+                    "Ấm nước điện",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Vòi sen",
+                    "Điều hòa",
+                    "Tủ quần áo",
+                    "Tối đa 2 người lớn",
+                    "1 giường đôi lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "454.545",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Miễn phí hủy trước ngày 18 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Phòng Ba Người (Triple Room)",
+                "amenities": [
+                    "Hướng Ngoài trời",
+                    "Ấm nước điện",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Vòi sen",
+                    "Điều hòa",
+                    "Tủ quần áo",
+                    "Tối đa 3 người lớn",
+                    "3 giường đơn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "3 người lớn",
+                        "option_price": "545.455",
+                        "amenities_for_price": [
+                            "3 người lớn",
+                            "Miễn phí hủy trước ngày 18 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Phòng Ba Người (Triple Room)",
+                "amenities": [
+                    "Hướng Ngoài trời",
+                    "Ấm nước điện",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Vòi sen",
+                    "Điều hòa",
+                    "Tủ quần áo",
+                    "Tối đa 3 người lớn",
+                    "1 giường đơn và 1 giường đôi"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "3 người lớn",
+                        "option_price": "545.455",
+                        "amenities_for_price": [
+                            "3 người lớn",
+                            "Miễn phí hủy trước ngày 18 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "621780",
+        "hotel_name": "Nam Thanh homestay (Nam Thanh Homestay)",
+        "hotel_address": "172/9 Bình Lương, An Bình, Long Hồ, An Bình, Vĩnh Long, Việt Nam, 91000",
+        "room_types": [
+            {
+                "room_type_name": "Economy (Economy)",
+                "amenities": [
+                    "Hướng Vườn",
+                    "3 phòng tắm",
+                    "Phòng tắm chung",
+                    "Máy sấy tóc",
+                    "Phòng tắm đứng",
+                    "Đồ dùng cho giấc ngủ thoải mái",
+                    "Điều hòa",
+                    "Ban công/sân hiên",
+                    "Giường cực dài",
+                    "Đồ gỗ ngoài trời",
+                    "15 m²",
+                    "Tối đa 2 người lớn",
+                    "1 giường đôi lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "352.734",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Có ăn sáng",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "38696787",
+        "hotel_name": "Khách sạn Phước Thịnh (Phước Thịnh Hotel)",
+        "hotel_address": "Số A241, Đường Phan Văn Đáng, Khóm 3, Phường 9. TP. Vĩnh Long, Tỉnh Vĩnh Long, Phước Thịnh Hotel, Vĩnh Long, Vĩnh Long, Việt Nam, 85000",
+        "room_types": [
+            {
+                "room_type_name": "Phòng Superior (Superior)",
+                "amenities": [
+                    "Hướng Vườn",
+                    "Ấm nước điện",
+                    "phòng tắm riêng",
+                    "Phòng tắm đứng",
+                    "Chăn điện",
+                    "Nước đóng chai miễn phí",
+                    "Đồ gỗ ngoài trời",
+                    "Tủ quần áo",
+                    "Điều hòa cá nhân",
+                    "20 m²",
+                    "Tối đa 2 người lớn",
+                    "1 giường đôi lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "370.370",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Miễn phí hủy trước ngày 17 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Phòng Loại Sang (Deluxe)",
+                "amenities": [
+                    "Hướng Vườn",
+                    "Ấm nước điện",
+                    "Bồn tắm",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Phòng tắm đứng",
+                    "Chăn điện",
+                    "Nước đóng chai miễn phí",
+                    "Tủ lạnh",
+                    "Ban công/sân hiên",
+                    "20 m²",
+                    "Tối đa 2 người lớn",
+                    "1 giường đơn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "416.667",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Miễn phí hủy trước ngày 17 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Phòng Đôi (Double Room)",
+                "amenities": [
+                    "Hướng Vườn",
+                    "21 phòng tắm",
+                    "Ấm nước điện",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Phòng tắm đứng",
+                    "Chăn điện",
+                    "Nước đóng chai miễn phí",
+                    "Tủ lạnh",
+                    "Ban công/sân hiên",
+                    "20 m²",
+                    "Tối đa 4 người lớn",
+                    "1 giường đôi lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "4 người lớn",
+                        "option_price": "462.963",
+                        "amenities_for_price": [
+                            "4 người lớn",
+                            "Miễn phí hủy trước ngày 17 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "11292064",
+        "hotel_name": "Mekong Pottery Homestay, Green-Friendly & Boat Tour",
+        "hotel_address": "209A/15 Mười Bốn Tháng Chín Street, Thanh Đức Hamlet, Long Hồ District, Thanh Đức, Vĩnh Long, Việt Nam, 891311",
+        "room_types": [
+            {
+                "room_type_name": "Phòng 3 Người Nhìn Ra Vườn (Triple Room with Garden View)",
+                "amenities": [
+                    "Hướng Vườn",
+                    "Ấm nước điện",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Vòi sen",
+                    "Truy cập Internet - không dây",
+                    "Đồ dùng cho giấc ngủ thoải mái",
+                    "Điều hòa",
+                    "Rượu",
+                    "Nước đóng chai miễn phí",
+                    "21 m²",
+                    "Tối đa 3 người lớn",
+                    "1 giường đơn và 1 giường đôi lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn & 1 trẻ em (0-2 tuổi)",
+                        "option_price": "1.189.211",
+                        "amenities_for_price": [
+                            "2 người lớn & 1 trẻ em (0-2 tuổi)",
+                            "Có ăn sáng",
+                            "Miễn phí hủy trước ngày 19 thg 11, 25",
+                            "Trả tiền ở khách sạn",
+                            "Bãi đậu xe",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí"
+                        ]
+                    },
+                    {
+                        "option_name": "3 người lớn",
+                        "option_price": "1.207.730",
+                        "amenities_for_price": [
+                            "3 người lớn",
+                            "Có ăn sáng",
+                            "Miễn phí hủy trước ngày 19 thg 11, 25",
+                            "Trả tiền ở khách sạn",
+                            "Bãi đậu xe",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí"
+                        ]
+                    },
+                    {
+                        "option_name": "1 người lớn & 2 trẻ em (0-2 tuổi) Vượt quá sức chứa phòng",
+                        "option_price": "1.170.693",
+                        "amenities_for_price": [
+                            "1 người lớn & 2 trẻ em (0-2 tuổi) Vượt quá sức chứa phòng",
+                            "Có ăn sáng",
+                            "Miễn phí hủy trước ngày 19 thg 11, 25",
+                            "Trả tiền ở khách sạn",
+                            "Bãi đậu xe",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "64331098",
+        "hotel_name": "Ngũ Long Hai Hotel (Ngu Long Hai Hotel)",
+        "hotel_address": "36 Trưng Nữ Vương, Vĩnh Long, Vĩnh Long, Việt Nam, 02703",
+        "room_types": [
+            {
+                "room_type_name": "Phòng Tiêu Chuẩn Giường Lớn (Standard King Room)",
+                "amenities": [
+                    "Ấm nước điện",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Vòi sen",
+                    "Đồ dùng cho giấc ngủ thoải mái",
+                    "Nước đóng chai miễn phí",
+                    "Giường cực dài",
+                    "Tủ quần áo",
+                    "Điều hòa cá nhân",
+                    "30 m²",
+                    "Tối đa 2 người lớn",
+                    "1 giường lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "416.667",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Miễn phí hủy trước ngày 18 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe"
+                        ]
+                    },
+                    {
+                        "option_name": "1 người lớn Vượt quá sức chứa phòng",
+                        "option_price": "395.833",
+                        "amenities_for_price": [
+                            "1 người lớn Vượt quá sức chứa phòng",
+                            "Miễn phí hủy trước ngày 18 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Phòng Tiêu Chuẩn Giường Đôi (Standard Double Room)",
+                "amenities": [
+                    "Hướng Thành phố",
+                    "Ấm nước điện",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Vòi sen",
+                    "Đồ dùng cho giấc ngủ thoải mái",
+                    "Nước đóng chai miễn phí",
+                    "Giường cực dài",
+                    "Tủ quần áo",
+                    "Điều hòa cá nhân",
+                    "33 m²",
+                    "Tối đa 3 người lớn",
+                    "2 giường lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "416.667",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Miễn phí hủy trước ngày 18 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe"
+                        ]
+                    },
+                    {
+                        "option_name": "3 người lớn",
+                        "option_price": "439.815",
+                        "amenities_for_price": [
+                            "3 người lớn",
+                            "Miễn phí hủy trước ngày 18 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Phòng Có Giường Cỡ King Với Ban Công (King Room with Balcony)",
+                "amenities": [
+                    "Hướng Sông",
+                    "Ấm nước điện",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Vòi sen",
+                    "Đồ dùng cho giấc ngủ thoải mái",
+                    "Nước đóng chai miễn phí",
+                    "Ban công/sân hiên",
+                    "Giường cực dài",
+                    "Tủ quần áo",
+                    "33 m²",
+                    "Tối đa 2 người lớn",
+                    "1 giường lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "513.889",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Miễn phí hủy trước ngày 18 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe"
+                        ]
+                    },
+                    {
+                        "option_name": "1 người lớn Vượt quá sức chứa phòng",
+                        "option_price": "488.194",
+                        "amenities_for_price": [
+                            "1 người lớn Vượt quá sức chứa phòng",
+                            "Miễn phí hủy trước ngày 18 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "7096891",
+        "hotel_name": "Phước Hưng 1 Hotel (Phuoc Hung 1 Hotel)",
+        "hotel_address": "44/62B Nguyễn Văn Thiệt , Phường 3 , TP Vĩnh Long, Vĩnh Long, Vĩnh Long, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Phòng Tiêu Chuẩn Giường Đôi (Standard Double Room)",
+                "amenities": [
+                    "Ấm nước điện",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Phòng tắm đứng",
+                    "Đồ dùng cho giấc ngủ thoải mái",
+                    "Nước đóng chai miễn phí",
+                    "Tủ lạnh",
+                    "Tủ quần áo",
+                    "Điều hòa cá nhân",
+                    "17 m²",
+                    "Tối đa 2 người lớn, 1 bé (0-10 tuổi) ở MIỄN PHÍ!",
+                    "1 giường đôi lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn & 1 trẻ em (0-10 tuổi)",
+                        "option_price": "283.333",
+                        "amenities_for_price": [
+                            "2 người lớn & 1 trẻ em (0-10 tuổi)",
+                            "Miễn phí hủy trước ngày 17 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Phòng Đôi Cao Cấp (Superior Double Room)",
+                "amenities": [
+                    "Ấm nước điện",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Phòng tắm đứng",
+                    "Đồ dùng cho giấc ngủ thoải mái",
+                    "Nước đóng chai miễn phí",
+                    "Tủ lạnh",
+                    "Tủ quần áo",
+                    "Điều hòa cá nhân",
+                    "17 m²",
+                    "Tối đa 2 người lớn, 1 bé (0-10 tuổi) ở MIỄN PHÍ!",
+                    "1 giường đôi lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn & 1 trẻ em (0-10 tuổi)",
+                        "option_price": "320.796",
+                        "amenities_for_price": [
+                            "2 người lớn & 1 trẻ em (0-10 tuổi)",
+                            "Miễn phí hủy trước ngày 17 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Phòng Ba Người (Triple Room)",
+                "amenities": [
+                    "Ấm nước điện",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Phòng tắm đứng",
+                    "Đồ dùng cho giấc ngủ thoải mái",
+                    "Nước đóng chai miễn phí",
+                    "Tủ lạnh",
+                    "Tủ quần áo",
+                    "Điều hòa cá nhân",
+                    "17 m²",
+                    "Tối đa 3 người lớn",
+                    "2 giường đôi"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "3 người lớn",
+                        "option_price": "385.019",
+                        "amenities_for_price": [
+                            "3 người lớn",
+                            "Miễn phí hủy trước ngày 17 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "569385",
+        "hotel_name": "Phương Thảo homestay (Phuong Thao Homestay)",
+        "hotel_address": "An Thành, An Bình, Long Hồ, An Bình, Vĩnh Long, Việt Nam, 91000",
+        "room_types": [
+            {
+                "room_type_name": "Phòng giường đôi hoặc 2 giường (Double or Twin)",
+                "amenities": [
+                    "Hướng Vườn",
+                    "Phòng tắm chung",
+                    "Vòi sen",
+                    "Wi-Fi [miễn phí]",
+                    "Rèm che ánh sáng",
+                    "Điều hòa",
+                    "Tủ quần áo",
+                    "Không hút thuốc",
+                    "24 m²",
+                    "Tối đa 2 người lớn",
+                    "2 giường đơn hoặc 1 giường đôi"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "440.917",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Có ăn sáng",
+                            "Chính sách hủy",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Phòng Gia Đình Cổ Điển (Classic Family Room)",
+                "amenities": [
+                    "Hướng Vườn",
+                    "phòng tắm riêng",
+                    "Vòi sen",
+                    "Điều hòa",
+                    "20 m²",
+                    "Tối đa 5 người lớn",
+                    "3 giường đơn và 1 giường đôi"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "5 người lớn",
+                        "option_price": "529.101",
+                        "amenities_for_price": [
+                            "5 người lớn",
+                            "Có ăn sáng",
+                            "Chính sách hủy",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "50602635",
+        "hotel_name": "Làng Bình An (Bình An Village)",
+        "hotel_address": "394C/19 Phước Ngươn A, Phước Hậu, Vĩnh Long, Vĩnh Long, Việt Nam, 85000",
+        "room_types": [
+            {
+                "room_type_name": "Phòng Đôi (Double Room)",
+                "amenities": [
+                    "Hướng Thiên nhiên",
+                    "phòng tắm riêng",
+                    "Vòi sen",
+                    "Rèm che ánh sáng",
+                    "Cà phê hòa tan miễn phí",
+                    "Ấm nước",
+                    "tầng trệt",
+                    "Tủ quần áo",
+                    "Hành lang ngoài",
+                    "Không hút thuốc",
+                    "20 m²",
+                    "Tối đa 2 người lớn, 1 bé (0-1 tuổi) ở MIỄN PHÍ!",
+                    "1 giường đôi"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn & 1 trẻ em (0-1 tuổi)",
+                        "option_price": "604.154",
+                        "amenities_for_price": [
+                            "2 người lớn & 1 trẻ em (0-1 tuổi)",
+                            "Có ăn sáng",
+                            "Miễn phí hủy trước ngày 17 thg 11, 25",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "Thuê xe đạp",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 13.130 ₫!"
+                        ]
+                    },
+                    {
+                        "option_name": "1 người lớn & 1 trẻ em (0-1 tuổi) Vượt quá sức chứa phòng",
+                        "option_price": "521.180",
+                        "amenities_for_price": [
+                            "1 người lớn & 1 trẻ em (0-1 tuổi) Vượt quá sức chứa phòng",
+                            "Có ăn sáng",
+                            "Miễn phí hủy trước ngày 17 thg 11, 25",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "Thuê xe đạp",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Phòng Gia Đình (Family Room)",
+                "amenities": [
+                    "Hướng Vườn",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Vòi sen",
+                    "Wi-Fi [miễn phí]",
+                    "Rèm che ánh sáng",
+                    "Cà phê hòa tan miễn phí",
+                    "Ấm nước",
+                    "Ban công/sân hiên",
+                    "Cửa sổ mở",
+                    "30 m²",
+                    "Tối đa 4 người lớn, 1 bé (0-1 tuổi) ở MIỄN PHÍ!",
+                    "2 giường đôi / 2 giường đôi"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "4 người lớn & 1 trẻ em (0-1 tuổi)",
+                        "option_price": "870.115",
+                        "amenities_for_price": [
+                            "4 người lớn & 1 trẻ em (0-1 tuổi)",
+                            "Có ăn sáng",
+                            "Miễn phí hủy trước ngày 17 thg 11, 25",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "Thuê xe đạp",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Phòng 4 người nhìn ra vườn (Quadruple Room with Garden View)",
+                "amenities": [
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Vòi sen",
+                    "Điều hòa",
+                    "Ban công/sân hiên",
+                    "Tủ quần áo",
+                    "Tối đa 3 người lớn",
+                    "2 giường đôi"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "944.444",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Có ăn sáng",
+                            "Miễn phí hủy trước ngày 17 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    },
+                    {
+                        "option_name": "3 người lớn",
+                        "option_price": "1.000.000",
+                        "amenities_for_price": [
+                            "3 người lớn",
+                            "Có ăn sáng",
+                            "Miễn phí hủy trước ngày 17 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    },
+                    {
+                        "option_name": "1 người lớn Vượt quá sức chứa phòng",
+                        "option_price": "888.889",
+                        "amenities_for_price": [
+                            "1 người lớn Vượt quá sức chứa phòng",
+                            "Có ăn sáng",
+                            "Miễn phí hủy trước ngày 17 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "13429241",
+        "hotel_name": "Khách sạn và Quán cà phê TK (TK Hotel and Coffee)",
+        "hotel_address": "Block A11-54, Hoang Hac St., My Hoa Commune, Binh Minh Dist, Vinh Long City, Vĩnh Long, Vĩnh Long, Việt Nam, 85000",
+        "room_types": [
+            {
+                "room_type_name": "Phòng có Giường Đôi (1 double)",
+                "amenities": [
+                    "Hướng Đường phố",
+                    "Máy sấy tóc",
+                    "Vòi sen",
+                    "Wi-Fi [miễn phí]",
+                    "Chăn điện",
+                    "Điều hòa",
+                    "Tủ lạnh nhỏ trong phòng",
+                    "Cà phê hòa tan miễn phí",
+                    "Ban công/sân hiên",
+                    "Tủ quần áo",
+                    "24 m²",
+                    "Tối đa 2 người lớn, 1 bé (0-12 tuổi) ở MIỄN PHÍ!",
+                    "1 giường đôi"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn & 1 trẻ em (0-12 tuổi)",
+                        "option_price": "379.111",
+                        "amenities_for_price": [
+                            "2 người lớn & 1 trẻ em (0-12 tuổi)",
+                            "Miễn phí hủy trước ngày 18 thg 11, 25",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 17.714 ₫!"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "2 Single Beds (2 single Beds)",
+                "amenities": [
+                    "Hướng Công viên",
+                    "Máy sấy tóc",
+                    "Vòi sen",
+                    "Wi-Fi [miễn phí]",
+                    "Chăn điện",
+                    "Điều hòa",
+                    "Tủ lạnh nhỏ trong phòng",
+                    "Cà phê hòa tan miễn phí",
+                    "Tủ quần áo",
+                    "26 m²",
+                    "Tối đa 2 người lớn, 1 bé (0-12 tuổi) ở MIỄN PHÍ!",
+                    "2 giường đơn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn & 1 trẻ em (0-12 tuổi)",
+                        "option_price": "467.122",
+                        "amenities_for_price": [
+                            "2 người lớn & 1 trẻ em (0-12 tuổi)",
+                            "Miễn phí hủy trước ngày 18 thg 11, 25",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 17.887 ₫!"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "47983034",
+        "hotel_name": "Ba Hung homestay",
+        "hotel_address": "Đường số 1, Hòa Ninh, Vĩnh Long, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Phòng Đơn (Single Room)",
+                "amenities": [
+                    "phòng tắm riêng",
+                    "Điều hòa",
+                    "17 m²",
+                    "Tối đa 1 người lớn",
+                    "1 giường đơn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "1 người lớn Vượt quá sức chứa phòng",
+                        "option_price": "183.824",
+                        "amenities_for_price": [
+                            "1 người lớn Vượt quá sức chứa phòng",
+                            "Có ăn sáng",
+                            "Miễn phí hủy trước ngày 17 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Phòng Giường Đôi Nhìn Ra Vườn (Double Room with Garden View)",
+                "amenities": [
+                    "Hướng Vườn",
+                    "Ấm nước điện",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Vòi sen",
+                    "Điều hòa",
+                    "Ban công/sân hiên",
+                    "Tủ quần áo",
+                    "20 m²",
+                    "Tối đa 1 người lớn",
+                    "1 giường đơn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "1 người lớn Vượt quá sức chứa phòng",
+                        "option_price": "202.206",
+                        "amenities_for_price": [
+                            "1 người lớn Vượt quá sức chứa phòng",
+                            "Có ăn sáng",
+                            "Miễn phí hủy trước ngày 17 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "2504563",
+        "hotel_name": "Ngoc Phuong Homestay",
+        "hotel_address": "118C/10, Binh Luong Hamlet, An Binh Ward, Long Ho District, An Bình, Vĩnh Long, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Phòng 4 Người (Quadruple Room)",
+                "amenities": [
+                    "Hướng Vườn",
+                    "5 phòng tắm",
+                    "Phòng tắm chung",
+                    "Máy sấy tóc",
+                    "Vòi sen",
+                    "Đồ dùng cho giấc ngủ thoải mái",
+                    "Điều hòa",
+                    "Ban công/sân hiên",
+                    "Giường cực dài",
+                    "Đồ gỗ ngoài trời",
+                    "32 m²",
+                    "Tối đa 3 người lớn, 1 bé (0-5 tuổi) ở MIỄN PHÍ!",
+                    "2 giường đôi"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn & 2 trẻ em (0-5 tuổi)",
+                        "option_price": "396.825",
+                        "amenities_for_price": [
+                            "2 người lớn & 2 trẻ em (0-5 tuổi)",
+                            "Có ăn sáng",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt không cần thẻ tín dụng",
+                            "WiFi miễn phí"
+                        ]
+                    },
+                    {
+                        "option_name": "3 người lớn & 1 trẻ em (0-5 tuổi)",
+                        "option_price": "661.376",
+                        "amenities_for_price": [
+                            "3 người lớn & 1 trẻ em (0-5 tuổi)",
+                            "Có ăn sáng",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt không cần thẻ tín dụng",
+                            "WiFi miễn phí"
+                        ]
+                    },
+                    {
+                        "option_name": "1 người lớn & 3 trẻ em (0-5 tuổi) Vượt quá sức chứa phòng",
+                        "option_price": "264.550",
+                        "amenities_for_price": [
+                            "1 người lớn & 3 trẻ em (0-5 tuổi) Vượt quá sức chứa phòng",
+                            "Có ăn sáng",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt không cần thẻ tín dụng",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "10297198",
+        "hotel_name": "MEKONG NATURE LODGE",
+        "hotel_address": "ẤP AN THẠNH, XÃ AN BÌNH, HUYỆN LONG HỒ, VĨNH LONG, An Bình, Vĩnh Long, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Phòng Giường Đôi Nhìn Ra Hồ Nước (Double Room with Lake View)",
+                "amenities": [
+                    "Hướng Vườn",
+                    "Ấm nước điện",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Vòi sen",
+                    "Điều hòa",
+                    "Tủ lạnh nhỏ trong phòng",
+                    "Tủ lạnh",
+                    "Ban công/sân hiên",
+                    "Đồ gỗ ngoài trời",
+                    "28 m²",
+                    "Tối đa 2 người lớn",
+                    "1 giường đôi lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "833.333",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Có ăn sáng",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Trả tiền cho khách sạn",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Phòng Tiêu Chuẩn 2 Giường Đơn Nhìn Ra Khu Vườn (Standard Twin Room with Garden View)",
+                "amenities": [
+                    "Hướng Vườn",
+                    "Ấm nước điện",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Vòi sen",
+                    "Điều hòa",
+                    "Tủ lạnh nhỏ trong phòng",
+                    "Tủ lạnh",
+                    "Ban công/sân hiên",
+                    "Đồ gỗ ngoài trời",
+                    "28 m²",
+                    "Tối đa 2 người lớn",
+                    "2 giường đơn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "879.630",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Có ăn sáng",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Trả tiền cho khách sạn",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "65964664",
+        "hotel_name": "Nhà Nghỉ Khanh Trần (Nha Nghi Khanh Tran)",
+        "hotel_address": "306 Đường Không Tên 29/2 Phú An - Thị Trấn Long Hồ - Huyện Long Hồ - Tỉnh Vĩnh Long, Thanh Đức, Vĩnh Long, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Căn Hộ 1 Phòng Ngủ (One-Bedroom Apartment)",
+                "amenities": [
+                    "phòng tắm riêng",
+                    "Vòi sen",
+                    "Chăn điện",
+                    "Nước đóng chai miễn phí",
+                    "tầng trệt",
+                    "Điều hòa cá nhân",
+                    "20 m²",
+                    "Tối đa 2 người lớn",
+                    "1 giường đơn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "294.118",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Miễn phí hủy trước ngày 17 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    },
+                    {
+                        "option_name": "1 người lớn Vượt quá sức chứa phòng",
+                        "option_price": "264.706",
+                        "amenities_for_price": [
+                            "1 người lớn Vượt quá sức chứa phòng",
+                            "Miễn phí hủy trước ngày 17 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "38109880",
+        "hotel_name": "Căn hộ 500 m² 15 phòng ngủ, 15 phòng tắm riêng ở Khu du lịch Phù Sa Cồn Ấu (Nhà nghỉ Hồng Nhung)",
+        "hotel_address": "Khu du lịch Phù Sa Cồn Ấu, Cần Thơ, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Căn hộ (Apartment)",
+                "amenities": [
+                    "15 phòng ngủ",
+                    "15 phòng tắm",
+                    "Wi-Fi [miễn phí]",
+                    "Điều hòa",
+                    "500 m²",
+                    "Tối đa 30 người lớn",
+                    "1 giường đôi nhỏ / 1 giường đôi nhỏ / 1 giường đôi nhỏ / 1 giường đôi nhỏ / 1 giường đôi nhỏ / 1 giường đôi nhỏ / 1 giường đôi và 1 giường đơn / 1 giường đôi / 1 giường đôi / 1 giường đôi / 1 giường đôi lớn / 1 giường đôi lớn / 1 giường đôi / 1 giường đơn / 1 giường đôi / 1 giường đôi"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "30 người lớn & 1 trẻ em (0-7 tuổi)",
+                        "option_price": "238.287",
+                        "amenities_for_price": [
+                            "30 người lớn & 1 trẻ em (0-7 tuổi)",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 16.465 ₫!"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "47435073",
+        "hotel_name": "Căn hộ 100 m² 6 phòng ngủ, 4 phòng tắm riêng ở An Bình (Lọ Lem home stay)",
+        "hotel_address": "An Bình, Vĩnh Long, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Căn hộ (Apartment)",
+                "amenities": [
+                    "6 phòng ngủ",
+                    "4 phòng tắm",
+                    "Wi-Fi [miễn phí]",
+                    "Điều hòa",
+                    "100 m²",
+                    "Tối đa 20 người lớn",
+                    "2 giường đôi lớn / 1 giường đơn / 1 giường đơn / 1 giường đơn / 1 giường đơn / 1 giường đơn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "20 người lớn & 1 trẻ em (0-7 tuổi)",
+                        "option_price": "335.601",
+                        "amenities_for_price": [
+                            "20 người lớn & 1 trẻ em (0-7 tuổi)",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 17.132 ₫!"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "77592148",
+        "hotel_name": "Nhà nghỉ Minh Hà (NHÀ NGHỈ MINH HÀ)",
+        "hotel_address": "Chanh an ,Mang thit ,Vinh Long,Viet Nam, Vĩnh Long, Vĩnh Long, Việt Nam, 893410",
+        "room_types": [
+            {
+                "room_type_name": "Phòng Tiêu Chuẩn (Standard Room)",
+                "amenities": [
+                    "Điều hòa",
+                    "15 m²",
+                    "Tối đa 6 người lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "6 người lớn",
+                        "option_price": "468.714",
+                        "amenities_for_price": [
+                            "6 người lớn",
+                            "Miễn phí hủy trước ngày 17 thg 11, 25",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 7.476 ₫!"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "47613935",
+        "hotel_name": "Căn hộ 42 m² 1 phòng ngủ, 2 phòng tắm riêng ở Hòa Ninh (Nhà Dừa CocoHome Vinhlong - Unique-Peaceful- VIP 8)",
+        "hotel_address": "Hòa Ninh, Vĩnh Long, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Căn hộ (Apartment)",
+                "amenities": [
+                    "Studio/1 phòng ngủ",
+                    "2 phòng tắm",
+                    "Máy sấy tóc",
+                    "Wi-Fi [miễn phí]",
+                    "Điều hòa",
+                    "Tủ quần áo",
+                    "42 m²",
+                    "Tối đa 8 người lớn",
+                    "4 giường đơn và 2 giường đôi"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "8 người lớn & 1 trẻ em (0-7 tuổi)",
+                        "option_price": "1.727.363",
+                        "amenities_for_price": [
+                            "8 người lớn & 1 trẻ em (0-7 tuổi)",
+                            "Có ăn sáng",
+                            "Chính sách hủy",
+                            "Đặt và trả tiền ngay",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 36.296 ₫!"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "50039527",
+        "hotel_name": "Căn hộ 30 m² 1 phòng ngủ, 1 phòng tắm riêng ở Hòa Ninh (Nhà Dừa CocoHome Vinhlong-Unique-Peaceful-VIP 6)",
+        "hotel_address": "Hòa Ninh, Vĩnh Long, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Căn hộ (Apartment)",
+                "amenities": [
+                    "Studio/1 phòng ngủ",
+                    "1 phòng tắm",
+                    "Máy sấy tóc",
+                    "Wi-Fi [miễn phí]",
+                    "Điều hòa",
+                    "Tủ quần áo",
+                    "30 m²",
+                    "Tối đa 4 người lớn",
+                    "2 giường lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "4 người lớn & 1 trẻ em (0-7 tuổi)",
+                        "option_price": "1.249.468",
+                        "amenities_for_price": [
+                            "4 người lớn & 1 trẻ em (0-7 tuổi)",
+                            "Có ăn sáng",
+                            "Chính sách hủy",
+                            "Đặt và trả tiền ngay",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 29.192 ₫!"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "38107966",
+        "hotel_name": "Căn hộ 500 m² 15 phòng ngủ, 15 phòng tắm riêng ở Khu du lịch Phù Sa Cồn Ấu (Nhà nghỉ Thanh Xuân 2)",
+        "hotel_address": "Khu du lịch Phù Sa Cồn Ấu, Cần Thơ, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Căn hộ (Apartment)",
+                "amenities": [
+                    "15 phòng ngủ",
+                    "15 phòng tắm",
+                    "Wi-Fi [miễn phí]",
+                    "Điều hòa",
+                    "500 m²",
+                    "Tối đa 30 người lớn",
+                    "1 giường đơn / 1 giường đơn / 1 giường đơn / 1 giường đơn / 1 giường đơn / 1 giường đôi lớn / 1 giường lớn / 1 giường lớn / 1 giường lớn / 1 giường đôi lớn / 1 giường đơn / 1 giường đôi lớn / 1 giường đôi lớn / 1 giường đôi lớn / 1 giường lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "30 người lớn & 1 trẻ em (0-7 tuổi)",
+                        "option_price": "293.277",
+                        "amenities_for_price": [
+                            "30 người lớn & 1 trẻ em (0-7 tuổi)",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 20.264 ₫!"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "1594540",
+        "hotel_name": "Ba Linh Homestay",
+        "hotel_address": "112/8 An Thanh, An Binh, Long Ho, An Bình, Vĩnh Long, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Phòng Giường Đôi/2 Giường Đơn Nhìn Ra Vườn (Double or Twin Room with Garden View)",
+                "amenities": [
+                    "Hướng Vườn",
+                    "Bồn tắm",
+                    "phòng tắm riêng",
+                    "Vòi sen",
+                    "Đồ dùng cho giấc ngủ thoải mái",
+                    "Quạt",
+                    "Giường cực dài",
+                    "36 m²",
+                    "Tối đa 2 người lớn",
+                    "2 giường đơn hoặc 1 giường đôi lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "509.259",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Có ăn sáng",
+                            "Miễn phí hủy trước ngày 18 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Phòng Giường Đôi/2 Giường Đơn Có Phòng Tắm Riêng (Double or Twin Room with Private Bathroom)",
+                "amenities": [
+                    "Hướng Ngoài trời",
+                    "Bồn tắm",
+                    "phòng tắm riêng",
+                    "Vòi sen",
+                    "Đồ dùng cho giấc ngủ thoải mái",
+                    "Quạt",
+                    "Giường cực dài",
+                    "30 m²",
+                    "Tối đa 2 người lớn",
+                    "2 giường đơn hoặc 1 giường lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "509.259",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Có ăn sáng",
+                            "Miễn phí hủy trước ngày 18 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Phòng 3 Người Nhìn Ra Vườn (Triple Room with Garden View)",
+                "amenities": [
+                    "Hướng Vườn",
+                    "Phòng tắm chung",
+                    "Vòi sen",
+                    "Đồ dùng cho giấc ngủ thoải mái",
+                    "Quạt",
+                    "Giường cực dài",
+                    "Tủ quần áo",
+                    "40 m²",
+                    "Tối đa 3 người lớn",
+                    "1 giường đơn và 1 giường đôi lớn hoặc 3 giường đơn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "3 người lớn",
+                        "option_price": "666.667",
+                        "amenities_for_price": [
+                            "3 người lớn",
+                            "Có ăn sáng",
+                            "Miễn phí hủy trước ngày 18 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "50112821",
+        "hotel_name": "Căn hộ 20 m² 1 phòng ngủ, 1 phòng tắm riêng ở Hòa Ninh (Nhà Dừa CocoHome Vinhlong - Unique-peaceful-VIP 4)",
+        "hotel_address": "Hòa Ninh, Vĩnh Long, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Căn hộ (Apartment)",
+                "amenities": [
+                    "Studio/1 phòng ngủ",
+                    "1 phòng tắm",
+                    "Máy sấy tóc",
+                    "Wi-Fi [miễn phí]",
+                    "Điều hòa",
+                    "Tủ quần áo",
+                    "20 m²",
+                    "Tối đa 2 người lớn",
+                    "2 giường đơn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn & 1 trẻ em (0-7 tuổi)",
+                        "option_price": "652.198",
+                        "amenities_for_price": [
+                            "2 người lớn & 1 trẻ em (0-7 tuổi)",
+                            "Có ăn sáng",
+                            "Chính sách hủy",
+                            "Đặt và trả tiền ngay",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 26.814 ₫!"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "50112381",
+        "hotel_name": "Căn hộ 20 m² 1 phòng ngủ, 1 phòng tắm riêng ở Hòa Ninh (Nhà Dừa CocoHome Vinhlong- Unique-peaceful - VIP 2)",
+        "hotel_address": "Hòa Ninh, Vĩnh Long, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Căn hộ (Apartment)",
+                "amenities": [
+                    "Studio/1 phòng ngủ",
+                    "1 phòng tắm",
+                    "Máy sấy tóc",
+                    "Wi-Fi [miễn phí]",
+                    "Điều hòa",
+                    "Tủ quần áo",
+                    "Cho phép hút thuốc",
+                    "20 m²",
+                    "Tối đa 2 người lớn",
+                    "2 giường đơn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn & 1 trẻ em (0-7 tuổi)",
+                        "option_price": "649.767",
+                        "amenities_for_price": [
+                            "2 người lớn & 1 trẻ em (0-7 tuổi)",
+                            "Có ăn sáng",
+                            "Chính sách hủy",
+                            "Đặt và trả tiền ngay",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 29.245 ₫!"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "67878897",
+        "hotel_name": "Cinderella Home stay",
+        "hotel_address": "Hòa Ninh, Vĩnh Long, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Căn Hộ 1 Phòng Ngủ (One-Bedroom Apartment)",
+                "amenities": [
+                    "Hướng Ngoài trời",
+                    "Studio/1 phòng ngủ",
+                    "1 phòng tắm",
+                    "phòng tắm riêng",
+                    "Điều hòa",
+                    "Bể bơi riêng",
+                    "Ban công/sân hiên",
+                    "25 m²",
+                    "Tối đa 2 người lớn",
+                    "1 giường đôi"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "462.963",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "37295304",
+        "hotel_name": "Nhà riêng 700 m² 3 phòng ngủ, 1 phòng tắm riêng ở Nguyệt Hạng (HT HOMESTAY )",
+        "hotel_address": "Nguyệt Hạng, Nguyệt Hạng, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Nhà riêng (home)",
+                "amenities": [
+                    "3 phòng ngủ",
+                    "1 phòng tắm",
+                    "Wi-Fi [miễn phí]",
+                    "Điều hòa",
+                    "700 m²",
+                    "Tối đa 6 người lớn",
+                    "1 giường đôi lớn / 1 giường đơn / 2 giường đôi lớn và 1 giường sofa"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "6 người lớn & 1 trẻ em (0-7 tuổi)",
+                        "option_price": "1.448.486",
+                        "amenities_for_price": [
+                            "6 người lớn & 1 trẻ em (0-7 tuổi)",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "343584",
+        "hotel_name": "Nhà nghỉ Mỹ Hòa Mekong (My Hoa Mekong Homestay)",
+        "hotel_address": "Xa My Hoa, Thi Xa Binh Minh, Vĩnh Long, Vĩnh Long, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Nhà trệt (Bungalow)",
+                "amenities": [
+                    "Hướng Vườn",
+                    "Wi-Fi [miễn phí]",
+                    "Điều hòa",
+                    "Không hút thuốc",
+                    "30 m²",
+                    "Tối đa 2 người lớn",
+                    "1 giường đôi"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "238.879",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt và trả tiền ngay",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 11.356 ₫!"
+                        ]
+                    },
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "288.303",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Có ăn sáng",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt và trả tiền ngay",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 11.273 ₫!"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "38107915",
+        "hotel_name": "Căn hộ 50 m² 14 phòng ngủ, 15 phòng tắm riêng ở Thanh Đức (Hotel Hoàng Khiêm)",
+        "hotel_address": "Vĩnh Long, Vĩnh Long, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Căn hộ (Apartment)",
+                "amenities": [
+                    "14 phòng ngủ",
+                    "15 phòng tắm",
+                    "Wi-Fi [miễn phí]",
+                    "Điều hòa",
+                    "50 m²",
+                    "Tối đa 4 người lớn",
+                    "1 giường đôi / 1 giường đôi / 1 giường đôi / 1 giường đôi lớn / 1 giường đôi / 1 giường đôi / 1 giường đôi / 1 giường đôi / 1 giường đôi / 1 giường đôi / 1 giường đôi nhỏ / 1 giường đôi / 1 giường đôi / 1 giường đôi lớn / 1 giường đơn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "4 người lớn & 1 trẻ em (0-7 tuổi)",
+                        "option_price": "355.575",
+                        "amenities_for_price": [
+                            "4 người lớn & 1 trẻ em (0-7 tuổi)",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 16.755 ₫!"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "25885170",
+        "hotel_name": "KHU NGHỈ DƯỠNG RIVERSIDE PARK ECO (RIVERSIDE PARK ECO RESORT)",
+        "hotel_address": "283/20 Binh Hoa 2, Binh Hoa Phuoc, Long Ho, Đồng Phú, Vĩnh Long, Việt Nam, 85208",
+        "room_types": [
+            {
+                "room_type_name": "Phòng Deluxe có giường King (Delux King)",
+                "amenities": [
+                    "Hướng Vườn",
+                    "Bồn tắm/vòi sen riêng",
+                    "phòng tắm riêng",
+                    "Phòng tắm đứng",
+                    "Wi-Fi [miễn phí]",
+                    "Đồ dùng cho giấc ngủ thoải mái",
+                    "Điều hòa",
+                    "Nước đóng chai miễn phí",
+                    "Tủ lạnh",
+                    "Ban công/sân hiên",
+                    "35 m²",
+                    "Tối đa 2 người lớn",
+                    "1 giường lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "1.081.944",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Có ăn sáng",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    },
+                    {
+                        "option_name": "1 người lớn & 1 trẻ em (0-12 tuổi) Vượt quá sức chứa phòng",
+                        "option_price": "1.027.847",
+                        "amenities_for_price": [
+                            "1 người lớn & 1 trẻ em (0-12 tuổi) Vượt quá sức chứa phòng",
+                            "Có ăn sáng",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Phòng Tiêu Chuẩn 2 Giường Đơn Nhìn Ra Khu Vườn (Standard Twin Room with Garden View)",
+                "amenities": [
+                    "Hướng Vườn",
+                    "phòng tắm riêng",
+                    "Phòng tắm đứng",
+                    "Đồ dùng cho giấc ngủ thoải mái",
+                    "Điều hòa",
+                    "Nước đóng chai miễn phí",
+                    "Tủ lạnh",
+                    "Ban công/sân hiên",
+                    "tầng trệt",
+                    "Đồ gỗ ngoài trời",
+                    "35 m²",
+                    "Tối đa 2 người lớn",
+                    "2 giường đơn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "1.222.685",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Có ăn sáng",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]
