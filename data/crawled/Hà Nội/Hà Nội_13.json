@@ -1,0 +1,4430 @@
+[
+    {
+        "hotel_id": "32780704",
+        "hotel_name": "Nesta - The Grand Hào Nam (Nesta - The Grand Hao Nam)",
+        "hotel_address": "83 Phố Hào Nam, Đống Đa, Hà Nội, Việt Nam, 100000",
+        "room_types": [
+            {
+                "room_type_name": "Suite 2 phòng ngủ (Two Bedroom Suite)",
+                "amenities": [
+                    "Hướng Vườn",
+                    "2 phòng ngủ",
+                    "2 phòng tắm",
+                    "Bồn tắm",
+                    "Máy sấy tóc",
+                    "Vòi sen",
+                    "Wi-Fi [miễn phí]",
+                    "Rèm che ánh sáng",
+                    "Đồ uống mời khách miễn phí",
+                    "Trái cây/đồ ăn vặt",
+                    "90 m²",
+                    "Tối đa 4 người lớn",
+                    "1 giường đôi / 1 giường đôi"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "4 người lớn",
+                        "option_price": "3.066.685",
+                        "amenities_for_price": [
+                            "4 người lớn",
+                            "Có ăn sáng",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 58.379 ₫!"
+                        ]
+                    },
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "3.210.584",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Có ăn sáng",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Căn hộ Gia đình 2 Phòng ngủ (Two-Bedroom Family Apartment)",
+                "amenities": [
+                    "2 phòng ngủ",
+                    "phòng tắm riêng",
+                    "Vòi sen",
+                    "Điều hòa",
+                    "Tủ lạnh",
+                    "Tủ quần áo",
+                    "90 m²",
+                    "Tối đa 4 người lớn",
+                    "1 giường sofa / 1 giường đôi lớn / 1 giường đôi lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "4 người lớn",
+                        "option_price": "3.642.407",
+                        "amenities_for_price": [
+                            "4 người lớn",
+                            "Có ăn sáng",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Trả tiền cho khách sạn",
+                            "Bãi đậu xe",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "246309",
+        "hotel_name": "Khách sạn Phoenix Legend (Phoenix Legend Hotel)",
+        "hotel_address": "14A Ch n Cầm, Quận Ho n Kiếm , Quận Hoàn Kiếm, Hà Nội, Việt Nam, 000000",
+        "room_types": [
+            {
+                "room_type_name": "Superior - 1 Giường Đôi (Superior - 1 Double Bed)",
+                "amenities": [
+                    "Hướng Đường phố",
+                    "Ấm nước điện",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Phòng tắm đứng",
+                    "Wi-Fi [miễn phí]",
+                    "Rèm che ánh sáng",
+                    "Tủ lạnh nhỏ trong phòng",
+                    "Trà miễn phí",
+                    "Tủ lạnh",
+                    "25 m²",
+                    "Tối đa 2 người lớn",
+                    "1 giường lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "851.155",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Có ăn sáng",
+                            "Miễn phí hủy trước ngày 19 thg 11, 25",
+                            "Đặt và trả tiền ngay",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 34.790 ₫!"
+                        ]
+                    },
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "881.834",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Có ăn sáng",
+                            "Miễn phí hủy trước ngày 19 thg 11, 25",
+                            "Trả tiền ở khách sạn",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Deluxe Balcony Open View Room",
+                "amenities": [
+                    "Hướng Thành phố",
+                    "Ấm nước điện",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Phòng tắm đứng",
+                    "Wi-Fi [miễn phí]",
+                    "Rèm che ánh sáng",
+                    "Tủ lạnh nhỏ trong phòng",
+                    "Trà miễn phí",
+                    "Tủ lạnh",
+                    "20 m²",
+                    "Tối đa 2 người lớn",
+                    "1 giường đôi"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "1.029.847",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Có ăn sáng",
+                            "Miễn phí hủy trước ngày 19 thg 11, 25",
+                            "Đặt và trả tiền ngay",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 19.653 ₫!"
+                        ]
+                    },
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "1.047.178",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Có ăn sáng",
+                            "Miễn phí hủy trước ngày 19 thg 11, 25",
+                            "Trả tiền ở khách sạn",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "291350",
+        "hotel_name": "Khách sạn A25 - 26 Hàng Nón (A25 Hotel - 26 Hang Non)",
+        "hotel_address": "26 Hang Non, Phuong Hoan Kiem, Thanh pho Ha Noi, Phố Cổ, Hà Nội, Việt Nam, 100000",
+        "room_types": [
+            {
+                "room_type_name": "Phòng Superior (Superior Room)",
+                "amenities": [
+                    "Điều hòa",
+                    "Không hút thuốc",
+                    "13 m²",
+                    "Tối đa 2 người lớn",
+                    "1 giường đôi"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "1.170.115",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Có ăn sáng",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt và trả tiền ngay",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Superior giường đôi (Superior Double)",
+                "amenities": [
+                    "Ấm nước điện",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Phòng tắm đứng",
+                    "Wi-Fi [miễn phí]",
+                    "Rèm che ánh sáng",
+                    "Điều hòa",
+                    "Tủ lạnh nhỏ trong phòng",
+                    "Trà miễn phí",
+                    "Tủ lạnh",
+                    "15 m²",
+                    "Tối đa 2 người lớn",
+                    "1 giường đôi lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "1.174.919",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Có ăn sáng",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt và trả tiền ngay",
+                            "WiFi miễn phí"
+                        ]
+                    },
+                    {
+                        "option_name": "2 người lớn & 1 trẻ em (0-12 tuổi)",
+                        "option_price": "1.340.000",
+                        "amenities_for_price": [
+                            "2 người lớn & 1 trẻ em (0-12 tuổi)",
+                            "Có ăn sáng",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Trả tiền cho khách sạn",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "409475",
+        "hotel_name": "Khách sạn Hồng Hà (Hong Ha Hotel)",
+        "hotel_address": "Số 204, Đường Trần Quang Khải, Quận Hòan Kiếm, Quận Hoàn Kiếm, Hà Nội, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Superior Double Room 2 Double Beds",
+                "amenities": [
+                    "Tối đa 2 người lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "1.144.453",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Đã gồm bữa sáng tuyệt hảo",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt và trả tiền ngay",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Superior Double Room",
+                "amenities": [
+                    "Hướng Vườn",
+                    "27 m²",
+                    "Tối đa 2 người lớn",
+                    "1 giường đôi"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "1.144.453",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Đã gồm bữa sáng tuyệt hảo",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt và trả tiền ngay",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "GIƯỜNG ĐÔI C (DOUBLE C)",
+                "amenities": [
+                    "Hướng Vườn",
+                    "Vòi sen",
+                    "Cửa sổ",
+                    "20 m²",
+                    "Tối đa 2 người lớn, 1 bé (0-6 tuổi) ở MIỄN PHÍ!",
+                    "1 giường đôi"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn & 1 trẻ em (0-6 tuổi)",
+                        "option_price": "1.250.955",
+                        "amenities_for_price": [
+                            "2 người lớn & 1 trẻ em (0-6 tuổi)",
+                            "Đã gồm bữa sáng tuyệt hảo",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt và trả tiền ngay",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 86.417 ₫!"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "9372581",
+        "hotel_name": "Khách sạn Graffiti (Graffiti Hotel )",
+        "hotel_address": "13B Hang Hom, Phố Cổ, Hà Nội, Việt Nam, 10000",
+        "room_types": [
+            {
+                "room_type_name": "Tiêu chuẩn - Không hút thuốc (Standard - Non-Smoking)",
+                "amenities": [
+                    "Hướng Thành phố",
+                    "Ấm nước điện",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Vòi sen",
+                    "Wi-Fi [miễn phí]",
+                    "Rèm che ánh sáng",
+                    "Cà phê hòa tan miễn phí",
+                    "Tủ lạnh",
+                    "Cửa sổ mở",
+                    "15 m²",
+                    "Tối đa 2 người lớn",
+                    "1 giường đôi"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "866.667",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Miễn phí hủy trước ngày 19 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí"
+                        ]
+                    },
+                    {
+                        "option_name": "2 người lớn & 1 trẻ em (0-12 tuổi)",
+                        "option_price": "879.882",
+                        "amenities_for_price": [
+                            "2 người lớn & 1 trẻ em (0-12 tuổi)",
+                            "Miễn phí hủy trước ngày 18 thg 11, 25",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 16.214 ₫!"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Superior - Hướng vườn (Superior - Garden View)",
+                "amenities": [
+                    "Hướng Vườn",
+                    "Ấm nước điện",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Phòng tắm đứng",
+                    "Wi-Fi [miễn phí]",
+                    "Rèm che ánh sáng",
+                    "Tủ lạnh nhỏ trong phòng",
+                    "Nước đóng chai miễn phí",
+                    "Tủ lạnh",
+                    "30 m²",
+                    "Tối đa 2 người lớn",
+                    "1 giường đôi lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "1.053.333",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Miễn phí hủy trước ngày 19 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí"
+                        ]
+                    },
+                    {
+                        "option_name": "2 người lớn & 1 trẻ em (0-12 tuổi)",
+                        "option_price": "1.070.275",
+                        "amenities_for_price": [
+                            "2 người lớn & 1 trẻ em (0-12 tuổi)",
+                            "Miễn phí hủy trước ngày 18 thg 11, 25",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 18.708 ₫!"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "9804889",
+        "hotel_name": "Khách Sạn & Spa La Beaute Boutique (La Beaute Boutique Hotel & Spa)",
+        "hotel_address": "11 Trung Yen Lane, Dinh Liet Str, Phố Cổ, Hà Nội, Việt Nam, 100000",
+        "room_types": [
+            {
+                "room_type_name": "Phòng Loại Sang (Deluxe Room)",
+                "amenities": [
+                    "Ấm nước điện",
+                    "Bồn tắm",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Vòi sen",
+                    "Wi-Fi [miễn phí]",
+                    "Rèm che ánh sáng",
+                    "Điều hòa",
+                    "Rượu",
+                    "Trà miễn phí",
+                    "20 m²",
+                    "Tối đa 2 người lớn",
+                    "1 giường đôi lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "1.318.757",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Có ăn sáng",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt và trả tiền ngay",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí"
+                        ]
+                    },
+                    {
+                        "option_name": "2 người lớn & 1 trẻ em (0-6 tuổi)",
+                        "option_price": "2.342.419",
+                        "amenities_for_price": [
+                            "2 người lớn & 1 trẻ em (0-6 tuổi)",
+                            "Có ăn sáng",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Trả tiền ở khách sạn",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí"
+                        ]
+                    },
+                    {
+                        "option_name": "2 người lớn & 1 trẻ em (0-6 tuổi)",
+                        "option_price": "5.566.752",
+                        "amenities_for_price": [
+                            "2 người lớn & 1 trẻ em (0-6 tuổi)",
+                            "Có ăn sáng",
+                            "Miễn phí hủy trước ngày 18 thg 11, 25",
+                            "Đặt và trả tiền ngay",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 103.493 ₫!"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "42154394",
+        "hotel_name": "Sunny Hanoi Homestay",
+        "hotel_address": "2nd Floor, No. 64A, Hang Bo Street, Hoan Kiem District, Hanoi, Vietnam, Phố Cổ, Hà Nội, Việt Nam, 6050941",
+        "room_types": [
+            {
+                "room_type_name": "Phòng Gia đình có Giường cỡ King (Family Room with King Bed)",
+                "amenities": [
+                    "Hướng Sân trong",
+                    "Ấm nước điện",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Phòng tắm đứng",
+                    "Wi-Fi [miễn phí]",
+                    "Đồ dùng cho giấc ngủ thoải mái",
+                    "Tủ lạnh",
+                    "Ban công/sân hiên",
+                    "Cửa sổ có thể mở ra",
+                    "38 m²",
+                    "Tối đa 2 người lớn",
+                    "2 giường lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "802.723",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt và trả tiền ngay",
+                            "Miễn Phí Internet Không Dây"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Phòng Deluxe Gia đình (Deluxe Family Room)",
+                "amenities": [
+                    "Tối đa 2 người lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "802.723",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt và trả tiền ngay"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "66577906",
+        "hotel_name": "Khách sạn Hoàng Gia Cầu Giấy (Hoang Gia Hotel Cau Giay)",
+        "hotel_address": "39 Ng. 45 Trần Thái Tông, Dịch Vọng, Cầu Giấy, Hà Nội, Việt Nam, 122000",
+        "room_types": [
+            {
+                "room_type_name": "Phòng Tiêu chuẩn gia đình (Standard Familly Room)",
+                "amenities": [
+                    "Hướng Thành phố",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Phòng tắm đứng",
+                    "Wi-Fi [miễn phí]",
+                    "Rèm che ánh sáng",
+                    "Tủ lạnh nhỏ trong phòng",
+                    "Nước đóng chai miễn phí",
+                    "Ấm nước",
+                    "Tủ lạnh",
+                    "32 m²",
+                    "Tối đa 4 người lớn, 2 bé (0-17 tuổi) ở MIỄN PHÍ!",
+                    "2 giường đôi lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "456.604",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Miễn phí hủy trước ngày 19 thg 11, 25",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí"
+                        ]
+                    },
+                    {
+                        "option_name": "4 người lớn & 2 trẻ em (0-17 tuổi)",
+                        "option_price": "596.875",
+                        "amenities_for_price": [
+                            "4 người lớn & 2 trẻ em (0-17 tuổi)",
+                            "Miễn phí hủy trước ngày 19 thg 11, 25",
+                            "Đặt và trả tiền ngay",
+                            "Nhận phòng sớm",
+                            "Bãi đậu xe",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 10.894 ₫!"
+                        ]
+                    },
+                    {
+                        "option_name": "4 người lớn & 2 trẻ em (0-17 tuổi)",
+                        "option_price": "726.657",
+                        "amenities_for_price": [
+                            "4 người lớn & 2 trẻ em (0-17 tuổi)",
+                            "Miễn phí hủy trước ngày 19 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Deluxe gia đình Hướng phố (Deluxe Family City View)",
+                "amenities": [
+                    "Hướng Thành phố",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Phòng tắm đứng",
+                    "Wi-Fi [miễn phí]",
+                    "Rèm che ánh sáng",
+                    "Tủ lạnh nhỏ trong phòng",
+                    "Nước đóng chai miễn phí",
+                    "Ấm nước",
+                    "Tủ lạnh",
+                    "32 m²",
+                    "Tối đa 4 người lớn, 2 bé (0-17 tuổi) ở MIỄN PHÍ!",
+                    "2 giường đôi lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "4 người lớn & 2 trẻ em (0-17 tuổi)",
+                        "option_price": "564.373",
+                        "amenities_for_price": [
+                            "4 người lớn & 2 trẻ em (0-17 tuổi)",
+                            "Miễn phí hủy trước ngày 19 thg 11, 25",
+                            "Đặt và trả tiền ngay",
+                            "Nhận phòng sớm",
+                            "Bãi đậu xe",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 10.301 ₫!"
+                        ]
+                    },
+                    {
+                        "option_name": "4 người lớn & 2 trẻ em (0-17 tuổi)",
+                        "option_price": "687.088",
+                        "amenities_for_price": [
+                            "4 người lớn & 2 trẻ em (0-17 tuổi)",
+                            "Miễn phí hủy trước ngày 19 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Deluxe có bồn tắm (Deluxe with Bathtub)",
+                "amenities": [
+                    "Hướng Không có cửa sổ",
+                    "Bồn tắm/vòi sen riêng",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Phòng tắm đứng",
+                    "Wi-Fi [miễn phí]",
+                    "Rèm che ánh sáng",
+                    "Tủ lạnh nhỏ trong phòng",
+                    "Nước đóng chai miễn phí",
+                    "Ấm nước",
+                    "32 m²",
+                    "Tối đa 2 người lớn, 1 bé (0-17 tuổi) ở MIỄN PHÍ!",
+                    "1 giường đôi lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn & 1 trẻ em (0-17 tuổi)",
+                        "option_price": "591.768",
+                        "amenities_for_price": [
+                            "2 người lớn & 1 trẻ em (0-17 tuổi)",
+                            "Miễn phí hủy trước ngày 19 thg 11, 25",
+                            "Đặt và trả tiền ngay",
+                            "Nhận phòng sớm",
+                            "Bãi đậu xe",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 16.685 ₫!"
+                        ]
+                    },
+                    {
+                        "option_name": "2 người lớn & 1 trẻ em (0-17 tuổi)",
+                        "option_price": "726.657",
+                        "amenities_for_price": [
+                            "2 người lớn & 1 trẻ em (0-17 tuổi)",
+                            "Miễn phí hủy trước ngày 19 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "1060053",
+        "hotel_name": "Khách sạn Hà Nội La Selva (Hanoi La Selva Hotel)",
+        "hotel_address": "57 Lò Sũ, Hoàn Kiếm, Quận Hoàn Kiếm, Hà Nội, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Phòng Loại Sang (Deluxe Room)",
+                "amenities": [
+                    "Ấm nước điện",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Phòng tắm đứng",
+                    "Wi-Fi [miễn phí]",
+                    "Đồ dùng cho giấc ngủ thoải mái",
+                    "Điều hòa",
+                    "Trái cây/đồ ăn vặt",
+                    "Cà phê hòa tan miễn phí",
+                    "Tủ lạnh",
+                    "26 m²",
+                    "Tối đa 2 người lớn, 2 bé (0-4 tuổi) ở MIỄN PHÍ!",
+                    "1 giường lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn & 2 trẻ em (0-4 tuổi)",
+                        "option_price": "2.162.861",
+                        "amenities_for_price": [
+                            "2 người lớn & 2 trẻ em (0-4 tuổi)",
+                            "Đã gồm bữa sáng tuyệt hảo",
+                            "Chính sách hủy",
+                            "Đặt và trả tiền ngay",
+                            "Nhận phòng trễ",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 192.775 ₫!"
+                        ]
+                    },
+                    {
+                        "option_name": "2 người lớn & 1 trẻ em (0-4 tuổi)",
+                        "option_price": "2.592.063",
+                        "amenities_for_price": [
+                            "2 người lớn & 1 trẻ em (0-4 tuổi)",
+                            "Đã gồm bữa sáng tuyệt hảo",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Trả tiền ở khách sạn",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Junior Suite",
+                "amenities": [
+                    "Hướng Thành phố",
+                    "Ấm nước điện",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Phòng tắm đứng",
+                    "Wi-Fi [miễn phí]",
+                    "Đồ dùng cho giấc ngủ thoải mái",
+                    "Điều hòa",
+                    "Rượu",
+                    "Nước đóng chai miễn phí",
+                    "27 m²",
+                    "Tối đa 2 người lớn, 2 bé (0-4 tuổi) ở MIỄN PHÍ!",
+                    "1 giường lớn hoặc 2 giường đơn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn & 2 trẻ em (0-4 tuổi)",
+                        "option_price": "2.837.499",
+                        "amenities_for_price": [
+                            "2 người lớn & 2 trẻ em (0-4 tuổi)",
+                            "Đã gồm bữa sáng tuyệt hảo",
+                            "Chính sách hủy",
+                            "Đặt và trả tiền ngay",
+                            "Nhận phòng trễ",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 237.736 ₫!"
+                        ]
+                    },
+                    {
+                        "option_name": "2 người lớn & 1 trẻ em (0-4 tuổi)",
+                        "option_price": "3.385.713",
+                        "amenities_for_price": [
+                            "2 người lớn & 1 trẻ em (0-4 tuổi)",
+                            "Đã gồm bữa sáng tuyệt hảo",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Trả tiền ở khách sạn",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "35701811",
+        "hotel_name": "Căn hộ & Khách sạn Branda (Branda Apartment & Hotel)",
+        "hotel_address": "141 Hong Tien, Bo De Ward, Long Bien District, Hanoi City, Vietnam Branda Apartment & Hotel, Branda Apartment & Hotel, Quận Long Biên, Hà Nội, Việt Nam, 11813",
+        "room_types": [
+            {
+                "room_type_name": "Phòng Giường Lớn Cao Cấp (Superior King Bed Room)",
+                "amenities": [
+                    "Bồn tắm/vòi sen riêng",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Phòng tắm đứng",
+                    "Wi-Fi [miễn phí]",
+                    "Rèm che ánh sáng",
+                    "Tủ lạnh nhỏ trong phòng",
+                    "Nước đóng chai miễn phí",
+                    "Tủ lạnh",
+                    "Ban công/sân hiên",
+                    "35 m²",
+                    "Tối đa 2 người lớn",
+                    "1 giường lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "1.041.312",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Phục vụ bữa sáng (50.000 ₫ / người)",
+                            "Miễn phí hủy trước ngày 18 thg 11, 25",
+                            "Đặt và trả tiền ngay",
+                            "Phòng tập",
+                            "Bãi đậu xe",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 19.152 ₫!"
+                        ]
+                    },
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "1.441.404",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Có ăn sáng",
+                            "Miễn phí hủy trước ngày 18 thg 11, 25",
+                            "Đặt và trả tiền ngay",
+                            "Phòng tập",
+                            "Bãi đậu xe",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 25.448 ₫!"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Superior 2 giường (Superior Twin)",
+                "amenities": [
+                    "Bồn tắm/vòi sen riêng",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Phòng tắm đứng",
+                    "Wi-Fi [miễn phí]",
+                    "Rèm che ánh sáng",
+                    "Tủ lạnh nhỏ trong phòng",
+                    "Nước đóng chai miễn phí",
+                    "Tủ lạnh",
+                    "Ban công/sân hiên",
+                    "35 m²",
+                    "Tối đa 2 người lớn, 1 bé (0-2 tuổi) ở MIỄN PHÍ!"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn & 1 trẻ em (0-2 tuổi)",
+                        "option_price": "2.570.475",
+                        "amenities_for_price": [
+                            "2 người lớn & 1 trẻ em (0-2 tuổi)",
+                            "Phục vụ bữa sáng (50.000 ₫ / người)",
+                            "Miễn phí hủy trước ngày 18 thg 11, 25",
+                            "Đặt và trả tiền ngay",
+                            "Phòng tập",
+                            "Bãi đậu xe",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 45.081 ₫!"
+                        ]
+                    },
+                    {
+                        "option_name": "2 người lớn & 1 trẻ em (0-2 tuổi)",
+                        "option_price": "3.350.984",
+                        "amenities_for_price": [
+                            "2 người lớn & 1 trẻ em (0-2 tuổi)",
+                            "Có ăn sáng",
+                            "Miễn phí hủy trước ngày 18 thg 11, 25",
+                            "Đặt và trả tiền ngay",
+                            "Phòng tập",
+                            "Bãi đậu xe",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 59.984 ₫!"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Deluxe 2 giường hoặc giường đôi (Deluxe Twin Or Double)",
+                "amenities": [
+                    "Hướng Thành phố",
+                    "Máy sấy tóc",
+                    "Phòng tắm đứng",
+                    "Wi-Fi [miễn phí]",
+                    "Rèm che ánh sáng",
+                    "Tủ lạnh nhỏ trong phòng",
+                    "Cà phê hòa tan miễn phí",
+                    "Tủ lạnh",
+                    "Ban công/sân hiên",
+                    "Cửa sổ",
+                    "35 m²",
+                    "Tối đa 2 người lớn, 1 bé (0-2 tuổi) ở MIỄN PHÍ!",
+                    "1 giường đôi lớn hoặc 2 giường đôi"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn & 1 trẻ em (0-2 tuổi)",
+                        "option_price": "3.160.316",
+                        "amenities_for_price": [
+                            "2 người lớn & 1 trẻ em (0-2 tuổi)",
+                            "Phục vụ bữa sáng (50.000 ₫ / người)",
+                            "Miễn phí hủy trước ngày 18 thg 11, 25",
+                            "Đặt và trả tiền ngay",
+                            "Phòng tập",
+                            "Bãi đậu xe",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 56.202 ₫!"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "63889989",
+        "hotel_name": "Căn hộ Era La Thành (Era Apartment La Thanh)",
+        "hotel_address": "18 Đê La Thành nhỏ, Đống Đa, Hà Nội, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Luxury Apartment, Kitchenette, City View",
+                "amenities": [
+                    "Hướng Thành phố",
+                    "45 m²",
+                    "Tối đa 2 người lớn",
+                    "1 giường đôi"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "303.941",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt và trả tiền ngay",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 26.506 ₫!"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Era LT BAL/SmartTV/Lift/Washingshare",
+                "amenities": [
+                    "Không hút thuốc",
+                    "45 m²",
+                    "Tối đa 2 người lớn",
+                    "1 giường sofa"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "327.708",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Miễn phí hủy trước ngày 19 thg 11, 25",
+                            "Đặt và trả tiền ngay",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Căn Hộ (Apartment)",
+                "amenities": [
+                    "Hướng Ngoài trời",
+                    "Máy sấy tóc",
+                    "Vòi sen",
+                    "Wi-Fi [miễn phí]",
+                    "Điều hòa",
+                    "Ấm nước",
+                    "Tủ lạnh",
+                    "Cửa sổ",
+                    "Tủ quần áo",
+                    "Hành lang ngoài",
+                    "25 m²",
+                    "Tối đa 2 người lớn, 1 bé (0-2 tuổi) ở MIỄN PHÍ!",
+                    "1 giường đôi lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn & 1 trẻ em (0-2 tuổi)",
+                        "option_price": "328.801",
+                        "amenities_for_price": [
+                            "2 người lớn & 1 trẻ em (0-2 tuổi)",
+                            "Miễn phí hủy trước ngày 18 thg 11, 25",
+                            "Đặt và trả tiền ngay",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 21.321 ₫!"
+                        ]
+                    },
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "331.809",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Miễn phí hủy trước ngày 18 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "1723531",
+        "hotel_name": "Khách sạn và Gym Luxury Old Quarter (Luxury Old Quarter Hotel & Gym)",
+        "hotel_address": "67 Hang Bo, Hoan Kiem , Hanoi, Phố Cổ, Hà Nội, Việt Nam, 10000",
+        "room_types": [
+            {
+                "room_type_name": "Phòng Đôi Cao Cấp có Cửa Sổ (Superior Double Room with Window)",
+                "amenities": [
+                    "Ấm nước điện",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Phòng tắm đứng",
+                    "Wi-Fi [miễn phí]",
+                    "Rèm che ánh sáng",
+                    "Rượu",
+                    "Trà miễn phí",
+                    "Tủ lạnh",
+                    "Ban công/sân hiên",
+                    "20 m²",
+                    "Tối đa 2 người lớn, 1 bé (0-10 tuổi) ở MIỄN PHÍ!",
+                    "1 giường đôi lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn & 1 trẻ em (0-10 tuổi)",
+                        "option_price": "1.464.823",
+                        "amenities_for_price": [
+                            "2 người lớn & 1 trẻ em (0-10 tuổi)",
+                            "Đã gồm bữa sáng ngon",
+                            "Chính sách hủy",
+                            "Đặt và trả tiền ngay",
+                            "Phòng tập",
+                            "Bãi đậu xe",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 123.475 ₫!"
+                        ]
+                    },
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "1.548.728",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Đã gồm bữa sáng ngon",
+                            "Miễn phí hủy trước ngày 18 thg 11, 25",
+                            "Trả tiền ở khách sạn",
+                            "Phòng tập",
+                            "Bãi đậu xe",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí"
+                        ]
+                    },
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "1.548.728",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Có bữa sáng ngon (120.000 ₫ / người)",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Trả tiền ở khách sạn",
+                            "Phòng tập",
+                            "Bãi đậu xe",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Phòng đôi Deluxe hoặc phòng 2 giường đơn có bồn tắm (Deluxe Double or Twin Room with Bathtub)",
+                "amenities": [
+                    "Hướng Thành phố",
+                    "Bồn tắm",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Phòng tắm đứng",
+                    "Wi-Fi [miễn phí]",
+                    "Rèm che ánh sáng",
+                    "Tủ lạnh nhỏ trong phòng",
+                    "Trà miễn phí",
+                    "Ấm nước",
+                    "30 m²",
+                    "Tối đa 2 người lớn, 1 bé (0-10 tuổi) ở MIỄN PHÍ!",
+                    "2 giường đơn hoặc 1 giường đôi lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn & 1 trẻ em (0-10 tuổi)",
+                        "option_price": "1.532.955",
+                        "amenities_for_price": [
+                            "2 người lớn & 1 trẻ em (0-10 tuổi)",
+                            "Đã gồm bữa sáng ngon",
+                            "Chính sách hủy",
+                            "Đặt và trả tiền ngay",
+                            "Phòng tập",
+                            "Bãi đậu xe",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 129.218 ₫!"
+                        ]
+                    },
+                    {
+                        "option_name": "2 người lớn & 1 trẻ em (0-10 tuổi)",
+                        "option_price": "1.620.763",
+                        "amenities_for_price": [
+                            "2 người lớn & 1 trẻ em (0-10 tuổi)",
+                            "Đã gồm bữa sáng ngon",
+                            "Miễn phí hủy trước ngày 18 thg 11, 25",
+                            "Trả tiền ở khách sạn",
+                            "Phòng tập",
+                            "Bãi đậu xe",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí"
+                        ]
+                    },
+                    {
+                        "option_name": "2 người lớn & 1 trẻ em (0-10 tuổi)",
+                        "option_price": "1.620.763",
+                        "amenities_for_price": [
+                            "2 người lớn & 1 trẻ em (0-10 tuổi)",
+                            "Có bữa sáng ngon (120.000 ₫ / người)",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Trả tiền ở khách sạn",
+                            "Phòng tập",
+                            "Bãi đậu xe",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "783978",
+        "hotel_name": "Khách sạn Sakura (Sakura Hotel)",
+        "hotel_address": "Số16, đường Liễu Giai , phường Cống vị , quận Ba Đình, TP Hà Nội , Ba Đình, Hà Nội, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Superior Double Room, Non Smoking (1 double bed) (Superior Double Room, Non Smoking (1 Double Bed))",
+                "amenities": [
+                    "Tối đa 2 người lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "1.458.899",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Có ăn sáng",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt và trả tiền ngay",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Phòng Hai Giường Đơn - Hút Thuốc (Twin - Smoking)",
+                "amenities": [
+                    "Hướng Thành phố",
+                    "Ấm nước điện",
+                    "Bồn tắm/vòi sen riêng",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Vòi sen",
+                    "Wi-Fi [miễn phí]",
+                    "Rèm che ánh sáng",
+                    "Điều hòa",
+                    "Tủ lạnh nhỏ trong phòng",
+                    "25 m²",
+                    "Tối đa 2 người lớn",
+                    "2 giường đơn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "1.458.899",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Có ăn sáng",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt và trả tiền ngay",
+                            "WiFi miễn phí"
+                        ]
+                    },
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "1.763.668",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Có ăn sáng",
+                            "Chính sách hủy",
+                            "Trả tiền ở khách sạn",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "5513583",
+        "hotel_name": "Khách Sạn Suji (Suji Hotel)",
+        "hotel_address": "Sô 40 Ngõ 2 Trần Văn Lai, Phường Mỹ Đình 1, Quận Nam Từ Liêm, Hà Nội, Mỹ Đình, Hà Nội, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Superior có cửa sổ (Superior With Window)",
+                "amenities": [
+                    "Hướng Đường phố",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Vòi sen",
+                    "Wi-Fi [miễn phí]",
+                    "Điều hòa",
+                    "Tủ lạnh nhỏ trong phòng",
+                    "Cà phê hòa tan miễn phí",
+                    "Tủ lạnh",
+                    "Cửa sổ",
+                    "25 m²",
+                    "Tối đa 2 người lớn",
+                    "1 giường đôi"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "678.571",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Có ăn sáng",
+                            "Miễn phí hủy trước ngày 18 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí"
+                        ]
+                    },
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "684.841",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Phục vụ bữa sáng (70.000 ₫ / người)",
+                            "Miễn phí hủy trước ngày 18 thg 11, 25",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí"
+                        ]
+                    },
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "705.230",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Có ăn sáng",
+                            "Miễn phí hủy trước ngày 18 thg 11, 25",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 24.369 ₫!"
+                        ]
+                    },
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "726.720",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Có ăn sáng",
+                            "Miễn phí hủy trước ngày 18 thg 11, 25",
+                            "Trả tiền ở khách sạn",
+                            "Bãi đậu xe",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Deluxe giường đôi có ban công (Deluxe Double with Balcony)",
+                "amenities": [
+                    "Hướng Thành phố",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Vòi sen",
+                    "Wi-Fi [miễn phí]",
+                    "Điều hòa",
+                    "Tủ lạnh nhỏ trong phòng",
+                    "Cà phê hòa tan miễn phí",
+                    "Tủ lạnh",
+                    "Ban công/sân hiên",
+                    "27 m²",
+                    "Tối đa 2 người lớn",
+                    "1 giường đôi"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "814.371",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Có ăn sáng",
+                            "Miễn phí hủy trước ngày 18 thg 11, 25",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 24.253 ₫!"
+                        ]
+                    },
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "835.758",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Có ăn sáng",
+                            "Miễn phí hủy trước ngày 18 thg 11, 25",
+                            "Trả tiền ở khách sạn",
+                            "Bãi đậu xe",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "23161830",
+        "hotel_name": "Romantique Hotel De Hanoi",
+        "hotel_address": "35-37 Bat Su, Hang Bo, Hoan Kiem, Ha Noi, Phố Cổ, Hà Nội, Việt Nam, 100000",
+        "room_types": [
+            {
+                "room_type_name": "Phòng Suite Gia đình Hướng phố (Family Suite City View)",
+                "amenities": [
+                    "Hướng Thành phố",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Vòi sen",
+                    "Wi-Fi [miễn phí]",
+                    "Rèm che ánh sáng",
+                    "Tủ lạnh nhỏ trong phòng",
+                    "Cà phê hòa tan miễn phí",
+                    "Cửa sổ có thể mở ra",
+                    "Giường cực dài",
+                    "45 m²",
+                    "Tối đa 3 người lớn, 1 bé (1-5 tuổi) ở MIỄN PHÍ!",
+                    "1 giường đơn và 1 giường đôi lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "3 người lớn & 1 trẻ em (1-5 tuổi)",
+                        "option_price": "2.380.876",
+                        "amenities_for_price": [
+                            "3 người lớn & 1 trẻ em (1-5 tuổi)",
+                            "Đã gồm bữa sáng tuyệt hảo",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "Nhận phòng trễ",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 80.006 ₫!"
+                        ]
+                    },
+                    {
+                        "option_name": "3 người lớn & 1 trẻ em (1-5 tuổi)",
+                        "option_price": "2.682.217",
+                        "amenities_for_price": [
+                            "3 người lớn & 1 trẻ em (1-5 tuổi)",
+                            "Đã gồm bữa sáng tuyệt hảo",
+                            "Miễn phí hủy trước ngày 20 thg 11, 25",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 47.166 ₫!"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "9367298",
+        "hotel_name": "Khách sạn New Century Cầu Giấy (New Century Hotel Cau Giay)",
+        "hotel_address": "Số 4 Đường Khúc Thừa Dụ ,Phường Dịch Vọng, Quận Cầu Giấy, Cầu Giấy, Hà Nội, Việt Nam, 10000",
+        "room_types": [
+            {
+                "room_type_name": "Phòng Cao Cấp có Giường Đôi (Superior Double Bed Room)",
+                "amenities": [
+                    "Hướng Không có cửa sổ",
+                    "Ấm nước điện",
+                    "Máy sấy tóc",
+                    "Vòi sen",
+                    "Wi-Fi [miễn phí]",
+                    "Rèm che ánh sáng",
+                    "Điều hòa",
+                    "Tủ lạnh nhỏ trong phòng",
+                    "Cà phê hòa tan miễn phí",
+                    "Tủ lạnh",
+                    "25 m²",
+                    "Tối đa 2 người lớn, 1 bé (0-17 tuổi) ở MIỄN PHÍ!",
+                    "1 giường lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn & 1 trẻ em (0-17 tuổi)",
+                        "option_price": "587.825",
+                        "amenities_for_price": [
+                            "2 người lớn & 1 trẻ em (0-17 tuổi)",
+                            "Phục vụ bữa sáng (100.000 ₫ / người)",
+                            "Miễn phí hủy trước ngày 18 thg 11, 25",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 56.856 ₫!"
+                        ]
+                    },
+                    {
+                        "option_name": "2 người lớn & 1 trẻ em (0-17 tuổi)",
+                        "option_price": "637.963",
+                        "amenities_for_price": [
+                            "2 người lớn & 1 trẻ em (0-17 tuổi)",
+                            "Phục vụ bữa sáng (100.000 ₫ / người)",
+                            "Miễn phí hủy trước ngày 18 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Deluxe giường đôi Hướng phố (Deluxe Double City View)",
+                "amenities": [
+                    "Hướng Thành phố",
+                    "Bồn tắm",
+                    "Máy sấy tóc",
+                    "Vòi sen",
+                    "Wi-Fi [miễn phí]",
+                    "Rèm che ánh sáng",
+                    "Điều hòa",
+                    "Tủ lạnh nhỏ trong phòng",
+                    "Cà phê hòa tan miễn phí",
+                    "Tủ lạnh",
+                    "30 m²",
+                    "Tối đa 2 người lớn, 1 bé (0-17 tuổi) ở MIỄN PHÍ!",
+                    "1 giường lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn & 1 trẻ em (0-17 tuổi)",
+                        "option_price": "620.269",
+                        "amenities_for_price": [
+                            "2 người lớn & 1 trẻ em (0-17 tuổi)",
+                            "Phục vụ bữa sáng (100.000 ₫ / người)",
+                            "Miễn phí hủy trước ngày 18 thg 11, 25",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 47.365 ₫!"
+                        ]
+                    },
+                    {
+                        "option_name": "2 người lớn & 1 trẻ em (0-17 tuổi)",
+                        "option_price": "662.037",
+                        "amenities_for_price": [
+                            "2 người lớn & 1 trẻ em (0-17 tuổi)",
+                            "Phục vụ bữa sáng (100.000 ₫ / người)",
+                            "Miễn phí hủy trước ngày 18 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "28826597",
+        "hotel_name": "KHÁCH SẠN SANG TRỌNG VINHOMES SKYLAKE 5 phút tới KEANGNAM (LUXURY APARTMENT VINHOMES SKYLAKE 5min to KEANGNAM)",
+        "hotel_address": "Vinhomes Skylake, Pham Hung Road, My Dinh, Nam Tu Liem, Mỹ Đình, Hà Nội, Việt Nam, 100000",
+        "room_types": [
+            {
+                "room_type_name": "Căn Hộ Một Phòng Ngủ (One-Bedroom Apartment)",
+                "amenities": [
+                    "Hướng Thành phố",
+                    "Ấm nước điện",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Phòng tắm đứng",
+                    "Wi-Fi [miễn phí]",
+                    "Được vào phòng chờ Thương Gia",
+                    "Rèm che ánh sáng",
+                    "Nước đóng chai miễn phí",
+                    "Tủ lạnh",
+                    "50 m²",
+                    "Tối đa 2 người lớn, 1 bé (0-11 tuổi) ở MIỄN PHÍ!",
+                    "1 giường đôi lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn & 1 trẻ em (0-11 tuổi)",
+                        "option_price": "1.596.897",
+                        "amenities_for_price": [
+                            "2 người lớn & 1 trẻ em (0-11 tuổi)",
+                            "Miễn phí hủy trước ngày 18 thg 11, 25",
+                            "Đặt và trả tiền ngay",
+                            "Đưa đón sân bay [hai chiều]",
+                            "Trả phòng trễ",
+                            "Nhận phòng sớm",
+                            "Nhận phòng sớm",
+                            "Trả phòng muộn",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí",
+                            "TV thông minh (có ứng dụng)",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 284.319 ₫!"
+                        ]
+                    },
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "2.282.407",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt không cần thẻ tín dụng",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Căn Hộ Superior (Superior Apartment)",
+                "amenities": [
+                    "Hướng Thành phố",
+                    "2 phòng ngủ",
+                    "2 phòng tắm",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Vòi sen",
+                    "Được vào phòng chờ Thương Gia",
+                    "Rèm che ánh sáng",
+                    "Nước đóng chai miễn phí",
+                    "Ấm nước",
+                    "70 m²",
+                    "Tối đa 4 người lớn, 2 bé (0-11 tuổi) ở MIỄN PHÍ!",
+                    "1 giường đôi lớn / 1 giường đôi lớn / 1 giường sofa"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "4 người lớn & 2 trẻ em (0-11 tuổi)",
+                        "option_price": "1.630.572",
+                        "amenities_for_price": [
+                            "4 người lớn & 2 trẻ em (0-11 tuổi)",
+                            "Miễn phí hủy trước ngày 18 thg 11, 25",
+                            "Đặt và trả tiền ngay",
+                            "Đưa đón sân bay [hai chiều]",
+                            "Trả phòng trễ",
+                            "Nhận phòng sớm",
+                            "Nhận phòng sớm",
+                            "Trả phòng muộn",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí",
+                            "TV thông minh (có ứng dụng)"
+                        ]
+                    },
+                    {
+                        "option_name": "4 người lớn",
+                        "option_price": "2.754.630",
+                        "amenities_for_price": [
+                            "4 người lớn",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt không cần thẻ tín dụng",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "984367",
+        "hotel_name": "Khách sạn Eco Luxury Hà Nội (Eco Luxury Hotel Hanoi)",
+        "hotel_address": "17 Cửa Đông, Phố Cổ, Hà Nội, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Superior",
+                "amenities": [
+                    "Điều hòa",
+                    "Tối đa 2 người lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "1.049.586",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Có ăn sáng",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Deluxe hướng thành phố (Deluxe City View)",
+                "amenities": [
+                    "Hướng Thành phố",
+                    "Ấm nước điện",
+                    "Bồn tắm/vòi sen riêng",
+                    "Phòng tắm chung",
+                    "Máy sấy tóc",
+                    "Vòi sen",
+                    "Wi-Fi [miễn phí]",
+                    "Rèm che ánh sáng",
+                    "Tủ lạnh nhỏ trong phòng",
+                    "Nước đóng chai miễn phí",
+                    "25 m²",
+                    "Tối đa 2 người lớn, 1 bé (0-6 tuổi) ở MIỄN PHÍ!",
+                    "1 giường đôi hoặc 2 giường đơn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn & 1 trẻ em (0-6 tuổi)",
+                        "option_price": "1.169.312",
+                        "amenities_for_price": [
+                            "2 người lớn & 1 trẻ em (0-6 tuổi)",
+                            "Phục vụ bữa sáng (125.000 ₫ / người)",
+                            "Miễn phí hủy trước ngày 18 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "38592395",
+        "hotel_name": "La Siesta Classic Hàng Thùng (La Siesta Classic Hang Thung)",
+        "hotel_address": "21 Hang Thung Str, Ly Thai To Ward, Hoan Kiem District, Quận Hoàn Kiếm, Hà Nội, Việt Nam, 100000",
+        "room_types": [
+            {
+                "room_type_name": "Phòng Deluxe có cửa sổ bên trong (Deluxe Room with Internal Window)",
+                "amenities": [
+                    "Ấm nước điện",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Phòng tắm đứng",
+                    "Quyền sử dụng spa miễn phí",
+                    "Wi-Fi [miễn phí]",
+                    "Rèm che ánh sáng",
+                    "Rượu",
+                    "Cà phê hòa tan miễn phí",
+                    "Tủ lạnh",
+                    "25 m²",
+                    "Tối đa 3 người lớn",
+                    "1 giường lớn hoặc 2 giường đơn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn & 1 trẻ em (0-4 tuổi)",
+                        "option_price": "3.741.892",
+                        "amenities_for_price": [
+                            "2 người lớn & 1 trẻ em (0-4 tuổi)",
+                            "Đã gồm bữa sáng tuyệt hảo",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt và trả tiền ngay",
+                            "Giảm giá đồ ăn uống",
+                            "Giảm giá spa",
+                            "Phòng tập",
+                            "Nhận phòng trễ",
+                            "Nhận phòng nhanh",
+                            "Wifi cao cấp miễn phí",
+                            "WiFi miễn phí",
+                            "Các kênh truyền hình cáp",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 245.445 ₫!"
+                        ]
+                    },
+                    {
+                        "option_name": "2 người lớn & 1 trẻ em (0-4 tuổi)",
+                        "option_price": "4.239.375",
+                        "amenities_for_price": [
+                            "2 người lớn & 1 trẻ em (0-4 tuổi)",
+                            "Đã gồm bữa sáng tuyệt hảo",
+                            "Chính sách hủy",
+                            "Trả tiền cho khách sạn",
+                            "Phòng tập",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Phòng Executive Deluxe (Executive Deluxe Room)",
+                "amenities": [
+                    "Hướng Ngoài trời",
+                    "Ấm nước điện",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Phòng tắm đứng",
+                    "Quyền sử dụng spa miễn phí",
+                    "Wi-Fi [miễn phí]",
+                    "Rèm che ánh sáng",
+                    "Rượu",
+                    "Cà phê hòa tan miễn phí",
+                    "25 m²",
+                    "Tối đa 3 người lớn",
+                    "1 giường lớn hoặc 2 giường đơn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn & 1 trẻ em (0-4 tuổi)",
+                        "option_price": "4.014.539",
+                        "amenities_for_price": [
+                            "2 người lớn & 1 trẻ em (0-4 tuổi)",
+                            "Đã gồm bữa sáng tuyệt hảo",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt và trả tiền ngay",
+                            "Giảm giá đồ ăn uống",
+                            "Giảm giá spa",
+                            "Phòng tập",
+                            "Nhận phòng trễ",
+                            "Nhận phòng nhanh",
+                            "Wifi cao cấp miễn phí",
+                            "WiFi miễn phí",
+                            "Các kênh truyền hình cáp",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 221.263 ₫!"
+                        ]
+                    },
+                    {
+                        "option_name": "2 người lớn & 1 trẻ em (0-4 tuổi)",
+                        "option_price": "4.508.542",
+                        "amenities_for_price": [
+                            "2 người lớn & 1 trẻ em (0-4 tuổi)",
+                            "Đã gồm bữa sáng tuyệt hảo",
+                            "Chính sách hủy",
+                            "Trả tiền cho khách sạn",
+                            "Phòng tập",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "33158584",
+        "hotel_name": "Meritel Hà Nội (Meritel Hanoi)",
+        "hotel_address": "151 - 153 Hàng Bông, Hoàn Kiếm, Hà Nội, Việt Nam, Quận Hoàn Kiếm, Hà Nội, Việt Nam, 10000",
+        "room_types": [
+            {
+                "room_type_name": "Phòng Junior Giường Đôi (Junior Double Room)",
+                "amenities": [
+                    "Hướng Thành phố",
+                    "Ấm nước điện",
+                    "Máy sấy tóc",
+                    "Vòi sen",
+                    "Wi-Fi [miễn phí]",
+                    "Rèm che ánh sáng",
+                    "Điều hòa",
+                    "Tủ lạnh nhỏ trong phòng",
+                    "Trà miễn phí",
+                    "Ban công/sân hiên",
+                    "28 m²",
+                    "Tối đa 2 người lớn",
+                    "1 giường lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "3.850.279",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Có bữa sáng tuyệt hảo (300.000 ₫ / người)",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt và trả tiền ngay",
+                            "Phòng tập",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí"
+                        ]
+                    },
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "4.075.487",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Đã gồm bữa sáng tuyệt hảo",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt và trả tiền ngay",
+                            "Phòng tập",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Meritel Suite",
+                "amenities": [
+                    "Hướng Thành phố",
+                    "Ấm nước điện",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Phòng tắm đứng",
+                    "Wi-Fi [miễn phí]",
+                    "Rèm che ánh sáng",
+                    "Tủ lạnh nhỏ trong phòng",
+                    "Cà phê hòa tan miễn phí",
+                    "Tủ lạnh",
+                    "30 m²",
+                    "Tối đa 2 người lớn",
+                    "1 giường siêu lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "4.259.358",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Có bữa sáng tuyệt hảo (300.000 ₫ / người)",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt và trả tiền ngay",
+                            "Phòng tập",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí"
+                        ]
+                    },
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "4.483.192",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Đã gồm bữa sáng tuyệt hảo",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt và trả tiền ngay",
+                            "Phòng tập",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "35476089",
+        "hotel_name": "Khách sạn và Spa La Sinfonia Citadel (La Sinfonia Citadel hotel and Spa)",
+        "hotel_address": "12-14 Dinh Ngang Street, Cua Nam Ward, Hoan Kiem District, Hanoi, Quận Hoàn Kiếm, Hà Nội, Việt Nam, 100000",
+        "room_types": [
+            {
+                "room_type_name": "Phòng Thương Gia Giường Đôi Có Vòi Sen (Executive Double Room with Shower)",
+                "amenities": [
+                    "Ấm nước điện",
+                    "Bồn tắm/vòi sen riêng",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Phòng tắm đứng",
+                    "Wi-Fi [miễn phí]",
+                    "Rèm che ánh sáng",
+                    "Rượu",
+                    "Cà phê hòa tan miễn phí",
+                    "Cửa sổ có thể mở ra",
+                    "24 m²",
+                    "Tối đa 2 người lớn",
+                    "1 giường đôi hoặc 2 giường đơn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "2.346.855",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Đã gồm bữa sáng tuyệt hảo",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt và trả tiền ngay",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí"
+                        ]
+                    },
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "2.558.730",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Đã gồm bữa sáng tuyệt hảo",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Trả tiền cho khách sạn",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Executive Suite",
+                "amenities": [
+                    "Tối đa 2 người lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "3.748.973",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Đã gồm bữa sáng tuyệt hảo",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt và trả tiền ngay",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "64283106",
+        "hotel_name": "Căn hộ The Setai Linh Lang by XOI Residences (The Setai Apartment Linh Lang by XOI Residences)",
+        "hotel_address": "13 Ng. 41 P. Linh Lang, Cống Vị, Ba Đình, Hà Nội, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Căn Hộ Deluxe 1 Phòng Ngủ (Deluxe One-Bedroom Apartment)",
+                "amenities": [
+                    "Hướng Ngoài trời",
+                    "Ấm nước điện",
+                    "Bồn tắm",
+                    "Phòng tắm chung",
+                    "Máy sấy tóc",
+                    "Vòi sen",
+                    "Đồ dùng cho giấc ngủ thoải mái",
+                    "Điều hòa",
+                    "Tủ lạnh nhỏ trong phòng",
+                    "Nước đóng chai miễn phí",
+                    "50 m²",
+                    "Tối đa 4 người lớn",
+                    "1 giường sofa / 1 giường lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "4 người lớn",
+                        "option_price": "933.333",
+                        "amenities_for_price": [
+                            "4 người lớn",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Trả tiền cho khách sạn",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí"
+                        ]
+                    },
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "1.166.667",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Trả tiền cho khách sạn",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Căn Hộ 1 Phòng Ngủ (1 Bedroom Apartment)",
+                "amenities": [
+                    "Hướng Thung lũng",
+                    "Bồn tắm/vòi sen riêng",
+                    "Máy sấy tóc",
+                    "Phòng tắm đứng",
+                    "Wi-Fi [miễn phí]",
+                    "Đồ uống mời khách miễn phí",
+                    "Cà phê hòa tan miễn phí",
+                    "Ấm nước",
+                    "Tủ lạnh",
+                    "Ban công/sân hiên",
+                    "50 m²",
+                    "Tối đa 4 người lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "4 người lớn",
+                        "option_price": "1.073.231",
+                        "amenities_for_price": [
+                            "4 người lớn",
+                            "Chính sách hủy",
+                            "Đặt và trả tiền ngay",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 20.456 ₫!"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "67292797",
+        "hotel_name": "Huong’s Family Homestay",
+        "hotel_address": "91A P. Lý Nam Đế, Cửa Đông, Phố Cổ, Hà Nội, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Suite Gia Đình Có Ban Công (Family Suite with Balcony)",
+                "amenities": [
+                    "Hướng Ngoài trời",
+                    "Bồn tắm",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Vòi sen",
+                    "Wi-Fi [miễn phí]",
+                    "Điều hòa",
+                    "Nước đóng chai miễn phí",
+                    "Ấm nước",
+                    "Tủ lạnh",
+                    "40 m²",
+                    "Tối đa 3 người lớn",
+                    "1 giường đôi"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "3 người lớn",
+                        "option_price": "695.233",
+                        "amenities_for_price": [
+                            "3 người lớn",
+                            "Chính sách hủy",
+                            "Đặt và trả tiền ngay",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 13.606 ₫!"
+                        ]
+                    },
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "703.704",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Miễn phí hủy trước ngày 18 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng",
+                            "WiFi miễn phí"
+                        ]
+                    },
+                    {
+                        "option_name": "3 người lớn",
+                        "option_price": "740.741",
+                        "amenities_for_price": [
+                            "3 người lớn",
+                            "Miễn phí hủy trước ngày 18 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "6358988",
+        "hotel_name": "Spoon Hotel",
+        "hotel_address": "Nguyễn Văn Tố, Phố Cổ, Hà Nội, Việt Nam, 10000",
+        "room_types": [
+            {
+                "room_type_name": "Phòng Tiêu Chuẩn Giường Đôi (Standard Double Room)",
+                "amenities": [
+                    "Tối đa 2 người lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "757.227",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Có ăn sáng",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt và trả tiền ngay",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Deluxe Cửa Sổ (Deluxe Window)",
+                "amenities": [
+                    "Hướng Thành phố",
+                    "Ấm nước điện",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Vòi sen",
+                    "Wi-Fi [miễn phí]",
+                    "Điều hòa",
+                    "Tủ lạnh nhỏ trong phòng",
+                    "Nước đóng chai miễn phí",
+                    "Tủ lạnh",
+                    "25 m²",
+                    "Tối đa 2 người lớn",
+                    "2 giường đơn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "902.800",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Phục vụ bữa sáng (80.000 ₫ / người)",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt và trả tiền ngay",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí"
+                        ]
+                    },
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "998.299",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Có ăn sáng",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt và trả tiền ngay",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "68639393",
+        "hotel_name": "Khách sạn sân bay Mia Nội Bài (Mia Noi Bai Airport Hotel)",
+        "hotel_address": "31 Đ. Vo Nguyen Giap, Thai Phu, Mai Dinh, Sân bay Nội Bài, Hà Nội, Việt Nam, 10000",
+        "room_types": [
+            {
+                "room_type_name": "Phòng Đôi (Double Room)",
+                "amenities": [
+                    "Bồn tắm",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Vòi sen",
+                    "Wi-Fi [miễn phí]",
+                    "Rèm che ánh sáng",
+                    "Điều hòa",
+                    "Tủ lạnh nhỏ trong phòng",
+                    "Trà miễn phí",
+                    "Ấm nước",
+                    "25 m²",
+                    "Tối đa 2 người lớn",
+                    "1 giường đôi lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "664.650",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Có ăn sáng",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt và trả tiền ngay",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 56.287 ₫!"
+                        ]
+                    },
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "909.091",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Có ăn sáng",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt không cần thẻ tín dụng",
+                            "WiFi miễn phí"
+                        ]
+                    },
+                    {
+                        "option_name": "1 người lớn Vượt quá sức chứa phòng",
+                        "option_price": "863.636",
+                        "amenities_for_price": [
+                            "1 người lớn Vượt quá sức chứa phòng",
+                            "Có ăn sáng",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt không cần thẻ tín dụng",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Phòng Đôi Loại Sang (Deluxe Double Room)",
+                "amenities": [
+                    "Hướng Ngoài trời",
+                    "Ấm nước điện",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Vòi sen",
+                    "Điều hòa",
+                    "Tủ quần áo",
+                    "Không hút thuốc",
+                    "20 m²",
+                    "Tối đa 2 người lớn",
+                    "1 giường lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "707.071",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Có ăn sáng",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt không cần thẻ tín dụng",
+                            "WiFi miễn phí"
+                        ]
+                    },
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "711.452",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Có ăn sáng",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt và trả tiền ngay",
+                            "WiFi miễn phí"
+                        ]
+                    },
+                    {
+                        "option_name": "1 người lớn Vượt quá sức chứa phòng",
+                        "option_price": "636.364",
+                        "amenities_for_price": [
+                            "1 người lớn Vượt quá sức chứa phòng",
+                            "Có ăn sáng",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt không cần thẻ tín dụng",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "76695458",
+        "hotel_name": "Khách sạn sân bay Sunrise (Nội Bài) (Sunrise (Noi Bai) Airport Hotel)",
+        "hotel_address": "No. 17, Alley 3, Dien Xa Village, Noi Bai Commune, Hanoi City, Sân bay Nội Bài, Hà Nội, Việt Nam, 100000",
+        "room_types": [
+            {
+                "room_type_name": "Classic giường đôi (Double Classic)",
+                "amenities": [
+                    "Hướng Sân trong",
+                    "Phòng tắm chung",
+                    "Máy sấy tóc",
+                    "Vòi sen",
+                    "Wi-Fi [miễn phí]",
+                    "Rèm che ánh sáng",
+                    "Đồ uống mời khách miễn phí",
+                    "Tủ lạnh nhỏ trong phòng",
+                    "Cà phê hòa tan miễn phí",
+                    "Ấm nước",
+                    "22 m²",
+                    "Tối đa 2 người lớn",
+                    "1 giường đôi lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "671.113",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Có ăn sáng",
+                            "Miễn phí hủy trước ngày 18 thg 11, 25",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 16.658 ₫!"
+                        ]
+                    },
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "697.000",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Có ăn sáng",
+                            "Miễn phí hủy trước ngày 18 thg 11, 25",
+                            "Trả tiền ở khách sạn",
+                            "Bãi đậu xe",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Deluxe có ban công (Deluxe Balcony)",
+                "amenities": [
+                    "Hướng Thành phố",
+                    "Phòng tắm chung",
+                    "Máy sấy tóc",
+                    "Vòi sen",
+                    "Wi-Fi [miễn phí]",
+                    "Rèm che ánh sáng",
+                    "Đồ uống mời khách miễn phí",
+                    "Tủ lạnh nhỏ trong phòng",
+                    "Cà phê hòa tan miễn phí",
+                    "Ấm nước",
+                    "25 m²",
+                    "Tối đa 2 người lớn",
+                    "1 giường đôi lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "734.597",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Có ăn sáng",
+                            "Miễn phí hủy trước ngày 18 thg 11, 25",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 13.967 ₫!"
+                        ]
+                    },
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "850.000",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Có ăn sáng",
+                            "Miễn phí hủy trước ngày 18 thg 11, 25",
+                            "Trả tiền ở khách sạn",
+                            "Bãi đậu xe",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "51483614",
+        "hotel_name": "Căn hộ Gem Vinhomes Skylake Hà Nội (Vinhomes Skylake Ha Noi - Gem Apartment)",
+        "hotel_address": "85 Đ. Phạm Hung, Mỹ Đinh, Nam Từ Liem, Ha Nội, Mỹ Đình, Hà Nội, Việt Nam, 100000",
+        "room_types": [
+            {
+                "room_type_name": "Standard room with kitchen (Standard Room with kitchen)",
+                "amenities": [
+                    "Hướng Thành phố",
+                    "Máy sấy tóc",
+                    "Internet mạng LAN trong phòng [miễn phí]",
+                    "Điều hòa",
+                    "Cà phê hòa tan miễn phí",
+                    "Tủ quần áo",
+                    "Cho phép hút thuốc",
+                    "57 m²",
+                    "Tối đa 2 người lớn",
+                    "1 giường đôi lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "1.614.170",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Chính sách hủy",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "Giặt là miễn phí",
+                            "Nhận phòng nhanh",
+                            "Wifi cao cấp miễn phí",
+                            "WiFi miễn phí",
+                            "Vào phòng tập trong nhà",
+                            "Các kênh truyền hình cáp",
+                            "TV thông minh (có ứng dụng)",
+                            "Khẩu trang bảo vệ",
+                            "Cho phép giao hàng từ gia đình và họ hàng",
+                            "Giao hàng từ cửa hàng tiện lợi gần đó",
+                            "Cho phép order đồ ăn bên ngoài",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 457.531 ₫!"
+                        ]
+                    },
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "2.017.637",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Chính sách hủy",
+                            "Trả tiền ở khách sạn",
+                            "Bãi đậu xe",
+                            "Giặt là miễn phí",
+                            "Nhận phòng nhanh",
+                            "Wifi cao cấp miễn phí",
+                            "WiFi miễn phí",
+                            "Vào phòng tập trong nhà",
+                            "Các kênh truyền hình cáp",
+                            "TV thông minh (có ứng dụng)",
+                            "Khẩu trang bảo vệ",
+                            "Cho phép giao hàng từ gia đình và họ hàng",
+                            "Giao hàng từ cửa hàng tiện lợi gần đó",
+                            "Cho phép order đồ ăn bên ngoài"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "302780",
+        "hotel_name": "Khách sạn Mango (Mango Hotel - Le Duan)",
+        "hotel_address": "118 Lê Duẩn, Khu vực Ga Hà Nội, Quận Hoàn Kiếm, Thành Phố Hà Nội, Việt Nam, Đống Đa, Hà Nội, Việt Nam, 100000",
+        "room_types": [
+            {
+                "room_type_name": "Phòng Superior 2 giường (Superior Twin Room)",
+                "amenities": [
+                    "Hướng Thành phố",
+                    "Ấm nước điện",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Phòng tắm đứng",
+                    "Wi-Fi [miễn phí]",
+                    "Được vào phòng chờ Thương Gia",
+                    "Rèm che ánh sáng",
+                    "Tủ lạnh nhỏ trong phòng",
+                    "Nước đóng chai miễn phí",
+                    "22 m²",
+                    "Tối đa 2 người lớn",
+                    "2 giường đơn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "777.778",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Có ăn sáng",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí"
+                        ]
+                    },
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "793.535",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Có ăn sáng",
+                            "Miễn phí hủy trước ngày 18 thg 11, 25",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Phòng Deluxe 2 Giường Đơn (Deluxe Twin Bed)",
+                "amenities": [
+                    "Hướng Thành phố",
+                    "Ấm nước điện",
+                    "Bồn tắm/vòi sen riêng",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Phòng tắm đứng",
+                    "Wi-Fi [miễn phí]",
+                    "Rèm che ánh sáng",
+                    "Tủ lạnh nhỏ trong phòng",
+                    "Cà phê hòa tan miễn phí",
+                    "30 m²",
+                    "Tối đa 2 người lớn",
+                    "2 giường đôi lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "882.716",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Có ăn sáng",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí"
+                        ]
+                    },
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "924.827",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Có ăn sáng",
+                            "Miễn phí hủy trước ngày 18 thg 11, 25",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "2419174",
+        "hotel_name": "Khách sạn Super OYO Capital O 387 Bạch Dương (Super OYO Capital O 387 Bach Duong Hotel)",
+        "hotel_address": "Số C5, D6 phố Trần Thái Tông, khu đô thị mới Dịch Vọng, phường Dịch Vọng, quận Cầu Giấy, thành phố Hà Nội, Cầu Giấy, Hà Nội, Việt Nam, 100000",
+        "room_types": [
+            {
+                "room_type_name": "Standard Twin Room",
+                "amenities": [
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Vòi sen",
+                    "Wi-Fi [miễn phí]",
+                    "Rèm che ánh sáng",
+                    "Điều hòa",
+                    "Tủ lạnh nhỏ trong phòng",
+                    "Nước đóng chai miễn phí",
+                    "Máy pha trà/cà phê",
+                    "Tủ lạnh",
+                    "14 m²",
+                    "Tối đa 2 người lớn",
+                    "2 giường đơn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "370.120",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Phục vụ bữa sáng (75.000 ₫ / người)",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt và trả tiền ngay",
+                            "Miễn Phí Internet Không Dây"
+                        ]
+                    },
+                    {
+                        "option_name": "2 người lớn & 1 trẻ em (0-6 tuổi)",
+                        "option_price": "376.160",
+                        "amenities_for_price": [
+                            "2 người lớn & 1 trẻ em (0-6 tuổi)",
+                            "Phục vụ bữa sáng (75.000 ₫ / người)",
+                            "Miễn phí hủy trước ngày 18 thg 11, 25",
+                            "Đặt và trả tiền ngay",
+                            "Miễn Phí Internet Không Dây"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Phòng Superior 2 giường (Superior Twin Room)",
+                "amenities": [
+                    "Hướng Thành phố",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Vòi sen",
+                    "Wi-Fi [miễn phí]",
+                    "Rèm che ánh sáng",
+                    "Điều hòa",
+                    "Tủ lạnh nhỏ trong phòng",
+                    "Nước đóng chai miễn phí",
+                    "Máy pha trà/cà phê",
+                    "20 m²",
+                    "Tối đa 2 người lớn, 1 bé (0-6 tuổi) ở MIỄN PHÍ!",
+                    "2 giường đơn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn & 1 trẻ em (0-6 tuổi)",
+                        "option_price": "390.531",
+                        "amenities_for_price": [
+                            "2 người lớn & 1 trẻ em (0-6 tuổi)",
+                            "Phục vụ bữa sáng (75.000 ₫ / người)",
+                            "Miễn phí hủy trước ngày 18 thg 11, 25",
+                            "Đặt và trả tiền ngay",
+                            "Miễn Phí Internet Không Dây"
+                        ]
+                    },
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "480.777",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Phục vụ bữa sáng (75.000 ₫ / người)",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt và trả tiền ngay",
+                            "Miễn Phí Internet Không Dây"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "27826784",
+        "hotel_name": "Căn hộ LIVIE Hà Nội Hàm Long (LIVIE Hanoi Ham Long)",
+        "hotel_address": "42a Hàm Long, Hàng Bài, Hoàn Kiếm, Hà Nội, Quận Hoàn Kiếm, Hà Nội, Việt Nam, 100000",
+        "room_types": [
+            {
+                "room_type_name": "Phòng Một Giường Có Bồn Tắm (One Bed Room with Bathtub)",
+                "amenities": [
+                    "Hướng Đường phố",
+                    "Ấm nước điện",
+                    "Bồn tắm/vòi sen riêng",
+                    "Máy sấy tóc",
+                    "Vòi sen",
+                    "Wi-Fi [miễn phí]",
+                    "Rèm che ánh sáng",
+                    "Điều hòa",
+                    "Cà phê hòa tan miễn phí",
+                    "Tủ lạnh",
+                    "55 m²",
+                    "Tối đa 2 người lớn, 1 bé (0-17 tuổi) ở MIỄN PHÍ!",
+                    "1 giường lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn & 1 trẻ em (0-17 tuổi)",
+                        "option_price": "1.265.616",
+                        "amenities_for_price": [
+                            "2 người lớn & 1 trẻ em (0-17 tuổi)",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt và trả tiền ngay",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 454.791 ₫!"
+                        ]
+                    },
+                    {
+                        "option_name": "2 người lớn & 1 trẻ em (0-17 tuổi)",
+                        "option_price": "1.480.314",
+                        "amenities_for_price": [
+                            "2 người lớn & 1 trẻ em (0-17 tuổi)",
+                            "Miễn phí hủy trước ngày 18 thg 11, 25",
+                            "Đặt và trả tiền ngay",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 421.323 ₫!"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "One-Bedroom Premium Apartment",
+                "amenities": [
+                    "Hướng Ngoài trời",
+                    "Ấm nước điện",
+                    "Bồn tắm",
+                    "phòng tắm riêng",
+                    "Vòi sen",
+                    "Đồ dùng cho giấc ngủ thoải mái",
+                    "Tủ lạnh",
+                    "Tủ quần áo",
+                    "Điều hòa cá nhân",
+                    "55 m²",
+                    "Tối đa 2 người lớn",
+                    "1 giường sofa / 1 giường lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "1.499.999",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Miễn phí hủy trước ngày 18 thg 11, 25",
+                            "Trả tiền cho khách sạn",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "40818637",
+        "hotel_name": "Hanoi Traveller House",
+        "hotel_address": "13 Phố Mã Mây, Phố Cổ, Hà Nội, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Giường Tầng Trong Phòng Ngủ Tập Thể Cho Nam Và Nữ (Bunk Bed in Mixed Dormitory Room)",
+                "amenities": [
+                    "Hướng Ngoài trời",
+                    "Phòng tắm chung",
+                    "Máy sấy tóc",
+                    "Vòi sen",
+                    "Đồ dùng cho giấc ngủ thoải mái",
+                    "Điều hòa",
+                    "Tủ quần áo",
+                    "80 m²",
+                    "Tối đa 1 người lớn",
+                    "1 giường tầng"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "1 người lớn Vượt quá sức chứa phòng",
+                        "option_price": "128.333",
+                        "amenities_for_price": [
+                            "1 người lớn Vượt quá sức chứa phòng",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt không cần thẻ tín dụng",
+                            "WiFi miễn phí"
+                        ]
+                    },
+                    {
+                        "option_name": "1 người lớn Vượt quá sức chứa phòng",
+                        "option_price": "160.417",
+                        "amenities_for_price": [
+                            "1 người lớn Vượt quá sức chứa phòng",
+                            "Có ăn sáng",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt không cần thẻ tín dụng",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Giường Trong Phòng Ngủ Tập Thể 10 Giường Cho Cả Nam Lẫn Nữ (Bed in 10-Bed Mixed Dormitory Room)",
+                "amenities": [
+                    "Hướng Ngoài trời",
+                    "Phòng tắm chung",
+                    "Máy sấy tóc",
+                    "Vòi sen",
+                    "Đồ dùng cho giấc ngủ thoải mái",
+                    "Điều hòa",
+                    "Ban công/sân hiên",
+                    "Tủ quần áo",
+                    "Không hút thuốc",
+                    "52 m²",
+                    "Tối đa 1 người lớn",
+                    "1 giường tầng"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "1 người lớn Vượt quá sức chứa phòng",
+                        "option_price": "205.833",
+                        "amenities_for_price": [
+                            "1 người lớn Vượt quá sức chứa phòng",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt không cần thẻ tín dụng",
+                            "WiFi miễn phí"
+                        ]
+                    },
+                    {
+                        "option_name": "1 người lớn Vượt quá sức chứa phòng",
+                        "option_price": "243.750",
+                        "amenities_for_price": [
+                            "1 người lớn Vượt quá sức chứa phòng",
+                            "Có ăn sáng",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt không cần thẻ tín dụng",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "4218108",
+        "hotel_name": "Khách sạn & Spa Paon Hà Nội (Hanoi Paon Hotel & Spa)",
+        "hotel_address": "27 Hang Thung Str, Hoan Kiem, Hanoi, Vietnam, Phố Cổ, Hà Nội, Việt Nam, 10000",
+        "room_types": [
+            {
+                "room_type_name": "Phòng Loại Sang (Deluxe)",
+                "amenities": [
+                    "Ấm nước điện",
+                    "Máy sấy tóc",
+                    "Vòi sen",
+                    "Internet mạng LAN trong phòng [miễn phí]",
+                    "Rèm che ánh sáng",
+                    "Điều hòa",
+                    "Tủ lạnh nhỏ trong phòng",
+                    "Không hút thuốc",
+                    "Tối đa 2 người lớn",
+                    "1 giường đôi lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "2.173.544",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Đã gồm bữa sáng tuyệt hảo",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt và trả tiền ngay",
+                            "Phòng tập",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Phòng gia đình không có cửa sổ (Family Room without Window)",
+                "amenities": [
+                    "Hướng Không có cửa sổ",
+                    "Ấm nước điện",
+                    "Bồn tắm",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Phòng tắm đứng",
+                    "Wi-Fi [miễn phí]",
+                    "Rèm che ánh sáng",
+                    "Tủ lạnh nhỏ trong phòng",
+                    "Cà phê hòa tan miễn phí",
+                    "30 m²",
+                    "Tối đa 3 người lớn, 1 bé (0-4 tuổi) ở MIỄN PHÍ!",
+                    "1 giường đơn và 1 giường lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "2.488.795",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Đã gồm bữa sáng tuyệt hảo",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt và trả tiền ngay",
+                            "Phòng tập",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí"
+                        ]
+                    },
+                    {
+                        "option_name": "3 người lớn & 1 trẻ em (0-4 tuổi)",
+                        "option_price": "2.723.244",
+                        "amenities_for_price": [
+                            "3 người lớn & 1 trẻ em (0-4 tuổi)",
+                            "Đã gồm bữa sáng tuyệt hảo",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt và trả tiền ngay",
+                            "Phòng tập",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 106.841 ₫!"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "239422",
+        "hotel_name": "Khách sạn Hanoi House & Travel (Hanoi House Hotel & Travel)",
+        "hotel_address": "85 Mã Mây, Hoàn Kiếm, Phố Cổ, Hà Nội, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Deluxe giường đôi hoặc 2 giường (Deluxe Double or Twin)",
+                "amenities": [
+                    "Hướng Thành phố",
+                    "Ấm nước điện",
+                    "Bồn tắm tạo sóng",
+                    "Phòng tắm chung",
+                    "Máy sấy tóc",
+                    "Vòi sen",
+                    "Wi-Fi [miễn phí]",
+                    "Rèm che ánh sáng",
+                    "Điều hòa",
+                    "Tủ lạnh nhỏ trong phòng",
+                    "28 m²",
+                    "Tối đa 2 người lớn, 1 bé (0-5 tuổi) ở MIỄN PHÍ!",
+                    "2 giường đơn hoặc 1 giường đôi"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn & 1 trẻ em (0-5 tuổi)",
+                        "option_price": "1.969.083",
+                        "amenities_for_price": [
+                            "2 người lớn & 1 trẻ em (0-5 tuổi)",
+                            "Đã gồm bữa sáng tuyệt hảo",
+                            "Miễn phí hủy trước ngày 18 thg 11, 25",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 147.060 ₫!"
+                        ]
+                    },
+                    {
+                        "option_name": "2 người lớn & 1 trẻ em (0-5 tuổi)",
+                        "option_price": "2.098.765",
+                        "amenities_for_price": [
+                            "2 người lớn & 1 trẻ em (0-5 tuổi)",
+                            "Đã gồm bữa sáng tuyệt hảo",
+                            "Miễn phí hủy trước ngày 18 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Phòng Deluxe 3 người (Deluxe Triple Room)",
+                "amenities": [
+                    "Ấm nước điện",
+                    "Bồn tắm tạo sóng",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Vòi sen",
+                    "Wi-Fi [miễn phí]",
+                    "Đồ dùng cho giấc ngủ thoải mái",
+                    "Điều hòa",
+                    "Tủ lạnh nhỏ trong phòng",
+                    "Cà phê hòa tan miễn phí",
+                    "35 m²",
+                    "Tối đa 3 người lớn",
+                    "1 giường đôi và 1 giường đơn hoặc 3 giường đơn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "3 người lớn",
+                        "option_price": "2.320.988",
+                        "amenities_for_price": [
+                            "3 người lớn",
+                            "Đã gồm bữa sáng tuyệt hảo",
+                            "Miễn phí hủy trước ngày 18 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí"
+                        ]
+                    },
+                    {
+                        "option_name": "3 người lớn & 1 trẻ em (0-5 tuổi)",
+                        "option_price": "2.725.556",
+                        "amenities_for_price": [
+                            "3 người lớn & 1 trẻ em (0-5 tuổi)",
+                            "Đã gồm bữa sáng tuyệt hảo",
+                            "Miễn phí hủy trước ngày 18 thg 11, 25",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 209.220 ₫!"
+                        ]
+                    },
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "2.912.939",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Đã gồm bữa sáng tuyệt hảo",
+                            "Miễn phí hủy trước ngày 19 thg 11, 25",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "35354312",
+        "hotel_name": "Khách sạn Minasi Grand (Minasi Grand Hotel)",
+        "hotel_address": "61 Hue alley, Quận Hai Bà Trưng, Hà Nội, Việt Nam, 100000",
+        "room_types": [
+            {
+                "room_type_name": "Deluxe giường đôi hoặc 2 giường (Deluxe Double or Twin)",
+                "amenities": [
+                    "Hướng Ngoài trời",
+                    "Ấm nước điện",
+                    "Bồn tắm/vòi sen riêng",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Phòng tắm đứng",
+                    "Wi-Fi [miễn phí]",
+                    "Điều hòa",
+                    "Trái cây/đồ ăn vặt",
+                    "Nước đóng chai miễn phí",
+                    "22 m²",
+                    "Tối đa 2 người lớn",
+                    "1 giường đôi hoặc 2 giường đơn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "1.785.802",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Có ăn sáng",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt và trả tiền ngay",
+                            "Giỏ trái cây",
+                            "Bãi đậu xe",
+                            "Nhận phòng sớm từ 12PM",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 254.032 ₫!"
+                        ]
+                    },
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "2.002.804",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Có ăn sáng",
+                            "Chính sách hủy",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "Nhận phòng trễ",
+                            "Nhận phòng nhanh",
+                            "Wifi cao cấp miễn phí",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 261.188 ₫!"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Phòng Executive giường đôi hoặc 2 giường (Executive Double or Twin)",
+                "amenities": [
+                    "Hướng Đường phố",
+                    "Máy sấy tóc",
+                    "Phòng tắm đứng",
+                    "Wi-Fi [miễn phí]",
+                    "Điều hòa",
+                    "Tủ lạnh nhỏ trong phòng",
+                    "Nước đóng chai miễn phí",
+                    "Tủ lạnh",
+                    "Ban công/sân hiên",
+                    "Cửa sổ mở",
+                    "25 m²",
+                    "Tối đa 2 người lớn, 1 bé (0-5 tuổi) ở MIỄN PHÍ!",
+                    "2 giường đơn hoặc 1 giường đôi"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn & 1 trẻ em (0-5 tuổi)",
+                        "option_price": "2.122.008",
+                        "amenities_for_price": [
+                            "2 người lớn & 1 trẻ em (0-5 tuổi)",
+                            "Có ăn sáng",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt và trả tiền ngay",
+                            "Giỏ trái cây",
+                            "Bãi đậu xe",
+                            "Nhận phòng sớm từ 12PM",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 276.734 ₫!"
+                        ]
+                    },
+                    {
+                        "option_name": "2 người lớn & 1 trẻ em (0-5 tuổi)",
+                        "option_price": "2.357.787",
+                        "amenities_for_price": [
+                            "2 người lớn & 1 trẻ em (0-5 tuổi)",
+                            "Có ăn sáng",
+                            "Chính sách hủy",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "Nhận phòng trễ",
+                            "Nhận phòng nhanh",
+                            "Wifi cao cấp miễn phí",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 307.482 ₫!"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Executive 2 giường (Executive Twin)",
+                "amenities": [
+                    "Hướng Đường phố",
+                    "Ấm nước điện",
+                    "Bồn tắm",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Phòng tắm đứng",
+                    "Wi-Fi [miễn phí]",
+                    "Điều hòa",
+                    "Trái cây/đồ ăn vặt",
+                    "Nước đóng chai miễn phí",
+                    "25 m²",
+                    "Tối đa 2 người lớn, 1 bé (0-5 tuổi) ở MIỄN PHÍ!",
+                    "2 giường đơn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn & 1 trẻ em (0-5 tuổi)",
+                        "option_price": "2.122.008",
+                        "amenities_for_price": [
+                            "2 người lớn & 1 trẻ em (0-5 tuổi)",
+                            "Có ăn sáng",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt và trả tiền ngay",
+                            "Giỏ trái cây",
+                            "Bãi đậu xe",
+                            "Nhận phòng sớm từ 12PM",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 276.734 ₫!"
+                        ]
+                    },
+                    {
+                        "option_name": "2 người lớn & 1 trẻ em (0-5 tuổi)",
+                        "option_price": "2.357.787",
+                        "amenities_for_price": [
+                            "2 người lớn & 1 trẻ em (0-5 tuổi)",
+                            "Có ăn sáng",
+                            "Chính sách hủy",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "Nhận phòng trễ",
+                            "Nhận phòng nhanh",
+                            "Wifi cao cấp miễn phí",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 307.482 ₫!"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "44185571",
+        "hotel_name": "Dcapitale - Feria Homes",
+        "hotel_address": "No. 259, Tran Duy Hung Street, Maro, Vincom Tran Duy Hung, Maro259 Vincom Trần Duy Hưng, Cầu Giấy, Hà Nội, Việt Nam, 100000",
+        "room_types": [
+            {
+                "room_type_name": "Studio - Phòng Giường Lớn Có Ban Công (Studio - King Room with Balcony)",
+                "amenities": [
+                    "Hướng Thành phố",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Phòng tắm đứng",
+                    "Wi-Fi [miễn phí]",
+                    "Rèm che ánh sáng",
+                    "Máy cà phê espresso có viên nén (có phí)",
+                    "Tủ lạnh",
+                    "Ban công/sân hiên",
+                    "Cửa sổ có thể mở ra",
+                    "40 m²",
+                    "Tối đa 2 người lớn, 1 bé (0-12 tuổi) ở MIỄN PHÍ!",
+                    "1 giường lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn & 1 trẻ em (0-12 tuổi)",
+                        "option_price": "963.341",
+                        "amenities_for_price": [
+                            "2 người lớn & 1 trẻ em (0-12 tuổi)",
+                            "Miễn phí hủy trước ngày 18 thg 11, 25",
+                            "Đặt và trả tiền ngay",
+                            "Nâng cấp lên loại phòng cao hơn",
+                            "Thức uống",
+                            "Bãi đậu xe",
+                            "Nhận Phòng Muộn sau 11 PM",
+                            "Nhận phòng sớm từ 2PM",
+                            "Trả phòng muộn đến 12PM",
+                            "Giặt là Miễn phí (Mỗi ngày) 10chiếc",
+                            "Giặt là miễn phí (Mỗi lần ở) 10 chiếc",
+                            "Giặt là miễn phí",
+                            "Dịch vụ giặt ủi có giới hạn",
+                            "Nhận phòng nhanh",
+                            "Wifi cao cấp miễn phí",
+                            "WiFi miễn phí",
+                            "Vào phòng tập ngoài trời",
+                            "Các kênh truyền hình cáp",
+                            "TV thông minh (có ứng dụng)",
+                            "Nhiều cách nữa để thanh toán, gồm cả PayPal",
+                            "Xe đạp thể dục",
+                            "Cho phép giao hàng từ gia đình và họ hàng",
+                            "Giao hàng từ cửa hàng tiện lợi gần đó",
+                            "Cho phép order đồ ăn bên ngoài",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 17.571 ₫!"
+                        ]
+                    },
+                    {
+                        "option_name": "2 người lớn & 1 trẻ em (0-12 tuổi)",
+                        "option_price": "963.752",
+                        "amenities_for_price": [
+                            "2 người lớn & 1 trẻ em (0-12 tuổi)",
+                            "Miễn phí hủy trước ngày 18 thg 11, 25",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 17.105 ₫!"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "46886926",
+        "hotel_name": "Khách sạn & Spa The Silk Boutique (The Silk Boutique Hotel & Spa)",
+        "hotel_address": "15 P. Hàng Cân, Hàng Bồ, Phố Cổ, Hà Nội, Việt Nam, 100000",
+        "room_types": [
+            {
+                "room_type_name": "Phòng loại Sang Giường Đôi - Điều Hòa (Deluxe Double - AC)",
+                "amenities": [
+                    "Hướng Không có cửa sổ",
+                    "Ấm nước điện",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Phòng tắm đứng",
+                    "Wi-Fi [miễn phí]",
+                    "Đồ dùng cho giấc ngủ thoải mái",
+                    "Tủ lạnh nhỏ trong phòng",
+                    "Cà phê hòa tan miễn phí",
+                    "Tủ lạnh",
+                    "22 m²",
+                    "Tối đa 2 người lớn",
+                    "1 giường lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "1.214.269",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Có ăn sáng",
+                            "Chính sách hủy",
+                            "Đặt và trả tiền ngay",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 108.019 ₫!"
+                        ]
+                    },
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "1.567.500",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Có ăn sáng",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt không cần thẻ tín dụng",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Family City Suite",
+                "amenities": [
+                    "Hướng Thành phố",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Phòng tắm đứng",
+                    "Lối vào bãi biển riêng",
+                    "Wi-Fi [miễn phí]",
+                    "Rèm che ánh sáng",
+                    "Tủ lạnh nhỏ trong phòng",
+                    "Cà phê hòa tan miễn phí",
+                    "Ấm nước",
+                    "35 m²",
+                    "Tối đa 2 người lớn",
+                    "1 giường đơn và 1 giường đôi"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "1.694.696",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Có ăn sáng",
+                            "Chính sách hủy",
+                            "Đặt và trả tiền ngay",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 131.821 ₫!"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "535509",
+        "hotel_name": "Khách sạn & Spa Brilliant Hà Nội (Hanoi Brilliant Hotel and Spa)",
+        "hotel_address": "44 H&#224;ng Trống, Quận Ho&#224;n Kiếm, Quận Hoàn Kiếm, Hà Nội, Việt Nam, Postal code:*",
+        "room_types": [
+            {
+                "room_type_name": "Phòng Đôi Deluxe (Deluxe Double)",
+                "amenities": [
+                    "Hướng Không có cửa sổ",
+                    "Ấm nước điện",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Phòng tắm đứng",
+                    "Wi-Fi [miễn phí]",
+                    "Điều hòa",
+                    "Rượu",
+                    "Cà phê hòa tan miễn phí",
+                    "Tủ lạnh",
+                    "22 m²",
+                    "Tối đa 2 người lớn",
+                    "1 giường đôi lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "2.299.157",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Đã gồm bữa sáng rất ngon",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt và trả tiền ngay",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí"
+                        ]
+                    },
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "2.933.333",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Đã gồm bữa sáng rất ngon",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Trả tiền cho khách sạn",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Junior Suite Hướng Thành Phố (Junior City View Suite)",
+                "amenities": [
+                    "Hướng Thành phố",
+                    "Ấm nước điện",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Phòng tắm đứng",
+                    "Wi-Fi [miễn phí]",
+                    "Điều hòa",
+                    "Tủ lạnh nhỏ trong phòng",
+                    "Cà phê hòa tan miễn phí",
+                    "Tủ lạnh",
+                    "27 m²",
+                    "Tối đa 2 người lớn",
+                    "1 giường đôi lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "2.352.472",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Đã gồm bữa sáng rất ngon",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt và trả tiền ngay",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí"
+                        ]
+                    },
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "3.000.000",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Đã gồm bữa sáng rất ngon",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Trả tiền cho khách sạn",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "39008468",
+        "hotel_name": "Khách sạn & Căn hộ Vinhomes Skylake (Vinhomes Skylake Residence & Hotel)",
+        "hotel_address": "Phạm Hùng Street, Cau Giay, Hanoi, Mỹ Đình, Hà Nội, Việt Nam, 100000",
+        "room_types": [
+            {
+                "room_type_name": "Căn Hộ 1 Phòng Ngủ có Ban Công (One Bedroom Apartment - Balcony)",
+                "amenities": [
+                    "Hướng Thành phố",
+                    "Máy sấy tóc",
+                    "Phòng tắm đứng",
+                    "Wi-Fi [miễn phí]",
+                    "Rèm che ánh sáng",
+                    "Cà phê hòa tan miễn phí",
+                    "Ấm nước",
+                    "Tủ lạnh",
+                    "Ban công/sân hiên",
+                    "Cửa sổ",
+                    "50 m²",
+                    "Tối đa 2 người lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "1.409.723",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Miễn phí hủy trước ngày 18 thg 11, 25",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 26.374 ₫!"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "64307",
+        "hotel_name": "Khách sạn Boutique Palago (Palago Boutique Hotel)",
+        "hotel_address": "Số 10, Phố Bát Đàn , Phố Cổ, Hoàn Kiếm, Phố Cổ, Hà Nội, Việt Nam, 11000",
+        "room_types": [
+            {
+                "room_type_name": "Palago Suite with Balcony",
+                "amenities": [
+                    "Hướng Thành phố",
+                    "Ấm nước điện",
+                    "Bồn tắm/vòi sen riêng",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Phòng tắm đứng",
+                    "Internet mạng LAN trong phòng [miễn phí]",
+                    "Rèm che ánh sáng",
+                    "Trái cây/đồ ăn vặt",
+                    "Cà phê hòa tan miễn phí",
+                    "40 m²",
+                    "Tối đa 2 người lớn, 1 bé (0-6 tuổi) ở MIỄN PHÍ!",
+                    "1 giường lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn & 1 trẻ em (0-6 tuổi)",
+                        "option_price": "2.735.444",
+                        "amenities_for_price": [
+                            "2 người lớn & 1 trẻ em (0-6 tuổi)",
+                            "Đã gồm bữa sáng ngon",
+                            "Miễn phí hủy trước ngày 19 thg 11, 25",
+                            "Đặt và trả tiền ngay",
+                            "Giảm giá đồ ăn",
+                            "Giảm giá spa",
+                            "Phòng tập",
+                            "Bãi đậu xe",
+                            "Nhận phòng trễ",
+                            "Nhận phòng nhanh",
+                            "Wifi cao cấp miễn phí",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 48.006 ₫!"
+                        ]
+                    },
+                    {
+                        "option_name": "2 người lớn & 1 trẻ em (0-6 tuổi)",
+                        "option_price": "2.777.778",
+                        "amenities_for_price": [
+                            "2 người lớn & 1 trẻ em (0-6 tuổi)",
+                            "Đã gồm bữa sáng ngon",
+                            "Miễn phí hủy trước ngày 19 thg 11, 25",
+                            "Trả tiền ở khách sạn",
+                            "Giảm giá đồ ăn",
+                            "Giảm giá spa",
+                            "Phòng tập",
+                            "Bãi đậu xe",
+                            "Nhận phòng trễ",
+                            "Nhận phòng nhanh",
+                            "Wifi cao cấp miễn phí",
+                            "WiFi miễn phí"
+                        ]
+                    },
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "3.373.333",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Đã gồm bữa sáng ngon",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Trả tiền ở khách sạn",
+                            "Bãi đậu xe",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "55256517",
+        "hotel_name": "Khách sạn Clover Hà Nội - Trung tâm thành phố (Clover Hanoi Hotel - City Center)",
+        "hotel_address": "50 Ton Duc Thang Street, Dong Da District, Hanoi, Ba Đình, Hà Nội, Việt Nam, 100000",
+        "room_types": [
+            {
+                "room_type_name": "Deluxe giường đôi (Deluxe Double)",
+                "amenities": [
+                    "Hướng Thiên nhiên",
+                    "Ấm nước điện",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Vòi sen",
+                    "Wi-Fi [miễn phí]",
+                    "Rèm che ánh sáng",
+                    "Tủ lạnh nhỏ trong phòng",
+                    "Nước đóng chai miễn phí",
+                    "Cửa sổ mở",
+                    "20 m²",
+                    "Tối đa 2 người lớn",
+                    "1 giường đôi lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "886.724",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Chính sách hủy",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "63294402",
+        "hotel_name": "Khách sạn & Căn hộ Boutique Riverview Hà Nội (Hanoi Riverview Boutique Hotel & Apartment)",
+        "hotel_address": "25 Ng ch 264/21 Đường u Cơ, T y Hồ, 100000 H nội, Việt Nam, Quận Tây Hồ, Hà Nội, Việt Nam, 100000",
+        "room_types": [
+            {
+                "room_type_name": "Căn Hộ Nhỏ Giường Đôi Có Ban Công (Studio Double with Balcony)",
+                "amenities": [
+                    "Hướng Thiên nhiên",
+                    "Bồn tắm",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Phòng tắm đứng",
+                    "Wi-Fi [miễn phí]",
+                    "Được vào phòng chờ Thương Gia",
+                    "Đồ dùng cho giấc ngủ thoải mái",
+                    "Đồ uống mời khách miễn phí",
+                    "Trái cây/đồ ăn vặt",
+                    "25 m²",
+                    "Tối đa 2 người lớn, 1 bé (0-11 tuổi) ở MIỄN PHÍ!",
+                    "1 giường lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn & 1 trẻ em (0-11 tuổi)",
+                        "option_price": "1.429.606",
+                        "amenities_for_price": [
+                            "2 người lớn & 1 trẻ em (0-11 tuổi)",
+                            "Có ăn sáng",
+                            "Chính sách hủy",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "Thuê xe đạp",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 247.291 ₫!"
+                        ]
+                    },
+                    {
+                        "option_name": "2 người lớn & 1 trẻ em (0-11 tuổi)",
+                        "option_price": "1.789.718",
+                        "amenities_for_price": [
+                            "2 người lớn & 1 trẻ em (0-11 tuổi)",
+                            "Có ăn sáng",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Phòng Đôi Loại Sang có Bồn Tắm (Deluxe Double Room with Bathtub)",
+                "amenities": [
+                    "Hướng Thành phố",
+                    "bồn tắm lộ thiên",
+                    "Bồn tắm/vòi sen riêng",
+                    "Máy sấy tóc",
+                    "Vòi sen",
+                    "Wi-Fi [miễn phí]",
+                    "Chăn điện",
+                    "Đồ uống mời khách miễn phí",
+                    "Tủ lạnh nhỏ trong phòng",
+                    "Cà phê hòa tan miễn phí",
+                    "25 m²",
+                    "Tối đa 2 người lớn, 1 bé (0-11 tuổi) ở MIỄN PHÍ!",
+                    "1 giường lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn & 1 trẻ em (0-11 tuổi)",
+                        "option_price": "1.431.925",
+                        "amenities_for_price": [
+                            "2 người lớn & 1 trẻ em (0-11 tuổi)",
+                            "Có ăn sáng",
+                            "Chính sách hủy",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "Thuê xe đạp",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 247.692 ₫!"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "4362502",
+        "hotel_name": "Khách sạn Inearth (Inearth Hotel - 华夏商务酒店)",
+        "hotel_address": "36D, Dich Vong Hau street, Cầu Giấy, Hà Nội, Việt Nam, 123000",
+        "room_types": [
+            {
+                "room_type_name": "Phòng Superior giường King (Superior King Room)",
+                "amenities": [
+                    "Hướng Ngoài trời",
+                    "Ấm nước điện",
+                    "Bồn tắm/vòi sen riêng",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Phòng tắm đứng",
+                    "Wi-Fi [miễn phí]",
+                    "Chăn điện",
+                    "Tủ lạnh nhỏ trong phòng",
+                    "Cà phê hòa tan miễn phí",
+                    "25 m²",
+                    "Tối đa 2 người lớn",
+                    "1 giường lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "813.541",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Phục vụ bữa sáng (70.000 ₫ / người)",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    },
+                    {
+                        "option_name": "2 người lớn & 1 trẻ em (0-5 tuổi)",
+                        "option_price": "917.249",
+                        "amenities_for_price": [
+                            "2 người lớn & 1 trẻ em (0-5 tuổi)",
+                            "Phục vụ bữa sáng (70.000 ₫ / người)",
+                            "Miễn phí hủy trước ngày 19 thg 11, 25",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 17.440 ₫!"
+                        ]
+                    },
+                    {
+                        "option_name": "2 người lớn & 1 trẻ em (0-5 tuổi)",
+                        "option_price": "932.628",
+                        "amenities_for_price": [
+                            "2 người lớn & 1 trẻ em (0-5 tuổi)",
+                            "Phục vụ bữa sáng (70.000 ₫ / người)",
+                            "Miễn phí hủy trước ngày 19 thg 11, 25",
+                            "Trả tiền ở khách sạn",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Phòng Hai Giường Đơn Loại Sang (Deluxe Twin Room)",
+                "amenities": [
+                    "Hướng Vườn",
+                    "Ấm nước điện",
+                    "Bồn tắm/vòi sen riêng",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Phòng tắm đứng",
+                    "Wi-Fi [miễn phí]",
+                    "Rèm che ánh sáng",
+                    "Tủ lạnh nhỏ trong phòng",
+                    "Cà phê hòa tan miễn phí",
+                    "25 m²",
+                    "Tối đa 2 người lớn",
+                    "2 giường đơn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "955.327",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Phục vụ bữa sáng (70.000 ₫ / người)",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    },
+                    {
+                        "option_name": "2 người lớn & 1 trẻ em (0-5 tuổi)",
+                        "option_price": "1.039.165",
+                        "amenities_for_price": [
+                            "2 người lớn & 1 trẻ em (0-5 tuổi)",
+                            "Phục vụ bữa sáng (70.000 ₫ / người)",
+                            "Miễn phí hủy trước ngày 19 thg 11, 25",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 19.027 ₫!"
+                        ]
+                    },
+                    {
+                        "option_name": "2 người lớn & 1 trẻ em (0-5 tuổi)",
+                        "option_price": "1.055.944",
+                        "amenities_for_price": [
+                            "2 người lớn & 1 trẻ em (0-5 tuổi)",
+                            "Phục vụ bữa sáng (70.000 ₫ / người)",
+                            "Miễn phí hủy trước ngày 19 thg 11, 25",
+                            "Trả tiền ở khách sạn",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "10665115",
+        "hotel_name": "Khách Sạn Minasi HanoiOi LakeSide (Minasi HanoiOi LakeSide Hotel)",
+        "hotel_address": "30 Ba Trieu str., Hoan Kiem district, Hanoi, Quận Hoàn Kiếm, Hà Nội, Việt Nam, 100000",
+        "room_types": [
+            {
+                "room_type_name": "DELUXE DOUBLE OR TWIN ROOM 1 TWIN BED FOR NON-SMOKERS",
+                "amenities": [
+                    "Tối đa 2 người lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "2.023.987",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Đã gồm bữa sáng ngon",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt và trả tiền ngay",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Deluxe giường đôi hoặc 2 giường (Deluxe Double or Twin)",
+                "amenities": [
+                    "Ấm nước điện",
+                    "Bồn tắm/vòi sen riêng",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Phòng tắm đứng",
+                    "Wi-Fi [miễn phí]",
+                    "Rèm che ánh sáng",
+                    "Đồ uống mời khách miễn phí",
+                    "Rượu",
+                    "Cà phê hòa tan miễn phí",
+                    "22 m²",
+                    "Tối đa 2 người lớn, 1 bé (0-6 tuổi) ở MIỄN PHÍ!",
+                    "1 giường đôi hoặc 2 giường đơn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn & 1 trẻ em (0-6 tuổi)",
+                        "option_price": "2.051.850",
+                        "amenities_for_price": [
+                            "2 người lớn & 1 trẻ em (0-6 tuổi)",
+                            "Đã gồm bữa sáng ngon",
+                            "Chính sách hủy",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 159.602 ₫!"
+                        ]
+                    },
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "2.309.632",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Đã gồm bữa sáng ngon",
+                            "Miễn phí hủy trước ngày 18 thg 11, 25",
+                            "Đặt và trả tiền ngay",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí"
+                        ]
+                    },
+                    {
+                        "option_name": "2 người lớn & 1 trẻ em (0-6 tuổi)",
+                        "option_price": "2.568.533",
+                        "amenities_for_price": [
+                            "2 người lớn & 1 trẻ em (0-6 tuổi)",
+                            "Đã gồm bữa sáng ngon",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Trả tiền ở khách sạn",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "2915548",
+        "hotel_name": "Khách sạn & Spa Hanoi Nostalgia (Hanoi Nostalgia Hotel & Spa)",
+        "hotel_address": "15 Luong Ngoc Quyen, Phố Cổ, Hà Nội, Việt Nam, 10000",
+        "room_types": [
+            {
+                "room_type_name": "Phòng 3 người có cửa sổ (Triple Room With Window)",
+                "amenities": [
+                    "Hướng Sân trong",
+                    "Ấm nước điện",
+                    "Bồn tắm/vòi sen riêng",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Phòng tắm đứng",
+                    "Wi-Fi [miễn phí]",
+                    "Đồ dùng cho giấc ngủ thoải mái",
+                    "Điều hòa",
+                    "Trái cây/đồ ăn vặt",
+                    "32 m²",
+                    "Tối đa 3 người lớn, 1 bé (0-3 tuổi) ở MIỄN PHÍ!",
+                    "3 giường đơn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "1.506.300",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Đã gồm bữa sáng tuyệt hảo",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt và trả tiền ngay",
+                            "WiFi miễn phí"
+                        ]
+                    },
+                    {
+                        "option_name": "3 người lớn & 1 trẻ em (0-3 tuổi)",
+                        "option_price": "1.627.116",
+                        "amenities_for_price": [
+                            "3 người lớn & 1 trẻ em (0-3 tuổi)",
+                            "Đã gồm bữa sáng tuyệt hảo",
+                            "Chính sách hủy",
+                            "Đặt và trả tiền ngay",
+                            "Wifi cao cấp miễn phí",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 29.850 ₫!"
+                        ]
+                    },
+                    {
+                        "option_name": "3 người lớn & 1 trẻ em (0-3 tuổi)",
+                        "option_price": "1.984.127",
+                        "amenities_for_price": [
+                            "3 người lớn & 1 trẻ em (0-3 tuổi)",
+                            "Đã gồm bữa sáng tuyệt hảo",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Trả tiền ở khách sạn",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Suite có tầm nhìn (Suite with View)",
+                "amenities": [
+                    "Hướng Bể bơi",
+                    "Ấm nước điện",
+                    "Bồn tắm/vòi sen riêng",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Phòng tắm đứng",
+                    "Wi-Fi [miễn phí]",
+                    "Đồ dùng cho giấc ngủ thoải mái",
+                    "Tủ lạnh nhỏ trong phòng",
+                    "Cà phê hòa tan miễn phí",
+                    "35 m²",
+                    "Tối đa 2 người lớn, 1 bé (0-3 tuổi) ở MIỄN PHÍ!",
+                    "1 giường lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn & 1 trẻ em (0-3 tuổi)",
+                        "option_price": "1.584.425",
+                        "amenities_for_price": [
+                            "2 người lớn & 1 trẻ em (0-3 tuổi)",
+                            "Đã gồm bữa sáng tuyệt hảo",
+                            "Chính sách hủy",
+                            "Đặt và trả tiền ngay",
+                            "Wifi cao cấp miễn phí",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 78.262 ₫!"
+                        ]
+                    },
+                    {
+                        "option_name": "2 người lớn & 1 trẻ em (0-3 tuổi)",
+                        "option_price": "1.984.127",
+                        "amenities_for_price": [
+                            "2 người lớn & 1 trẻ em (0-3 tuổi)",
+                            "Đã gồm bữa sáng tuyệt hảo",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Trả tiền ở khách sạn",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "297142",
+        "hotel_name": "Khu nghỉ dưỡng Asean - Shiki Onsen & Spa (Asean Resort - Shiki Onsen & Spa)",
+        "hotel_address": "21A H&#242;a Lạc, Thạch Thất, Quận Thạch Thất, Hà Nội, Việt Nam, 10000",
+        "room_types": [
+            {
+                "room_type_name": "Grand Superior",
+                "amenities": [
+                    "Hướng Vườn",
+                    "Máy sấy tóc",
+                    "Vòi sen",
+                    "Wi-Fi [miễn phí]",
+                    "Rèm che ánh sáng",
+                    "Điều hòa",
+                    "Cà phê hòa tan miễn phí",
+                    "Máy pha trà/cà phê",
+                    "Tủ lạnh",
+                    "Không hút thuốc",
+                    "25 m²",
+                    "Tối đa 2 người lớn",
+                    "1 giường đôi"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "1.679.421",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Có ăn sáng",
+                            "Miễn phí hủy trước ngày 19 thg 11, 25",
+                            "Đặt và trả tiền ngay",
+                            "Vào hồ bơi miễn phí",
+                            "Xông hơi miễn phí",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 30.987 ₫!"
+                        ]
+                    },
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "1.706.746",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Có ăn sáng",
+                            "Miễn phí hủy trước ngày 19 thg 11, 25",
+                            "Trả tiền ở khách sạn",
+                            "Vào hồ bơi miễn phí",
+                            "Xông hơi miễn phí",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Bungalow - Hướng vườn (Bungalow - Garden View)",
+                "amenities": [
+                    "Hướng Vườn",
+                    "Bồn tắm",
+                    "Máy sấy tóc",
+                    "Vòi sen",
+                    "Wi-Fi [miễn phí]",
+                    "Rèm che ánh sáng",
+                    "Điều hòa",
+                    "Cà phê hòa tan miễn phí",
+                    "Ban công/sân hiên",
+                    "Cửa sổ",
+                    "48 m²",
+                    "Tối đa 2 người lớn",
+                    "1 giường đôi hoặc 2 giường đơn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "1.832.878",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Có ăn sáng",
+                            "Miễn phí hủy trước ngày 19 thg 11, 25",
+                            "Đặt và trả tiền ngay",
+                            "Vào hồ bơi miễn phí",
+                            "Xông hơi miễn phí",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 32.917 ₫!"
+                        ]
+                    },
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "1.861.905",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Có ăn sáng",
+                            "Miễn phí hủy trước ngày 19 thg 11, 25",
+                            "Trả tiền ở khách sạn",
+                            "Vào hồ bơi miễn phí",
+                            "Xông hơi miễn phí",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "284906",
+        "hotel_name": "Dragon Hotel",
+        "hotel_address": "48, đường Xuân Diệu, quận Tây Hồ, Hà Nội, Việt Nam, Quận Tây Hồ, Hà Nội, Việt Nam, 100000",
+        "room_types": [
+            {
+                "room_type_name": "Phòng Superior Giường đôi/2 Giường đơn (Superior Double or Twin)",
+                "amenities": [
+                    "Bồn tắm",
+                    "Máy sấy tóc",
+                    "Vòi sen",
+                    "Wi-Fi [miễn phí]",
+                    "Điều hòa",
+                    "Tủ lạnh nhỏ trong phòng",
+                    "Tủ lạnh",
+                    "Không hút thuốc",
+                    "28 m²",
+                    "Tối đa 2 người lớn, 2 bé (0-12 tuổi) ở MIỄN PHÍ!",
+                    "1 giường siêu lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn & 2 trẻ em (0-12 tuổi)",
+                        "option_price": "968.016",
+                        "amenities_for_price": [
+                            "2 người lớn & 2 trẻ em (0-12 tuổi)",
+                            "Có ăn sáng",
+                            "Miễn phí hủy trước ngày 18 thg 11, 25",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 143.920 ₫!"
+                        ]
+                    },
+                    {
+                        "option_name": "2 người lớn & 2 trẻ em (0-12 tuổi)",
+                        "option_price": "1.094.929",
+                        "amenities_for_price": [
+                            "2 người lớn & 2 trẻ em (0-12 tuổi)",
+                            "Có ăn sáng",
+                            "Miễn phí hủy trước ngày 18 thg 11, 25",
+                            "Trả tiền ở khách sạn",
+                            "Bãi đậu xe",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Deluxe giường đôi hoặc 2 giường (Deluxe Double or Twin)",
+                "amenities": [
+                    "Hướng Vườn",
+                    "Bồn tắm",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Vòi sen",
+                    "Wi-Fi [miễn phí]",
+                    "Điều hòa",
+                    "Tủ lạnh nhỏ trong phòng",
+                    "Nước đóng chai miễn phí",
+                    "Máy pha trà/cà phê",
+                    "30 m²",
+                    "Tối đa 2 người lớn, 2 bé (0-12 tuổi) ở MIỄN PHÍ!",
+                    "1 giường siêu lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn & 2 trẻ em (0-12 tuổi)",
+                        "option_price": "1.119.919",
+                        "amenities_for_price": [
+                            "2 người lớn & 2 trẻ em (0-12 tuổi)",
+                            "Có ăn sáng",
+                            "Miễn phí hủy trước ngày 18 thg 11, 25",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 153.111 ₫!"
+                        ]
+                    },
+                    {
+                        "option_name": "2 người lớn & 2 trẻ em (0-12 tuổi)",
+                        "option_price": "1.254.938",
+                        "amenities_for_price": [
+                            "2 người lớn & 2 trẻ em (0-12 tuổi)",
+                            "Có ăn sáng",
+                            "Miễn phí hủy trước ngày 18 thg 11, 25",
+                            "Trả tiền ở khách sạn",
+                            "Bãi đậu xe",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "35911952",
+        "hotel_name": "Khách sạn Beryl Signature Hà Nội (Beryl Signature Hanoi Hotel)",
+        "hotel_address": "24 P. Quán Sứ, Quận Hoàn Kiếm, Hà Nội, Việt Nam, 10000",
+        "room_types": [
+            {
+                "room_type_name": "Phòng Cao Cấp Cho Hai Người (Superior Double Room)",
+                "amenities": [
+                    "Ấm nước điện",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Phòng tắm đứng",
+                    "Wi-Fi [miễn phí]",
+                    "Trái cây/đồ ăn vặt",
+                    "Cà phê hòa tan miễn phí",
+                    "Tủ lạnh",
+                    "Tủ quần áo",
+                    "Không hút thuốc",
+                    "20 m²",
+                    "Tối đa 2 người lớn, 1 bé (0-5 tuổi) ở MIỄN PHÍ!",
+                    "1 giường đôi lớn / 1 giường đôi lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn & 1 trẻ em (0-5 tuổi)",
+                        "option_price": "1.415.686",
+                        "amenities_for_price": [
+                            "2 người lớn & 1 trẻ em (0-5 tuổi)",
+                            "Có ăn sáng",
+                            "Miễn phí hủy trước ngày 18 thg 11, 25",
+                            "Đặt và trả tiền ngay",
+                            "Nhận phòng sớm",
+                            "Giảm giá Spa 10%",
+                            "Spa discount (%)",
+                            "Giảm giá Giặt là 10%",
+                            "Chiết khấu dịch vụ giặt là",
+                            "Bãi đậu xe",
+                            "Trả phòng muộn đến 1PM",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 46.569 ₫!"
+                        ]
+                    },
+                    {
+                        "option_name": "2 người lớn & 1 trẻ em (0-5 tuổi)",
+                        "option_price": "1.570.587",
+                        "amenities_for_price": [
+                            "2 người lớn & 1 trẻ em (0-5 tuổi)",
+                            "Có ăn sáng",
+                            "Miễn phí hủy trước ngày 18 thg 11, 25",
+                            "Đặt và trả tiền ngay",
+                            "Giảm giá Spa 20%",
+                            "Spa discount (%)",
+                            "Giảm giá spa",
+                            "Bãi đậu xe",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 36.107 ₫!"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Deluxe giường đôi Hướng phố (Deluxe Double City View)",
+                "amenities": [
+                    "Hướng Thành phố",
+                    "Máy sấy tóc",
+                    "Phòng tắm đứng",
+                    "Wi-Fi [miễn phí]",
+                    "Rèm che ánh sáng",
+                    "Trái cây/đồ ăn vặt",
+                    "Cà phê hòa tan miễn phí",
+                    "Tủ lạnh",
+                    "Cửa sổ có thể mở ra",
+                    "Tủ quần áo",
+                    "20 m²",
+                    "Tối đa 2 người lớn, 1 bé (0-5 tuổi) ở MIỄN PHÍ!",
+                    "1 giường đôi lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn & 1 trẻ em (0-5 tuổi)",
+                        "option_price": "1.601.084",
+                        "amenities_for_price": [
+                            "2 người lớn & 1 trẻ em (0-5 tuổi)",
+                            "Có ăn sáng",
+                            "Miễn phí hủy trước ngày 18 thg 11, 25",
+                            "Đặt và trả tiền ngay",
+                            "Nhận phòng sớm",
+                            "Giảm giá Spa 10%",
+                            "Spa discount (%)",
+                            "Giảm giá Giặt là 10%",
+                            "Chiết khấu dịch vụ giặt là",
+                            "Bãi đậu xe",
+                            "Trả phòng muộn đến 1PM",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 36.808 ₫!"
+                        ]
+                    },
+                    {
+                        "option_name": "2 người lớn & 1 trẻ em (0-5 tuổi)",
+                        "option_price": "1.761.193",
+                        "amenities_for_price": [
+                            "2 người lớn & 1 trẻ em (0-5 tuổi)",
+                            "Có ăn sáng",
+                            "Miễn phí hủy trước ngày 18 thg 11, 25",
+                            "Đặt và trả tiền ngay",
+                            "Giảm giá Spa 20%",
+                            "Spa discount (%)",
+                            "Giảm giá spa",
+                            "Bãi đậu xe",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 40.489 ₫!"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "41456144",
+        "hotel_name": "Luxe Paradise Residence 11 Tô Ngọc Vân (Luxe Paradise Residence 11 To Ngoc Van)",
+        "hotel_address": "17 Ng 11 - T Ngọc V n, Quận Tây Hồ, Hà Nội, Việt Nam, 100000",
+        "room_types": [
+            {
+                "room_type_name": "Căn hộ có ban công (Apartment with Balcony)",
+                "amenities": [
+                    "Hướng Thành phố",
+                    "Vòi sen",
+                    "Wi-Fi [miễn phí]",
+                    "Điều hòa",
+                    "Tủ lạnh",
+                    "Ban công/sân hiên",
+                    "Cửa sổ có thể mở ra",
+                    "Tủ quần áo",
+                    "Hành lang ngoài",
+                    "50 m²",
+                    "Tối đa 2 người lớn, 1 bé (0-2 tuổi) ở MIỄN PHÍ!",
+                    "1 giường đôi"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn & 1 trẻ em (0-2 tuổi)",
+                        "option_price": "667.877",
+                        "amenities_for_price": [
+                            "2 người lớn & 1 trẻ em (0-2 tuổi)",
+                            "Miễn phí hủy trước ngày 18 thg 11, 25",
+                            "Đặt và trả tiền ngay",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 12.628 ₫!"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Căn hộ Deluxe (Deluxe Apartment)",
+                "amenities": [
+                    "Hướng Thành phố",
+                    "Vòi sen",
+                    "Wi-Fi [miễn phí]",
+                    "Điều hòa",
+                    "Tủ lạnh",
+                    "Ban công/sân hiên",
+                    "Cửa sổ có thể mở ra",
+                    "Tủ quần áo",
+                    "Hành lang ngoài",
+                    "50 m²",
+                    "Tối đa 2 người lớn, 1 bé (0-2 tuổi) ở MIỄN PHÍ!",
+                    "1 giường đôi"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn & 1 trẻ em (0-2 tuổi)",
+                        "option_price": "713.718",
+                        "amenities_for_price": [
+                            "2 người lớn & 1 trẻ em (0-2 tuổi)",
+                            "Miễn phí hủy trước ngày 18 thg 11, 25",
+                            "Đặt và trả tiền ngay",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 13.144 ₫!"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "31977455",
+        "hotel_name": "Khách sạn và spa The West (The West hotel and spa)",
+        "hotel_address": "23 Hang Dao Street, Hoan Kiem District, Ha Noi, Vietnam, Phố Cổ, Hà Nội, Việt Nam, 100000",
+        "room_types": [
+            {
+                "room_type_name": "Phòng Loại Sang Giường Đôi (Deluxe Double Room)",
+                "amenities": [
+                    "Ấm nước điện",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Phòng tắm đứng",
+                    "Wi-Fi [miễn phí]",
+                    "Rèm che ánh sáng",
+                    "Điều hòa",
+                    "Tủ lạnh nhỏ trong phòng",
+                    "Cà phê hòa tan miễn phí",
+                    "Tủ lạnh",
+                    "25 m²",
+                    "Tối đa 2 người lớn",
+                    "1 giường đôi"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "1.225.000",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Đã gồm bữa sáng rất ngon",
+                            "Miễn phí hủy trước ngày 18 thg 11, 25",
+                            "Trả tiền ở khách sạn",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí"
+                        ]
+                    },
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "1.762.454",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Đã gồm bữa sáng rất ngon",
+                            "Chính sách hủy",
+                            "Đặt và trả tiền ngay",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 111.878 ₫!"
+                        ]
+                    },
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "2.376.840",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Đã gồm bữa sáng rất ngon",
+                            "Miễn phí hủy trước ngày 18 thg 11, 25",
+                            "Đặt và trả tiền ngay",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 45.163 ₫!"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

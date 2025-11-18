@@ -1,0 +1,824 @@
+[
+    {
+        "hotel_id": "71661850",
+        "hotel_name": "Khách sạn Mỹ Cảng Trà Vinh (Hotel Mỹ Cảng Trà Vinh)",
+        "hotel_address": "251 Đường 30 Tháng 4, Long Đức, Trà Vinh, Trà Vinh, Việt Nam, 941162",
+        "room_types": [
+            {
+                "room_type_name": "Phòng Tiêu Chuẩn (Standard Room)",
+                "amenities": [
+                    "Vòi sen",
+                    "Wi-Fi [miễn phí]",
+                    "Rèm che ánh sáng",
+                    "Ấm nước",
+                    "Ban công/sân hiên",
+                    "Cửa sổ",
+                    "Tủ quần áo",
+                    "Không hút thuốc",
+                    "Điều hòa cá nhân",
+                    "24 m²",
+                    "Tối đa 2 người lớn, 1 bé (0-1 tuổi) ở MIỄN PHÍ!",
+                    "1 giường đôi lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn & 1 trẻ em (0-1 tuổi)",
+                        "option_price": "449.208",
+                        "amenities_for_price": [
+                            "2 người lớn & 1 trẻ em (0-1 tuổi)",
+                            "Miễn phí hủy trước ngày 17 thg 11, 25",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 69.310 ₫!"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Phòng Loại Sang (Deluxe Room)",
+                "amenities": [
+                    "Hướng Ngoài trời",
+                    "Máy sấy tóc",
+                    "Vòi sen",
+                    "Wi-Fi [miễn phí]",
+                    "Rèm che ánh sáng",
+                    "Ấm nước",
+                    "Ban công/sân hiên",
+                    "Cửa sổ",
+                    "Tủ quần áo",
+                    "Không hút thuốc",
+                    "24 m²",
+                    "Tối đa 2 người lớn, 1 bé (0-1 tuổi) ở MIỄN PHÍ!",
+                    "1 giường đôi lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn & 1 trẻ em (0-1 tuổi)",
+                        "option_price": "565.216",
+                        "amenities_for_price": [
+                            "2 người lớn & 1 trẻ em (0-1 tuổi)",
+                            "Miễn phí hủy trước ngày 17 thg 11, 25",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 41.486 ₫!"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "44689064",
+        "hotel_name": "Hotel Thuý Nguyễn (Hotel Thuy Nguyen)",
+        "hotel_address": "354 Đường Đồng Khởi nối dài, khóm 1 phường 9, Trà Vinh, Trà Vinh, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Phòng Đôi (Double Room)",
+                "amenities": [
+                    "Ấm nước điện",
+                    "Bồn tắm",
+                    "phòng tắm riêng",
+                    "Vòi sen",
+                    "Điều hòa",
+                    "tầng trệt",
+                    "Tủ quần áo",
+                    "Tối đa 2 người lớn",
+                    "6 giường đôi lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "270.000",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Miễn phí hủy trước ngày 18 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Phòng Đôi (Double Room)",
+                "amenities": [
+                    "Điều hòa",
+                    "Tối đa 2 người lớn",
+                    "1 giường đôi và 2 giường đôi lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "350.000",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Miễn phí hủy trước ngày 18 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Phòng Ba Người (Triple Room)",
+                "amenities": [
+                    "Ấm nước điện",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Vòi sen",
+                    "Điều hòa",
+                    "Tủ quần áo",
+                    "Tối đa 3 người lớn",
+                    "3 giường đôi và 3 giường đôi lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "3 người lớn",
+                        "option_price": "410.000",
+                        "amenities_for_price": [
+                            "3 người lớn",
+                            "Miễn phí hủy trước ngày 18 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "47340302",
+        "hotel_name": "HOTEL VĂN THÁI BÌNH (HOTEL VAN THAI BINH)",
+        "hotel_address": "44 Lê Lợi, Trà Vinh, Trà Vinh, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Phòng Đôi (Double Room)",
+                "amenities": [
+                    "Ấm nước điện",
+                    "Bồn tắm",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Vòi sen",
+                    "Điều hòa",
+                    "Tủ quần áo",
+                    "Tối đa 2 người lớn",
+                    "1 giường đôi"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "300.000",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Chính sách hủy",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Phòng Giường Đôi Lớn (Large Double Room)",
+                "amenities": [
+                    "Hướng Ngoài trời",
+                    "Ấm nước điện",
+                    "Bồn tắm",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Vòi sen",
+                    "Điều hòa",
+                    "Tủ quần áo",
+                    "Tối đa 2 người lớn",
+                    "1 giường đôi"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "360.000",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Chính sách hủy",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Phòng 4 Người (Quadruple Room)",
+                "amenities": [
+                    "Ấm nước điện",
+                    "Bồn tắm",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Vòi sen",
+                    "Điều hòa",
+                    "tầng trệt",
+                    "Tủ quần áo",
+                    "Tối đa 4 người lớn",
+                    "2 giường đôi"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "4 người lớn",
+                        "option_price": "550.000",
+                        "amenities_for_price": [
+                            "4 người lớn",
+                            "Chính sách hủy",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "67556051",
+        "hotel_name": "Bungalow Ven Sông (Bungalow Ven Song)",
+        "hotel_address": "309a Truong Van Kinh, Phu Hoa, Long Duc, Trà Vinh, Trà Vinh, Việt Nam, 87000",
+        "room_types": [
+            {
+                "room_type_name": "Bungalow - Hướng vườn (Bungalow - Garden View)",
+                "amenities": [
+                    "Hướng Vườn",
+                    "Máy sấy tóc",
+                    "Vòi sen",
+                    "Truy cập Internet - không dây",
+                    "Điều hòa",
+                    "Trà miễn phí",
+                    "Tủ lạnh",
+                    "Tủ quần áo",
+                    "Hành lang ngoài",
+                    "Không hút thuốc",
+                    "30 m²",
+                    "Tối đa 2 người lớn",
+                    "1 giường đôi lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "932.780",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Có ăn sáng",
+                            "Chính sách hủy",
+                            "Đặt và trả tiền ngay",
+                            "Quầy bar mini miễn phí",
+                            "Thức uống",
+                            "Bãi đậu xe",
+                            "Thuê xe đạp",
+                            "WiFi miễn phí",
+                            "TV thông minh (có ứng dụng)",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 85.739 ₫!"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "River King",
+                "amenities": [
+                    "Hướng Sông",
+                    "7 phòng tắm",
+                    "Ấm nước điện",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Vòi sen",
+                    "Truy cập Internet - không dây",
+                    "Được vào phòng chờ Thương Gia",
+                    "Đồ dùng cho giấc ngủ thoải mái",
+                    "Tủ lạnh nhỏ trong phòng",
+                    "30 m²",
+                    "Tối đa 2 người lớn",
+                    "1 giường đôi lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "1.363.611",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Có ăn sáng",
+                            "Chính sách hủy",
+                            "Đặt và trả tiền ngay",
+                            "Quầy bar mini miễn phí",
+                            "Thức uống",
+                            "Bãi đậu xe",
+                            "Thuê xe đạp",
+                            "WiFi miễn phí",
+                            "TV thông minh (có ứng dụng)",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 25.278 ₫!"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "63298188",
+        "hotel_name": "Nhà nghỉ Thế Phú (Nha nghi The Phu)",
+        "hotel_address": "Hẻm Số 38, Phường 2, Trà Vinh, Trà Vinh, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Phòng Có Giường Cỡ King (King Room)",
+                "amenities": [
+                    "phòng tắm riêng",
+                    "Vòi sen",
+                    "Đồ dùng cho giấc ngủ thoải mái",
+                    "Điều hòa",
+                    "Nước đóng chai miễn phí",
+                    "tầng trệt",
+                    "21 m²",
+                    "Tối đa 2 người lớn",
+                    "1 giường đôi lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "229.779",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Miễn phí hủy trước ngày 17 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Phòng Ba Người (Triple Room)",
+                "amenities": [
+                    "phòng tắm riêng",
+                    "Vòi sen",
+                    "Đồ dùng cho giấc ngủ thoải mái",
+                    "Điều hòa",
+                    "Nước đóng chai miễn phí",
+                    "tầng trệt",
+                    "21 m²",
+                    "Tối đa 3 người lớn",
+                    "1 giường đôi và 1 giường đôi lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "3 người lớn",
+                        "option_price": "321.691",
+                        "amenities_for_price": [
+                            "3 người lớn",
+                            "Miễn phí hủy trước ngày 17 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "72803582",
+        "hotel_name": "Khách sạn The Rose Trà Vinh (The Rose Hotel Tra Vinh)",
+        "hotel_address": "240 Phạm Ngũ Lão, Trà Vinh, Trà Vinh, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "2 Giường Đôi Lớn Thiết Yếu (Essential 2 Queen)",
+                "amenities": [
+                    "Máy sấy tóc",
+                    "Phòng tắm đứng",
+                    "Wi-Fi [miễn phí]",
+                    "Rèm che ánh sáng",
+                    "Điều hòa",
+                    "Tủ lạnh nhỏ trong phòng",
+                    "Cà phê hòa tan miễn phí",
+                    "Cửa sổ có thể mở ra",
+                    "Tủ quần áo",
+                    "Hành lang ngoài",
+                    "50 m²",
+                    "Tối đa 4 người lớn",
+                    "2 giường đôi lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "4 người lớn",
+                        "option_price": "1.181.148",
+                        "amenities_for_price": [
+                            "4 người lớn",
+                            "Miễn phí hủy trước ngày 17 thg 11, 25",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 53.420 ₫!"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Suite Có Giường Cỡ King (King Suite)",
+                "amenities": [
+                    "Hướng Thành phố",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Phòng tắm đứng",
+                    "Wi-Fi [miễn phí]",
+                    "Đồ dùng cho giấc ngủ thoải mái",
+                    "Tủ lạnh nhỏ trong phòng",
+                    "Nước đóng chai miễn phí",
+                    "Ấm nước",
+                    "Tủ lạnh",
+                    "50 m²",
+                    "Tối đa 2 người lớn",
+                    "1 giường lớn và 1 giường sofa"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "1.293.446",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Miễn phí hủy trước ngày 17 thg 11, 25",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 117.489 ₫!"
+                        ]
+                    },
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "1.314.338",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Miễn phí hủy trước ngày 17 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "29851223",
+        "hotel_name": "Khách sạn Bích Ngoan (BichNgoan Hotel)",
+        "hotel_address": "19/22 Duong 19/5, Khom 2, Phuong 1, Trà Vinh, Trà Vinh, Việt Nam, 87000",
+        "room_types": [
+            {
+                "room_type_name": "Phòng Giường Đôi Nhìn ra Thành phố (Double Room City View)",
+                "amenities": [
+                    "Hướng Thành phố",
+                    "Ấm nước điện",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Vòi sen",
+                    "Wi-Fi [miễn phí]",
+                    "Đồ dùng cho giấc ngủ thoải mái",
+                    "Trái cây/đồ ăn vặt",
+                    "Cà phê hòa tan miễn phí",
+                    "Tủ lạnh",
+                    "22 m²",
+                    "Tối đa 2 người lớn",
+                    "1 giường đôi"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "467.307",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Đã gồm bữa sáng rất ngon",
+                            "Miễn phí hủy trước ngày 17 thg 11, 25",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "Thuê xe máy",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí",
+                            "Cho phép order đồ ăn bên ngoài",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 61.794 ₫!"
+                        ]
+                    },
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "555.556",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Đã gồm bữa sáng rất ngon",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Trả tiền cho khách sạn",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Phòng Tiêu chuẩn 2 Giường Đơn (Standard Twin)",
+                "amenities": [
+                    "Hướng Thành phố",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Vòi sen",
+                    "Wi-Fi [miễn phí]",
+                    "Điều hòa",
+                    "Tủ lạnh nhỏ trong phòng",
+                    "Cà phê hòa tan miễn phí",
+                    "Tủ lạnh",
+                    "Ban công/sân hiên",
+                    "28 m²",
+                    "Tối đa 2 người lớn",
+                    "2 giường đơn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "637.116",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Đã gồm bữa sáng rất ngon",
+                            "Miễn phí hủy trước ngày 17 thg 11, 25",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "Thuê xe máy",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí",
+                            "Cho phép order đồ ăn bên ngoài",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 24.259 ₫!"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "62559403",
+        "hotel_name": "Khách sạn Lucky 2 (Lucky Hotel 2)",
+        "hotel_address": "16 Võ Nguyên Giáp, Phường 8, Trà Vinh, Trà Vinh, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Phòng Đôi (Double Room)",
+                "amenities": [
+                    "Bồn tắm",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Vòi sen",
+                    "Wi-Fi [miễn phí]",
+                    "Đồ dùng cho giấc ngủ thoải mái",
+                    "Nước đóng chai miễn phí",
+                    "Ấm nước",
+                    "Cửa sổ",
+                    "Tủ quần áo",
+                    "20 m²",
+                    "Tối đa 2 người lớn, 1 bé (0-5 tuổi) ở MIỄN PHÍ!",
+                    "1 giường đôi"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn & 1 trẻ em (0-5 tuổi)",
+                        "option_price": "318.750",
+                        "amenities_for_price": [
+                            "2 người lớn & 1 trẻ em (0-5 tuổi)",
+                            "Miễn phí hủy trước ngày 17 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Phòng Ba Người (Triple Room)",
+                "amenities": [
+                    "Bồn tắm",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Vòi sen",
+                    "Wi-Fi [miễn phí]",
+                    "Đồ dùng cho giấc ngủ thoải mái",
+                    "Nước đóng chai miễn phí",
+                    "Ấm nước",
+                    "Cửa sổ",
+                    "Tủ quần áo",
+                    "30 m²",
+                    "Tối đa 3 người lớn, 1 bé (0-5 tuổi) ở MIỄN PHÍ!",
+                    "3 giường đơn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "3 người lớn & 1 trẻ em (0-5 tuổi)",
+                        "option_price": "573.437",
+                        "amenities_for_price": [
+                            "3 người lớn & 1 trẻ em (0-5 tuổi)",
+                            "Miễn phí hủy trước ngày 17 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Phòng Loại Sang Giường Đôi (Deluxe Double Room)",
+                "amenities": [
+                    "Bồn tắm",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Vòi sen",
+                    "Wi-Fi [miễn phí]",
+                    "Đồ dùng cho giấc ngủ thoải mái",
+                    "Nước đóng chai miễn phí",
+                    "Ấm nước",
+                    "Cửa sổ",
+                    "Tủ quần áo",
+                    "20 m²",
+                    "Tối đa 2 người lớn, 1 bé (0-5 tuổi) ở MIỄN PHÍ!",
+                    "1 giường đôi"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn & 1 trẻ em (0-5 tuổi)",
+                        "option_price": "573.437",
+                        "amenities_for_price": [
+                            "2 người lớn & 1 trẻ em (0-5 tuổi)",
+                            "Miễn phí hủy trước ngày 17 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "626326",
+        "hotel_name": "Mekong Garden Bungalows",
+        "hotel_address": "Ấp Đon, Nhị Long, Càng Long, Trà Vinh, Trà Vinh, Việt Nam, 90000",
+        "room_types": [
+            {
+                "room_type_name": "Phòng Đôi Loại Sang (Deluxe Double Room)",
+                "amenities": [
+                    "Hướng Sông",
+                    "Ấm nước điện",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Phòng tắm đứng",
+                    "Đồ dùng cho giấc ngủ thoải mái",
+                    "Điều hòa",
+                    "Trái cây/đồ ăn vặt",
+                    "Nước đóng chai miễn phí",
+                    "Ban công/sân hiên",
+                    "31 m²",
+                    "Tối đa 2 người lớn",
+                    "1 giường đôi lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "1.146.384",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Có ăn sáng",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Trả tiền cho khách sạn",
+                            "Bãi đậu xe",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Phòng Hai Giường Đơn Loại Sang (Deluxe Twin Room)",
+                "amenities": [
+                    "Hướng Sông",
+                    "Ấm nước điện",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Phòng tắm đứng",
+                    "Đồ dùng cho giấc ngủ thoải mái",
+                    "Điều hòa",
+                    "Trái cây/đồ ăn vặt",
+                    "Nước đóng chai miễn phí",
+                    "Ban công/sân hiên",
+                    "35 m²",
+                    "Tối đa 2 người lớn",
+                    "2 giường đơn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "1.146.384",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Có ăn sáng",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Trả tiền cho khách sạn",
+                            "Bãi đậu xe",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "63309215",
+        "hotel_name": "Lucky 3 Hotel",
+        "hotel_address": "104 Nguyễn Thiện Thành, Trà Vinh, Trà Vinh, Việt Nam, 940000",
+        "room_types": [
+            {
+                "room_type_name": "Phòng Đôi (Double Room)",
+                "amenities": [
+                    "Ấm nước điện",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Phòng tắm đứng",
+                    "Đồ dùng cho giấc ngủ thoải mái",
+                    "Nước đóng chai miễn phí",
+                    "Tủ quần áo",
+                    "Điều hòa cá nhân",
+                    "30 m²",
+                    "Tối đa 2 người lớn, 1 bé (0-5 tuổi) ở MIỄN PHÍ!",
+                    "1 giường đôi lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn & 1 trẻ em (0-5 tuổi)",
+                        "option_price": "423.426",
+                        "amenities_for_price": [
+                            "2 người lớn & 1 trẻ em (0-5 tuổi)",
+                            "Miễn phí hủy trước ngày 17 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Phòng Đôi Cao Cấp (Superior Double Room)",
+                "amenities": [
+                    "Ấm nước điện",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Phòng tắm đứng",
+                    "Đồ dùng cho giấc ngủ thoải mái",
+                    "Nước đóng chai miễn phí",
+                    "Tủ quần áo",
+                    "Điều hòa cá nhân",
+                    "30 m²",
+                    "Tối đa 2 người lớn, 1 bé (0-5 tuổi) ở MIỄN PHÍ!",
+                    "1 giường đôi lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn & 1 trẻ em (0-5 tuổi)",
+                        "option_price": "513.463",
+                        "amenities_for_price": [
+                            "2 người lớn & 1 trẻ em (0-5 tuổi)",
+                            "Miễn phí hủy trước ngày 17 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Phòng Đôi Loại Sang (Deluxe Double Room)",
+                "amenities": [
+                    "Ấm nước điện",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Phòng tắm đứng",
+                    "Đồ dùng cho giấc ngủ thoải mái",
+                    "Nước đóng chai miễn phí",
+                    "Tủ quần áo",
+                    "Điều hòa cá nhân",
+                    "30 m²",
+                    "Tối đa 2 người lớn, 1 bé (0-5 tuổi) ở MIỄN PHÍ!",
+                    "1 giường đôi lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn & 1 trẻ em (0-5 tuổi)",
+                        "option_price": "577.370",
+                        "amenities_for_price": [
+                            "2 người lớn & 1 trẻ em (0-5 tuổi)",
+                            "Miễn phí hủy trước ngày 17 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]
