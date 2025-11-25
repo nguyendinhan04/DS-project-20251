@@ -1,6 +1,7 @@
 import os
 import json
 import csv
+import pandas as pd
 
 base_folder = "data/crawled"
 
@@ -81,6 +82,7 @@ def write_csv(region_path, region, rows, amenity_columns):
             ]
             + amenity_columns,
             delimiter=";",
+            quoting=csv.QUOTE_ALL,
         )
         writer.writeheader()
         writer.writerows(rows)
@@ -88,26 +90,83 @@ def write_csv(region_path, region, rows, amenity_columns):
     print("Created:", csv_path)
 
 
-# loop through regions in crawled folder
-for region in os.listdir(base_folder):
-    region_path = os.path.join(base_folder, region)
-    if not os.path.isdir(region_path):
-        continue
-
-    # collect amenities
-    amenity_columns = collect_amenities_columns(region_path)
-
-    rows = []
-
-    for file in os.listdir(region_path):
-        if not file.endswith(".json"):
+def delete_all_region_csv():
+    for region in os.listdir(base_folder):
+        region_path = os.path.join(base_folder, region)
+        if not os.path.isdir(region_path):
             continue
 
-        json_path = os.path.join(region_path, file)
-        with open(json_path, "r", encoding="utf-8-sig") as f:
-            hotels = json.load(f)
+        for f in os.listdir(region_path):
+            if f.endswith(".csv"):
+                csv_path = os.path.join(region_path, f)
+                try:
+                    os.remove(csv_path)
+                    print("Deleted:", csv_path)
+                except Exception as e:
+                    print("Error deleting:", csv_path, e)
 
-        rooms_details = collect_room_details(hotels, amenity_columns)
-        rows.extend(rooms_details)
 
-    write_csv(region_path, region, rows, amenity_columns)
+# create csv for each region
+def create_csv_each_region():
+    # loop through regions in crawled folder
+    for region in os.listdir(base_folder):
+        region_path = os.path.join(base_folder, region)
+        if not os.path.isdir(region_path):
+            continue
+
+        # collect amenities
+        amenity_columns = collect_amenities_columns(region_path)
+
+        rows = []
+
+        for file in os.listdir(region_path):
+            if not file.endswith(".json"):
+                continue
+
+            json_path = os.path.join(region_path, file)
+            with open(json_path, "r", encoding="utf-8-sig") as f:
+                hotels = json.load(f)
+
+            rooms_details = collect_room_details(hotels, amenity_columns)
+            rows.extend(rooms_details)
+
+        write_csv(region_path, region, rows, amenity_columns)
+
+
+# create a united csv file
+def merge_csv():
+    dfs = []
+
+    for region in os.listdir(base_folder):
+        region_path = os.path.join(base_folder, region)
+        if not os.path.isdir(region_path):
+            continue
+
+        # find csv file inside region folder
+        csv_file = [f for f in os.listdir(region_path) if f.endswith(".csv")]
+        if not csv_file:
+            continue
+
+        # each region folder has only 1 csv file
+        csv_path = os.path.join(region_path, csv_file[0])
+
+        df = pd.read_csv(csv_path, sep=";", encoding="utf-8-sig")
+        df["region"] = region
+        dfs.append(df)
+
+    # merged all csv files with missing columns filled with 0
+    merged_csv = pd.concat(dfs, axis=0, ignore_index=True).fillna(0)
+    try:
+        merged_csv.to_csv(
+            "data/merged/merged.csv",
+            encoding="utf-8-sig",
+            sep=";",
+            quoting=1,
+        )
+    except Exception as e:
+        print(f"Exception raised: {e}")
+
+
+delete_all_region_csv()
+create_csv_each_region()
+merge_csv()
