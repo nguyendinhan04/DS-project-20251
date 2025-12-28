@@ -1,0 +1,2854 @@
+[
+    {
+        "hotel_id": "10552034",
+        "hotel_name": "Khu Nghỉ Dưỡng Golden Emerald (Golden Emerald Resort)",
+        "hotel_address": "29 Pham Thi Trich, Huyện Củ Chi, Hồ Chí Minh, Việt Nam, 7000",
+        "room_types": [
+            {
+                "room_type_name": "Deluxe Room With Window (Deluxe Room With window)",
+                "amenities": [
+                    {
+                        "amenity": "Diện tích phòng: 30 m²",
+                        "type": "sqm"
+                    },
+                    {
+                        "amenity": "1 giường lớn",
+                        "type": "bed"
+                    },
+                    {
+                        "amenity": "Không hút thuốc",
+                        "type": "non-smoking-room"
+                    }
+                ],
+                "price_options": [
+                    {
+                        "option_name": "Thông tin sức chứa phòng: 2 người lớn.",
+                        "option_price": "531.653\n₫",
+                        "amenities_for_price": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "72418838",
+        "hotel_name": "Khách sạn & Căn hộ AMANA - Võ Thị Sáu (AMANA Hotel & Residence - Võ Thị Sáu)",
+        "hotel_address": "232/11 Vo Thi Sau, Phuong Vo Thi Sau, Quận 3, Th nh phố Hồ Ch Minh, Quận 3, Hồ Chí Minh, Việt Nam, 70000",
+        "room_types": [
+            {
+                "room_type_name": "Phòng Loại Sang Tầng 3 B (Deluxe Room - 3rd Floor B)",
+                "amenities": [
+                    {
+                        "amenity": "Diện tích phòng: 30 m²",
+                        "type": "sqm"
+                    },
+                    {
+                        "amenity": "1 giường đôi lớn",
+                        "type": "bed"
+                    },
+                    {
+                        "amenity": "Ban công/sân hiên",
+                        "type": "balcony-terrace"
+                    },
+                    {
+                        "amenity": "Giường cực dài",
+                        "type": "extra-long-beds"
+                    },
+                    {
+                        "amenity": "Rèm che ánh sáng",
+                        "type": "blackout-curtains"
+                    },
+                    {
+                        "amenity": "Tủ lạnh nhỏ trong phòng",
+                        "type": "mini-bar"
+                    },
+                    {
+                        "amenity": "tầng cao",
+                        "type": "high-floor"
+                    },
+                    {
+                        "amenity": "Không hút thuốc",
+                        "type": "non-smoking-room"
+                    },
+                    {
+                        "amenity": "Tủ quần áo",
+                        "type": "closet"
+                    }
+                ],
+                "price_options": [
+                    {
+                        "option_name": "Thông tin sức chứa phòng: 2 người lớn.",
+                        "option_price": "1.702.975\n₫",
+                        "amenities_for_price": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "39911465",
+        "hotel_name": "Căn hộ 65 m² 1 phòng ngủ, 1 phòng tắm riêng ở Bình Thạnh (LP.18.17 ( Landmark Plus ) - 1PN)",
+        "hotel_address": "Bình Thạnh, Hồ Chí Minh, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Căn hộ (Apartment)",
+                "amenities": [
+                    {
+                        "amenity": "Diện tích phòng: 65 m²",
+                        "type": "sqm"
+                    },
+                    {
+                        "amenity": "1 giường đôi lớn",
+                        "type": "bed"
+                    },
+                    {
+                        "amenity": "Studio/1 phòng ngủ",
+                        "type": "bedroom"
+                    },
+                    {
+                        "amenity": "1 phòng tắm",
+                        "type": "bathrooms"
+                    },
+                    {
+                        "amenity": "Tủ quần áo",
+                        "type": "closet"
+                    },
+                    {
+                        "amenity": "Điều hòa",
+                        "type": "air-conditioning"
+                    },
+                    {
+                        "amenity": "Máy sấy tóc",
+                        "type": "hair-dryer"
+                    }
+                ],
+                "price_options": [
+                    {
+                        "option_name": "Thông tin sức chứa phòng: 2 người lớn và 1 trẻ em.",
+                        "option_price": "3.165.491\n₫",
+                        "amenities_for_price": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "5831693",
+        "hotel_name": "Scenic Valley Việt Nam - Vina We Stay (Scenic Valley VietNam - Vina We Stay)",
+        "hotel_address": "Block A, Scenic Valley 2, 802 Nguyen Van Linh, P. Tan Phu, Quận 7, TP.Hồ Chi Minh, Quận 7, Hồ Chí Minh, Việt Nam, 700000",
+        "room_types": [
+            {
+                "room_type_name": "Căn hộ Business, 2 phòng ngủ, Không hút thuốc, Quang cảnh vườn (Business Apartment, 2 Bedrooms, Non Smoking, Garden View)",
+                "amenities": [
+                    {
+                        "amenity": "Diện tích phòng: 77 m²",
+                        "type": "sqm"
+                    },
+                    {
+                        "amenity": "Hướng Vườn",
+                        "type": "views"
+                    },
+                    {
+                        "amenity": "1 giường đôi và 1 giường đôi lớn",
+                        "type": "bed"
+                    },
+                    {
+                        "amenity": "Ban công/sân hiên",
+                        "type": "balcony-terrace"
+                    },
+                    {
+                        "amenity": "Tủ lạnh nhỏ trong phòng",
+                        "type": "mini-bar"
+                    },
+                    {
+                        "amenity": "Không hút thuốc",
+                        "type": "non-smoking-room"
+                    },
+                    {
+                        "amenity": "Điều hòa",
+                        "type": "air-conditioning"
+                    },
+                    {
+                        "amenity": "Ấm nước điện",
+                        "type": "confirmation-instant"
+                    },
+                    {
+                        "amenity": "Tủ lạnh",
+                        "type": "refrigerator"
+                    }
+                ],
+                "price_options": [
+                    {
+                        "option_name": "Thông tin sức chứa phòng: 2 người lớn.",
+                        "option_price": "2.123.259\n₫",
+                        "amenities_for_price": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "75810508",
+        "hotel_name": "NamiStay Sài Gòn Central Home",
+        "hotel_address": "31/6 Hoàng Dư Khương, Phường 12, Quận 10, Hồ Chí Minh, Việt Nam, 70000",
+        "room_types": [
+            {
+                "room_type_name": "Superior giường đôi (Superior Double)",
+                "amenities": [
+                    {
+                        "amenity": "Diện tích phòng: 20 m²",
+                        "type": "sqm"
+                    },
+                    {
+                        "amenity": "1 giường đôi",
+                        "type": "bed"
+                    },
+                    {
+                        "amenity": "Cửa sổ",
+                        "type": "confirmation-instant"
+                    },
+                    {
+                        "amenity": "Đồ dùng cho giấc ngủ thoải mái",
+                        "type": "confirmation-instant"
+                    },
+                    {
+                        "amenity": "Tủ lạnh nhỏ trong phòng",
+                        "type": "mini-bar"
+                    },
+                    {
+                        "amenity": "Không hút thuốc",
+                        "type": "non-smoking-room"
+                    },
+                    {
+                        "amenity": "phòng tắm riêng",
+                        "type": "bathrooms"
+                    },
+                    {
+                        "amenity": "Tủ quần áo",
+                        "type": "closet"
+                    },
+                    {
+                        "amenity": "Điều hòa",
+                        "type": "air-conditioning"
+                    }
+                ],
+                "price_options": [
+                    {
+                        "option_name": "Thông tin sức chứa phòng: 2 người lớn và 1 trẻ em.",
+                        "option_price": "648.148\n₫",
+                        "amenities_for_price": []
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Deluxe có ban công (Deluxe Balcony)",
+                "amenities": [
+                    {
+                        "amenity": "Diện tích phòng: 30 m²",
+                        "type": "sqm"
+                    },
+                    {
+                        "amenity": "Hướng Ngoài trời",
+                        "type": "views"
+                    },
+                    {
+                        "amenity": "1 giường siêu lớn",
+                        "type": "bed"
+                    },
+                    {
+                        "amenity": "Ban công/sân hiên",
+                        "type": "balcony-terrace"
+                    },
+                    {
+                        "amenity": "Cửa sổ",
+                        "type": "confirmation-instant"
+                    },
+                    {
+                        "amenity": "Đồ dùng cho giấc ngủ thoải mái",
+                        "type": "confirmation-instant"
+                    },
+                    {
+                        "amenity": "Tủ lạnh nhỏ trong phòng",
+                        "type": "mini-bar"
+                    },
+                    {
+                        "amenity": "Không hút thuốc",
+                        "type": "non-smoking-room"
+                    },
+                    {
+                        "amenity": "phòng tắm riêng",
+                        "type": "bathrooms"
+                    }
+                ],
+                "price_options": [
+                    {
+                        "option_name": "Thông tin sức chứa phòng: 2 người lớn.",
+                        "option_price": "1.425.926\n₫",
+                        "amenities_for_price": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "45138169",
+        "hotel_name": "Nhà riêng 120 m² 3 phòng ngủ, 2 phòng tắm riêng ở Quận 4 (Saigon Royal 3 bedrooms de Rose)",
+        "hotel_address": "No. 35, Bến Vân Đồn, Phuong 12, Saigon Royal, Vietnam, Saigon Royal , , Quận 4, Hồ Chí Minh, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Căn Hộ Có Ban Công (Apartment with Balcony)",
+                "amenities": [
+                    {
+                        "amenity": "1 giường sofa & 1 giường đôi lớn & 1 giường đôi lớn",
+                        "type": "bed"
+                    },
+                    {
+                        "amenity": "2 phòng ngủ",
+                        "type": "bedroom"
+                    },
+                    {
+                        "amenity": "2 phòng tắm",
+                        "type": "bathrooms"
+                    },
+                    {
+                        "amenity": "phòng tắm riêng",
+                        "type": "bathrooms"
+                    },
+                    {
+                        "amenity": "Điều hòa",
+                        "type": "air-conditioning"
+                    }
+                ],
+                "price_options": [
+                    {
+                        "option_name": "Thông tin sức chứa phòng: 5 người lớn.",
+                        "option_price": "1.648.148\n₫",
+                        "amenities_for_price": []
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Căn Hộ 3 Phòng Ngủ (Three-Bedroom Apartment)",
+                "amenities": [
+                    {
+                        "amenity": "1 giường lớn & 2 giường đôi lớn & 1 giường lớn & 1 giường sofa",
+                        "type": "bed"
+                    },
+                    {
+                        "amenity": "3 phòng ngủ",
+                        "type": "bedroom"
+                    },
+                    {
+                        "amenity": "2 phòng tắm",
+                        "type": "bathrooms"
+                    },
+                    {
+                        "amenity": "phòng tắm riêng",
+                        "type": "bathrooms"
+                    },
+                    {
+                        "amenity": "Điều hòa",
+                        "type": "air-conditioning"
+                    }
+                ],
+                "price_options": [
+                    {
+                        "option_name": "Thông tin sức chứa phòng: 8 người lớn.",
+                        "option_price": "2.759.259\n₫",
+                        "amenities_for_price": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "76957404",
+        "hotel_name": "Căn hộ cao cấp Senerity Sky Villas By Luminous (Senerity Sky Villas By Luminous Luxury Apartment)",
+        "hotel_address": "259 Điện Biên Phủ, Phường Võ Thị Sáu, Quận 3, Hồ Chí Minh, Việt Nam, 72400",
+        "room_types": [
+            {
+                "room_type_name": "Căn Hộ 3 Phòng Ngủ Có Ban công (Three-Bedroom Apartment with Balcony)",
+                "amenities": [
+                    {
+                        "amenity": "Diện tích phòng: 130 m²",
+                        "type": "sqm"
+                    },
+                    {
+                        "amenity": "Hướng Thành phố",
+                        "type": "views"
+                    },
+                    {
+                        "amenity": "1 giường đôi lớn & 1 giường đôi lớn & 1 giường đôi lớn",
+                        "type": "bed"
+                    },
+                    {
+                        "amenity": "3 phòng ngủ",
+                        "type": "bedroom"
+                    },
+                    {
+                        "amenity": "Bể bơi riêng",
+                        "type": "private-pool"
+                    },
+                    {
+                        "amenity": "Bồn tắm",
+                        "type": "bathtub"
+                    },
+                    {
+                        "amenity": "Ban công/sân hiên",
+                        "type": "balcony-terrace"
+                    },
+                    {
+                        "amenity": "Đồ dùng cho giấc ngủ thoải mái",
+                        "type": "confirmation-instant"
+                    },
+                    {
+                        "amenity": "Không hút thuốc",
+                        "type": "non-smoking-room"
+                    },
+                    {
+                        "amenity": "Đồ gỗ ngoài trời",
+                        "type": "confirmation-instant"
+                    }
+                ],
+                "price_options": [
+                    {
+                        "option_name": "Thông tin sức chứa phòng: 6 người lớn.",
+                        "option_price": "9.215.799\n₫",
+                        "amenities_for_price": []
+                    },
+                    {
+                        "option_name": "Thông tin sức chứa phòng: 6 người lớn.",
+                        "option_price": "16.484.883\n₫",
+                        "amenities_for_price": []
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Biệt Thự Ba Phòng Ngủ (Three Bedroom Villa)",
+                "amenities": [
+                    {
+                        "amenity": "Diện tích phòng: 130 m²",
+                        "type": "sqm"
+                    },
+                    {
+                        "amenity": "Hướng Thành phố",
+                        "type": "views"
+                    },
+                    {
+                        "amenity": "1 giường đôi lớn & 1 giường đôi lớn & 1 giường đôi lớn",
+                        "type": "bed"
+                    },
+                    {
+                        "amenity": "3 phòng ngủ",
+                        "type": "bedroom"
+                    },
+                    {
+                        "amenity": "3 phòng tắm",
+                        "type": "bathrooms"
+                    },
+                    {
+                        "amenity": "Máy sấy tóc",
+                        "type": "hair-dryer"
+                    },
+                    {
+                        "amenity": "Vòi sen",
+                        "type": "shower"
+                    }
+                ],
+                "price_options": [
+                    {
+                        "option_name": "Thông tin sức chứa phòng: 6 người lớn.",
+                        "option_price": "9.215.799\n₫",
+                        "amenities_for_price": []
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Căn hộ 3 phòng ngủ (Three Bedroom Apartment)",
+                "amenities": [
+                    {
+                        "amenity": "Diện tích phòng: 130 m²",
+                        "type": "sqm"
+                    },
+                    {
+                        "amenity": "Hướng Thành phố",
+                        "type": "views"
+                    },
+                    {
+                        "amenity": "3 giường đôi lớn",
+                        "type": "bed"
+                    },
+                    {
+                        "amenity": "2 phòng tắm",
+                        "type": "bathrooms"
+                    },
+                    {
+                        "amenity": "Phòng xông khô",
+                        "type": "confirmation-instant"
+                    },
+                    {
+                        "amenity": "Bể bơi riêng",
+                        "type": "private-pool"
+                    },
+                    {
+                        "amenity": "Bồn tắm/vòi sen riêng",
+                        "type": "separate-shower-and-tub"
+                    },
+                    {
+                        "amenity": "Ban công/sân hiên",
+                        "type": "balcony-terrace"
+                    },
+                    {
+                        "amenity": "Cửa sổ mở",
+                        "type": "NULL"
+                    },
+                    {
+                        "amenity": "Đồ dùng cho giấc ngủ thoải mái",
+                        "type": "confirmation-instant"
+                    }
+                ],
+                "price_options": [
+                    {
+                        "option_name": "Thông tin sức chứa phòng: 6 người lớn.",
+                        "option_price": "16.484.883\n₫",
+                        "amenities_for_price": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "69469801",
+        "hotel_name": "Khách sạn Hoàng Hải (Hoàng Hải Hotel)",
+        "hotel_address": "57 Đ. Số 41, Phường 6, Quận 4, Hồ Chí Minh, Việt Nam, 84000",
+        "room_types": [
+            {
+                "room_type_name": "Phòng Tiêu Chuẩn (Standard Room)",
+                "amenities": [
+                    {
+                        "amenity": "Diện tích phòng: 15 m²",
+                        "type": "sqm"
+                    },
+                    {
+                        "amenity": "1 giường đôi",
+                        "type": "bed"
+                    },
+                    {
+                        "amenity": "Bồn tắm",
+                        "type": "bathtub"
+                    },
+                    {
+                        "amenity": "phòng tắm riêng",
+                        "type": "bathrooms"
+                    },
+                    {
+                        "amenity": "Tủ quần áo",
+                        "type": "closet"
+                    },
+                    {
+                        "amenity": "Điều hòa",
+                        "type": "air-conditioning"
+                    },
+                    {
+                        "amenity": "Ấm nước điện",
+                        "type": "confirmation-instant"
+                    },
+                    {
+                        "amenity": "Máy sấy tóc",
+                        "type": "hair-dryer"
+                    },
+                    {
+                        "amenity": "Vòi sen",
+                        "type": "shower"
+                    }
+                ],
+                "price_options": [
+                    {
+                        "option_name": "Thông tin sức chứa phòng: 2 người lớn.",
+                        "option_price": "379.630\n₫",
+                        "amenities_for_price": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "67847771",
+        "hotel_name": "Luxury Apartment for rent- Pool 35th Floor Near Phu My Hung, Secc",
+        "hotel_address": "Quận 7, Hồ Chí Minh, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Căn Hộ 2 Phòng Ngủ (Two-Bedroom Apartment)",
+                "amenities": [
+                    {
+                        "amenity": "Diện tích phòng: 59 m²",
+                        "type": "sqm"
+                    },
+                    {
+                        "amenity": "Hướng Sông",
+                        "type": "views"
+                    },
+                    {
+                        "amenity": "1 giường lớn & 1 giường sofa",
+                        "type": "bed"
+                    },
+                    {
+                        "amenity": "Studio/1 phòng ngủ",
+                        "type": "bedroom"
+                    },
+                    {
+                        "amenity": "1 phòng tắm",
+                        "type": "bathrooms"
+                    },
+                    {
+                        "amenity": "Phòng xông khô",
+                        "type": "confirmation-instant"
+                    },
+                    {
+                        "amenity": "Bể bơi riêng",
+                        "type": "private-pool"
+                    },
+                    {
+                        "amenity": "Bồn tắm tạo sóng",
+                        "type": "jacuzzi-bathtub"
+                    },
+                    {
+                        "amenity": "Ban công/sân hiên",
+                        "type": "balcony-terrace"
+                    },
+                    {
+                        "amenity": "Đồ dùng cho giấc ngủ thoải mái",
+                        "type": "confirmation-instant"
+                    }
+                ],
+                "price_options": [
+                    {
+                        "option_name": "Thông tin sức chứa phòng: 2 người lớn.",
+                        "option_price": "972.222\n₫",
+                        "amenities_for_price": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "39911473",
+        "hotel_name": "Khách sạn HANZ Camelia (HANZ Camelia Hotel)",
+        "hotel_address": "108 Đường Lê Lai, Quận 1, Hồ Chí Minh, Việt Nam, 700000",
+        "room_types": [
+            {
+                "room_type_name": "Phòng Đôi Cao Cấp (Superior Double Room)",
+                "amenities": [
+                    {
+                        "amenity": "Diện tích phòng: 15 m²",
+                        "type": "sqm"
+                    },
+                    {
+                        "amenity": "1 giường đôi lớn",
+                        "type": "bed"
+                    },
+                    {
+                        "amenity": "Ban công/sân hiên",
+                        "type": "balcony-terrace"
+                    },
+                    {
+                        "amenity": "Đồ dùng cho giấc ngủ thoải mái",
+                        "type": "confirmation-instant"
+                    },
+                    {
+                        "amenity": "Trái cây/đồ ăn vặt",
+                        "type": "confirmation-instant"
+                    },
+                    {
+                        "amenity": "phòng tắm riêng",
+                        "type": "bathrooms"
+                    },
+                    {
+                        "amenity": "Điều hòa cá nhân",
+                        "type": "confirmation-instant"
+                    },
+                    {
+                        "amenity": "Nước đóng chai miễn phí",
+                        "type": "complimentary-bottled-water"
+                    },
+                    {
+                        "amenity": "Ấm nước điện",
+                        "type": "confirmation-instant"
+                    },
+                    {
+                        "amenity": "Tủ lạnh",
+                        "type": "refrigerator"
+                    }
+                ],
+                "price_options": [
+                    {
+                        "option_name": "Thông tin sức chứa phòng: 2 người lớn.",
+                        "option_price": "1.100.000\n₫",
+                        "amenities_for_price": []
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Phòng 2 Giường Đơn Với Phòng Tắm Riêng (Twin Room with Private Bathroom)",
+                "amenities": [
+                    {
+                        "amenity": "Diện tích phòng: 25 m²",
+                        "type": "sqm"
+                    },
+                    {
+                        "amenity": "2 giường đơn",
+                        "type": "bed"
+                    },
+                    {
+                        "amenity": "Ban công/sân hiên",
+                        "type": "balcony-terrace"
+                    },
+                    {
+                        "amenity": "Đồ dùng cho giấc ngủ thoải mái",
+                        "type": "confirmation-instant"
+                    },
+                    {
+                        "amenity": "Trái cây/đồ ăn vặt",
+                        "type": "confirmation-instant"
+                    },
+                    {
+                        "amenity": "phòng tắm riêng",
+                        "type": "bathrooms"
+                    },
+                    {
+                        "amenity": "Điều hòa cá nhân",
+                        "type": "confirmation-instant"
+                    },
+                    {
+                        "amenity": "Nước đóng chai miễn phí",
+                        "type": "complimentary-bottled-water"
+                    },
+                    {
+                        "amenity": "Ấm nước điện",
+                        "type": "confirmation-instant"
+                    },
+                    {
+                        "amenity": "Tủ lạnh",
+                        "type": "refrigerator"
+                    }
+                ],
+                "price_options": [
+                    {
+                        "option_name": "Thông tin sức chứa phòng: 2 người lớn.",
+                        "option_price": "1.145.833\n₫",
+                        "amenities_for_price": []
+                    },
+                    {
+                        "option_name": "Thông tin sức chứa phòng: 2 người lớn.",
+                        "option_price": "1.375.000\n₫",
+                        "amenities_for_price": []
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Phòng 4 Người (Quadruple Room)",
+                "amenities": [
+                    {
+                        "amenity": "Diện tích phòng: 25 m²",
+                        "type": "sqm"
+                    },
+                    {
+                        "amenity": "2 giường đôi",
+                        "type": "bed"
+                    },
+                    {
+                        "amenity": "Ban công/sân hiên",
+                        "type": "balcony-terrace"
+                    },
+                    {
+                        "amenity": "Đồ dùng cho giấc ngủ thoải mái",
+                        "type": "confirmation-instant"
+                    },
+                    {
+                        "amenity": "Trái cây/đồ ăn vặt",
+                        "type": "confirmation-instant"
+                    },
+                    {
+                        "amenity": "phòng tắm riêng",
+                        "type": "bathrooms"
+                    },
+                    {
+                        "amenity": "Điều hòa cá nhân",
+                        "type": "confirmation-instant"
+                    },
+                    {
+                        "amenity": "Nước đóng chai miễn phí",
+                        "type": "complimentary-bottled-water"
+                    },
+                    {
+                        "amenity": "Ấm nước điện",
+                        "type": "confirmation-instant"
+                    },
+                    {
+                        "amenity": "Tủ lạnh",
+                        "type": "refrigerator"
+                    }
+                ],
+                "price_options": [
+                    {
+                        "option_name": "Thông tin sức chứa phòng: 4 người lớn.",
+                        "option_price": "1.237.500\n₫",
+                        "amenities_for_price": []
+                    },
+                    {
+                        "option_name": "Thông tin sức chứa phòng: 4 người lớn.",
+                        "option_price": "1.485.000\n₫",
+                        "amenities_for_price": []
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Phòng Ba Người (Triple Room)",
+                "amenities": [
+                    {
+                        "amenity": "Diện tích phòng: 25 m²",
+                        "type": "sqm"
+                    },
+                    {
+                        "amenity": "1 giường đơn và 1 giường đôi",
+                        "type": "bed"
+                    },
+                    {
+                        "amenity": "Ban công/sân hiên",
+                        "type": "balcony-terrace"
+                    },
+                    {
+                        "amenity": "Đồ dùng cho giấc ngủ thoải mái",
+                        "type": "confirmation-instant"
+                    },
+                    {
+                        "amenity": "Trái cây/đồ ăn vặt",
+                        "type": "confirmation-instant"
+                    },
+                    {
+                        "amenity": "phòng tắm riêng",
+                        "type": "bathrooms"
+                    },
+                    {
+                        "amenity": "Điều hòa cá nhân",
+                        "type": "confirmation-instant"
+                    },
+                    {
+                        "amenity": "Nước đóng chai miễn phí",
+                        "type": "complimentary-bottled-water"
+                    },
+                    {
+                        "amenity": "Ấm nước điện",
+                        "type": "confirmation-instant"
+                    },
+                    {
+                        "amenity": "Tủ lạnh",
+                        "type": "refrigerator"
+                    }
+                ],
+                "price_options": [
+                    {
+                        "option_name": "Thông tin sức chứa phòng: 3 người lớn.",
+                        "option_price": "1.283.333\n₫",
+                        "amenities_for_price": []
+                    },
+                    {
+                        "option_name": "Thông tin sức chứa phòng: 3 người lớn.",
+                        "option_price": "1.540.000\n₫",
+                        "amenities_for_price": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "9519810",
+        "room_types": [
+            {
+                "room_type_name": "Căn hộ (Apartment)",
+                "amenities": [
+                    {
+                        "amenity": "Diện tích phòng: 72 m²",
+                        "type": "sqm"
+                    },
+                    {
+                        "amenity": "1 giường đôi lớn & 1 giường đôi lớn & 1 giường sofa",
+                        "type": "bed"
+                    },
+                    {
+                        "amenity": "2 phòng ngủ",
+                        "type": "bedroom"
+                    },
+                    {
+                        "amenity": "2 phòng tắm",
+                        "type": "bathrooms"
+                    },
+                    {
+                        "amenity": "Cho phép hút thuốc",
+                        "type": "smoking-allowed"
+                    },
+                    {
+                        "amenity": "Tủ quần áo",
+                        "type": "closet"
+                    },
+                    {
+                        "amenity": "Điều hòa",
+                        "type": "air-conditioning"
+                    },
+                    {
+                        "amenity": "Cà phê hòa tan miễn phí",
+                        "type": "complimentary-instant-coffee"
+                    },
+                    {
+                        "amenity": "Máy sấy tóc",
+                        "type": "hair-dryer"
+                    }
+                ],
+                "price_options": [
+                    {
+                        "option_name": "Thông tin sức chứa phòng: 2 người lớn và 1 trẻ em.",
+                        "option_price": "1.789.403\n₫",
+                        "amenities_for_price": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "79562470",
+        "hotel_name": "m² 5 phòng ngủ, 5 phòng tắm riêng ở Phước Kiển (1034 Huynh Tan Phat Home)",
+        "hotel_address": "1034/30 Huỳnh Tấn Phát, Xã Nhà Bè, TP.Hồ Chí Minh, 1034 Huỳnh Tấn Phát, Phước Kiển, Hồ Chí Minh, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Nhà Liền Kề (Townhouse)",
+                "amenities": [
+                    {
+                        "amenity": "1 giường đôi lớn & 1 giường đôi lớn & 1 giường đôi lớn & 1 giường đôi lớn & 1 giường đôi lớn",
+                        "type": "bed"
+                    },
+                    {
+                        "amenity": "5 phòng ngủ",
+                        "type": "bedroom"
+                    },
+                    {
+                        "amenity": "5 phòng tắm",
+                        "type": "bathrooms"
+                    },
+                    {
+                        "amenity": "Cho phép hút thuốc",
+                        "type": "smoking-allowed"
+                    },
+                    {
+                        "amenity": "Tủ quần áo",
+                        "type": "closet"
+                    },
+                    {
+                        "amenity": "Điều hòa",
+                        "type": "air-conditioning"
+                    }
+                ],
+                "price_options": [
+                    {
+                        "option_name": "Thông tin sức chứa phòng: 2 người lớn và 1 trẻ em.",
+                        "option_price": "473.785\n₫",
+                        "amenities_for_price": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "39911481",
+        "hotel_name": "Căn hộ 68 m² 1 phòng ngủ, 1 phòng tắm riêng ở Bình Thạnh (L2.17.06 - 1PN 1 phòng ngủ)",
+        "hotel_address": "Bình Thạnh, Hồ Chí Minh, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Căn hộ (Apartment)",
+                "amenities": [
+                    {
+                        "amenity": "Diện tích phòng: 68 m²",
+                        "type": "sqm"
+                    },
+                    {
+                        "amenity": "1 giường đôi lớn",
+                        "type": "bed"
+                    },
+                    {
+                        "amenity": "Studio/1 phòng ngủ",
+                        "type": "bedroom"
+                    },
+                    {
+                        "amenity": "1 phòng tắm",
+                        "type": "bathrooms"
+                    },
+                    {
+                        "amenity": "Tủ quần áo",
+                        "type": "closet"
+                    },
+                    {
+                        "amenity": "Điều hòa",
+                        "type": "air-conditioning"
+                    },
+                    {
+                        "amenity": "Máy sấy tóc",
+                        "type": "hair-dryer"
+                    }
+                ],
+                "price_options": [
+                    {
+                        "option_name": "Thông tin sức chứa phòng: 2 người lớn và 1 trẻ em.",
+                        "option_price": "1.250.933\n₫",
+                        "amenities_for_price": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "4122239",
+        "hotel_name": "Khách sạn Sài Gòn Park Q.1 (Saigon Park Hotel Dist 1)",
+        "hotel_address": "27 Nguyễn Văn Tr ng, Phường Bến Th nh, Quận 1, Th nh Phố Hồ Ch Minh, Quận 1, Hồ Chí Minh, Việt Nam, 71052",
+        "room_types": [
+            {
+                "room_type_name": "Deluxe Room",
+                "amenities": [
+                    {
+                        "amenity": "Diện tích phòng: 30 m²",
+                        "type": "sqm"
+                    },
+                    {
+                        "amenity": "Hướng Ngoài trời",
+                        "type": "views"
+                    },
+                    {
+                        "amenity": "1 giường đôi lớn",
+                        "type": "bed"
+                    },
+                    {
+                        "amenity": "Không hút thuốc",
+                        "type": "non-smoking-room"
+                    },
+                    {
+                        "amenity": "Điều hòa",
+                        "type": "air-conditioning"
+                    },
+                    {
+                        "amenity": "Vòi sen",
+                        "type": "shower"
+                    }
+                ],
+                "price_options": [
+                    {
+                        "option_name": "Thông tin sức chứa phòng: 2 người lớn.",
+                        "option_price": "1.111.615\n₫",
+                        "amenities_for_price": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "78700236",
+        "hotel_name": "Cubicity Ton That Tung",
+        "hotel_address": "25/8 Tôn Thất Tùng, Phường Phạm Ngũ Lão, Quận 1, Hồ Chí Minh, Việt Nam, 70000",
+        "room_types": [
+            {
+                "room_type_name": "Phòng Đôi (Double Room)",
+                "amenities": [
+                    {
+                        "amenity": "Diện tích phòng: 18 m²",
+                        "type": "sqm"
+                    },
+                    {
+                        "amenity": "1 giường đôi lớn",
+                        "type": "bed"
+                    },
+                    {
+                        "amenity": "Đồ dùng cho giấc ngủ thoải mái",
+                        "type": "confirmation-instant"
+                    },
+                    {
+                        "amenity": "phòng tắm riêng",
+                        "type": "bathrooms"
+                    },
+                    {
+                        "amenity": "Tủ quần áo",
+                        "type": "closet"
+                    },
+                    {
+                        "amenity": "Điều hòa cá nhân",
+                        "type": "confirmation-instant"
+                    },
+                    {
+                        "amenity": "Ấm nước điện",
+                        "type": "confirmation-instant"
+                    },
+                    {
+                        "amenity": "Máy sấy tóc",
+                        "type": "hair-dryer"
+                    },
+                    {
+                        "amenity": "Vòi sen",
+                        "type": "shower"
+                    }
+                ],
+                "price_options": [
+                    {
+                        "option_name": "Thông tin sức chứa phòng: 2 người lớn.",
+                        "option_price": "1.142.267\n₫",
+                        "amenities_for_price": []
+                    },
+                    {
+                        "option_name": "Thông tin sức chứa phòng: 2 người lớn.",
+                        "option_price": "1.750.000\n₫",
+                        "amenities_for_price": []
+                    },
+                    {
+                        "option_name": "Thông tin sức chứa phòng: 1 người lớn.",
+                        "option_price": "1.685.185\n₫",
+                        "amenities_for_price": []
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Phòng Tiêu Chuẩn - 1 Giường (Standard Room -- 1 Bed)",
+                "amenities": [
+                    {
+                        "amenity": "Diện tích phòng: 25 m²",
+                        "type": "sqm"
+                    },
+                    {
+                        "amenity": "1 giường đôi lớn",
+                        "type": "bed"
+                    },
+                    {
+                        "amenity": "Tủ lạnh nhỏ trong phòng",
+                        "type": "mini-bar"
+                    },
+                    {
+                        "amenity": "Không hút thuốc",
+                        "type": "non-smoking-room"
+                    },
+                    {
+                        "amenity": "Hành lang ngoài",
+                        "type": "confirmation-instant"
+                    },
+                    {
+                        "amenity": "Tủ quần áo",
+                        "type": "closet"
+                    },
+                    {
+                        "amenity": "Điều hòa cá nhân",
+                        "type": "confirmation-instant"
+                    },
+                    {
+                        "amenity": "Cà phê hòa tan miễn phí",
+                        "type": "complimentary-instant-coffee"
+                    },
+                    {
+                        "amenity": "Ấm nước",
+                        "type": "confirmation-instant"
+                    }
+                ],
+                "price_options": [
+                    {
+                        "option_name": "Thông tin sức chứa phòng: 2 người lớn.",
+                        "option_price": "1.305.807\n₫",
+                        "amenities_for_price": []
+                    },
+                    {
+                        "option_name": "Thông tin sức chứa phòng: 2 người lớn.",
+                        "option_price": "1.408.333\n₫",
+                        "amenities_for_price": []
+                    },
+                    {
+                        "option_name": "Thông tin sức chứa phòng: 1 người lớn.",
+                        "option_price": "1.290.342\n₫",
+                        "amenities_for_price": []
+                    },
+                    {
+                        "option_name": "Thông tin sức chứa phòng: 1 người lớn.",
+                        "option_price": "1.341.270\n₫",
+                        "amenities_for_price": []
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Phòng Tiêu Chuẩn Có Ban Công (Standard Balcony)",
+                "amenities": [
+                    {
+                        "amenity": "Diện tích phòng: 25 m²",
+                        "type": "sqm"
+                    },
+                    {
+                        "amenity": "Hướng Thành phố",
+                        "type": "views"
+                    },
+                    {
+                        "amenity": "1 giường lớn",
+                        "type": "bed"
+                    },
+                    {
+                        "amenity": "Ban công/sân hiên",
+                        "type": "balcony-terrace"
+                    },
+                    {
+                        "amenity": "Đồ dùng cho giấc ngủ thoải mái",
+                        "type": "confirmation-instant"
+                    },
+                    {
+                        "amenity": "Tủ lạnh nhỏ trong phòng",
+                        "type": "mini-bar"
+                    },
+                    {
+                        "amenity": "Không hút thuốc",
+                        "type": "non-smoking-room"
+                    },
+                    {
+                        "amenity": "Hành lang ngoài",
+                        "type": "confirmation-instant"
+                    },
+                    {
+                        "amenity": "phòng tắm riêng",
+                        "type": "bathrooms"
+                    }
+                ],
+                "price_options": [
+                    {
+                        "option_name": "Thông tin sức chứa phòng: 2 người lớn.",
+                        "option_price": "1.560.968\n₫",
+                        "amenities_for_price": []
+                    },
+                    {
+                        "option_name": "Thông tin sức chứa phòng: 2 người lớn.",
+                        "option_price": "1.679.453\n₫",
+                        "amenities_for_price": []
+                    },
+                    {
+                        "option_name": "Thông tin sức chứa phòng: 1 người lớn.",
+                        "option_price": "1.547.610\n₫",
+                        "amenities_for_price": []
+                    },
+                    {
+                        "option_name": "Thông tin sức chứa phòng: 1 người lớn.",
+                        "option_price": "1.604.938\n₫",
+                        "amenities_for_price": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "55329062",
+        "hotel_name": "Căn hộ 74 m² 1 phòng ngủ, 1 phòng tắm riêng ở Quận 9 (Khách Sạn Masteri Home cao cấp)",
+        "hotel_address": "Quận 9, Hồ Chí Minh, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Căn hộ (Apartment)",
+                "amenities": [
+                    {
+                        "amenity": "Diện tích phòng: 74 m²",
+                        "type": "sqm"
+                    },
+                    {
+                        "amenity": "1 giường đôi lớn & 1 giường đôi & 1 giường đơn",
+                        "type": "bed"
+                    },
+                    {
+                        "amenity": "2 phòng ngủ",
+                        "type": "bedroom"
+                    },
+                    {
+                        "amenity": "2 phòng tắm",
+                        "type": "bathrooms"
+                    },
+                    {
+                        "amenity": "Điều hòa",
+                        "type": "air-conditioning"
+                    }
+                ],
+                "price_options": [
+                    {
+                        "option_name": "Thông tin sức chứa phòng: 2 người lớn và 1 trẻ em.",
+                        "option_price": "1.863.619\n₫",
+                        "amenities_for_price": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "56623385",
+        "hotel_name": "Căn hộ studio 28 m² có 1 phòng tắm riêng ở Quận 4 (Mike House - Studio near D1, free Netflix)",
+        "hotel_address": "Quận 4, Hồ Chí Minh, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Căn hộ (Apartment)",
+                "amenities": [
+                    {
+                        "amenity": "Diện tích phòng: 28 m²",
+                        "type": "sqm"
+                    },
+                    {
+                        "amenity": "1 giường đôi nhỏ",
+                        "type": "bed"
+                    },
+                    {
+                        "amenity": "1 phòng tắm",
+                        "type": "bathrooms"
+                    },
+                    {
+                        "amenity": "Tủ quần áo",
+                        "type": "closet"
+                    },
+                    {
+                        "amenity": "Điều hòa",
+                        "type": "air-conditioning"
+                    },
+                    {
+                        "amenity": "Cà phê hòa tan miễn phí",
+                        "type": "complimentary-instant-coffee"
+                    },
+                    {
+                        "amenity": "Máy sấy tóc",
+                        "type": "hair-dryer"
+                    }
+                ],
+                "price_options": [
+                    {
+                        "option_name": "Thông tin sức chứa phòng: 2 người lớn và 1 trẻ em.",
+                        "option_price": "1.307.474\n₫",
+                        "amenities_for_price": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "75777787",
+        "hotel_name": "Kim Linh Hotel",
+        "hotel_address": "659 Son Tan Street, Ward 12, Go Vap District, Ho Chi Minh City, Gò Vấp, Hồ Chí Minh, Việt Nam, 00700",
+        "room_types": [
+            {
+                "room_type_name": "Phòng Đôi (Double Room)",
+                "amenities": [
+                    {
+                        "amenity": "Diện tích phòng: 20 m²",
+                        "type": "sqm"
+                    },
+                    {
+                        "amenity": "Hướng Vườn",
+                        "type": "views"
+                    },
+                    {
+                        "amenity": "1 giường đôi lớn",
+                        "type": "bed"
+                    },
+                    {
+                        "amenity": "Bồn tắm",
+                        "type": "bathtub"
+                    },
+                    {
+                        "amenity": "Chăn điện",
+                        "type": "electric-blanket"
+                    },
+                    {
+                        "amenity": "Tủ lạnh nhỏ trong phòng",
+                        "type": "mini-bar"
+                    },
+                    {
+                        "amenity": "Không hút thuốc",
+                        "type": "non-smoking-room"
+                    },
+                    {
+                        "amenity": "Hành lang ngoài",
+                        "type": "confirmation-instant"
+                    },
+                    {
+                        "amenity": "phòng tắm riêng",
+                        "type": "bathrooms"
+                    }
+                ],
+                "price_options": [
+                    {
+                        "option_name": "Thông tin sức chứa phòng: 4 người lớn.",
+                        "option_price": "638.889\n₫",
+                        "amenities_for_price": []
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Phòng Đơn (Single Room)",
+                "amenities": [
+                    {
+                        "amenity": "Diện tích phòng: 20 m²",
+                        "type": "sqm"
+                    },
+                    {
+                        "amenity": "Hướng Vườn",
+                        "type": "views"
+                    },
+                    {
+                        "amenity": "1 giường đơn",
+                        "type": "bed"
+                    },
+                    {
+                        "amenity": "Bồn tắm",
+                        "type": "bathtub"
+                    },
+                    {
+                        "amenity": "Chăn điện",
+                        "type": "electric-blanket"
+                    },
+                    {
+                        "amenity": "phòng tắm riêng",
+                        "type": "bathrooms"
+                    },
+                    {
+                        "amenity": "Điều hòa",
+                        "type": "air-conditioning"
+                    },
+                    {
+                        "amenity": "Nước đóng chai miễn phí",
+                        "type": "complimentary-bottled-water"
+                    },
+                    {
+                        "amenity": "Tủ lạnh",
+                        "type": "refrigerator"
+                    },
+                    {
+                        "amenity": "Máy sấy tóc",
+                        "type": "hair-dryer"
+                    }
+                ],
+                "price_options": [
+                    {
+                        "option_name": "Thông tin sức chứa phòng: 1 người lớn.",
+                        "option_price": "350.000\n₫",
+                        "amenities_for_price": []
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Phòng Đơn Loại Sang (Deluxe Single Room)",
+                "amenities": [
+                    {
+                        "amenity": "Diện tích phòng: 20 m²",
+                        "type": "sqm"
+                    },
+                    {
+                        "amenity": "Hướng Vườn",
+                        "type": "views"
+                    },
+                    {
+                        "amenity": "1 giường đơn và 1 giường đôi lớn",
+                        "type": "bed"
+                    },
+                    {
+                        "amenity": "Bồn tắm",
+                        "type": "bathtub"
+                    },
+                    {
+                        "amenity": "Đồ dùng cho giấc ngủ thoải mái",
+                        "type": "confirmation-instant"
+                    },
+                    {
+                        "amenity": "phòng tắm riêng",
+                        "type": "bathrooms"
+                    },
+                    {
+                        "amenity": "Điều hòa",
+                        "type": "air-conditioning"
+                    },
+                    {
+                        "amenity": "Tủ lạnh",
+                        "type": "refrigerator"
+                    },
+                    {
+                        "amenity": "Vòi sen",
+                        "type": "shower"
+                    }
+                ],
+                "price_options": [
+                    {
+                        "option_name": "Thông tin sức chứa phòng: 1 người lớn.",
+                        "option_price": "462.963\n₫",
+                        "amenities_for_price": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "51970451",
+        "hotel_name": "MONday Premium Aparts",
+        "hotel_address": "83 L Ch nh Thắng, Quận 3, Hồ Chí Minh, Việt Nam, 70000",
+        "room_types": [
+            {
+                "room_type_name": "Studio Có Ban Công (Studio with Balcony)",
+                "amenities": [
+                    {
+                        "amenity": "Diện tích phòng: 25 m²",
+                        "type": "sqm"
+                    },
+                    {
+                        "amenity": "Hướng Sông",
+                        "type": "views"
+                    },
+                    {
+                        "amenity": "1 giường đơn",
+                        "type": "bed"
+                    },
+                    {
+                        "amenity": "Ban công/sân hiên",
+                        "type": "balcony-terrace"
+                    },
+                    {
+                        "amenity": "phòng tắm riêng",
+                        "type": "bathrooms"
+                    },
+                    {
+                        "amenity": "Tủ quần áo",
+                        "type": "closet"
+                    },
+                    {
+                        "amenity": "Điều hòa",
+                        "type": "air-conditioning"
+                    },
+                    {
+                        "amenity": "Ấm nước điện",
+                        "type": "confirmation-instant"
+                    },
+                    {
+                        "amenity": "Tủ lạnh",
+                        "type": "refrigerator"
+                    },
+                    {
+                        "amenity": "Máy sấy tóc",
+                        "type": "hair-dryer"
+                    }
+                ],
+                "price_options": [
+                    {
+                        "option_name": "Thông tin sức chứa phòng: 2 người lớn.",
+                        "option_price": "1.750.000\n₫",
+                        "amenities_for_price": []
+                    },
+                    {
+                        "option_name": "Thông tin sức chứa phòng: 2 người lớn.",
+                        "option_price": "1.944.444\n₫",
+                        "amenities_for_price": []
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Suite có 2 Phòng ngủ (Two Bedroom Suite)",
+                "amenities": [
+                    {
+                        "amenity": "Diện tích phòng: 80 m²",
+                        "type": "sqm"
+                    },
+                    {
+                        "amenity": "Hướng Thành phố",
+                        "type": "views"
+                    },
+                    {
+                        "amenity": "2 giường đôi",
+                        "type": "bed"
+                    },
+                    {
+                        "amenity": "2 phòng tắm",
+                        "type": "bathrooms"
+                    },
+                    {
+                        "amenity": "Ban công/sân hiên",
+                        "type": "balcony-terrace"
+                    },
+                    {
+                        "amenity": "Cửa sổ",
+                        "type": "confirmation-instant"
+                    },
+                    {
+                        "amenity": "Không hút thuốc",
+                        "type": "non-smoking-room"
+                    },
+                    {
+                        "amenity": "Hành lang ngoài",
+                        "type": "confirmation-instant"
+                    },
+                    {
+                        "amenity": "phòng tắm riêng",
+                        "type": "bathrooms"
+                    },
+                    {
+                        "amenity": "Tủ quần áo",
+                        "type": "closet"
+                    }
+                ],
+                "price_options": [
+                    {
+                        "option_name": "Thông tin sức chứa phòng: 4 người lớn.",
+                        "option_price": "3.041.667\n₫",
+                        "amenities_for_price": []
+                    },
+                    {
+                        "option_name": "Thông tin sức chứa phòng: 4 người lớn.",
+                        "option_price": "3.379.630\n₫",
+                        "amenities_for_price": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "35963054",
+        "hotel_name": "Nhà riêng 87 m² 2 phòng ngủ, 2 phòng tắm riêng ở Quận 9 (Căn hộ cao cấp có view hồ bơi và công viên)",
+        "hotel_address": "Quận 9, Hồ Chí Minh, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Nhà riêng (home )",
+                "amenities": [
+                    {
+                        "amenity": "Diện tích phòng: 87 m²",
+                        "type": "sqm"
+                    },
+                    {
+                        "amenity": "2 giường đôi & 1 giường đơn",
+                        "type": "bed"
+                    },
+                    {
+                        "amenity": "2 phòng ngủ",
+                        "type": "bedroom"
+                    },
+                    {
+                        "amenity": "2 phòng tắm",
+                        "type": "bathrooms"
+                    },
+                    {
+                        "amenity": "Điều hòa",
+                        "type": "air-conditioning"
+                    },
+                    {
+                        "amenity": "Máy pha trà/cà phê",
+                        "type": "coffee-tea-maker"
+                    },
+                    {
+                        "amenity": "Máy sấy tóc",
+                        "type": "hair-dryer"
+                    }
+                ],
+                "price_options": [
+                    {
+                        "option_name": "Thông tin sức chứa phòng: 2 người lớn.",
+                        "option_price": "2.031.214\n₫",
+                        "amenities_for_price": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "9830918",
+        "room_types": [
+            {
+                "room_type_name": "Villa riêng (Private Villa)",
+                "amenities": [
+                    {
+                        "amenity": "Diện tích phòng: 40 m²",
+                        "type": "sqm"
+                    },
+                    {
+                        "amenity": "2 giường đơn",
+                        "type": "bed"
+                    },
+                    {
+                        "amenity": "1 phòng tắm",
+                        "type": "bathrooms"
+                    },
+                    {
+                        "amenity": "Cho phép hút thuốc",
+                        "type": "smoking-allowed"
+                    },
+                    {
+                        "amenity": "Tủ quần áo",
+                        "type": "closet"
+                    },
+                    {
+                        "amenity": "Điều hòa",
+                        "type": "air-conditioning"
+                    },
+                    {
+                        "amenity": "Cà phê hòa tan miễn phí",
+                        "type": "complimentary-instant-coffee"
+                    }
+                ],
+                "price_options": [
+                    {
+                        "option_name": "Thông tin sức chứa phòng: 2 người lớn và 1 trẻ em.",
+                        "option_price": "4.674.593\n₫",
+                        "amenities_for_price": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "5784267",
+        "hotel_name": "Khách sạn Thiên Cung (Thien Cung Hotel)",
+        "hotel_address": "69-69A A4, 12 ward, Tan Binh District, Ho Chi Minh City, Tân Bình, Hồ Chí Minh, Việt Nam, 70000",
+        "room_types": [
+            {
+                "room_type_name": "Standard Double Room",
+                "amenities": [
+                    {
+                        "amenity": "Diện tích phòng: 17 m²",
+                        "type": "sqm"
+                    },
+                    {
+                        "amenity": "1 giường đôi",
+                        "type": "bed"
+                    },
+                    {
+                        "amenity": "Điều hòa",
+                        "type": "air-conditioning"
+                    },
+                    {
+                        "amenity": "Vòi sen",
+                        "type": "shower"
+                    }
+                ],
+                "price_options": [
+                    {
+                        "option_name": "Thông tin sức chứa phòng: 2 người lớn.",
+                        "option_price": "409.661\n₫",
+                        "amenities_for_price": []
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Phòng Tiêu Chuẩn Có Giường Cỡ King (Standard King Room)",
+                "amenities": [
+                    {
+                        "amenity": "Diện tích phòng: 20 m²",
+                        "type": "sqm"
+                    },
+                    {
+                        "amenity": "Hướng Thành phố",
+                        "type": "views"
+                    },
+                    {
+                        "amenity": "1 giường lớn",
+                        "type": "bed"
+                    },
+                    {
+                        "amenity": "Cửa sổ",
+                        "type": "confirmation-instant"
+                    },
+                    {
+                        "amenity": "Giường cực dài",
+                        "type": "extra-long-beds"
+                    },
+                    {
+                        "amenity": "Rèm che ánh sáng",
+                        "type": "blackout-curtains"
+                    },
+                    {
+                        "amenity": "Trái cây/đồ ăn vặt",
+                        "type": "confirmation-instant"
+                    },
+                    {
+                        "amenity": "Không hút thuốc",
+                        "type": "non-smoking-room"
+                    },
+                    {
+                        "amenity": "phòng tắm riêng",
+                        "type": "bathrooms"
+                    },
+                    {
+                        "amenity": "Truy cập Internet - không dây",
+                        "type": "wifi"
+                    }
+                ],
+                "price_options": [
+                    {
+                        "option_name": "Thông tin sức chứa phòng: 2 người lớn.",
+                        "option_price": "464.210\n₫",
+                        "amenities_for_price": []
+                    },
+                    {
+                        "option_name": "Thông tin sức chứa phòng: 2 người lớn.",
+                        "option_price": "503.704\n₫",
+                        "amenities_for_price": []
+                    },
+                    {
+                        "option_name": "Thông tin sức chứa phòng: 1 người lớn.",
+                        "option_price": "488.593\n₫",
+                        "amenities_for_price": []
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Phòng Loại Sang (Deluxe Room)",
+                "amenities": [
+                    {
+                        "amenity": "Diện tích phòng: 30 m²",
+                        "type": "sqm"
+                    },
+                    {
+                        "amenity": "Hướng Thành phố",
+                        "type": "views"
+                    },
+                    {
+                        "amenity": "1 giường lớn",
+                        "type": "bed"
+                    },
+                    {
+                        "amenity": "Ban công/sân hiên",
+                        "type": "balcony-terrace"
+                    },
+                    {
+                        "amenity": "Giường cực dài",
+                        "type": "extra-long-beds"
+                    },
+                    {
+                        "amenity": "Trái cây/đồ ăn vặt",
+                        "type": "confirmation-instant"
+                    },
+                    {
+                        "amenity": "Không hút thuốc",
+                        "type": "non-smoking-room"
+                    },
+                    {
+                        "amenity": "phòng tắm riêng",
+                        "type": "bathrooms"
+                    },
+                    {
+                        "amenity": "Phòng thay đồ",
+                        "type": "dressing-room"
+                    }
+                ],
+                "price_options": [
+                    {
+                        "option_name": "Thông tin sức chứa phòng: 2 người lớn.",
+                        "option_price": "549.738\n₫",
+                        "amenities_for_price": []
+                    },
+                    {
+                        "option_name": "Thông tin sức chứa phòng: 2 người lớn.",
+                        "option_price": "658.333\n₫",
+                        "amenities_for_price": []
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Phòng 4 Người Có Bồn Tắm (Quadruple Room with Bath)",
+                "amenities": [
+                    {
+                        "amenity": "Diện tích phòng: 35 m²",
+                        "type": "sqm"
+                    },
+                    {
+                        "amenity": "Hướng Ngoài trời",
+                        "type": "views"
+                    },
+                    {
+                        "amenity": "2 giường đơn",
+                        "type": "bed"
+                    },
+                    {
+                        "amenity": "Bồn tắm tạo sóng",
+                        "type": "jacuzzi-bathtub"
+                    },
+                    {
+                        "amenity": "Ban công/sân hiên",
+                        "type": "balcony-terrace"
+                    },
+                    {
+                        "amenity": "Giường cực dài",
+                        "type": "extra-long-beds"
+                    },
+                    {
+                        "amenity": "Trái cây/đồ ăn vặt",
+                        "type": "confirmation-instant"
+                    },
+                    {
+                        "amenity": "phòng tắm riêng",
+                        "type": "bathrooms"
+                    },
+                    {
+                        "amenity": "Phòng thay đồ",
+                        "type": "dressing-room"
+                    },
+                    {
+                        "amenity": "Điều hòa",
+                        "type": "air-conditioning"
+                    }
+                ],
+                "price_options": [
+                    {
+                        "option_name": "Thông tin sức chứa phòng: 4 người lớn.",
+                        "option_price": "899.074\n₫",
+                        "amenities_for_price": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "54690265",
+        "hotel_name": "Nhà riêng 100 m² 1 phòng ngủ, 1 phòng tắm riêng ở Quận 4 (20% OFF Budget Hideout @Pham Ngu Lao 127DT)",
+        "hotel_address": "Quận 1, Hồ Chí Minh, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Căn hộ (Apartment)",
+                "amenities": [
+                    {
+                        "amenity": "Diện tích phòng: 30 m²",
+                        "type": "sqm"
+                    },
+                    {
+                        "amenity": "2 giường đôi lớn",
+                        "type": "bed"
+                    },
+                    {
+                        "amenity": "Studio/1 phòng ngủ",
+                        "type": "bedroom"
+                    },
+                    {
+                        "amenity": "1 phòng tắm",
+                        "type": "bathrooms"
+                    },
+                    {
+                        "amenity": "Điều hòa",
+                        "type": "air-conditioning"
+                    },
+                    {
+                        "amenity": "Máy pha trà/cà phê",
+                        "type": "coffee-tea-maker"
+                    },
+                    {
+                        "amenity": "Máy sấy tóc",
+                        "type": "hair-dryer"
+                    }
+                ],
+                "price_options": [
+                    {
+                        "option_name": "Thông tin sức chứa phòng: 2 người lớn và 1 trẻ em.",
+                        "option_price": "784.802\n₫",
+                        "amenities_for_price": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "62112022",
+        "hotel_name": "Biệt thự 500 m² 4 phòng ngủ, 4 phòng tắm riêng ở Bình Thạnh (Villa 12 12)",
+        "hotel_address": "Quận 2, Hồ Chí Minh, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Villa riêng (Private Villa)",
+                "amenities": [
+                    {
+                        "amenity": "Diện tích phòng: 500 m²",
+                        "type": "sqm"
+                    },
+                    {
+                        "amenity": "1 giường đôi lớn & 2 giường đôi lớn & 1 giường đôi lớn & 3 giường đôi",
+                        "type": "bed"
+                    },
+                    {
+                        "amenity": "4 phòng ngủ",
+                        "type": "bedroom"
+                    },
+                    {
+                        "amenity": "4 phòng tắm",
+                        "type": "bathrooms"
+                    },
+                    {
+                        "amenity": "Bể bơi riêng",
+                        "type": "private-pool"
+                    },
+                    {
+                        "amenity": "Cho phép hút thuốc",
+                        "type": "smoking-allowed"
+                    },
+                    {
+                        "amenity": "Tủ quần áo",
+                        "type": "closet"
+                    },
+                    {
+                        "amenity": "Điều hòa",
+                        "type": "air-conditioning"
+                    },
+                    {
+                        "amenity": "Cà phê hòa tan miễn phí",
+                        "type": "complimentary-instant-coffee"
+                    }
+                ],
+                "price_options": [
+                    {
+                        "option_name": "Thông tin sức chứa phòng: 2 người lớn và 1 trẻ em.",
+                        "option_price": "14.285.208\n₫",
+                        "amenities_for_price": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "59212065",
+        "hotel_name": "Căn hộ nghỉ dưỡng cao cấp Masteri An Phú Quận 2 (Masteri An Phu - High Class Retreat Apt Distrist 2)",
+        "hotel_address": "191 Đ. V Nguy n Gi p, Quận 2, Hồ Chí Minh, Việt Nam, 700000",
+        "room_types": [
+            {
+                "room_type_name": "Căn Hộ Superior 1 Phòng Ngủ (Superior One-Bedroom Apartment)",
+                "amenities": [
+                    {
+                        "amenity": "Diện tích phòng: 60 m²",
+                        "type": "sqm"
+                    },
+                    {
+                        "amenity": "Hướng Sông",
+                        "type": "views"
+                    },
+                    {
+                        "amenity": "1 giường đôi lớn",
+                        "type": "bed"
+                    },
+                    {
+                        "amenity": "Ban công/sân hiên",
+                        "type": "balcony-terrace"
+                    },
+                    {
+                        "amenity": "Đồ dùng cho giấc ngủ thoải mái",
+                        "type": "confirmation-instant"
+                    },
+                    {
+                        "amenity": "phòng tắm riêng",
+                        "type": "bathrooms"
+                    },
+                    {
+                        "amenity": "Phòng thay đồ",
+                        "type": "dressing-room"
+                    },
+                    {
+                        "amenity": "Điều hòa cá nhân",
+                        "type": "confirmation-instant"
+                    },
+                    {
+                        "amenity": "Ấm nước điện",
+                        "type": "confirmation-instant"
+                    },
+                    {
+                        "amenity": "Tủ lạnh",
+                        "type": "refrigerator"
+                    }
+                ],
+                "price_options": [
+                    {
+                        "option_name": "Thông tin sức chứa phòng: 2 người lớn và 1 trẻ em.",
+                        "option_price": "2.271.948\n₫",
+                        "amenities_for_price": []
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Căn hộ Deluxe 2 Phòng ngủ (Two-Bedroom Deluxe Apartment)",
+                "amenities": [
+                    {
+                        "amenity": "Diện tích phòng: 70 m²",
+                        "type": "sqm"
+                    },
+                    {
+                        "amenity": "Hướng Sông",
+                        "type": "views"
+                    },
+                    {
+                        "amenity": "1 giường đôi lớn & 1 giường đôi lớn",
+                        "type": "bed"
+                    },
+                    {
+                        "amenity": "2 phòng ngủ",
+                        "type": "bedroom"
+                    },
+                    {
+                        "amenity": "2 phòng tắm",
+                        "type": "bathrooms"
+                    },
+                    {
+                        "amenity": "Ban công/sân hiên",
+                        "type": "balcony-terrace"
+                    },
+                    {
+                        "amenity": "Đồ dùng cho giấc ngủ thoải mái",
+                        "type": "confirmation-instant"
+                    },
+                    {
+                        "amenity": "phòng tắm riêng",
+                        "type": "bathrooms"
+                    },
+                    {
+                        "amenity": "Phòng thay đồ",
+                        "type": "dressing-room"
+                    },
+                    {
+                        "amenity": "Điều hòa cá nhân",
+                        "type": "confirmation-instant"
+                    }
+                ],
+                "price_options": [
+                    {
+                        "option_name": "Thông tin sức chứa phòng: 4 người lớn và 1 trẻ em.",
+                        "option_price": "2.621.478\n₫",
+                        "amenities_for_price": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "63373664",
+        "hotel_name": "Khách sạn Kathy (Kathy Hotel)",
+        "hotel_address": "127/32 Hoàng Hoa Thám, Tân Bình, Hồ Chí Minh, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Phòng Đôi (Double Room)",
+                "amenities": [
+                    {
+                        "amenity": "Diện tích phòng: 18 m²",
+                        "type": "sqm"
+                    },
+                    {
+                        "amenity": "1 giường đôi",
+                        "type": "bed"
+                    },
+                    {
+                        "amenity": "Cửa sổ",
+                        "type": "confirmation-instant"
+                    },
+                    {
+                        "amenity": "Rèm che ánh sáng",
+                        "type": "blackout-curtains"
+                    },
+                    {
+                        "amenity": "Không hút thuốc",
+                        "type": "non-smoking-room"
+                    },
+                    {
+                        "amenity": "phòng tắm riêng",
+                        "type": "bathrooms"
+                    },
+                    {
+                        "amenity": "Tủ quần áo",
+                        "type": "closet"
+                    },
+                    {
+                        "amenity": "Điều hòa cá nhân",
+                        "type": "confirmation-instant"
+                    },
+                    {
+                        "amenity": "Nước đóng chai miễn phí",
+                        "type": "complimentary-bottled-water"
+                    }
+                ],
+                "price_options": [
+                    {
+                        "option_name": "Thông tin sức chứa phòng: 2 người lớn và 1 trẻ em.",
+                        "option_price": "405.010\n₫",
+                        "amenities_for_price": []
+                    },
+                    {
+                        "option_name": "Thông tin sức chứa phòng: 2 người lớn và 1 trẻ em.",
+                        "option_price": "475.200\n₫",
+                        "amenities_for_price": []
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Phòng Loại Sang Giường Đôi (Deluxe Double Room)",
+                "amenities": [
+                    {
+                        "amenity": "Diện tích phòng: 20 m²",
+                        "type": "sqm"
+                    },
+                    {
+                        "amenity": "1 giường đôi",
+                        "type": "bed"
+                    },
+                    {
+                        "amenity": "Cửa sổ",
+                        "type": "confirmation-instant"
+                    },
+                    {
+                        "amenity": "Rèm che ánh sáng",
+                        "type": "blackout-curtains"
+                    },
+                    {
+                        "amenity": "Không hút thuốc",
+                        "type": "non-smoking-room"
+                    },
+                    {
+                        "amenity": "phòng tắm riêng",
+                        "type": "bathrooms"
+                    },
+                    {
+                        "amenity": "Tủ quần áo",
+                        "type": "closet"
+                    },
+                    {
+                        "amenity": "Điều hòa cá nhân",
+                        "type": "confirmation-instant"
+                    },
+                    {
+                        "amenity": "Nước đóng chai miễn phí",
+                        "type": "complimentary-bottled-water"
+                    }
+                ],
+                "price_options": [
+                    {
+                        "option_name": "Thông tin sức chứa phòng: 2 người lớn và 1 trẻ em.",
+                        "option_price": "422.326\n₫",
+                        "amenities_for_price": []
+                    },
+                    {
+                        "option_name": "Thông tin sức chứa phòng: 2 người lớn và 1 trẻ em.",
+                        "option_price": "542.993\n₫",
+                        "amenities_for_price": []
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Phòng 4 người (Quadruple Room)",
+                "amenities": [
+                    {
+                        "amenity": "Diện tích phòng: 25 m²",
+                        "type": "sqm"
+                    },
+                    {
+                        "amenity": "2 giường đôi",
+                        "type": "bed"
+                    },
+                    {
+                        "amenity": "Cửa sổ",
+                        "type": "confirmation-instant"
+                    },
+                    {
+                        "amenity": "Rèm che ánh sáng",
+                        "type": "blackout-curtains"
+                    },
+                    {
+                        "amenity": "Không hút thuốc",
+                        "type": "non-smoking-room"
+                    },
+                    {
+                        "amenity": "phòng tắm riêng",
+                        "type": "bathrooms"
+                    },
+                    {
+                        "amenity": "Tủ quần áo",
+                        "type": "closet"
+                    },
+                    {
+                        "amenity": "Điều hòa cá nhân",
+                        "type": "confirmation-instant"
+                    },
+                    {
+                        "amenity": "Nước đóng chai miễn phí",
+                        "type": "complimentary-bottled-water"
+                    }
+                ],
+                "price_options": [
+                    {
+                        "option_name": "Thông tin sức chứa phòng: 4 người lớn và 1 trẻ em.",
+                        "option_price": "549.478\n₫",
+                        "amenities_for_price": []
+                    },
+                    {
+                        "option_name": "Thông tin sức chứa phòng: 4 người lớn và 1 trẻ em.",
+                        "option_price": "678.578\n₫",
+                        "amenities_for_price": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "55624189",
+        "room_types": [
+            {
+                "room_type_name": "Nhà riêng (home )",
+                "amenities": [
+                    {
+                        "amenity": "Diện tích phòng: 100 m²",
+                        "type": "sqm"
+                    },
+                    {
+                        "amenity": "2 giường đôi lớn & 2 giường đôi lớn",
+                        "type": "bed"
+                    },
+                    {
+                        "amenity": "2 phòng ngủ",
+                        "type": "bedroom"
+                    },
+                    {
+                        "amenity": "2 phòng tắm",
+                        "type": "bathrooms"
+                    },
+                    {
+                        "amenity": "Cho phép hút thuốc",
+                        "type": "smoking-allowed"
+                    },
+                    {
+                        "amenity": "Điều hòa",
+                        "type": "air-conditioning"
+                    },
+                    {
+                        "amenity": "Máy sấy tóc",
+                        "type": "hair-dryer"
+                    }
+                ],
+                "price_options": [
+                    {
+                        "option_name": "Thông tin sức chứa phòng: 2 người lớn và 1 trẻ em.",
+                        "option_price": "2.262.963\n₫",
+                        "amenities_for_price": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "33129289",
+        "hotel_name": "Nhà riêng 35 m² 1 phòng ngủ, 1 phòng tắm riêng ở Thủ Đức (Green House)",
+        "hotel_address": "Thủ Đức, Hồ Chí Minh, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Nhà riêng (home )",
+                "amenities": [
+                    {
+                        "amenity": "Diện tích phòng: 35 m²",
+                        "type": "sqm"
+                    },
+                    {
+                        "amenity": "1 giường đôi lớn",
+                        "type": "bed"
+                    },
+                    {
+                        "amenity": "Studio/1 phòng ngủ",
+                        "type": "bedroom"
+                    },
+                    {
+                        "amenity": "1 phòng tắm",
+                        "type": "bathrooms"
+                    },
+                    {
+                        "amenity": "Cho phép hút thuốc",
+                        "type": "smoking-allowed"
+                    },
+                    {
+                        "amenity": "Tủ quần áo",
+                        "type": "closet"
+                    },
+                    {
+                        "amenity": "Điều hòa",
+                        "type": "air-conditioning"
+                    },
+                    {
+                        "amenity": "Máy sấy tóc",
+                        "type": "hair-dryer"
+                    }
+                ],
+                "price_options": [
+                    {
+                        "option_name": "Thông tin sức chứa phòng: 2 người lớn và 1 trẻ em.",
+                        "option_price": "852.351\n₫",
+                        "amenities_for_price": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "67520188",
+        "hotel_name": "Collection O Quận Tân Bình Gần Sân bay (trước đây là Joy Inn) (Collection O District Tan Binh Near Airport Formerly Joy Inn)",
+        "hotel_address": "419, Cong Hoa, Tan Binh District, Ho-Chi-Minh, Tân Bình, Hồ Chí Minh, Việt Nam, 5500000",
+        "room_types": [
+            {
+                "room_type_name": "Deluxe giường đôi (Deluxe Double)",
+                "amenities": [
+                    {
+                        "amenity": "Diện tích phòng: 15 m²",
+                        "type": "sqm"
+                    },
+                    {
+                        "amenity": "1 giường đôi",
+                        "type": "bed"
+                    },
+                    {
+                        "amenity": "Điều hòa",
+                        "type": "air-conditioning"
+                    }
+                ],
+                "price_options": [
+                    {
+                        "option_name": "Thông tin sức chứa phòng: 2 người lớn và 1 trẻ em.",
+                        "option_price": "456.460\n₫",
+                        "amenities_for_price": []
+                    },
+                    {
+                        "option_name": "Thông tin sức chứa phòng: 2 người lớn.",
+                        "option_price": "545.027\n₫",
+                        "amenities_for_price": []
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Superior giường đôi (Superior Double)",
+                "amenities": [
+                    {
+                        "amenity": "Diện tích phòng: 15 m²",
+                        "type": "sqm"
+                    },
+                    {
+                        "amenity": "1 giường đôi",
+                        "type": "bed"
+                    },
+                    {
+                        "amenity": "Điều hòa",
+                        "type": "air-conditioning"
+                    }
+                ],
+                "price_options": [
+                    {
+                        "option_name": "Thông tin sức chứa phòng: 2 người lớn và 1 trẻ em.",
+                        "option_price": "465.230\n₫",
+                        "amenities_for_price": []
+                    },
+                    {
+                        "option_name": "Thông tin sức chứa phòng: 2 người lớn.",
+                        "option_price": "501.345\n₫",
+                        "amenities_for_price": []
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Suite Đôi (Suite Double)",
+                "amenities": [
+                    {
+                        "amenity": "Diện tích phòng: 15 m²",
+                        "type": "sqm"
+                    },
+                    {
+                        "amenity": "1 giường đôi",
+                        "type": "bed"
+                    },
+                    {
+                        "amenity": "Điều hòa",
+                        "type": "air-conditioning"
+                    }
+                ],
+                "price_options": [
+                    {
+                        "option_name": "Thông tin sức chứa phòng: 2 người lớn và 1 trẻ em.",
+                        "option_price": "513.467\n₫",
+                        "amenities_for_price": []
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Suite Deluxe (Deluxe Suite)",
+                "amenities": [
+                    {
+                        "amenity": "1 giường đôi lớn",
+                        "type": "bed"
+                    },
+                    {
+                        "amenity": "Điều hòa",
+                        "type": "air-conditioning"
+                    }
+                ],
+                "price_options": [
+                    {
+                        "option_name": "Thông tin sức chứa phòng: 2 người lớn.",
+                        "option_price": "601.614\n₫",
+                        "amenities_for_price": []
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Superior gia đình (Superior Family)",
+                "amenities": [
+                    {
+                        "amenity": "Diện tích phòng: 15 m²",
+                        "type": "sqm"
+                    },
+                    {
+                        "amenity": "2 giường đôi",
+                        "type": "bed"
+                    },
+                    {
+                        "amenity": "Điều hòa",
+                        "type": "air-conditioning"
+                    }
+                ],
+                "price_options": [
+                    {
+                        "option_name": "Thông tin sức chứa phòng: 4 người lớn.",
+                        "option_price": "766.209\n₫",
+                        "amenities_for_price": []
+                    },
+                    {
+                        "option_name": "Thông tin sức chứa phòng: 4 người lớn.",
+                        "option_price": "859.732\n₫",
+                        "amenities_for_price": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "38224123",
+        "hotel_name": "Căn hộ 75 m² 2 phòng ngủ, 2 phòng tắm riêng ở Phú Nhuận (Botanica Premier - Căn hộ tiện nghi, giá rẻ)",
+        "hotel_address": "Tân Bình, Hồ Chí Minh, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Căn hộ (Apartment)",
+                "amenities": [
+                    {
+                        "amenity": "Diện tích phòng: 75 m²",
+                        "type": "sqm"
+                    },
+                    {
+                        "amenity": "1 giường đôi lớn & 1 giường đôi lớn",
+                        "type": "bed"
+                    },
+                    {
+                        "amenity": "2 phòng ngủ",
+                        "type": "bedroom"
+                    },
+                    {
+                        "amenity": "2 phòng tắm",
+                        "type": "bathrooms"
+                    },
+                    {
+                        "amenity": "Điều hòa",
+                        "type": "air-conditioning"
+                    }
+                ],
+                "price_options": [
+                    {
+                        "option_name": "Thông tin sức chứa phòng: 2 người lớn và 1 trẻ em.",
+                        "option_price": "1.465.022\n₫",
+                        "amenities_for_price": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "74434219",
+        "hotel_name": "VINHOMES GRAND PARK Chillin Home 1BR Best View",
+        "hotel_address": "Quận 9, Hồ Chí Minh, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Căn Hộ 1 Phòng Ngủ (One-Bedroom Apartment)",
+                "amenities": [
+                    {
+                        "amenity": "Diện tích phòng: 65 m²",
+                        "type": "sqm"
+                    },
+                    {
+                        "amenity": "Hướng Vườn",
+                        "type": "views"
+                    },
+                    {
+                        "amenity": "1 giường đôi",
+                        "type": "bed"
+                    },
+                    {
+                        "amenity": "Studio/1 phòng ngủ",
+                        "type": "bedroom"
+                    },
+                    {
+                        "amenity": "1 phòng tắm",
+                        "type": "bathrooms"
+                    },
+                    {
+                        "amenity": "Phòng xông khô",
+                        "type": "confirmation-instant"
+                    },
+                    {
+                        "amenity": "Bể bơi riêng",
+                        "type": "private-pool"
+                    },
+                    {
+                        "amenity": "Bồn tắm tạo sóng",
+                        "type": "jacuzzi-bathtub"
+                    },
+                    {
+                        "amenity": "Ban công/sân hiên",
+                        "type": "balcony-terrace"
+                    },
+                    {
+                        "amenity": "Tủ lạnh nhỏ trong phòng",
+                        "type": "mini-bar"
+                    }
+                ],
+                "price_options": [
+                    {
+                        "option_name": "Thông tin sức chứa phòng: 2 người lớn.",
+                        "option_price": "703.125\n₫",
+                        "amenities_for_price": []
+                    },
+                    {
+                        "option_name": "Thông tin sức chứa phòng: 2 người lớn.",
+                        "option_price": "781.250\n₫",
+                        "amenities_for_price": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "38715522",
+        "hotel_name": "Luxury Apartment in Tan Binh district,near Airport",
+        "hotel_address": "Tân Bình, Hồ Chí Minh, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Căn Hộ 1 Phòng Ngủ (One-Bedroom Apartment)",
+                "amenities": [
+                    {
+                        "amenity": "Diện tích phòng: 60 m²",
+                        "type": "sqm"
+                    },
+                    {
+                        "amenity": "Hướng Ngoài trời",
+                        "type": "views"
+                    },
+                    {
+                        "amenity": "1 giường sofa & 1 giường đôi và 1 giường đôi lớn",
+                        "type": "bed"
+                    },
+                    {
+                        "amenity": "Studio/1 phòng ngủ",
+                        "type": "bedroom"
+                    },
+                    {
+                        "amenity": "1 phòng tắm",
+                        "type": "bathrooms"
+                    },
+                    {
+                        "amenity": "Bể bơi riêng",
+                        "type": "private-pool"
+                    },
+                    {
+                        "amenity": "Ban công/sân hiên",
+                        "type": "balcony-terrace"
+                    },
+                    {
+                        "amenity": "Đồ dùng cho giấc ngủ thoải mái",
+                        "type": "confirmation-instant"
+                    },
+                    {
+                        "amenity": "Tủ quần áo",
+                        "type": "closet"
+                    },
+                    {
+                        "amenity": "Điều hòa",
+                        "type": "air-conditioning"
+                    }
+                ],
+                "price_options": [
+                    {
+                        "option_name": "Thông tin sức chứa phòng: 2 người lớn.",
+                        "option_price": "1.296.296\n₫",
+                        "amenities_for_price": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "52199883",
+        "hotel_name": "Căn hộ studio 48 m² có 1 phòng tắm riêng ở Phú Nhuận (Nice Studio-Airport-High class serviced-10 stars)",
+        "hotel_address": "Phú Nhuận, Hồ Chí Minh, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Căn hộ (Apartment)",
+                "amenities": [
+                    {
+                        "amenity": "Diện tích phòng: 35 m²",
+                        "type": "sqm"
+                    },
+                    {
+                        "amenity": "1 giường đôi",
+                        "type": "bed"
+                    },
+                    {
+                        "amenity": "1 phòng tắm",
+                        "type": "bathrooms"
+                    },
+                    {
+                        "amenity": "Điều hòa",
+                        "type": "air-conditioning"
+                    },
+                    {
+                        "amenity": "Máy sấy tóc",
+                        "type": "hair-dryer"
+                    }
+                ],
+                "price_options": [
+                    {
+                        "option_name": "Thông tin sức chứa phòng: 2 người lớn và 1 trẻ em.",
+                        "option_price": "1.366.188\n₫",
+                        "amenities_for_price": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "75875933",
+        "hotel_name": "Tuan Viet Hotel",
+        "hotel_address": "Hồ Chí Minh 230A Đinh Tien Hoang 1, Tân Bình, Hồ Chí Minh, Việt Nam, 71007",
+        "room_types": [
+            {
+                "room_type_name": "Phòng Đôi (Double Room)",
+                "amenities": [
+                    {
+                        "amenity": "Diện tích phòng: 20 m²",
+                        "type": "sqm"
+                    },
+                    {
+                        "amenity": "1 giường đôi",
+                        "type": "bed"
+                    },
+                    {
+                        "amenity": "phòng tắm riêng",
+                        "type": "bathrooms"
+                    },
+                    {
+                        "amenity": "Điều hòa cá nhân",
+                        "type": "confirmation-instant"
+                    },
+                    {
+                        "amenity": "Ấm nước điện",
+                        "type": "confirmation-instant"
+                    },
+                    {
+                        "amenity": "Máy sấy tóc",
+                        "type": "hair-dryer"
+                    },
+                    {
+                        "amenity": "Vòi sen",
+                        "type": "shower"
+                    }
+                ],
+                "price_options": [
+                    {
+                        "option_name": "Thông tin sức chứa phòng: 2 người lớn.",
+                        "option_price": "650.000\n₫",
+                        "amenities_for_price": []
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Phòng Có 2 Giường Cỡ Queen (Queen Room with Two Queen Beds)",
+                "amenities": [
+                    {
+                        "amenity": "Diện tích phòng: 25 m²",
+                        "type": "sqm"
+                    },
+                    {
+                        "amenity": "Hướng Ngoài trời",
+                        "type": "views"
+                    },
+                    {
+                        "amenity": "2 giường đôi",
+                        "type": "bed"
+                    },
+                    {
+                        "amenity": "Ban công/sân hiên",
+                        "type": "balcony-terrace"
+                    },
+                    {
+                        "amenity": "phòng tắm riêng",
+                        "type": "bathrooms"
+                    },
+                    {
+                        "amenity": "Điều hòa",
+                        "type": "air-conditioning"
+                    },
+                    {
+                        "amenity": "Ấm nước điện",
+                        "type": "confirmation-instant"
+                    },
+                    {
+                        "amenity": "Máy sấy tóc",
+                        "type": "hair-dryer"
+                    },
+                    {
+                        "amenity": "Vòi sen",
+                        "type": "shower"
+                    }
+                ],
+                "price_options": [
+                    {
+                        "option_name": "Thông tin sức chứa phòng: 4 người lớn.",
+                        "option_price": "883.333\n₫",
+                        "amenities_for_price": []
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Phòng Có 2 Giường Cỡ King (King Room with Two King Beds)",
+                "amenities": [
+                    {
+                        "amenity": "Diện tích phòng: 25 m²",
+                        "type": "sqm"
+                    },
+                    {
+                        "amenity": "Hướng Ngoài trời",
+                        "type": "views"
+                    },
+                    {
+                        "amenity": "2 giường đôi lớn",
+                        "type": "bed"
+                    },
+                    {
+                        "amenity": "Ban công/sân hiên",
+                        "type": "balcony-terrace"
+                    },
+                    {
+                        "amenity": "phòng tắm riêng",
+                        "type": "bathrooms"
+                    },
+                    {
+                        "amenity": "Điều hòa",
+                        "type": "air-conditioning"
+                    },
+                    {
+                        "amenity": "Ấm nước điện",
+                        "type": "confirmation-instant"
+                    },
+                    {
+                        "amenity": "Máy sấy tóc",
+                        "type": "hair-dryer"
+                    },
+                    {
+                        "amenity": "Vòi sen",
+                        "type": "shower"
+                    }
+                ],
+                "price_options": [
+                    {
+                        "option_name": "Thông tin sức chứa phòng: 2 người lớn.",
+                        "option_price": "883.333\n₫",
+                        "amenities_for_price": []
+                    }
+                ]
+            }
+        ]
+    }
+]
