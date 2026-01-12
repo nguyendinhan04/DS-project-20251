@@ -1,0 +1,1683 @@
+[
+    {
+        "hotel_id": "59026454",
+        "hotel_name": "Nhà trệt 35 m² 1 phòng ngủ, 1 phòng tắm riêng ở Ấp Nhơn Lộc (Dưa Hấu House)",
+        "hotel_address": "Trung tâm thành phố Cần Thơ, Cần Thơ, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Nhà trệt (Bungalow)",
+                "amenities": [
+                    "Studio/1 phòng ngủ",
+                    "1 phòng tắm",
+                    "Máy sấy tóc",
+                    "Wi-Fi [miễn phí]",
+                    "Điều hòa",
+                    "Cho phép hút thuốc",
+                    "35 m²",
+                    "Tối đa 4 người lớn",
+                    "1 giường đơn / 1 giường đôi"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "4 người lớn & 1 trẻ em (0-7 tuổi)",
+                        "option_price": "513.339",
+                        "amenities_for_price": [
+                            "4 người lớn & 1 trẻ em (0-7 tuổi)",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 15.762 ₫!"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "59498421",
+        "hotel_name": "Căn hộ m² 1 phòng ngủ, 1 phòng tắm riêng ở Cái Khế (Nhà Nghỉ 131)",
+        "hotel_address": "Cái Khế, Cần Thơ, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Căn hộ (Apartment)",
+                "amenities": [
+                    "8 phòng ngủ",
+                    "8 phòng tắm",
+                    "Wi-Fi [miễn phí]",
+                    "Điều hòa",
+                    "Tối đa 16 người lớn",
+                    "1 giường đôi lớn / 1 giường đơn / 1 giường đơn / 1 giường đơn / 1 giường đơn / 1 giường đơn / 1 giường đơn / 1 giường đơn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "16 người lớn & 1 trẻ em (0-7 tuổi)",
+                        "option_price": "211.973",
+                        "amenities_for_price": [
+                            "16 người lớn & 1 trẻ em (0-7 tuổi)",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 8.485 ₫!"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "59711199",
+        "hotel_name": "Nhà riêng m² 1 phòng ngủ, 1 phòng tắm riêng ở An Khánh (Nhà nguyên căn 1 phòng ngủ, ở trung tâm)",
+        "hotel_address": "An Khánh, Cần Thơ, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Nhà riêng (home)",
+                "amenities": [
+                    "Studio/1 phòng ngủ",
+                    "1 phòng tắm",
+                    "Máy sấy tóc",
+                    "Wi-Fi [miễn phí]",
+                    "Điều hòa",
+                    "Cà phê hòa tan miễn phí",
+                    "Tủ quần áo",
+                    "Tối đa 2 người lớn",
+                    "1 giường lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn & 1 trẻ em (0-7 tuổi)",
+                        "option_price": "601.483",
+                        "amenities_for_price": [
+                            "2 người lớn & 1 trẻ em (0-7 tuổi)",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 41.374 ₫!"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "59711203",
+        "hotel_name": "Nhà riêng 35 m² 1 phòng ngủ, 1 phòng tắm riêng ở An Khánh (Nhà nguyên căn 1 phòng ngủ, tại trung tâm 2)",
+        "hotel_address": "An Khánh, Cần Thơ, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Nhà riêng (home)",
+                "amenities": [
+                    "Studio/1 phòng ngủ",
+                    "1 phòng tắm",
+                    "Máy sấy tóc",
+                    "Wi-Fi [miễn phí]",
+                    "Điều hòa",
+                    "Cà phê hòa tan miễn phí",
+                    "Tủ quần áo",
+                    "35 m²",
+                    "Tối đa 2 người lớn",
+                    "1 giường đôi lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn & 1 trẻ em (0-7 tuổi)",
+                        "option_price": "550.119",
+                        "amenities_for_price": [
+                            "2 người lớn & 1 trẻ em (0-7 tuổi)",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 92.739 ₫!"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "60220201",
+        "hotel_name": "Căn hộ 15 m² 1 phòng ngủ, 1 phòng tắm riêng ở Ninh Kiều (Motel Tho Phan)",
+        "hotel_address": "Ninh Kiều, Cần Thơ, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Căn hộ (Apartment)",
+                "amenities": [
+                    "1 phòng tắm",
+                    "Wi-Fi [miễn phí]",
+                    "Điều hòa",
+                    "Tủ quần áo",
+                    "15 m²",
+                    "Tối đa 2 người lớn",
+                    "1 giường đơn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn & 1 trẻ em (0-7 tuổi)",
+                        "option_price": "237.834",
+                        "amenities_for_price": [
+                            "2 người lớn & 1 trẻ em (0-7 tuổi)",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 9.521 ₫!"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "60775138",
+        "hotel_name": "Homestay Nhà Của Gió",
+        "hotel_address": "118b Võ Nguyên Giáp, Tân Phú, Homestay Nhà Của Gió, Cái Răng, Cần Thơ, Việt Nam, 94000",
+        "room_types": [
+            {
+                "room_type_name": "Phòng Tiêu Chuẩn (Standard Room)",
+                "amenities": [
+                    "Hướng Vườn",
+                    "5 phòng tắm",
+                    "Ấm nước điện",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Phòng tắm đứng",
+                    "Đồ dùng cho giấc ngủ thoải mái",
+                    "Nước đóng chai miễn phí",
+                    "Ban công/sân hiên",
+                    "tầng trệt",
+                    "16 m²",
+                    "Tối đa 4 người lớn",
+                    "1 giường đôi lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "356.250",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Có ăn sáng",
+                            "Miễn phí hủy trước ngày 17 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    },
+                    {
+                        "option_name": "4 người lớn",
+                        "option_price": "627.000",
+                        "amenities_for_price": [
+                            "4 người lớn",
+                            "Có ăn sáng",
+                            "Miễn phí hủy trước ngày 17 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    },
+                    {
+                        "option_name": "1 người lớn Vượt quá sức chứa phòng",
+                        "option_price": "320.625",
+                        "amenities_for_price": [
+                            "1 người lớn Vượt quá sức chứa phòng",
+                            "Có ăn sáng",
+                            "Miễn phí hủy trước ngày 17 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Phòng 4 Người (Quadruple Room)",
+                "amenities": [
+                    "Hướng Vườn",
+                    "Ấm nước điện",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Phòng tắm đứng",
+                    "Đồ dùng cho giấc ngủ thoải mái",
+                    "Nước đóng chai miễn phí",
+                    "Ban công/sân hiên",
+                    "tầng trệt",
+                    "Tủ quần áo",
+                    "25 m²",
+                    "Tối đa 4 người lớn",
+                    "2 giường đôi lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "4 người lớn",
+                        "option_price": "593.750",
+                        "amenities_for_price": [
+                            "4 người lớn",
+                            "Có ăn sáng",
+                            "Miễn phí hủy trước ngày 17 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Căn Hộ 2 Phòng Ngủ Nhìn Ra Sông (Two-Bedroom Apartment with River View)",
+                "amenities": [
+                    "Hướng Vườn",
+                    "2 phòng ngủ",
+                    "2 phòng tắm",
+                    "Ấm nước điện",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Phòng tắm đứng",
+                    "Đồ dùng cho giấc ngủ thoải mái",
+                    "Nước đóng chai miễn phí",
+                    "Ban công/sân hiên",
+                    "35 m²",
+                    "Tối đa 7 người lớn",
+                    "1 giường sofa / 1 giường sofa / 1 giường đôi lớn / 3 nệm futon"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "7 người lớn",
+                        "option_price": "950.000",
+                        "amenities_for_price": [
+                            "7 người lớn",
+                            "Có ăn sáng",
+                            "Miễn phí hủy trước ngày 17 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "61754646",
+        "hotel_name": "Nhà riêng 20 m² 3 phòng ngủ, 1 phòng tắm riêng ở An Bình (Một homestay & cafe mang phong cách tân cổ điển)",
+        "hotel_address": "Bình Thủy, Cần Thơ, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Nhà riêng (home)",
+                "amenities": [
+                    "3 phòng ngủ",
+                    "1 phòng tắm",
+                    "Wi-Fi [miễn phí]",
+                    "Điều hòa",
+                    "Tủ quần áo",
+                    "Cho phép hút thuốc",
+                    "20 m²",
+                    "Tối đa 4 người lớn",
+                    "4 giường đôi lớn / 4 giường đôi lớn / 4 giường đôi lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "4 người lớn & 1 trẻ em (0-7 tuổi)",
+                        "option_price": "560.049",
+                        "amenities_for_price": [
+                            "4 người lớn & 1 trẻ em (0-7 tuổi)",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 13.143 ₫!"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "63294831",
+        "hotel_name": "Căn hộ 140 m² 2 phòng ngủ, 1 phòng tắm riêng ở Cái Răng (1988 Homestay Cần Thơ)",
+        "hotel_address": "Cái Răng, Cần Thơ, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Căn hộ (Apartment)",
+                "amenities": [
+                    "2 phòng ngủ",
+                    "1 phòng tắm",
+                    "Wi-Fi [miễn phí]",
+                    "Điều hòa",
+                    "Cà phê hòa tan miễn phí",
+                    "Tủ quần áo",
+                    "Cho phép hút thuốc",
+                    "140 m²",
+                    "Tối đa 4 người lớn",
+                    "1 giường đôi / 1 giường đôi"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "4 người lớn & 1 trẻ em (0-7 tuổi)",
+                        "option_price": "697.941",
+                        "amenities_for_price": [
+                            "4 người lớn & 1 trẻ em (0-7 tuổi)",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 11.053 ₫!"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "64004619",
+        "hotel_name": "Phòng Master (Phong Master)",
+        "hotel_address": "2 Đường Số 9, An Bình, Cần Thơ, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Phòng Giường Đôi Lớn (Large Double Room)",
+                "amenities": [
+                    "Bồn tắm",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Vòi sen",
+                    "Điều hòa",
+                    "Ban công/sân hiên",
+                    "tầng trệt",
+                    "Tủ quần áo",
+                    "30 m²",
+                    "Tối đa 2 người lớn",
+                    "1 giường lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "551.471",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Miễn phí hủy trước ngày 18 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng",
+                            "WiFi miễn phí"
+                        ]
+                    },
+                    {
+                        "option_name": "1 người lớn Vượt quá sức chứa phòng",
+                        "option_price": "496.324",
+                        "amenities_for_price": [
+                            "1 người lớn Vượt quá sức chứa phòng",
+                            "Miễn phí hủy trước ngày 18 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "64583307",
+        "hotel_name": "CĂN HỘ CAO CẤP CẦN THƠ",
+        "hotel_address": "KDC An Khánh, P. An Khánh, Q. Ninh Kiều, An Khánh, Cần Thơ, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Căn hộ (Apartment)",
+                "amenities": [
+                    "Máy sấy tóc",
+                    "Wi-Fi [miễn phí]",
+                    "Điều hòa",
+                    "Tủ quần áo",
+                    "58 m²",
+                    "Tối đa 5 người lớn, 1 bé (0-7 tuổi) ở MIỄN PHÍ!",
+                    "1 giường lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "5 người lớn & 1 trẻ em (0-7 tuổi)",
+                        "option_price": "1.865.961",
+                        "amenities_for_price": [
+                            "5 người lớn & 1 trẻ em (0-7 tuổi)",
+                            "Miễn phí hủy trước ngày 17 thg 11, 25",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "64901764",
+        "hotel_name": "Khách sạn 31B - Gần Bến Ninh Kiều (31B Hotel - Near Ninh Kieu Wharf)",
+        "hotel_address": "60 Đường Hai Bà Trưng, Tân An, Bến Ninh Kiều, Cần Thơ, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Phòng Đôi (Double Room)",
+                "amenities": [
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Phòng tắm đứng",
+                    "Wi-Fi [miễn phí]",
+                    "Đồ dùng cho giấc ngủ thoải mái",
+                    "Nước đóng chai miễn phí",
+                    "Ấm nước",
+                    "Tủ lạnh",
+                    "Cửa sổ",
+                    "Tủ quần áo",
+                    "12 m²",
+                    "Tối đa 2 người lớn",
+                    "1 giường đôi"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "365.000",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Miễn phí hủy trước ngày 17 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    },
+                    {
+                        "option_name": "1 người lớn Vượt quá sức chứa phòng",
+                        "option_price": "346.750",
+                        "amenities_for_price": [
+                            "1 người lớn Vượt quá sức chứa phòng",
+                            "Miễn phí hủy trước ngày 17 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Phòng 4 Người (Quadruple Room)",
+                "amenities": [
+                    "Ấm nước điện",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Phòng tắm đứng",
+                    "Đồ dùng cho giấc ngủ thoải mái",
+                    "Nước đóng chai miễn phí",
+                    "Tủ lạnh",
+                    "Tủ quần áo",
+                    "Điều hòa cá nhân",
+                    "14 m²",
+                    "Tối đa 4 người lớn",
+                    "2 giường đôi"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "4 người lớn",
+                        "option_price": "521.250",
+                        "amenities_for_price": [
+                            "4 người lớn",
+                            "Miễn phí hủy trước ngày 17 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Phòng Deluxe 4 Người (Deluxe Quadruple Room)",
+                "amenities": [
+                    "Ấm nước điện",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Phòng tắm đứng",
+                    "Đồ dùng cho giấc ngủ thoải mái",
+                    "Nước đóng chai miễn phí",
+                    "Tủ lạnh",
+                    "Tủ quần áo",
+                    "Điều hòa cá nhân",
+                    "25 m²",
+                    "Tối đa 4 người lớn",
+                    "2 giường đôi lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "4 người lớn",
+                        "option_price": "728.750",
+                        "amenities_for_price": [
+                            "4 người lớn",
+                            "Miễn phí hủy trước ngày 17 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "64902321",
+        "hotel_name": "Nhà riêng m² 1 phòng ngủ, 1 phòng tắm riêng ở Trung tâm thành phố Cần Thơ (Cozy Room with laundry, 1km to Ninh Kieu wharf)",
+        "hotel_address": "Trung tâm thành phố Cần Thơ, Cần Thơ, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Nhà riêng (home)",
+                "amenities": [
+                    "Studio/1 phòng ngủ",
+                    "1 phòng tắm",
+                    "Máy sấy tóc",
+                    "Wi-Fi [miễn phí]",
+                    "Điều hòa",
+                    "Cà phê hòa tan miễn phí",
+                    "Máy pha trà/cà phê",
+                    "Tối đa 2 người lớn",
+                    "1 giường đôi"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn & 1 trẻ em (0-7 tuổi)",
+                        "option_price": "528.982",
+                        "amenities_for_price": [
+                            "2 người lớn & 1 trẻ em (0-7 tuổi)",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt và trả tiền ngay",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 44.210 ₫!"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "64902322",
+        "hotel_name": "Nhà riêng m² 1 phòng ngủ, 1 phòng tắm riêng ở Trung tâm thành phố Cần Thơ (Heart of Cantho Bright Room with laundry)",
+        "hotel_address": "Trung tâm thành phố Cần Thơ, Cần Thơ, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Nhà riêng (home)",
+                "amenities": [
+                    "Studio/1 phòng ngủ",
+                    "1 phòng tắm",
+                    "Máy sấy tóc",
+                    "Wi-Fi [miễn phí]",
+                    "Điều hòa",
+                    "Cà phê hòa tan miễn phí",
+                    "Máy pha trà/cà phê",
+                    "Tủ quần áo",
+                    "25 m²",
+                    "Tối đa 4 người lớn",
+                    "2 giường lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "4 người lớn & 1 trẻ em (0-7 tuổi)",
+                        "option_price": "574.742",
+                        "amenities_for_price": [
+                            "4 người lớn & 1 trẻ em (0-7 tuổi)",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt và trả tiền ngay",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 45.628 ₫!"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "64902323",
+        "hotel_name": "Nhà riêng m² 1 phòng ngủ, 1 phòng tắm riêng ở Trung tâm thành phố Cần Thơ (Heart of Cantho Cozy Room with laundry)",
+        "hotel_address": "Trung tâm thành phố Cần Thơ, Cần Thơ, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Nhà riêng (home)",
+                "amenities": [
+                    "Studio/1 phòng ngủ",
+                    "1 phòng tắm",
+                    "Máy sấy tóc",
+                    "Wi-Fi [miễn phí]",
+                    "Điều hòa",
+                    "Cà phê hòa tan miễn phí",
+                    "Tối đa 2 người lớn",
+                    "1 giường đôi"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn & 1 trẻ em (0-7 tuổi)",
+                        "option_price": "528.982",
+                        "amenities_for_price": [
+                            "2 người lớn & 1 trẻ em (0-7 tuổi)",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt và trả tiền ngay",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 44.210 ₫!"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "64902771",
+        "hotel_name": "Nhà riêng m² 1 phòng ngủ, 1 phòng tắm riêng ở Trung tâm thành phố Cần Thơ (Comfy and cozy room in centre CT)",
+        "hotel_address": "Trung tâm thành phố Cần Thơ, Cần Thơ, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Nhà riêng (home)",
+                "amenities": [
+                    "Studio/1 phòng ngủ",
+                    "1 phòng tắm",
+                    "Máy sấy tóc",
+                    "Wi-Fi [miễn phí]",
+                    "Điều hòa",
+                    "Cà phê hòa tan miễn phí",
+                    "Máy pha trà/cà phê",
+                    "Tủ quần áo",
+                    "Tối đa 2 người lớn",
+                    "1 giường lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn & 1 trẻ em (0-7 tuổi)",
+                        "option_price": "569.673",
+                        "amenities_for_price": [
+                            "2 người lớn & 1 trẻ em (0-7 tuổi)",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt và trả tiền ngay",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 47.611 ₫!"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "65482125",
+        "hotel_name": "Pipo house, cool breeze, beautiful sunshine",
+        "hotel_address": "Cái Răng, Cần Thơ, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Nhà 2 Phòng Ngủ (Two-Bedroom House)",
+                "amenities": [
+                    "Studio/1 phòng ngủ",
+                    "2 phòng tắm",
+                    "Máy sấy tóc",
+                    "Điều hòa",
+                    "Tủ lạnh",
+                    "120 m²",
+                    "Tối đa 4 người lớn",
+                    "1 giường đôi lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "4 người lớn",
+                        "option_price": "629.630",
+                        "amenities_for_price": [
+                            "4 người lớn",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "65964878",
+        "hotel_name": "Can Tho Farmstay - Let's Go Can Tho",
+        "hotel_address": "CẦN THƠ FARMSTAY, Cái Răng, Cần Thơ, Việt Nam, 94900",
+        "room_types": [
+            {
+                "room_type_name": "Phòng Đôi (Double Room)",
+                "amenities": [
+                    "Hướng Hồ",
+                    "Ấm nước điện",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Vòi sen",
+                    "Điều hòa",
+                    "Đồ gỗ ngoài trời",
+                    "16 m²",
+                    "Tối đa 2 người lớn",
+                    "1 giường đôi lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "370.370",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Có ăn sáng",
+                            "Miễn phí hủy trước ngày 17 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe"
+                        ]
+                    },
+                    {
+                        "option_name": "1 người lớn Vượt quá sức chứa phòng",
+                        "option_price": "333.333",
+                        "amenities_for_price": [
+                            "1 người lớn Vượt quá sức chứa phòng",
+                            "Có ăn sáng",
+                            "Miễn phí hủy trước ngày 17 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "66102849",
+        "hotel_name": "Nhà riêng m² 1 phòng ngủ, 1 phòng tắm riêng ở Ninh Kiều (Nhà view sông)",
+        "hotel_address": "Ninh Kiều, Cần Thơ, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Nhà riêng (home)",
+                "amenities": [
+                    "Studio/1 phòng ngủ",
+                    "1 phòng tắm",
+                    "Wi-Fi [miễn phí]",
+                    "Điều hòa",
+                    "Tối đa 4 người lớn",
+                    "2 giường đơn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "4 người lớn & 1 trẻ em (0-7 tuổi)",
+                        "option_price": "8.680.600",
+                        "amenities_for_price": [
+                            "4 người lớn & 1 trẻ em (0-7 tuổi)",
+                            "Đặt và trả tiền ngay",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 137.743 ₫!"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "67602761",
+        "hotel_name": "Nhà Lâm Khôi (Nha Lam Khoi)",
+        "hotel_address": "Cái Răng, Cần Thơ, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Căn Hộ 1 Phòng Ngủ (One-Bedroom Apartment)",
+                "amenities": [
+                    "Hướng Ngoài trời",
+                    "Studio/1 phòng ngủ",
+                    "1 phòng tắm",
+                    "Điều hòa",
+                    "Ban công/sân hiên",
+                    "Tối đa 4 người lớn",
+                    "2 giường đôi"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "4 người lớn",
+                        "option_price": "314.815",
+                        "amenities_for_price": [
+                            "4 người lớn",
+                            "Có ăn sáng",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "68107245",
+        "hotel_name": "Green Village Mekong",
+        "hotel_address": "Phu Hung Area, Dong Oi Bridge 200m Apart,Cai Rang, Cái Răng, Cần Thơ, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Bungalow Gia Đình (Family Bungalow)",
+                "amenities": [
+                    "Tối đa 2 người lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "1.742.027",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Có ăn sáng",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt và trả tiền ngay"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "68230560",
+        "hotel_name": "Nhà riêng 103 m² 1 phòng ngủ, 1 phòng tắm riêng ở Cái Răng (Homestay Nhật Ngân Cần Thơ)",
+        "hotel_address": "Cái Răng, Cần Thơ, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Nhà riêng (home)",
+                "amenities": [
+                    "2 phòng ngủ",
+                    "2 phòng tắm",
+                    "Máy sấy tóc",
+                    "Wi-Fi [miễn phí]",
+                    "Điều hòa",
+                    "Cà phê hòa tan miễn phí",
+                    "Tủ quần áo",
+                    "103 m²",
+                    "Tối đa 10 người lớn",
+                    "2 giường tầng / 2 giường tầng / 2 giường lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "10 người lớn & 1 trẻ em (0-7 tuổi)",
+                        "option_price": "1.610.242",
+                        "amenities_for_price": [
+                            "10 người lớn & 1 trẻ em (0-7 tuổi)",
+                            "Chính sách hủy",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 65.243 ₫!"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "68415223",
+        "hotel_name": "Căn hộ m² 1 phòng ngủ, 1 phòng tắm riêng ở An Bình (Modern Studio w Balcony and Kitchen)",
+        "hotel_address": "Bình Thủy, Cần Thơ, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Căn hộ (Apartment)",
+                "amenities": [
+                    "Studio/1 phòng ngủ",
+                    "1 phòng tắm",
+                    "Máy sấy tóc",
+                    "Wi-Fi [miễn phí]",
+                    "Điều hòa",
+                    "Tủ quần áo",
+                    "Tối đa 2 người lớn",
+                    "1 giường đôi lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn & 1 trẻ em (0-7 tuổi)",
+                        "option_price": "569.673",
+                        "amenities_for_price": [
+                            "2 người lớn & 1 trẻ em (0-7 tuổi)",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 47.611 ₫!"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "68557780",
+        "hotel_name": "Biệt thự 150 m² 1 phòng ngủ, 4 phòng tắm riêng ở Ninh Kiều (Noel's Villa)",
+        "hotel_address": "An Bình, Cần Thơ, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Villa riêng (Private Villa)",
+                "amenities": [
+                    "3 phòng ngủ",
+                    "4 phòng tắm",
+                    "Máy sấy tóc",
+                    "Wi-Fi [miễn phí]",
+                    "Điều hòa",
+                    "Trà miễn phí",
+                    "Bể bơi riêng",
+                    "Tủ quần áo",
+                    "150 m²",
+                    "Tối đa 8 người lớn",
+                    "1 giường đôi lớn / 1 giường đôi lớn / 1 giường đơn / 1 giường sofa"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "8 người lớn & 1 trẻ em (0-7 tuổi)",
+                        "option_price": "3.723.943",
+                        "amenities_for_price": [
+                            "8 người lớn & 1 trẻ em (0-7 tuổi)",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 57.362 ₫!"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "71108555",
+        "hotel_name": "Khách sạn Mỹ Kim (My Kim Hotel)",
+        "hotel_address": "12 Đ. Tân Trào, Tân An, Bến Ninh Kiều, Cần Thơ, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Phòng Standard giường đôi (Standard Double Room)",
+                "amenities": [
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Vòi sen",
+                    "Wi-Fi [miễn phí]",
+                    "Điều hòa",
+                    "Tủ lạnh nhỏ trong phòng",
+                    "Nước đóng chai miễn phí",
+                    "Tủ lạnh",
+                    "10 m²",
+                    "Tối đa 2 người lớn",
+                    "1 giường đôi"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "234.039",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Miễn phí hủy trước ngày 17 thg 11, 25",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 8.466 ₫!"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Phòng King (King Room)",
+                "amenities": [
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Vòi sen",
+                    "Wi-Fi [miễn phí]",
+                    "Điều hòa",
+                    "Tủ lạnh nhỏ trong phòng",
+                    "Nước đóng chai miễn phí",
+                    "Tủ lạnh",
+                    "Cửa sổ mở",
+                    "15 m²",
+                    "Tối đa 2 người lớn",
+                    "1 giường lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "300.213",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Miễn phí hủy trước ngày 17 thg 11, 25",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 8.429 ₫!"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "71447498",
+        "hotel_name": "Nhà nghỉ Phú Mỹ (Nha nghi Phu My)",
+        "hotel_address": "19a Đường Ngô Sĩ Liên, Ninh Kiều, Cần Thơ, Việt Nam, 900000",
+        "room_types": [
+            {
+                "room_type_name": "Phòng Tiêu Chuẩn Giường Lớn (Standard King Room)",
+                "amenities": [
+                    "Hướng Ngoài trời",
+                    "phòng tắm riêng",
+                    "Vòi sen",
+                    "Điều hòa",
+                    "20 m²",
+                    "Tối đa 2 người lớn",
+                    "1 giường đôi lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "206.802",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Miễn phí hủy trước ngày 18 thg 11, 25",
+                            "Trả tiền ở khách sạn",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Phòng Giường Đôi/2 Giường Đơn (Double or Twin Room)",
+                "amenities": [
+                    "Hướng Ngoài trời",
+                    "phòng tắm riêng",
+                    "Vòi sen",
+                    "Điều hòa",
+                    "25 m²",
+                    "Tối đa 3 người lớn",
+                    "2 giường đôi lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "3 người lớn",
+                        "option_price": "301.517",
+                        "amenities_for_price": [
+                            "3 người lớn",
+                            "Miễn phí hủy trước ngày 18 thg 11, 25",
+                            "Trả tiền ở khách sạn",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    },
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "316.407",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Miễn phí hủy trước ngày 18 thg 11, 25",
+                            "Trả tiền ở khách sạn",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    },
+                    {
+                        "option_name": "1 người lớn Vượt quá sức chứa phòng",
+                        "option_price": "268.015",
+                        "amenities_for_price": [
+                            "1 người lớn Vượt quá sức chứa phòng",
+                            "Miễn phí hủy trước ngày 18 thg 11, 25",
+                            "Trả tiền ở khách sạn",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "71511312",
+        "hotel_name": "Vicnie House Cantho",
+        "hotel_address": "Cái Khế, Cần Thơ, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Phòng Đôi (Double Room)",
+                "amenities": [
+                    "Studio/1 phòng ngủ",
+                    "1 phòng tắm",
+                    "Ấm nước điện",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Vòi sen",
+                    "Điều hòa",
+                    "Tủ lạnh",
+                    "Ban công/sân hiên",
+                    "Tủ quần áo",
+                    "20 m²",
+                    "Tối đa 4 người lớn",
+                    "2 giường đôi"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "4 người lớn",
+                        "option_price": "285.480",
+                        "amenities_for_price": [
+                            "4 người lớn",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "73567129",
+        "hotel_name": "Dr 501 Modern studio with city view and kitchen",
+        "hotel_address": "An Khánh, Cần Thơ, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Căn Hộ 1 Phòng Ngủ (One-Bedroom Apartment)",
+                "amenities": [
+                    "Hướng Ngoài trời",
+                    "Studio/1 phòng ngủ",
+                    "1 phòng tắm",
+                    "phòng tắm riêng",
+                    "Điều hòa",
+                    "32 m²",
+                    "Tối đa 5 người lớn",
+                    "1 giường đôi lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "3 người lớn",
+                        "option_price": "416.667",
+                        "amenities_for_price": [
+                            "3 người lớn",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    },
+                    {
+                        "option_name": "3 người lớn",
+                        "option_price": "462.963",
+                        "amenities_for_price": [
+                            "3 người lớn",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "74407596",
+        "hotel_name": "Pandora Hotel Cần Thơ (Pandora Hotel Can Tho)",
+        "hotel_address": "57 Nguyễn Thị Tính, phường Bùi Hữu Nghĩa, quận Bình Thuỷ, Bình Thủy, Cần Thơ, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Phòng Đôi (Double Room)",
+                "amenities": [
+                    "Hướng Ngoài trời",
+                    "Ấm nước điện",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Phòng tắm đứng",
+                    "Đồ dùng cho giấc ngủ thoải mái",
+                    "Nước đóng chai miễn phí",
+                    "Tủ lạnh",
+                    "Tủ quần áo",
+                    "Điều hòa cá nhân",
+                    "25 m²",
+                    "Tối đa 2 người lớn, 1 bé (0-5 tuổi) ở MIỄN PHÍ!",
+                    "1 giường đôi lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn & 1 trẻ em (0-5 tuổi)",
+                        "option_price": "489.867",
+                        "amenities_for_price": [
+                            "2 người lớn & 1 trẻ em (0-5 tuổi)",
+                            "Miễn phí hủy trước ngày 17 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Phòng Ba Người (Triple Room)",
+                "amenities": [
+                    "Hướng Ngoài trời",
+                    "Ấm nước điện",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Phòng tắm đứng",
+                    "Đồ dùng cho giấc ngủ thoải mái",
+                    "Nước đóng chai miễn phí",
+                    "Tủ lạnh",
+                    "Ban công/sân hiên",
+                    "Tủ quần áo",
+                    "40 m²",
+                    "Tối đa 3 người lớn",
+                    "1 giường đơn và 1 giường đôi lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "3 người lớn",
+                        "option_price": "733.333",
+                        "amenities_for_price": [
+                            "3 người lớn",
+                            "Miễn phí hủy trước ngày 17 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "75088811",
+        "hotel_name": "Nhà riêng m² 1 phòng ngủ, 1 phòng tắm riêng ở An Khánh (Lam Homestay Minihouse)",
+        "hotel_address": "Bình Thủy, Cần Thơ, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Nhà riêng (home)",
+                "amenities": [
+                    "Studio/1 phòng ngủ",
+                    "1 phòng tắm",
+                    "Máy sấy tóc",
+                    "Wi-Fi [miễn phí]",
+                    "Điều hòa",
+                    "Cà phê hòa tan miễn phí",
+                    "Tủ quần áo",
+                    "Cho phép hút thuốc",
+                    "20 m²",
+                    "Tối đa 3 người lớn",
+                    "1 giường đôi"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "3 người lớn & 1 trẻ em (0-7 tuổi)",
+                        "option_price": "340.420",
+                        "amenities_for_price": [
+                            "3 người lớn & 1 trẻ em (0-7 tuổi)",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 12.314 ₫!"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "75167130",
+        "hotel_name": "Nhà riêng m² 2 phòng ngủ, 2 phòng tắm riêng ở Bến Ninh Kiều (HiDu House CT)",
+        "hotel_address": "Trung tâm thành phố Cần Thơ, Cần Thơ, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Nhà riêng (home)",
+                "amenities": [
+                    "2 phòng ngủ",
+                    "2 phòng tắm",
+                    "Wi-Fi [miễn phí]",
+                    "Điều hòa",
+                    "Tối đa 6 người lớn",
+                    "1 giường đơn / 1 giường đơn / 1 giường sofa"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "6 người lớn & 1 trẻ em (0-7 tuổi)",
+                        "option_price": "498.561",
+                        "amenities_for_price": [
+                            "6 người lớn & 1 trẻ em (0-7 tuổi)",
+                            "Đặt và trả tiền ngay",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 19.958 ₫!"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "76404083",
+        "hotel_name": "Nhà riêng m² 2 phòng ngủ, 2 phòng tắm riêng ở An Bình (Home Nguyên Căn Nhật Ngân- Chợ Nổi Cái Răng)",
+        "hotel_address": "Cái Răng, Cần Thơ, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Nhà riêng (home)",
+                "amenities": [
+                    "2 phòng ngủ",
+                    "2 phòng tắm",
+                    "Wi-Fi [miễn phí]",
+                    "Điều hòa",
+                    "Tối đa 15 người lớn",
+                    "1 giường lớn và 1 giường tầng / 2 giường tầng"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "15 người lớn & 1 trẻ em (0-7 tuổi)",
+                        "option_price": "1.303.175",
+                        "amenities_for_price": [
+                            "15 người lớn & 1 trẻ em (0-7 tuổi)",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "76849450",
+        "hotel_name": "Nhà riêng m² 2 phòng ngủ, 1 phòng tắm riêng ở Trung tâm thành phố Cần Thơ (Apartment - Minihoues Cần Thơ)",
+        "hotel_address": "Trung tâm thành phố Cần Thơ, Cần Thơ, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Nhà riêng (home)",
+                "amenities": [
+                    "2 phòng ngủ",
+                    "1 phòng tắm",
+                    "Wi-Fi [miễn phí]",
+                    "Điều hòa",
+                    "Tối đa 4 người lớn",
+                    "1 giường đôi / 1 giường đơn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "4 người lớn & 1 trẻ em (0-7 tuổi)",
+                        "option_price": "312.448",
+                        "amenities_for_price": [
+                            "4 người lớn & 1 trẻ em (0-7 tuổi)",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 12.508 ₫!"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "77048509",
+        "hotel_name": "205MSNK Spacious Studio l Window & Kitchen",
+        "hotel_address": "Bến Ninh Kiều, Cần Thơ, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Căn Hộ 1 Phòng Ngủ (One-Bedroom Apartment)",
+                "amenities": [
+                    "Hướng Vườn",
+                    "Studio/1 phòng ngủ",
+                    "1 phòng tắm",
+                    "Ấm nước điện",
+                    "Máy sấy tóc",
+                    "Vòi sen",
+                    "Nước đóng chai miễn phí",
+                    "Tủ lạnh",
+                    "Ban công/sân hiên",
+                    "Giường cực dài",
+                    "30 m²",
+                    "Tối đa 2 người lớn",
+                    "1 giường lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "568.333",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí"
+                        ]
+                    },
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "574.074",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "77508895",
+        "hotel_name": "403MSNK Maison Luxe Studio with Balcony",
+        "hotel_address": "Bến Ninh Kiều, Cần Thơ, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Căn Hộ 1 Phòng Ngủ (One-Bedroom Apartment)",
+                "amenities": [
+                    "Hướng Sông",
+                    "Studio/1 phòng ngủ",
+                    "1 phòng tắm",
+                    "Ấm nước điện",
+                    "Máy sấy tóc",
+                    "Vòi sen",
+                    "Nước đóng chai miễn phí",
+                    "Tủ lạnh",
+                    "Ban công/sân hiên",
+                    "Giường cực dài",
+                    "30 m²",
+                    "Tối đa 2 người lớn",
+                    "1 giường lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "585.000",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí"
+                        ]
+                    },
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "590.909",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "77598458",
+        "hotel_name": "407MSNK Maison Luxe Studio w Balcony & Kitchen",
+        "hotel_address": "Bến Ninh Kiều, Cần Thơ, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Căn Hộ 1 Phòng Ngủ (One-Bedroom Apartment)",
+                "amenities": [
+                    "Hướng Vườn",
+                    "Studio/1 phòng ngủ",
+                    "1 phòng tắm",
+                    "Ấm nước điện",
+                    "Máy sấy tóc",
+                    "Vòi sen",
+                    "Được vào phòng chờ Thương Gia",
+                    "Tủ lạnh nhỏ trong phòng",
+                    "Nước đóng chai miễn phí",
+                    "Tủ lạnh",
+                    "28 m²",
+                    "Tối đa 2 người lớn",
+                    "1 giường đôi lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "595.833",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí"
+                        ]
+                    },
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "601.852",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "77679282",
+        "hotel_name": "Căn hộ m² 1 phòng ngủ, 1 phòng tắm riêng ở Trung tâm thành phố Cần Thơ (Nguyễn dũng)",
+        "hotel_address": "Trung tâm thành phố Cần Thơ, Cần Thơ, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Căn hộ (Apartment)",
+                "amenities": [
+                    "Studio/1 phòng ngủ",
+                    "1 phòng tắm",
+                    "Tối đa 4 người lớn",
+                    "2 giường lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "4 người lớn & 1 trẻ em (0-7 tuổi)",
+                        "option_price": "22.808",
+                        "amenities_for_price": [
+                            "4 người lớn & 1 trẻ em (0-7 tuổi)",
+                            "Đặt và trả tiền ngay",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 825 ₫!"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "78196507",
+        "hotel_name": "Biệt thự m² 4 phòng ngủ, 4 phòng tắm riêng ở Cái Răng (Villa 200 m2 lake view in Nam Long residence area)",
+        "hotel_address": "Cái Răng, Cần Thơ, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Villa riêng (Private Villa)",
+                "amenities": [
+                    "4 phòng ngủ",
+                    "4 phòng tắm",
+                    "Máy sấy tóc",
+                    "Wi-Fi [miễn phí]",
+                    "Điều hòa",
+                    "Cà phê hòa tan miễn phí",
+                    "Tủ quần áo",
+                    "Cho phép hút thuốc",
+                    "200 m²",
+                    "Tối đa 10 người lớn",
+                    "1 giường đôi lớn và 1 giường đôi / 1 giường lớn / 1 giường đôi lớn / 1 giường đôi lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "10 người lớn & 1 trẻ em (0-7 tuổi)",
+                        "option_price": "3.908.056",
+                        "amenities_for_price": [
+                            "10 người lớn & 1 trẻ em (0-7 tuổi)",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 60.198 ₫!"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "78204002",
+        "hotel_name": "Nhà nghỉ Hoàn Chun (Motel Hoàn Chun)",
+        "hotel_address": "27 Đ. Trần Hưng Đạo, Thới Bình, Trung tâm thành phố Cần Thơ, Cần Thơ, Việt Nam, 12345",
+        "room_types": [
+            {
+                "room_type_name": "Phòng Đôi (Double Room)",
+                "amenities": [
+                    "2 phòng tắm",
+                    "Ấm nước điện",
+                    "phòng tắm riêng",
+                    "Vòi sen",
+                    "Điều hòa",
+                    "Tủ lạnh",
+                    "Ban công/sân hiên",
+                    "Tủ quần áo",
+                    "18 m²",
+                    "Tối đa 1 người lớn",
+                    "2 giường đôi lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "1 người lớn Vượt quá sức chứa phòng",
+                        "option_price": "227.273",
+                        "amenities_for_price": [
+                            "1 người lớn Vượt quá sức chứa phòng",
+                            "Miễn phí hủy trước ngày 17 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "78326351",
+        "hotel_name": "Bình Minh hotel",
+        "hotel_address": "DUONG NGUYEN THI MINH KHAI, KV3, NGA BAY, Cái Răng, Cần Thơ, Việt Nam, 913020",
+        "room_types": [
+            {
+                "room_type_name": "Basic Single Room, City View (1 Twin Bed)",
+                "amenities": [
+                    "Tối đa 2 người lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "366.504",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt và trả tiền ngay"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "78332371",
+        "hotel_name": "Kim Phung Ngan Hotel",
+        "hotel_address": "126 Pham Cong Tru, Phuong Cai Khe, Cái Khế, Cần Thơ, Việt Nam, 94152",
+        "room_types": [
+            {
+                "room_type_name": "Phòng Đôi Loại Sang (Deluxe Double Room)",
+                "amenities": [
+                    "Tối đa 2 người lớn",
+                    "1 giường đôi lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "176.878",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt và trả tiền ngay",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 12.024 ₫!"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

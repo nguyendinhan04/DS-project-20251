@@ -1,0 +1,14 @@
+# ignore sqlite folder
+sqlite/
+data/processed/choose/*.pkl
+notebook/Main/Khoa/models/
+
+# ML / Data Science
+*.pkl
+*.joblib
+*.pth
+*.h5
+*.ckpt
+
+notebook/Main/Khoa/notebook/Main/Khoa/models/
+

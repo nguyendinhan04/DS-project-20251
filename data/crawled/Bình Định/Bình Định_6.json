@@ -1,0 +1,1968 @@
+[
+    {
+        "hotel_id": "51655890",
+        "hotel_name": "FLC Sea Tower Quy Nhơn Condotel Sea View",
+        "hotel_address": "44 Võ Thị Yến, TT. Bình Định, FLC Sea Tower, Thành phố biển, Quy Nhơn (Bình Định), Việt Nam, 590000",
+        "room_types": [
+            {
+                "room_type_name": "Studio",
+                "amenities": [
+                    "Cho phép hút thuốc",
+                    "Tối đa 2 người lớn",
+                    "1 giường đôi lớn / 1 giường sofa"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "306.227",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Miễn phí hủy trước ngày 18 thg 11, 25",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "38667013",
+        "hotel_name": "Căn hộ khách sạn gần biển TMS Luxury Quy Nhơn - Hanna House (Can ho khach san gan bien TMS Luxury Quy Nhon - Hanna House)",
+        "hotel_address": "Thành phố biển, Quy Nhơn (Bình Định), Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Căn Hộ Có Ban Công (Apartment with Balcony)",
+                "amenities": [
+                    "Hướng Núi",
+                    "Studio/1 phòng ngủ",
+                    "1 phòng tắm",
+                    "Ấm nước điện",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Phòng tắm đứng",
+                    "Đồ dùng cho giấc ngủ thoải mái",
+                    "Nước đóng chai miễn phí",
+                    "Tủ lạnh",
+                    "47 m²",
+                    "Tối đa 3 người lớn",
+                    "1 giường sofa / 1 giường đôi lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "3 người lớn & 1 trẻ em (0-5 tuổi)",
+                        "option_price": "565.250",
+                        "amenities_for_price": [
+                            "3 người lớn & 1 trẻ em (0-5 tuổi)",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt không cần thẻ tín dụng",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "36782101",
+        "hotel_name": "Tony Apartment -FLC Sea Tower Quy Nhon",
+        "hotel_address": "40 Võ Thị Yến, Thành phố biển, Quy Nhơn (Bình Định), Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Studio Nhìn Ra Biển (Studio with Sea View)",
+                "amenities": [
+                    "Hướng Núi",
+                    "Ấm nước điện",
+                    "Bồn tắm",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Phòng tắm đứng",
+                    "Đồ dùng cho giấc ngủ thoải mái",
+                    "Nước đóng chai miễn phí",
+                    "Tủ lạnh",
+                    "Ban công/sân hiên",
+                    "49 m²",
+                    "Tối đa 2 người lớn",
+                    "1 giường đôi lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "341.181",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Miễn phí hủy trước ngày 18 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí"
+                        ]
+                    },
+                    {
+                        "option_name": "1 người lớn Vượt quá sức chứa phòng",
+                        "option_price": "335.278",
+                        "amenities_for_price": [
+                            "1 người lớn Vượt quá sức chứa phòng",
+                            "Miễn phí hủy trước ngày 18 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Căn Hộ Nhìn Ra Biển (Apartment with Sea View)",
+                "amenities": [
+                    "Hướng Núi",
+                    "Ấm nước điện",
+                    "Bồn tắm",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Phòng tắm đứng",
+                    "Đồ dùng cho giấc ngủ thoải mái",
+                    "Nước đóng chai miễn phí",
+                    "Tủ lạnh",
+                    "Ban công/sân hiên",
+                    "49 m²",
+                    "Tối đa 4 người lớn",
+                    "1 giường sofa / 2 giường đôi lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "432.674",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Miễn phí hủy trước ngày 18 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí"
+                        ]
+                    },
+                    {
+                        "option_name": "4 người lớn",
+                        "option_price": "444.480",
+                        "amenities_for_price": [
+                            "4 người lớn",
+                            "Miễn phí hủy trước ngày 18 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "79291811",
+        "hotel_name": "Thien Hai Home",
+        "hotel_address": "328 Xuân Diệu, Thành phố biển, Quy Nhơn (Bình Định), Việt Nam, 70000",
+        "room_types": [
+            {
+                "room_type_name": "Phòng Đôi (Double Room)",
+                "amenities": [
+                    "Hướng Biển",
+                    "Ấm nước điện",
+                    "Bồn tắm",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Vòi sen",
+                    "Điều hòa",
+                    "Ban công/sân hiên",
+                    "Tủ quần áo",
+                    "Tối đa 2 người lớn",
+                    "1 giường đơn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "177.273",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Miễn phí hủy trước ngày 18 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Phòng Hai Giường Đơn (Twin Room)",
+                "amenities": [
+                    "Hướng Biển",
+                    "Ấm nước điện",
+                    "Bồn tắm",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Vòi sen",
+                    "Điều hòa",
+                    "Ban công/sân hiên",
+                    "Tủ quần áo",
+                    "Tối đa 2 người lớn",
+                    "1 giường đôi lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "227.273",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Miễn phí hủy trước ngày 18 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "34404807",
+        "hotel_name": "Căn hộ 60 m² 1 phòng ngủ, 1 phòng tắm riêng ở Thành phố biển (Căn Hộ View biển TMS Qui Nhơn)",
+        "hotel_address": "Trung tâm thành phố Quy Nhơn, Quy Nhơn (Bình Định), Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Căn hộ (Apartment)",
+                "amenities": [
+                    "Studio/1 phòng ngủ",
+                    "1 phòng tắm",
+                    "Wi-Fi [miễn phí]",
+                    "Điều hòa",
+                    "60 m²",
+                    "Tối đa 6 người lớn",
+                    "2 giường đôi lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "6 người lớn & 1 trẻ em (0-7 tuổi)",
+                        "option_price": "969.850",
+                        "amenities_for_price": [
+                            "6 người lớn & 1 trẻ em (0-7 tuổi)",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 29.563 ₫!"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "548583",
+        "hotel_name": "Hung Dong Hotel",
+        "hotel_address": "11 Tây Sơn, P. Ghềnh Ráng, Thành phố biển, Quy Nhơn (Bình Định), Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Phòng Gia đình 2 giường đôi (Family Double (2 Double Bed))",
+                "amenities": [
+                    "Hướng Thành phố",
+                    "Ấm nước điện",
+                    "Bồn tắm",
+                    "Phòng tắm chung",
+                    "Máy sấy tóc",
+                    "Vòi sen",
+                    "Wi-Fi [miễn phí]",
+                    "Đồ dùng cho giấc ngủ thoải mái",
+                    "Điều hòa",
+                    "Tủ lạnh",
+                    "18 m²",
+                    "Tối đa 3 người lớn, 2 bé (0-9 tuổi) ở MIỄN PHÍ!",
+                    "2 giường đôi"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn & 2 trẻ em (0-9 tuổi)",
+                        "option_price": "271.190",
+                        "amenities_for_price": [
+                            "2 người lớn & 2 trẻ em (0-9 tuổi)",
+                            "Phục vụ bữa sáng (350.000 ₫ / người)",
+                            "Miễn phí hủy trước ngày 18 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    },
+                    {
+                        "option_name": "3 người lớn & 2 trẻ em (0-9 tuổi)",
+                        "option_price": "287.143",
+                        "amenities_for_price": [
+                            "3 người lớn & 2 trẻ em (0-9 tuổi)",
+                            "Phục vụ bữa sáng (350.000 ₫ / người)",
+                            "Miễn phí hủy trước ngày 18 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Phòng Gia đình (3 giường đôi) (Family Room (3 Double Beds))",
+                "amenities": [
+                    "Hướng Thành phố",
+                    "Ấm nước điện",
+                    "Bồn tắm",
+                    "Phòng tắm chung",
+                    "Máy sấy tóc",
+                    "Vòi sen",
+                    "Wi-Fi [miễn phí]",
+                    "Đồ dùng cho giấc ngủ thoải mái",
+                    "Điều hòa",
+                    "Tủ lạnh",
+                    "25 m²",
+                    "Tối đa 3 người lớn, 3 bé (0-9 tuổi) ở MIỄN PHÍ!",
+                    "3 giường đôi"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "3 người lớn & 3 trẻ em (0-9 tuổi)",
+                        "option_price": "327.857",
+                        "amenities_for_price": [
+                            "3 người lớn & 3 trẻ em (0-9 tuổi)",
+                            "Phục vụ bữa sáng (350.000 ₫ / người)",
+                            "Miễn phí hủy trước ngày 18 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "31607760",
+        "hotel_name": "Căn hộ 70 m² 2 phòng ngủ, 2 phòng tắm riêng ở Thành phố biển (Altara Quy Nhơn-Premium Beach Apartment |High view)",
+        "hotel_address": "76 Trần Hưng Đạo, Chung cư cao cấp Altara - Tầng 12. Căn hộ 12.12, Thành phố biển, Quy Nhơn (Bình Định), Việt Nam, 55000",
+        "room_types": [
+            {
+                "room_type_name": "Căn Hộ 2 Phòng Ngủ (Two-Bedroom Apartment)",
+                "amenities": [
+                    "Hướng Ngoài trời",
+                    "2 phòng ngủ",
+                    "2 phòng tắm",
+                    "Ấm nước điện",
+                    "Bồn tắm",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Phòng tắm đứng",
+                    "Đồ dùng cho giấc ngủ thoải mái",
+                    "Điều hòa",
+                    "70 m²",
+                    "Tối đa 4 người lớn",
+                    "1 nệm futon và 1 giường lớn / 1 giường lớn / 1 giường sofa"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "4 người lớn",
+                        "option_price": "1.301.852",
+                        "amenities_for_price": [
+                            "4 người lớn",
+                            "Miễn phí hủy trước ngày 18 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "23698993",
+        "hotel_name": "TMS Residences Quy Nhơn - Official",
+        "hotel_address": "28 Nguyen Hue, Phuong Quy Nhon, Tinh Gia Lai, Thành phố biển, Quy Nhơn (Bình Định), Việt Nam, 590000",
+        "room_types": [
+            {
+                "room_type_name": "Room Assigned on Arrival",
+                "amenities": [
+                    "Tối đa 2 người lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "623.679",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Chính sách hủy",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Studio hướng biển (Sea View Studio)",
+                "amenities": [
+                    "Hướng biển (hướng một phần)",
+                    "Ấm nước điện",
+                    "Phòng tắm chung",
+                    "Máy sấy tóc",
+                    "Phòng tắm đứng",
+                    "Wi-Fi [miễn phí]",
+                    "Rèm che ánh sáng",
+                    "Trà miễn phí",
+                    "Tủ lạnh",
+                    "Ban công/sân hiên",
+                    "50 m²",
+                    "Tối đa 4 người lớn, 1 bé (1-11 tuổi) ở MIỄN PHÍ!",
+                    "1 giường đôi lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "838.534",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí"
+                        ]
+                    },
+                    {
+                        "option_name": "2 người lớn & 1 trẻ em (1-11 tuổi)",
+                        "option_price": "1.037.963",
+                        "amenities_for_price": [
+                            "2 người lớn & 1 trẻ em (1-11 tuổi)",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Trả tiền cho khách sạn",
+                            "Bãi đậu xe",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "36826230",
+        "hotel_name": "Căn hộ 110 m² 3 phòng ngủ, 2 phòng tắm riêng ở Trung tâm thành phố Quy Nhơn (Căn Hộ Flc Sea Tower 3PN_Tuyền )",
+        "hotel_address": "Trung tâm thành phố Quy Nhơn, Quy Nhơn (Bình Định), Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Căn hộ (Apartment)",
+                "amenities": [
+                    "3 phòng ngủ",
+                    "2 phòng tắm",
+                    "Máy sấy tóc",
+                    "Wi-Fi [miễn phí]",
+                    "Điều hòa",
+                    "Cà phê hòa tan miễn phí",
+                    "Bể bơi riêng",
+                    "Tủ quần áo",
+                    "Cho phép hút thuốc",
+                    "110 m²",
+                    "Tối đa 10 người lớn",
+                    "1 giường lớn / 1 giường lớn / 1 giường lớn / 2 giường lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "10 người lớn & 1 trẻ em (0-7 tuổi)",
+                        "option_price": "2.152.623",
+                        "amenities_for_price": [
+                            "10 người lớn & 1 trẻ em (0-7 tuổi)",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 51.962 ₫!"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "37656762",
+        "hotel_name": "FLC SEA TOWER QUY NHON APARTMENT",
+        "hotel_address": "Nguyễn Trung Tín, FLC SEA TOWER QUY NHON, Thành phố biển, Quy Nhơn (Bình Định), Việt Nam, 590000",
+        "room_types": [
+            {
+                "room_type_name": "Studio Nhìn Ra Biển (Studio with Sea View)",
+                "amenities": [
+                    "Hướng Biển",
+                    "Ấm nước điện",
+                    "Bồn tắm",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Phòng tắm đứng",
+                    "Được vào phòng chờ Thương Gia",
+                    "Chăn điện",
+                    "Nước đóng chai miễn phí",
+                    "Tủ lạnh",
+                    "48 m²",
+                    "Tối đa 4 người lớn, 2 bé (0-2 tuổi) ở MIỄN PHÍ!",
+                    "2 giường đôi lớn và 1 giường sofa"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "4 người lớn & 2 trẻ em (0-2 tuổi)",
+                        "option_price": "320.132",
+                        "amenities_for_price": [
+                            "4 người lớn & 2 trẻ em (0-2 tuổi)",
+                            "Miễn phí hủy trước ngày 17 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    },
+                    {
+                        "option_name": "2 người lớn & 4 trẻ em (0-2 tuổi)",
+                        "option_price": "348.589",
+                        "amenities_for_price": [
+                            "2 người lớn & 4 trẻ em (0-2 tuổi)",
+                            "Miễn phí hủy trước ngày 18 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Studio Nhìn Ra Biển (Studio with Sea View)",
+                "amenities": [
+                    "Hướng Biển",
+                    "Ấm nước điện",
+                    "Bồn tắm",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Phòng tắm đứng",
+                    "Được vào phòng chờ Thương Gia",
+                    "Chăn điện",
+                    "Nước đóng chai miễn phí",
+                    "Tủ lạnh",
+                    "46 m²",
+                    "Tối đa 2 người lớn, 2 bé (0-2 tuổi) ở MIỄN PHÍ!",
+                    "1 giường đôi lớn và 1 giường sofa"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn & 2 trẻ em (0-2 tuổi)",
+                        "option_price": "321.077",
+                        "amenities_for_price": [
+                            "2 người lớn & 2 trẻ em (0-2 tuổi)",
+                            "Miễn phí hủy trước ngày 17 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    },
+                    {
+                        "option_name": "1 người lớn & 2 trẻ em (0-2 tuổi) Vượt quá sức chứa phòng",
+                        "option_price": "349.617",
+                        "amenities_for_price": [
+                            "1 người lớn & 2 trẻ em (0-2 tuổi) Vượt quá sức chứa phòng",
+                            "Miễn phí hủy trước ngày 18 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "71447340",
+        "hotel_name": "Kaze Home Nhon Ly",
+        "hotel_address": "Ky Co Nhon Ly Summer House, Nhơn Lý, Quy Nhơn (Bình Định), Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Phòng 2 Giường Đơn Hạng Bình Dân (Budget Twin Room)",
+                "amenities": [
+                    "Bồn tắm",
+                    "phòng tắm riêng",
+                    "Vòi sen",
+                    "Điều hòa",
+                    "Tủ quần áo",
+                    "15 m²",
+                    "Tối đa 2 người lớn",
+                    "2 giường tầng"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "277.778",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt không cần thẻ tín dụng"
+                        ]
+                    },
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "319.444",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Miễn phí hủy trước ngày 17 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Phòng Giường Đôi Hạng Bình Dân (Budget Double Room)",
+                "amenities": [
+                    "phòng tắm riêng",
+                    "Điều hòa",
+                    "Tối đa 2 người lớn",
+                    "1 giường đôi"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "370.370",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt không cần thẻ tín dụng"
+                        ]
+                    },
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "425.926",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Miễn phí hủy trước ngày 17 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Phòng Ngủ Tập Thể 4 Giường Cho Cả Nam Và Nữ (4-Bed Mixed Dormitory Room)",
+                "amenities": [
+                    "phòng tắm riêng",
+                    "Điều hòa",
+                    "Tối đa 4 người lớn",
+                    "4 giường đơn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "4 người lớn",
+                        "option_price": "370.370",
+                        "amenities_for_price": [
+                            "4 người lớn",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt không cần thẻ tín dụng"
+                        ]
+                    },
+                    {
+                        "option_name": "4 người lớn",
+                        "option_price": "425.926",
+                        "amenities_for_price": [
+                            "4 người lớn",
+                            "Miễn phí hủy trước ngày 17 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "50518251",
+        "hotel_name": "Căn hộ 1700 m² 2 phòng ngủ, 2 phòng tắm riêng ở Thành phố biển (Căn Hộ Altara Residences Quy Nhơn)",
+        "hotel_address": "Thành phố biển, Quy Nhơn (Bình Định), Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Căn hộ (Apartment)",
+                "amenities": [
+                    "2 phòng ngủ",
+                    "2 phòng tắm",
+                    "Máy sấy tóc",
+                    "Wi-Fi [miễn phí]",
+                    "Điều hòa",
+                    "Tủ quần áo",
+                    "70 m²",
+                    "Tối đa 5 người lớn",
+                    "1 giường lớn / 1 giường lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "5 người lớn & 1 trẻ em (0-7 tuổi)",
+                        "option_price": "655.770",
+                        "amenities_for_price": [
+                            "5 người lớn & 1 trẻ em (0-7 tuổi)",
+                            "Chính sách hủy",
+                            "Đặt và trả tiền ngay",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 137.881 ₫!"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "35068468",
+        "hotel_name": "Căn hộ 80 m² 3 phòng ngủ, 2 phòng tắm riêng ở Quy Nhơn (PA house)",
+        "hotel_address": "Thành phố biển, Quy Nhơn (Bình Định), Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Căn hộ (Apartment)",
+                "amenities": [
+                    "3 phòng ngủ",
+                    "2 phòng tắm",
+                    "Wi-Fi [miễn phí]",
+                    "Điều hòa",
+                    "80 m²",
+                    "Tối đa 8 người lớn",
+                    "1 giường siêu lớn / 1 giường đôi lớn / 1 giường đôi lớn / 2 giường sofa"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "8 người lớn & 1 trẻ em (0-7 tuổi)",
+                        "option_price": "860.289",
+                        "amenities_for_price": [
+                            "8 người lớn & 1 trẻ em (0-7 tuổi)",
+                            "Đặt và trả tiền ngay",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 41.141 ₫!"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "37197113",
+        "hotel_name": "Cá House (Ca House)",
+        "hotel_address": "17 Phan Bội Châu, Thành phố biển, Quy Nhơn (Bình Định), Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Phòng Giường Đôi Có Phòng Tắm Riêng (Double Room with Private Bathroom)",
+                "amenities": [
+                    "Ấm nước điện",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Vòi sen",
+                    "Điều hòa",
+                    "Tủ lạnh",
+                    "Ban công/sân hiên",
+                    "16 m²",
+                    "Tối đa 2 người lớn",
+                    "1 giường đôi lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "296.296",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Trả tiền ở khách sạn",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Phòng 4 Người Có Ban Công (Quadruple Room with Balcony)",
+                "amenities": [
+                    "Ấm nước điện",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Vòi sen",
+                    "Điều hòa",
+                    "Tủ lạnh",
+                    "Ban công/sân hiên",
+                    "26 m²",
+                    "Tối đa 4 người lớn",
+                    "2 giường đôi"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "4 người lớn",
+                        "option_price": "435.185",
+                        "amenities_for_price": [
+                            "4 người lớn",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Trả tiền ở khách sạn",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "37555079",
+        "hotel_name": "Lyly's House - Altara Quy Nhơn - Căn hộ view biển 2 phòng ngủ (Lyly's House - Altara Quy Nhon - Can ho view bien 2 phong ngu)",
+        "hotel_address": "76 Trần Hưng Đạo, Thành phố biển, Quy Nhơn (Bình Định), Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Căn Hộ 2 Phòng Ngủ (Two-Bedroom Apartment)",
+                "amenities": [
+                    "Hướng Núi",
+                    "2 phòng ngủ",
+                    "2 phòng tắm",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Vòi sen",
+                    "Đồ dùng cho giấc ngủ thoải mái",
+                    "Tủ lạnh",
+                    "Bể bơi riêng",
+                    "Ban công/sân hiên",
+                    "65 m²",
+                    "Tối đa 6 người lớn",
+                    "1 giường sofa / 1 giường đôi lớn / 1 giường đôi lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "6 người lớn",
+                        "option_price": "1.275.000",
+                        "amenities_for_price": [
+                            "6 người lớn",
+                            "Miễn phí hủy trước ngày 17 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng",
+                            "WiFi miễn phí"
+                        ]
+                    },
+                    {
+                        "option_name": "3 người lớn",
+                        "option_price": "1.500.000",
+                        "amenities_for_price": [
+                            "3 người lớn",
+                            "Chính sách hủy",
+                            "Đặt không cần thẻ tín dụng",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "65964651",
+        "hotel_name": "Quy Nhon FLC seatower cosy apartment",
+        "hotel_address": "66 Võ Thị Yến, Thành phố biển, Quy Nhơn (Bình Định), Việt Nam, 55000",
+        "room_types": [
+            {
+                "room_type_name": "Studio Nhìn Ra Biển (Studio with Sea View)",
+                "amenities": [
+                    "phòng tắm riêng",
+                    "Điều hòa",
+                    "75 m²",
+                    "Tối đa 3 người lớn",
+                    "2 giường lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "3 người lớn",
+                        "option_price": "1.203.704",
+                        "amenities_for_price": [
+                            "3 người lớn",
+                            "Miễn phí hủy trước ngày 17 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Căn Hộ 1 Phòng Ngủ (One-Bedroom Apartment)",
+                "amenities": [
+                    "Hướng Vườn",
+                    "phòng tắm riêng",
+                    "Điều hòa",
+                    "Ban công/sân hiên",
+                    "80 m²",
+                    "Tối đa 2 người lớn",
+                    "1 giường đôi"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "1.203.704",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Miễn phí hủy trước ngày 17 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    },
+                    {
+                        "option_name": "1 người lớn Vượt quá sức chứa phòng",
+                        "option_price": "1.083.333",
+                        "amenities_for_price": [
+                            "1 người lớn Vượt quá sức chứa phòng",
+                            "Miễn phí hủy trước ngày 17 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "37711121",
+        "hotel_name": "FLC Sea Tower Quy Nhon - 1514 (FLC Sea Tower Quy Nhơn - 1514)",
+        "hotel_address": "Thành phố biển, Quy Nhơn (Bình Định), Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Studio",
+                "amenities": [
+                    "1 phòng tắm",
+                    "Bồn tắm/vòi sen riêng",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Lối vào bãi biển riêng",
+                    "Wi-Fi [miễn phí]",
+                    "Rèm che ánh sáng",
+                    "Tủ lạnh nhỏ trong phòng",
+                    "Nước đóng chai miễn phí",
+                    "Tủ lạnh",
+                    "46 m²",
+                    "Tối đa 5 người lớn",
+                    "2 giường đôi lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "5 người lớn & 1 trẻ em (0-7 tuổi)",
+                        "option_price": "867.884",
+                        "amenities_for_price": [
+                            "5 người lớn & 1 trẻ em (0-7 tuổi)",
+                            "Chính sách hủy",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 81.557 ₫!"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "6518274",
+        "hotel_name": "Kim Hoa Hotel",
+        "hotel_address": "03 Nguyen Nhu Do,( so cu 34/3 An Duong vuong), Thành phố biển, Quy Nhơn (Bình Định), Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Phòng Đôi (Double Room)",
+                "amenities": [
+                    "Wi-Fi [miễn phí]",
+                    "Rèm che ánh sáng",
+                    "Điều hòa",
+                    "Tủ quần áo",
+                    "20 m²",
+                    "Tối đa 2 người lớn, 1 bé (0-12 tuổi) ở MIỄN PHÍ!",
+                    "1 giường đôi"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn & 1 trẻ em (0-12 tuổi)",
+                        "option_price": "471.952",
+                        "amenities_for_price": [
+                            "2 người lớn & 1 trẻ em (0-12 tuổi)",
+                            "Miễn phí hủy trước ngày 18 thg 11, 25",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 43.921 ₫!"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "30996987",
+        "hotel_name": "Căn hộ 47 m² 1 phòng ngủ, 1 phòng tắm riêng ở Thành phố biển (TMS RUSTIC BEACH)",
+        "hotel_address": "28 Đường Nguyễn Huệ, TMS - tang 8 - Rustic Beach, Thành phố biển, Quy Nhơn (Bình Định), Việt Nam, 82000",
+        "room_types": [
+            {
+                "room_type_name": "Căn Hộ 1 Phòng Ngủ (One-Bedroom Apartment)",
+                "amenities": [
+                    "Hướng Biển",
+                    "Ấm nước điện",
+                    "Phòng tắm chung",
+                    "Máy sấy tóc",
+                    "Phòng tắm đứng",
+                    "Đồ dùng cho giấc ngủ thoải mái",
+                    "Điều hòa",
+                    "Nước đóng chai miễn phí",
+                    "Tủ lạnh",
+                    "Ban công/sân hiên",
+                    "50 m²",
+                    "Tối đa 3 người lớn",
+                    "2 giường đôi lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "402.963",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Miễn phí hủy trước ngày 19 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe"
+                        ]
+                    },
+                    {
+                        "option_name": "3 người lớn",
+                        "option_price": "426.667",
+                        "amenities_for_price": [
+                            "3 người lớn",
+                            "Miễn phí hủy trước ngày 19 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe"
+                        ]
+                    },
+                    {
+                        "option_name": "1 người lớn Vượt quá sức chứa phòng",
+                        "option_price": "379.259",
+                        "amenities_for_price": [
+                            "1 người lớn Vượt quá sức chứa phòng",
+                            "Miễn phí hủy trước ngày 19 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "65481921",
+        "hotel_name": "FLC QUY NHƠN-Khách Sạn View Biển-Hồ Bơi 4 Mùa-Minh Apartment (FLC QUY NHON-Khach San View Bien-Ho Boi 4 Mua-Minh Apartment)",
+        "hotel_address": "Nguyễn Trung Tín, Thành phố biển, Quy Nhơn (Bình Định), Việt Nam, 55000",
+        "room_types": [
+            {
+                "room_type_name": "Căn Hộ 1 Phòng Ngủ (One-Bedroom Apartment)",
+                "amenities": [
+                    "Hướng Biển",
+                    "Bồn tắm tạo sóng",
+                    "Phòng tắm chung",
+                    "Máy sấy tóc",
+                    "Phòng tắm đứng",
+                    "Phòng xông khô",
+                    "Được vào phòng chờ Thương Gia",
+                    "Chăn điện",
+                    "Tủ lạnh nhỏ trong phòng",
+                    "Nước đóng chai miễn phí",
+                    "48 m²",
+                    "Tối đa 5 người lớn",
+                    "2 giường đôi lớn / 1 giường sofa"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "5 người lớn",
+                        "option_price": "361.111",
+                        "amenities_for_price": [
+                            "5 người lớn",
+                            "Miễn phí hủy trước ngày 18 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "Nhận phòng nhanh"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "66681991",
+        "hotel_name": "Quy Nhon TMS cosy apartment",
+        "hotel_address": "Thành phố biển, Quy Nhơn (Bình Định), Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Căn Hộ 1 Phòng Ngủ (One-Bedroom Apartment)",
+                "amenities": [
+                    "Hướng Biển",
+                    "Studio/1 phòng ngủ",
+                    "1 phòng tắm",
+                    "phòng tắm riêng",
+                    "Điều hòa",
+                    "Ban công/sân hiên",
+                    "70 m²",
+                    "Tối đa 4 người lớn",
+                    "2 giường đôi lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "4 người lớn",
+                        "option_price": "393.519",
+                        "amenities_for_price": [
+                            "4 người lớn",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "21826617",
+        "hotel_name": "Căn hộ 65 m² 2 phòng ngủ, 1 phòng tắm riêng ở Thành phố biển (Căn hộ Studio ban công view biển TMS (Golden Wave))",
+        "hotel_address": "28 Nguyen Hue, Le Loi Ward, Quy Nhon city, TMS Luxury Hotel & Residences (Pullman Hotel Quy Nhơn), Thành phố biển, Quy Nhơn (Bình Định), Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Căn Hộ Có Ban Công (Apartment with Balcony)",
+                "amenities": [
+                    "Hướng Núi",
+                    "2 phòng ngủ",
+                    "Ấm nước điện",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Vòi sen",
+                    "Nước đóng chai miễn phí",
+                    "Tủ lạnh",
+                    "Ban công/sân hiên",
+                    "Tủ quần áo",
+                    "60 m²",
+                    "Tối đa 4 người lớn",
+                    "1 giường lớn / 1 giường đôi lớn / 1 giường sofa"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "4 người lớn",
+                        "option_price": "658.333",
+                        "amenities_for_price": [
+                            "4 người lớn",
+                            "Chính sách hủy",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "59799226",
+        "hotel_name": "Căn hộ 50 m² 1 phòng ngủ, 1 phòng tắm riêng ở Thành phố biển (Căn hộ du lịch biển TMS )",
+        "hotel_address": "Thành phố biển, Quy Nhơn (Bình Định), Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Căn hộ (Apartment)",
+                "amenities": [
+                    "Studio/1 phòng ngủ",
+                    "1 phòng tắm",
+                    "Wi-Fi [miễn phí]",
+                    "Điều hòa",
+                    "50 m²",
+                    "Tối đa 4 người lớn",
+                    "2 giường đôi nhỏ"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "4 người lớn & 1 trẻ em (0-7 tuổi)",
+                        "option_price": "774.984",
+                        "amenities_for_price": [
+                            "4 người lớn & 1 trẻ em (0-7 tuổi)",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 111.259 ₫!"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "39604990",
+        "hotel_name": "Căn hộ 400 m² 1 phòng ngủ, 1 phòng tắm riêng ở Quy Nhơn (MyTran Homestay-HauLoan)",
+        "hotel_address": "Quy Nhơn, Quy Nhơn (Bình Định), Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Nhà riêng (home)",
+                "amenities": [
+                    "Studio/1 phòng ngủ",
+                    "3 phòng tắm",
+                    "Máy sấy tóc",
+                    "Wi-Fi [miễn phí]",
+                    "Điều hòa",
+                    "108 m²",
+                    "Tối đa 2 người lớn",
+                    "1 giường đôi lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn & 1 trẻ em (0-7 tuổi)",
+                        "option_price": "291.196",
+                        "amenities_for_price": [
+                            "2 người lớn & 1 trẻ em (0-7 tuổi)",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 60.656 ₫!"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "72814204",
+        "hotel_name": "Căn hộ Quy Nhơn altara Ali (Can ho Quy Nhon altara Ali)",
+        "hotel_address": "Thành phố biển, Quy Nhơn (Bình Định), Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Căn Hộ 2 Phòng Ngủ (Two-Bedroom Apartment)",
+                "amenities": [
+                    "Hướng Biển",
+                    "2 phòng ngủ",
+                    "2 phòng tắm",
+                    "Bồn tắm",
+                    "phòng tắm riêng",
+                    "Điều hòa",
+                    "70 m²",
+                    "Tối đa 6 người lớn",
+                    "1 giường đôi lớn / 1 giường đôi lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "6 người lớn",
+                        "option_price": "815.000",
+                        "amenities_for_price": [
+                            "6 người lớn",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "33840154",
+        "hotel_name": "Khách sạn Vương Quốc 3 (Vương Quốc 3 Hotel)",
+        "hotel_address": "18 Ngô Văn Sở, 8 tầng, Thành phố biển, Quy Nhơn (Bình Định), Việt Nam, 55100",
+        "room_types": [
+            {
+                "room_type_name": "Phòng Đôi Loại Sang (Deluxe Double Room)",
+                "amenities": [
+                    "Ấm nước điện",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Vòi sen",
+                    "Điều hòa",
+                    "Tủ lạnh",
+                    "Tủ quần áo",
+                    "Tối đa 2 người lớn",
+                    "1 giường đôi"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "333.333",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt không cần thẻ tín dụng",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Phòng Tiêu Chuẩn Giường Đôi/2 Giường Đơn (Standard Double or Twin Room)",
+                "amenities": [
+                    "Ấm nước điện",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Vòi sen",
+                    "Điều hòa",
+                    "Tủ lạnh",
+                    "Tủ quần áo",
+                    "Tối đa 4 người lớn",
+                    "2 giường đôi"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "4 người lớn",
+                        "option_price": "541.667",
+                        "amenities_for_price": [
+                            "4 người lớn",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt không cần thẻ tín dụng",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Phòng Deluxe Gia đình (Deluxe Family Room)",
+                "amenities": [
+                    "Ấm nước điện",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Vòi sen",
+                    "Điều hòa",
+                    "Tủ lạnh",
+                    "Tủ quần áo",
+                    "Tối đa 6 người lớn",
+                    "3 giường đôi"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "6 người lớn",
+                        "option_price": "833.333",
+                        "amenities_for_price": [
+                            "6 người lớn",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt không cần thẻ tín dụng",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "9362300",
+        "hotel_name": "Nhà mặt đất 65 m² 1 phòng ngủ, 1 phòng tắm riêng ở Thành phố biển (BBnB Home Quy Nhon)",
+        "hotel_address": "8 - 10 Nguyen Cang, Phuong Nguyen Van Cu, Thành phố biển, Quy Nhơn (Bình Định), Việt Nam, 000084",
+        "room_types": [
+            {
+                "room_type_name": "Studio Có Sân Hiên (Studio with Terrace)",
+                "amenities": [
+                    "Hướng Núi",
+                    "Ấm nước điện",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Phòng tắm đứng",
+                    "Đồ dùng cho giấc ngủ thoải mái",
+                    "Điều hòa",
+                    "Trái cây/đồ ăn vặt",
+                    "Nước đóng chai miễn phí",
+                    "Tủ lạnh",
+                    "65 m²",
+                    "Tối đa 3 người lớn, 3 bé (0-7 tuổi) ở MIỄN PHÍ!",
+                    "1 giường lớn và 1 giường sofa và 1 nệm futon"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "3 người lớn & 3 trẻ em (0-7 tuổi)",
+                        "option_price": "511.574",
+                        "amenities_for_price": [
+                            "3 người lớn & 3 trẻ em (0-7 tuổi)",
+                            "Chính sách hủy",
+                            "Trả tiền cho khách sạn",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Nhà trệt (Bungalow)",
+                "amenities": [
+                    "Máy sấy tóc",
+                    "Wi-Fi [miễn phí]",
+                    "Điều hòa",
+                    "Trà miễn phí",
+                    "Tủ quần áo",
+                    "65 m²",
+                    "Tối đa 6 người lớn, 1 bé (0-7 tuổi) ở MIỄN PHÍ!",
+                    "1 giường siêu lớn / 1 nệm futon và 1 giường sofa"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "6 người lớn & 1 trẻ em (0-7 tuổi)",
+                        "option_price": "591.339",
+                        "amenities_for_price": [
+                            "6 người lớn & 1 trẻ em (0-7 tuổi)",
+                            "Chính sách hủy",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 52.400 ₫!"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "38787520",
+        "hotel_name": "Bãi Xếp Beach (Bai Xep Beach)",
+        "hotel_address": "Tổ 3, khu vực 1 Phường Ghềnh Ráng, Bãi Dài, Quy Nhơn (Bình Định), Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Phòng 4 Người Nhìn Ra Biển (Quadruple Room with Sea View)",
+                "amenities": [
+                    "Hướng Biển",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Vòi sen",
+                    "Đồ dùng cho giấc ngủ thoải mái",
+                    "Điều hòa",
+                    "Nước đóng chai miễn phí",
+                    "Ban công/sân hiên",
+                    "Đồ gỗ ngoài trời",
+                    "12 m²",
+                    "Tối đa 3 người lớn",
+                    "2 giường lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "583.333",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt không cần thẻ tín dụng"
+                        ]
+                    },
+                    {
+                        "option_name": "3 người lớn",
+                        "option_price": "750.000",
+                        "amenities_for_price": [
+                            "3 người lớn",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt không cần thẻ tín dụng"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Phòng Gia Đình (Family Room)",
+                "amenities": [
+                    "Hướng Biển",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Vòi sen",
+                    "Đồ dùng cho giấc ngủ thoải mái",
+                    "Điều hòa",
+                    "Nước đóng chai miễn phí",
+                    "Ban công/sân hiên",
+                    "tầng trệt",
+                    "Đồ gỗ ngoài trời",
+                    "16 m²",
+                    "Tối đa 3 người lớn",
+                    "2 giường lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "816.667",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt không cần thẻ tín dụng"
+                        ]
+                    },
+                    {
+                        "option_name": "3 người lớn",
+                        "option_price": "1.050.000",
+                        "amenities_for_price": [
+                            "3 người lớn",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt không cần thẻ tín dụng"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Phòng Đôi Loại Sang (Deluxe Double Room)",
+                "amenities": [
+                    "Hướng Biển",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Vòi sen",
+                    "Đồ dùng cho giấc ngủ thoải mái",
+                    "Điều hòa",
+                    "Nước đóng chai miễn phí",
+                    "Ban công/sân hiên",
+                    "tầng trệt",
+                    "Đồ gỗ ngoài trời",
+                    "12 m²",
+                    "Tối đa 2 người lớn",
+                    "1 giường lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "1.000.000",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Không hoàn tiền (Giá thấp!)",
+                            "Đặt không cần thẻ tín dụng"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "39936245",
+        "hotel_name": "Căn hộ Altara Quy Nhơn - trung tâm thành phố - giáp biển (Can ho Altara Quy Nhon - trung tam thanh pho - giap bien)",
+        "hotel_address": "76 Trần Hưng Đạo, Thành phố biển, Quy Nhơn (Bình Định), Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Căn Hộ 2 Phòng Ngủ (Two-Bedroom Apartment)",
+                "amenities": [
+                    "Hướng Núi",
+                    "2 phòng ngủ",
+                    "2 phòng tắm",
+                    "Ấm nước điện",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Phòng tắm đứng",
+                    "Đồ dùng cho giấc ngủ thoải mái",
+                    "Nước đóng chai miễn phí",
+                    "Tủ lạnh",
+                    "68 m²",
+                    "Tối đa 4 người lớn",
+                    "1 giường đôi lớn / 1 giường đôi lớn và 1 nệm futon"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "4 người lớn",
+                        "option_price": "740.741",
+                        "amenities_for_price": [
+                            "4 người lớn",
+                            "Miễn phí hủy trước ngày 18 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "32355416",
+        "hotel_name": "Căn hộ 71 m² 2 phòng ngủ, 2 phòng tắm riêng ở Thành phố biển (An Nhiên Apartment Căn hộ cao cấp Altara Quy Nhơn)",
+        "hotel_address": "Thành phố biển, Quy Nhơn (Bình Định), Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Căn hộ (Apartment)",
+                "amenities": [
+                    "2 phòng ngủ",
+                    "2 phòng tắm",
+                    "Máy sấy tóc",
+                    "Wi-Fi [miễn phí]",
+                    "Điều hòa",
+                    "Tủ quần áo",
+                    "71 m²",
+                    "Tối đa 4 người lớn",
+                    "1 giường đôi lớn / 1 giường đôi nhỏ"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "4 người lớn & 1 trẻ em (0-7 tuổi)",
+                        "option_price": "1.060.946",
+                        "amenities_for_price": [
+                            "4 người lớn & 1 trẻ em (0-7 tuổi)",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 28.120 ₫!"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "52285632",
+        "hotel_name": "TMS Quy Nhơn - HupaSeaRest",
+        "hotel_address": "28 Nguyễn Huệ, Thành phố biển, Quy Nhơn (Bình Định), Việt Nam, 55100",
+        "room_types": [
+            {
+                "room_type_name": "Studio",
+                "amenities": [
+                    "47 m²",
+                    "Tối đa 2 người lớn",
+                    "2 giường đôi lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "389.767",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Miễn phí hủy trước ngày 18 thg 11, 25",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "23087118",
+        "hotel_name": "Căn hộ 50 m² 1 phòng ngủ, 1 phòng tắm riêng ở Trung tâm thành phố Quy Nhơn (FLC sea tower Quy Nhon - Kizz House)",
+        "hotel_address": "Thành phố biển, Quy Nhơn (Bình Định), Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Căn hộ (Apartment)",
+                "amenities": [
+                    "Hướng Núi",
+                    "Studio/1 phòng ngủ",
+                    "1 phòng tắm",
+                    "Ấm nước điện",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Vòi sen",
+                    "Wi-Fi [miễn phí]",
+                    "Đồ dùng cho giấc ngủ thoải mái",
+                    "Điều hòa",
+                    "50 m²",
+                    "Tối đa 4 người lớn",
+                    "2 giường đôi / 1 giường sofa"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "4 người lớn & 1 trẻ em (0-12 tuổi)",
+                        "option_price": "722.024",
+                        "amenities_for_price": [
+                            "4 người lớn & 1 trẻ em (0-12 tuổi)",
+                            "Chính sách hủy",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 71.627 ₫!"
+                        ]
+                    },
+                    {
+                        "option_name": "4 người lớn & 1 trẻ em (0-12 tuổi)",
+                        "option_price": "1.036.891",
+                        "amenities_for_price": [
+                            "4 người lớn & 1 trẻ em (0-12 tuổi)",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "Miễn Phí Internet Không Dây"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "35308672",
+        "hotel_name": "Căn hộ khách sạn FLC Sea Tower Quy Nhơn Seaview (FLC Sea Tower Quy Nhon Seaview Condotel)",
+        "hotel_address": "Nguyễn Trung Tín, flc sea tower, Thành phố biển, Quy Nhơn (Bình Định), Việt Nam, 810000",
+        "room_types": [
+            {
+                "room_type_name": "Studio Nhìn Ra Hồ Bơi (Studio with Pool View)",
+                "amenities": [
+                    "Hướng Núi",
+                    "Ấm nước điện",
+                    "Bồn tắm",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Vòi sen",
+                    "Đồ dùng cho giấc ngủ thoải mái",
+                    "Nước đóng chai miễn phí",
+                    "Tủ lạnh",
+                    "Ban công/sân hiên",
+                    "45 m²",
+                    "Tối đa 2 người lớn",
+                    "1 giường đôi lớn hoặc 2 giường đôi"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "383.681",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Miễn phí hủy trước ngày 17 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    },
+                    {
+                        "option_name": "1 người lớn Vượt quá sức chứa phòng",
+                        "option_price": "377.778",
+                        "amenities_for_price": [
+                            "1 người lớn Vượt quá sức chứa phòng",
+                            "Miễn phí hủy trước ngày 17 thg 11, 25",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "78975271",
+        "hotel_name": "Căn hộ TMS OCEAN PANORAMA ( TMS OCEAN PANORAMA - Quy Nhơn Apartment )",
+        "hotel_address": "28 Nguyễn Huệ, Phường Lê Lợi, TMS, Thành phố biển, Quy Nhơn (Bình Định), Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Studio",
+                "amenities": [
+                    "Hướng biển (hướng một phần)",
+                    "Máy sấy tóc",
+                    "Phòng tắm đứng",
+                    "Wi-Fi [miễn phí]",
+                    "Rèm che ánh sáng",
+                    "Điều hòa",
+                    "Tủ lạnh nhỏ trong phòng",
+                    "Nước đóng chai miễn phí",
+                    "Ấm nước",
+                    "Tủ lạnh",
+                    "46 m²",
+                    "Tối đa 4 người lớn",
+                    "2 giường đôi"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "4 người lớn",
+                        "option_price": "381.825",
+                        "amenities_for_price": [
+                            "4 người lớn",
+                            "Chính sách hủy",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 15.000 ₫!"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "One Bedroom Apartment - 2 Adult with 2 Child",
+                "amenities": [
+                    "Hướng biển (hướng một phần)",
+                    "Phòng tắm đứng",
+                    "Wi-Fi [miễn phí]",
+                    "Rèm che ánh sáng",
+                    "Điều hòa",
+                    "Tủ lạnh nhỏ trong phòng",
+                    "Nước đóng chai miễn phí",
+                    "Ấm nước",
+                    "Tủ lạnh",
+                    "Ban công/sân hiên",
+                    "65 m²",
+                    "Tối đa 4 người lớn",
+                    "1 giường đơn / 1 giường đơn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "4 người lớn",
+                        "option_price": "582.815",
+                        "amenities_for_price": [
+                            "4 người lớn",
+                            "Chính sách hủy",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 12.423 ₫!"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "34404067",
+        "hotel_name": "Căn hộ Sea View - Altara Quy Nhơn (Sea View Apartment - Altara Quy Nhon)",
+        "hotel_address": "76 Trần Hưng Đạo, Thành phố biển, Quy Nhơn (Bình Định), Việt Nam, 55000",
+        "room_types": [
+            {
+                "room_type_name": "Căn Hộ 1 Phòng Ngủ (One Bedroom Apartment)",
+                "amenities": [
+                    "Hướng Đại dương",
+                    "Ấm nước điện",
+                    "Bồn tắm/vòi sen riêng",
+                    "phòng tắm riêng",
+                    "Máy sấy tóc",
+                    "Phòng tắm đứng",
+                    "Wi-Fi [miễn phí]",
+                    "Đồ dùng cho giấc ngủ thoải mái",
+                    "Nước đóng chai miễn phí",
+                    "Tủ lạnh",
+                    "47 m²",
+                    "Tối đa 2 người lớn",
+                    "1 giường lớn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "2 người lớn",
+                        "option_price": "666.667",
+                        "amenities_for_price": [
+                            "2 người lớn",
+                            "Chính sách hủy",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí"
+                        ]
+                    },
+                    {
+                        "option_name": "2 người lớn & 1 trẻ em (0-2 tuổi)",
+                        "option_price": "676.854",
+                        "amenities_for_price": [
+                            "2 người lớn & 1 trẻ em (0-2 tuổi)",
+                            "Chính sách hủy",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 28.614 ₫!"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "70957009",
+        "hotel_name": "Căn hộ 70 m² 2 phòng ngủ, 2 phòng tắm riêng ở Thành phố biển (Altara residences Quy Nhon- view biển)",
+        "hotel_address": "Thành phố biển, Quy Nhơn (Bình Định), Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Căn hộ (Apartment)",
+                "amenities": [
+                    "2 phòng ngủ",
+                    "2 phòng tắm",
+                    "Máy sấy tóc",
+                    "Wi-Fi [miễn phí]",
+                    "Điều hòa",
+                    "70 m²",
+                    "Tối đa 4 người lớn",
+                    "1 giường đôi / 1 giường đôi"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "4 người lớn & 1 trẻ em (0-7 tuổi)",
+                        "option_price": "406.821",
+                        "amenities_for_price": [
+                            "4 người lớn & 1 trẻ em (0-7 tuổi)",
+                            "Đặt và trả tiền ngay",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 34.096 ₫!"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "69799137",
+        "hotel_name": "Nhà riêng m² 3 phòng ngủ, 2 phòng tắm riêng ở Nhơn Lý (Home SÂU)",
+        "hotel_address": "Nhơn Lý, Quy Nhơn (Bình Định), Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Nhà riêng (home)",
+                "amenities": [
+                    "3 phòng ngủ",
+                    "2 phòng tắm",
+                    "Máy sấy tóc",
+                    "Wi-Fi [miễn phí]",
+                    "Điều hòa",
+                    "Tủ quần áo",
+                    "Cho phép hút thuốc",
+                    "Tối đa 10 người lớn",
+                    "2 giường đôi / 1 giường đơn / 1 giường đơn"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "10 người lớn & 1 trẻ em (0-7 tuổi)",
+                        "option_price": "1.225.410",
+                        "amenities_for_price": [
+                            "10 người lớn & 1 trẻ em (0-7 tuổi)",
+                            "Chính sách hủy",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 97.341 ₫!"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "78275123",
+        "hotel_name": "m² 5 phòng ngủ, 5 phòng tắm riêng ở Thành phố biển (Homestay mi House quy nhon)",
+        "hotel_address": "Thành phố biển, Quy Nhơn (Bình Định), Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Căn Hộ 1 Phòng Ngủ (Homestay)",
+                "amenities": [
+                    "5 phòng ngủ",
+                    "5 phòng tắm",
+                    "Wi-Fi [miễn phí]",
+                    "Điều hòa",
+                    "Tối đa 20 người lớn",
+                    "3 giường đơn / 1 giường đôi / 2 giường đơn / 3 giường đơn / 3 giường đôi"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "20 người lớn & 1 trẻ em (0-7 tuổi)",
+                        "option_price": "299.992",
+                        "amenities_for_price": [
+                            "20 người lớn & 1 trẻ em (0-7 tuổi)",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí",
+                            "Đã nhập mã AGODA_SPONSORED - giảm 27.918 ₫!"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "36924743",
+        "hotel_name": "FLC SEA TOWER QUY NHON - JAPANDI HOUSE",
+        "hotel_address": "2 Nguyễn Trung Tín, FLC Sea Tower Quy Nhơn, Thành phố biển, Quy Nhơn (Bình Định), Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Căn Hộ 2 Phòng Ngủ (Two-Bedroom Apartment)",
+                "amenities": [
+                    "Hướng Núi",
+                    "2 phòng ngủ",
+                    "2 phòng tắm",
+                    "Ấm nước điện",
+                    "Bồn tắm tạo sóng",
+                    "Phòng tắm chung",
+                    "Máy sấy tóc",
+                    "Vòi sen",
+                    "Đồ dùng cho giấc ngủ thoải mái",
+                    "Nước đóng chai miễn phí",
+                    "88 m²",
+                    "Tối đa 6 người lớn",
+                    "2 giường đôi lớn / 1 giường đôi lớn / 1 giường sofa"
+                ],
+                "price_options": [
+                    {
+                        "option_name": "6 người lớn",
+                        "option_price": "1.231.481",
+                        "amenities_for_price": [
+                            "6 người lớn",
+                            "Chính sách hủy",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

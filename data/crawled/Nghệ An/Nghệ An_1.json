@@ -1,0 +1,2740 @@
+[
+    {
+        "hotel_id": "28918422",
+        "hotel_name": "Căn hộ 25 m² 1 phòng ngủ, 1 phòng tắm riêng ở Vinh (Phòng Vip RUBY Hotel)",
+        "hotel_address": "Sân bay quốc tế Vinh, Vinh, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Căn hộ (Apartment)",
+                "amenities": [
+                    {
+                        "amenity": "Diện tích phòng: 20 m²",
+                        "type": "sqm"
+                    },
+                    {
+                        "amenity": "1 giường lớn",
+                        "type": "bed"
+                    },
+                    {
+                        "amenity": "Studio/1 phòng ngủ",
+                        "type": "bedroom"
+                    },
+                    {
+                        "amenity": "1 phòng tắm",
+                        "type": "bathrooms"
+                    },
+                    {
+                        "amenity": "Tủ quần áo",
+                        "type": "closet"
+                    },
+                    {
+                        "amenity": "Điều hòa",
+                        "type": "air-conditioning"
+                    }
+                ],
+                "price_options": [
+                    {
+                        "option_name": "Thông tin sức chứa phòng: 2 người lớn và 1 trẻ em.",
+                        "option_price": "288.990₫",
+                        "amenities_for_price": [
+                            "Miễn phí hủy trước 17 tháng 11 2025\n\ntooltip\n\nĐặt phòng không có rủi ro! Hủy trước 17 tháng 11 2025 và quý khách sẽ không phải trả gì cả!\n\nBất kỳ việc hủy phòng nào ghi nhận được trong vòng 1 ngày trước ngày đến sẽ phải trả phí cho toàn bộ thời gian ở. Không đến khách sạn hoặc chỗ nghỉ sẽ được giải quyết như là Vắng Mặt và sẽ phải trả một khoản tiền là 100% giá trị đặt phòng (Quy định của khách sạn).",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "77064501",
+        "hotel_name": "Căn hộ m² 3 phòng ngủ, 2 phòng tắm riêng ở Trung tâm Vinh (Nhà của Thỏ)",
+        "hotel_address": "Thành phố Vinh, Vinh, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Căn hộ (Apartment)",
+                "amenities": [
+                    {
+                        "amenity": "2 giường đôi lớn & 2 giường đôi lớn & 2 giường đôi lớn",
+                        "type": "bed"
+                    },
+                    {
+                        "amenity": "3 phòng ngủ",
+                        "type": "bedroom"
+                    },
+                    {
+                        "amenity": "2 phòng tắm",
+                        "type": "bathrooms"
+                    },
+                    {
+                        "amenity": "Điều hòa",
+                        "type": "air-conditioning"
+                    }
+                ],
+                "price_options": [
+                    {
+                        "option_name": "Thông tin sức chứa phòng: 2 người lớn và 1 trẻ em.",
+                        "option_price": "1.302.725₫",
+                        "amenities_for_price": [
+                            "Miễn phí hủy trước 17 tháng 11 2025\n\ntooltip\n\nĐặt phòng không có rủi ro! Hủy trước 17 tháng 11 2025 và quý khách sẽ không phải trả gì cả!\n\nBất kỳ việc hủy phòng nào ghi nhận được trong vòng 1 ngày trước ngày đến sẽ phải trả phí cho toàn bộ thời gian ở. Không đến khách sạn hoặc chỗ nghỉ sẽ được giải quyết như là Vắng Mặt và sẽ phải trả một khoản tiền là 100% giá trị đặt phòng (Quy định của khách sạn).",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "68803607",
+        "hotel_name": "Nhà riêng 60 m² 1 phòng ngủ, 2 phòng tắm riêng ở Trung tâm Vinh (Bé Mỡ House 26 - Vinh Homestay)",
+        "hotel_address": "Thành phố Vinh, Vinh, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Nhà riêng (home )",
+                "amenities": [
+                    {
+                        "amenity": "Diện tích phòng: 60 m²",
+                        "type": "sqm"
+                    },
+                    {
+                        "amenity": "2 giường đôi lớn",
+                        "type": "bed"
+                    },
+                    {
+                        "amenity": "Studio/1 phòng ngủ",
+                        "type": "bedroom"
+                    },
+                    {
+                        "amenity": "2 phòng tắm",
+                        "type": "bathrooms"
+                    },
+                    {
+                        "amenity": "Tủ quần áo",
+                        "type": "closet"
+                    },
+                    {
+                        "amenity": "Điều hòa",
+                        "type": "air-conditioning"
+                    },
+                    {
+                        "amenity": "Máy sấy tóc",
+                        "type": "hair-dryer"
+                    }
+                ],
+                "price_options": [
+                    {
+                        "option_name": "Thông tin sức chứa phòng: 2 người lớn và 1 trẻ em.",
+                        "option_price": "712.209₫",
+                        "amenities_for_price": [
+                            "Không hoàn tiền (Giá thấp!)\n\ntooltip\n\nKhuyến mại đặc biệt này bao gồm giá cực thấp, nhưng không thể nào thay đổi hoặc hủy bỏ được. Trong trường hợp vắng mặt, chỗ nghỉ sẽ không hoàn tiền đặt phòng.\n\nNếu chắc về ngày quý khách đến/đi, quý khách có thể tận dụng khuyến mại đặc biệt này!",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "1994625",
+        "hotel_name": "Vinpearl Cửa Hội, Affiliated by Meliá (Vinpearl Cua Hoi, Affiliated by Meliá)",
+        "hotel_address": "Bình Minh street - Nghi Hai Ward - Cua Lo Beach - Nghe An province, Viet Nam, Bãi biển Cửa Lò, Biển Cửa Lò, Việt Nam, 43200",
+        "room_types": [
+            {
+                "room_type_name": "Phòng Deluxe Hướng vườn (Deluxe Room Garden View)",
+                "amenities": [
+                    {
+                        "amenity": "Diện tích phòng: 36 m²",
+                        "type": "sqm"
+                    },
+                    {
+                        "amenity": "Hướng Vườn",
+                        "type": "views"
+                    },
+                    {
+                        "amenity": "1 giường lớn hoặc 2 giường đơn",
+                        "type": "bed"
+                    },
+                    {
+                        "amenity": "Bồn tắm/vòi sen riêng",
+                        "type": "separate-shower-and-tub"
+                    },
+                    {
+                        "amenity": "Ban công/sân hiên",
+                        "type": "balcony-terrace"
+                    },
+                    {
+                        "amenity": "Rèm che ánh sáng",
+                        "type": "blackout-curtains"
+                    },
+                    {
+                        "amenity": "Tủ lạnh nhỏ trong phòng",
+                        "type": "mini-bar"
+                    },
+                    {
+                        "amenity": "Không hút thuốc",
+                        "type": "non-smoking-room"
+                    },
+                    {
+                        "amenity": "phòng tắm riêng",
+                        "type": "bathrooms"
+                    }
+                ],
+                "price_options": [
+                    {
+                        "option_name": "Thông tin sức chứa phòng: 2 người lớn.",
+                        "option_price": "1.712.393₫",
+                        "amenities_for_price": [
+                            "Kèm bữa sáng",
+                            "Bao gồm bữa tối",
+                            "Miễn phí hủy trước 17 tháng 11 2025\n\ntooltip\n\nĐặt phòng không có rủi ro! Hủy trước 17 tháng 11 2025 và quý khách sẽ không phải trả gì cả!\n\nBất kỳ việc hủy phòng nào ghi nhận được trong vòng 1 ngày trước ngày đến sẽ phải trả phí cho toàn bộ thời gian ở. Không đến khách sạn hoặc chỗ nghỉ sẽ được giải quyết như là Vắng Mặt và sẽ phải trả một khoản tiền là 100% giá trị đặt phòng (Quy định của khách sạn).",
+                            "Thanh toán tại nơi ở"
+                        ]
+                    },
+                    {
+                        "option_name": "Thông tin sức chứa phòng: 2 người lớn.",
+                        "option_price": "1.720.548₫",
+                        "amenities_for_price": [
+                            "Kèm bữa sáng",
+                            "Bao gồm bữa trưa",
+                            "Miễn phí hủy trước 17 tháng 11 2025\n\ntooltip\n\nĐặt phòng không có rủi ro! Hủy trước 17 tháng 11 2025 và quý khách sẽ không phải trả gì cả!\n\nBất kỳ việc hủy phòng nào ghi nhận được trong vòng 1 ngày trước ngày đến sẽ phải trả khoản tiền đêm đầu tiên. Không đến khách sạn hoặc chỗ nghỉ sẽ được giải quyết như là Vắng Mặt và sẽ phải trả khoản tiền đêm đầu tiên (Quy định của khách sạn).",
+                            "Đặt và trả tiền ngay"
+                        ]
+                    },
+                    {
+                        "option_name": "Thông tin sức chứa phòng: 2 người lớn.",
+                        "option_price": "2.309.005₫",
+                        "amenities_for_price": [
+                            "Kèm bữa sáng",
+                            "Miễn phí hủy trước 17 tháng 11 2025\n\ntooltip\n\nĐặt phòng không có rủi ro! Hủy trước 17 tháng 11 2025 và quý khách sẽ không phải trả gì cả!\n\nBất kỳ việc hủy phòng nào ghi nhận được trong vòng 1 ngày trước ngày đến sẽ phải trả phí cho toàn bộ thời gian ở. Không đến khách sạn hoặc chỗ nghỉ sẽ được giải quyết như là Vắng Mặt và sẽ phải trả một khoản tiền là 100% giá trị đặt phòng (Quy định của khách sạn).",
+                            "Thanh toán tại nơi ở"
+                        ]
+                    },
+                    {
+                        "option_name": "Thông tin sức chứa phòng: 2 người lớn.",
+                        "option_price": "2.320.000₫",
+                        "amenities_for_price": [
+                            "Kèm bữa sáng",
+                            "Miễn phí hủy trước 17 tháng 11 2025\n\ntooltip\n\nĐặt phòng không có rủi ro! Hủy trước 17 tháng 11 2025 và quý khách sẽ không phải trả gì cả!\n\nBất kỳ việc hủy phòng nào ghi nhận được trong vòng 1 ngày trước ngày đến sẽ phải trả khoản tiền đêm đầu tiên. Không đến khách sạn hoặc chỗ nghỉ sẽ được giải quyết như là Vắng Mặt và sẽ phải trả khoản tiền đêm đầu tiên (Quy định của khách sạn).",
+                            "Đặt và trả tiền ngay"
+                        ]
+                    },
+                    {
+                        "option_name": "Thông tin sức chứa phòng: 2 người lớn.",
+                        "option_price": "4.859.612₫",
+                        "amenities_for_price": [
+                            "Kèm bữa sáng",
+                            "Bao gồm bữa trưa",
+                            "Bao gồm bữa tối",
+                            "Miễn phí hủy trước 17 tháng 11 2025\n\ntooltip\n\nĐặt phòng không có rủi ro! Hủy trước 17 tháng 11 2025 và quý khách sẽ không phải trả gì cả!\n\nBất kỳ việc hủy phòng nào ghi nhận được trong vòng 1 ngày trước ngày đến sẽ phải trả phí cho toàn bộ thời gian ở. Không đến khách sạn hoặc chỗ nghỉ sẽ được giải quyết như là Vắng Mặt và sẽ phải trả một khoản tiền là 100% giá trị đặt phòng (Quy định của khách sạn).",
+                            "Thanh toán tại nơi ở"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Phòng Loại Sang Hướng Hồ (Deluxe Room Lake View)",
+                "amenities": [
+                    {
+                        "amenity": "Diện tích phòng: 36 m²",
+                        "type": "sqm"
+                    },
+                    {
+                        "amenity": "Hướng Vườn",
+                        "type": "views"
+                    },
+                    {
+                        "amenity": "2 giường đơn hoặc 1 giường lớn",
+                        "type": "bed"
+                    },
+                    {
+                        "amenity": "Bồn tắm/vòi sen riêng",
+                        "type": "separate-shower-and-tub"
+                    },
+                    {
+                        "amenity": "Ban công/sân hiên",
+                        "type": "balcony-terrace"
+                    },
+                    {
+                        "amenity": "Rèm che ánh sáng",
+                        "type": "blackout-curtains"
+                    },
+                    {
+                        "amenity": "Tủ lạnh nhỏ trong phòng",
+                        "type": "mini-bar"
+                    },
+                    {
+                        "amenity": "Không hút thuốc",
+                        "type": "non-smoking-room"
+                    },
+                    {
+                        "amenity": "phòng tắm riêng",
+                        "type": "bathrooms"
+                    }
+                ],
+                "price_options": [
+                    {
+                        "option_name": "Thông tin sức chứa phòng: 2 người lớn.",
+                        "option_price": "1.937.718₫",
+                        "amenities_for_price": [
+                            "Kèm bữa sáng",
+                            "Không hoàn tiền (Giá thấp!)\n\ntooltip\n\nKhuyến mại đặc biệt này bao gồm giá cực thấp, nhưng không thể nào thay đổi hoặc hủy bỏ được. Trong trường hợp vắng mặt, chỗ nghỉ sẽ không hoàn tiền đặt phòng.\n\nNếu chắc về ngày quý khách đến/đi, quý khách có thể tận dụng khuyến mại đặc biệt này!",
+                            "Trả tiền cho khách sạn"
+                        ]
+                    },
+                    {
+                        "option_name": "Thông tin sức chứa phòng: 2 người lớn.",
+                        "option_price": "1.946.595₫",
+                        "amenities_for_price": [
+                            "Kèm bữa sáng",
+                            "Không hoàn tiền (Giá thấp!)\n\ntooltip\n\nKhuyến mại đặc biệt này bao gồm giá cực thấp, nhưng không thể nào thay đổi hoặc hủy bỏ được. Trong trường hợp vắng mặt, chỗ nghỉ sẽ không hoàn tiền đặt phòng.\n\nNếu chắc về ngày quý khách đến/đi, quý khách có thể tận dụng khuyến mại đặc biệt này!",
+                            "Đặt và trả tiền ngay",
+                            "Giảm giá Thức ăn & Đồ uống 10%",
+                            "Giảm giá Spa 30%"
+                        ]
+                    },
+                    {
+                        "option_name": "Thông tin sức chứa phòng: 2 người lớn.",
+                        "option_price": "2.422.148₫",
+                        "amenities_for_price": [
+                            "Kèm bữa sáng",
+                            "Miễn phí hủy trước 17 tháng 11 2025\n\ntooltip\n\nĐặt phòng không có rủi ro! Hủy trước 17 tháng 11 2025 và quý khách sẽ không phải trả gì cả!\n\nBất kỳ việc hủy phòng nào ghi nhận được trong vòng 1 ngày trước ngày đến sẽ phải trả phí cho toàn bộ thời gian ở. Không đến khách sạn hoặc chỗ nghỉ sẽ được giải quyết như là Vắng Mặt và sẽ phải trả một khoản tiền là 100% giá trị đặt phòng (Quy định của khách sạn).",
+                            "Thanh toán tại nơi ở"
+                        ]
+                    },
+                    {
+                        "option_name": "Thông tin sức chứa phòng: 2 người lớn.",
+                        "option_price": "2.433.682₫",
+                        "amenities_for_price": [
+                            "Kèm bữa sáng",
+                            "Miễn phí hủy trước 17 tháng 11 2025\n\ntooltip\n\nĐặt phòng không có rủi ro! Hủy trước 17 tháng 11 2025 và quý khách sẽ không phải trả gì cả!\n\nBất kỳ việc hủy phòng nào ghi nhận được trong vòng 1 ngày trước ngày đến sẽ phải trả khoản tiền đêm đầu tiên. Không đến khách sạn hoặc chỗ nghỉ sẽ được giải quyết như là Vắng Mặt và sẽ phải trả khoản tiền đêm đầu tiên (Quy định của khách sạn).",
+                            "Đặt và trả tiền ngay"
+                        ]
+                    },
+                    {
+                        "option_name": "Thông tin sức chứa phòng: 2 người lớn.",
+                        "option_price": "3.835.737₫",
+                        "amenities_for_price": [
+                            "Kèm bữa sáng",
+                            "Bao gồm bữa tối",
+                            "Miễn phí hủy trước 17 tháng 11 2025\n\ntooltip\n\nĐặt phòng không có rủi ro! Hủy trước 17 tháng 11 2025 và quý khách sẽ không phải trả gì cả!\n\nBất kỳ việc hủy phòng nào ghi nhận được trong vòng 1 ngày trước ngày đến sẽ phải trả phí cho toàn bộ thời gian ở. Không đến khách sạn hoặc chỗ nghỉ sẽ được giải quyết như là Vắng Mặt và sẽ phải trả một khoản tiền là 100% giá trị đặt phòng (Quy định của khách sạn).",
+                            "Thanh toán tại nơi ở"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Phòng Deluxe Hướng biển (Deluxe Room Ocean View)",
+                "amenities": [
+                    {
+                        "amenity": "Diện tích phòng: 36 m²",
+                        "type": "sqm"
+                    },
+                    {
+                        "amenity": "Hướng Biển",
+                        "type": "views"
+                    },
+                    {
+                        "amenity": "1 giường lớn hoặc 2 giường đơn",
+                        "type": "bed"
+                    },
+                    {
+                        "amenity": "Bồn tắm/vòi sen riêng",
+                        "type": "separate-shower-and-tub"
+                    },
+                    {
+                        "amenity": "Ban công/sân hiên",
+                        "type": "balcony-terrace"
+                    },
+                    {
+                        "amenity": "Rèm che ánh sáng",
+                        "type": "blackout-curtains"
+                    },
+                    {
+                        "amenity": "Tủ lạnh nhỏ trong phòng",
+                        "type": "mini-bar"
+                    },
+                    {
+                        "amenity": "Không hút thuốc",
+                        "type": "non-smoking-room"
+                    },
+                    {
+                        "amenity": "phòng tắm riêng",
+                        "type": "bathrooms"
+                    }
+                ],
+                "price_options": [
+                    {
+                        "option_name": "Thông tin sức chứa phòng: 2 người lớn.",
+                        "option_price": "2.179.089₫",
+                        "amenities_for_price": [
+                            "Kèm bữa sáng",
+                            "Không hoàn tiền (Giá thấp!)\n\ntooltip\n\nKhuyến mại đặc biệt này bao gồm giá cực thấp, nhưng không thể nào thay đổi hoặc hủy bỏ được. Trong trường hợp vắng mặt, chỗ nghỉ sẽ không hoàn tiền đặt phòng.\n\nNếu chắc về ngày quý khách đến/đi, quý khách có thể tận dụng khuyến mại đặc biệt này!",
+                            "Trả tiền cho khách sạn"
+                        ]
+                    },
+                    {
+                        "option_name": "Thông tin sức chứa phòng: 2 người lớn.",
+                        "option_price": "2.189.072₫",
+                        "amenities_for_price": [
+                            "Kèm bữa sáng",
+                            "Không hoàn tiền (Giá thấp!)\n\ntooltip\n\nKhuyến mại đặc biệt này bao gồm giá cực thấp, nhưng không thể nào thay đổi hoặc hủy bỏ được. Trong trường hợp vắng mặt, chỗ nghỉ sẽ không hoàn tiền đặt phòng.\n\nNếu chắc về ngày quý khách đến/đi, quý khách có thể tận dụng khuyến mại đặc biệt này!",
+                            "Đặt và trả tiền ngay",
+                            "Giảm giá Thức ăn & Đồ uống 10%",
+                            "Giảm giá Spa 30%"
+                        ]
+                    },
+                    {
+                        "option_name": "Thông tin sức chứa phòng: 2 người lớn.",
+                        "option_price": "2.723.863₫",
+                        "amenities_for_price": [
+                            "Kèm bữa sáng",
+                            "Miễn phí hủy trước 17 tháng 11 2025\n\ntooltip\n\nĐặt phòng không có rủi ro! Hủy trước 17 tháng 11 2025 và quý khách sẽ không phải trả gì cả!\n\nBất kỳ việc hủy phòng nào ghi nhận được trong vòng 1 ngày trước ngày đến sẽ phải trả phí cho toàn bộ thời gian ở. Không đến khách sạn hoặc chỗ nghỉ sẽ được giải quyết như là Vắng Mặt và sẽ phải trả một khoản tiền là 100% giá trị đặt phòng (Quy định của khách sạn).",
+                            "Thanh toán tại nơi ở"
+                        ]
+                    },
+                    {
+                        "option_name": "Thông tin sức chứa phòng: 2 người lớn.",
+                        "option_price": "2.736.833₫",
+                        "amenities_for_price": [
+                            "Kèm bữa sáng",
+                            "Miễn phí hủy trước 17 tháng 11 2025\n\ntooltip\n\nĐặt phòng không có rủi ro! Hủy trước 17 tháng 11 2025 và quý khách sẽ không phải trả gì cả!\n\nBất kỳ việc hủy phòng nào ghi nhận được trong vòng 1 ngày trước ngày đến sẽ phải trả khoản tiền đêm đầu tiên. Không đến khách sạn hoặc chỗ nghỉ sẽ được giải quyết như là Vắng Mặt và sẽ phải trả khoản tiền đêm đầu tiên (Quy định của khách sạn).",
+                            "Đặt và trả tiền ngay"
+                        ]
+                    },
+                    {
+                        "option_name": "Thông tin sức chứa phòng: 3 người lớn.",
+                        "option_price": "3.608.539₫",
+                        "amenities_for_price": [
+                            "Kèm bữa sáng",
+                            "Miễn phí hủy trước 17 tháng 11 2025\n\ntooltip\n\nĐặt phòng không có rủi ro! Hủy trước 17 tháng 11 2025 và quý khách sẽ không phải trả gì cả!\n\nBất kỳ việc hủy phòng nào ghi nhận được trong vòng 1 ngày trước ngày đến sẽ phải trả phí cho toàn bộ thời gian ở. Không đến khách sạn hoặc chỗ nghỉ sẽ được giải quyết như là Vắng Mặt và sẽ phải trả một khoản tiền là 100% giá trị đặt phòng (Quy định của khách sạn).",
+                            "Thanh toán tại nơi ở"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Phòng Suite Hướng vườn (Suite Garden View)",
+                "amenities": [
+                    {
+                        "amenity": "Diện tích phòng: 59 m²",
+                        "type": "sqm"
+                    },
+                    {
+                        "amenity": "Hướng Vườn",
+                        "type": "views"
+                    },
+                    {
+                        "amenity": "1 giường lớn",
+                        "type": "bed"
+                    },
+                    {
+                        "amenity": "Bồn tắm/vòi sen riêng",
+                        "type": "separate-shower-and-tub"
+                    },
+                    {
+                        "amenity": "Ban công/sân hiên",
+                        "type": "balcony-terrace"
+                    },
+                    {
+                        "amenity": "Rèm che ánh sáng",
+                        "type": "blackout-curtains"
+                    },
+                    {
+                        "amenity": "Tủ lạnh nhỏ trong phòng",
+                        "type": "mini-bar"
+                    },
+                    {
+                        "amenity": "Không hút thuốc",
+                        "type": "non-smoking-room"
+                    },
+                    {
+                        "amenity": "phòng tắm riêng",
+                        "type": "bathrooms"
+                    }
+                ],
+                "price_options": [
+                    {
+                        "option_name": "Thông tin sức chứa phòng: 2 người lớn.",
+                        "option_price": "2.541.147₫",
+                        "amenities_for_price": [
+                            "Kèm bữa sáng",
+                            "Không hoàn tiền (Giá thấp!)\n\ntooltip\n\nKhuyến mại đặc biệt này bao gồm giá cực thấp, nhưng không thể nào thay đổi hoặc hủy bỏ được. Trong trường hợp vắng mặt, chỗ nghỉ sẽ không hoàn tiền đặt phòng.\n\nNếu chắc về ngày quý khách đến/đi, quý khách có thể tận dụng khuyến mại đặc biệt này!",
+                            "Trả tiền cho khách sạn"
+                        ]
+                    },
+                    {
+                        "option_name": "Thông tin sức chứa phòng: 2 người lớn.",
+                        "option_price": "2.552.788₫",
+                        "amenities_for_price": [
+                            "Kèm bữa sáng",
+                            "Không hoàn tiền (Giá thấp!)\n\ntooltip\n\nKhuyến mại đặc biệt này bao gồm giá cực thấp, nhưng không thể nào thay đổi hoặc hủy bỏ được. Trong trường hợp vắng mặt, chỗ nghỉ sẽ không hoàn tiền đặt phòng.\n\nNếu chắc về ngày quý khách đến/đi, quý khách có thể tận dụng khuyến mại đặc biệt này!",
+                            "Đặt và trả tiền ngay",
+                            "Giảm giá Thức ăn & Đồ uống 10%",
+                            "Giảm giá Spa 30%"
+                        ]
+                    },
+                    {
+                        "option_name": "Thông tin sức chứa phòng: 2 người lớn.",
+                        "option_price": "3.176.435₫",
+                        "amenities_for_price": [
+                            "Kèm bữa sáng",
+                            "Miễn phí hủy trước 17 tháng 11 2025\n\ntooltip\n\nĐặt phòng không có rủi ro! Hủy trước 17 tháng 11 2025 và quý khách sẽ không phải trả gì cả!\n\nBất kỳ việc hủy phòng nào ghi nhận được trong vòng 1 ngày trước ngày đến sẽ phải trả phí cho toàn bộ thời gian ở. Không đến khách sạn hoặc chỗ nghỉ sẽ được giải quyết như là Vắng Mặt và sẽ phải trả một khoản tiền là 100% giá trị đặt phòng (Quy định của khách sạn).",
+                            "Thanh toán tại nơi ở"
+                        ]
+                    },
+                    {
+                        "option_name": "Thông tin sức chứa phòng: 2 người lớn.",
+                        "option_price": "3.191.561₫",
+                        "amenities_for_price": [
+                            "Kèm bữa sáng",
+                            "Miễn phí hủy trước 17 tháng 11 2025\n\ntooltip\n\nĐặt phòng không có rủi ro! Hủy trước 17 tháng 11 2025 và quý khách sẽ không phải trả gì cả!\n\nBất kỳ việc hủy phòng nào ghi nhận được trong vòng 1 ngày trước ngày đến sẽ phải trả khoản tiền đêm đầu tiên. Không đến khách sạn hoặc chỗ nghỉ sẽ được giải quyết như là Vắng Mặt và sẽ phải trả khoản tiền đêm đầu tiên (Quy định của khách sạn).",
+                            "Đặt và trả tiền ngay"
+                        ]
+                    },
+                    {
+                        "option_name": "Thông tin sức chứa phòng: 2 người lớn.",
+                        "option_price": "4.590.025₫",
+                        "amenities_for_price": [
+                            "Kèm bữa sáng",
+                            "Bao gồm bữa tối",
+                            "Miễn phí hủy trước 17 tháng 11 2025\n\ntooltip\n\nĐặt phòng không có rủi ro! Hủy trước 17 tháng 11 2025 và quý khách sẽ không phải trả gì cả!\n\nBất kỳ việc hủy phòng nào ghi nhận được trong vòng 1 ngày trước ngày đến sẽ phải trả phí cho toàn bộ thời gian ở. Không đến khách sạn hoặc chỗ nghỉ sẽ được giải quyết như là Vắng Mặt và sẽ phải trả một khoản tiền là 100% giá trị đặt phòng (Quy định của khách sạn).",
+                            "Thanh toán tại nơi ở"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Suite Hướng biển (Suite Ocean View)",
+                "amenities": [
+                    {
+                        "amenity": "Diện tích phòng: 59 m²",
+                        "type": "sqm"
+                    },
+                    {
+                        "amenity": "Hướng Đại dương",
+                        "type": "views"
+                    },
+                    {
+                        "amenity": "1 giường lớn",
+                        "type": "bed"
+                    },
+                    {
+                        "amenity": "Bồn tắm/vòi sen riêng",
+                        "type": "separate-shower-and-tub"
+                    },
+                    {
+                        "amenity": "Rèm che ánh sáng",
+                        "type": "blackout-curtains"
+                    },
+                    {
+                        "amenity": "Tủ lạnh nhỏ trong phòng",
+                        "type": "mini-bar"
+                    },
+                    {
+                        "amenity": "Không hút thuốc",
+                        "type": "non-smoking-room"
+                    },
+                    {
+                        "amenity": "phòng tắm riêng",
+                        "type": "bathrooms"
+                    },
+                    {
+                        "amenity": "Tủ quần áo",
+                        "type": "closet"
+                    }
+                ],
+                "price_options": [
+                    {
+                        "option_name": "Thông tin sức chứa phòng: 2 người lớn.",
+                        "option_price": "2.661.833₫",
+                        "amenities_for_price": [
+                            "Kèm bữa sáng",
+                            "Không hoàn tiền (Giá thấp!)\n\ntooltip\n\nKhuyến mại đặc biệt này bao gồm giá cực thấp, nhưng không thể nào thay đổi hoặc hủy bỏ được. Trong trường hợp vắng mặt, chỗ nghỉ sẽ không hoàn tiền đặt phòng.\n\nNếu chắc về ngày quý khách đến/đi, quý khách có thể tận dụng khuyến mại đặc biệt này!",
+                            "Trả tiền cho khách sạn"
+                        ]
+                    },
+                    {
+                        "option_name": "Thông tin sức chứa phòng: 2 người lớn.",
+                        "option_price": "2.674.028₫",
+                        "amenities_for_price": [
+                            "Kèm bữa sáng",
+                            "Không hoàn tiền (Giá thấp!)\n\ntooltip\n\nKhuyến mại đặc biệt này bao gồm giá cực thấp, nhưng không thể nào thay đổi hoặc hủy bỏ được. Trong trường hợp vắng mặt, chỗ nghỉ sẽ không hoàn tiền đặt phòng.\n\nNếu chắc về ngày quý khách đến/đi, quý khách có thể tận dụng khuyến mại đặc biệt này!",
+                            "Đặt và trả tiền ngay",
+                            "Giảm giá Thức ăn & Đồ uống 10%",
+                            "Giảm giá Spa 30%"
+                        ]
+                    },
+                    {
+                        "option_name": "Thông tin sức chứa phòng: 2 người lớn.",
+                        "option_price": "3.327.292₫",
+                        "amenities_for_price": [
+                            "Kèm bữa sáng",
+                            "Miễn phí hủy trước 17 tháng 11 2025\n\ntooltip\n\nĐặt phòng không có rủi ro! Hủy trước 17 tháng 11 2025 và quý khách sẽ không phải trả gì cả!\n\nBất kỳ việc hủy phòng nào ghi nhận được trong vòng 1 ngày trước ngày đến sẽ phải trả phí cho toàn bộ thời gian ở. Không đến khách sạn hoặc chỗ nghỉ sẽ được giải quyết như là Vắng Mặt và sẽ phải trả một khoản tiền là 100% giá trị đặt phòng (Quy định của khách sạn).",
+                            "Thanh toán tại nơi ở"
+                        ]
+                    },
+                    {
+                        "option_name": "Thông tin sức chứa phòng: 2 người lớn.",
+                        "option_price": "3.343.137₫",
+                        "amenities_for_price": [
+                            "Kèm bữa sáng",
+                            "Miễn phí hủy trước 17 tháng 11 2025\n\ntooltip\n\nĐặt phòng không có rủi ro! Hủy trước 17 tháng 11 2025 và quý khách sẽ không phải trả gì cả!\n\nBất kỳ việc hủy phòng nào ghi nhận được trong vòng 1 ngày trước ngày đến sẽ phải trả khoản tiền đêm đầu tiên. Không đến khách sạn hoặc chỗ nghỉ sẽ được giải quyết như là Vắng Mặt và sẽ phải trả khoản tiền đêm đầu tiên (Quy định của khách sạn).",
+                            "Đặt và trả tiền ngay"
+                        ]
+                    },
+                    {
+                        "option_name": "Thông tin sức chứa phòng: 3 người lớn.",
+                        "option_price": "4.211.969₫",
+                        "amenities_for_price": [
+                            "Kèm bữa sáng",
+                            "Miễn phí hủy trước 17 tháng 11 2025\n\ntooltip\n\nĐặt phòng không có rủi ro! Hủy trước 17 tháng 11 2025 và quý khách sẽ không phải trả gì cả!\n\nBất kỳ việc hủy phòng nào ghi nhận được trong vòng 1 ngày trước ngày đến sẽ phải trả phí cho toàn bộ thời gian ở. Không đến khách sạn hoặc chỗ nghỉ sẽ được giải quyết như là Vắng Mặt và sẽ phải trả một khoản tiền là 100% giá trị đặt phòng (Quy định của khách sạn).",
+                            "Thanh toán tại nơi ở"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Suite Grand Hướng Đại Dương (Grand Suite Ocean View)",
+                "amenities": [
+                    {
+                        "amenity": "Diện tích phòng: 72 m²",
+                        "type": "sqm"
+                    },
+                    {
+                        "amenity": "Hướng Đại dương",
+                        "type": "views"
+                    },
+                    {
+                        "amenity": "1 giường lớn",
+                        "type": "bed"
+                    },
+                    {
+                        "amenity": "Bồn tắm/vòi sen riêng",
+                        "type": "separate-shower-and-tub"
+                    },
+                    {
+                        "amenity": "Rèm che ánh sáng",
+                        "type": "blackout-curtains"
+                    },
+                    {
+                        "amenity": "Tủ lạnh nhỏ trong phòng",
+                        "type": "mini-bar"
+                    },
+                    {
+                        "amenity": "Không hút thuốc",
+                        "type": "non-smoking-room"
+                    },
+                    {
+                        "amenity": "phòng tắm riêng",
+                        "type": "bathrooms"
+                    },
+                    {
+                        "amenity": "Tủ quần áo",
+                        "type": "closet"
+                    }
+                ],
+                "price_options": [
+                    {
+                        "option_name": "Thông tin sức chứa phòng: 2 người lớn.",
+                        "option_price": "2.903.205₫",
+                        "amenities_for_price": [
+                            "Kèm bữa sáng",
+                            "Không hoàn tiền (Giá thấp!)\n\ntooltip\n\nKhuyến mại đặc biệt này bao gồm giá cực thấp, nhưng không thể nào thay đổi hoặc hủy bỏ được. Trong trường hợp vắng mặt, chỗ nghỉ sẽ không hoàn tiền đặt phòng.\n\nNếu chắc về ngày quý khách đến/đi, quý khách có thể tận dụng khuyến mại đặc biệt này!",
+                            "Trả tiền cho khách sạn"
+                        ]
+                    },
+                    {
+                        "option_name": "Thông tin sức chứa phòng: 2 người lớn.",
+                        "option_price": "2.916.505₫",
+                        "amenities_for_price": [
+                            "Kèm bữa sáng",
+                            "Không hoàn tiền (Giá thấp!)\n\ntooltip\n\nKhuyến mại đặc biệt này bao gồm giá cực thấp, nhưng không thể nào thay đổi hoặc hủy bỏ được. Trong trường hợp vắng mặt, chỗ nghỉ sẽ không hoàn tiền đặt phòng.\n\nNếu chắc về ngày quý khách đến/đi, quý khách có thể tận dụng khuyến mại đặc biệt này!",
+                            "Đặt và trả tiền ngay",
+                            "Giảm giá Thức ăn & Đồ uống 10%",
+                            "Giảm giá Spa 30%"
+                        ]
+                    },
+                    {
+                        "option_name": "Thông tin sức chứa phòng: 2 người lớn.",
+                        "option_price": "3.629.007₫",
+                        "amenities_for_price": [
+                            "Kèm bữa sáng",
+                            "Miễn phí hủy trước 17 tháng 11 2025\n\ntooltip\n\nĐặt phòng không có rủi ro! Hủy trước 17 tháng 11 2025 và quý khách sẽ không phải trả gì cả!\n\nBất kỳ việc hủy phòng nào ghi nhận được trong vòng 1 ngày trước ngày đến sẽ phải trả phí cho toàn bộ thời gian ở. Không đến khách sạn hoặc chỗ nghỉ sẽ được giải quyết như là Vắng Mặt và sẽ phải trả một khoản tiền là 100% giá trị đặt phòng (Quy định của khách sạn).",
+                            "Thanh toán tại nơi ở"
+                        ]
+                    },
+                    {
+                        "option_name": "Thông tin sức chứa phòng: 2 người lớn.",
+                        "option_price": "3.646.288₫",
+                        "amenities_for_price": [
+                            "Kèm bữa sáng",
+                            "Miễn phí hủy trước 17 tháng 11 2025\n\ntooltip\n\nĐặt phòng không có rủi ro! Hủy trước 17 tháng 11 2025 và quý khách sẽ không phải trả gì cả!\n\nBất kỳ việc hủy phòng nào ghi nhận được trong vòng 1 ngày trước ngày đến sẽ phải trả khoản tiền đêm đầu tiên. Không đến khách sạn hoặc chỗ nghỉ sẽ được giải quyết như là Vắng Mặt và sẽ phải trả khoản tiền đêm đầu tiên (Quy định của khách sạn).",
+                            "Đặt và trả tiền ngay"
+                        ]
+                    },
+                    {
+                        "option_name": "Thông tin sức chứa phòng: 3 người lớn.",
+                        "option_price": "4.513.684₫",
+                        "amenities_for_price": [
+                            "Kèm bữa sáng",
+                            "Miễn phí hủy trước 17 tháng 11 2025\n\ntooltip\n\nĐặt phòng không có rủi ro! Hủy trước 17 tháng 11 2025 và quý khách sẽ không phải trả gì cả!\n\nBất kỳ việc hủy phòng nào ghi nhận được trong vòng 1 ngày trước ngày đến sẽ phải trả phí cho toàn bộ thời gian ở. Không đến khách sạn hoặc chỗ nghỉ sẽ được giải quyết như là Vắng Mặt và sẽ phải trả một khoản tiền là 100% giá trị đặt phòng (Quy định của khách sạn).",
+                            "Thanh toán tại nơi ở"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Villa 2 phòng ngủ có hồ bơi riêng (2-Bedroom Villa with Private Pool)",
+                "amenities": [
+                    {
+                        "amenity": "Diện tích phòng: 141 m²",
+                        "type": "sqm"
+                    },
+                    {
+                        "amenity": "Hướng Vườn",
+                        "type": "views"
+                    },
+                    {
+                        "amenity": "2 giường đơn và 1 giường lớn",
+                        "type": "bed"
+                    },
+                    {
+                        "amenity": "2 phòng tắm",
+                        "type": "bathrooms"
+                    },
+                    {
+                        "amenity": "Bể bơi riêng",
+                        "type": "private-pool"
+                    },
+                    {
+                        "amenity": "Bồn tắm/vòi sen riêng",
+                        "type": "separate-shower-and-tub"
+                    },
+                    {
+                        "amenity": "Rèm che ánh sáng",
+                        "type": "blackout-curtains"
+                    },
+                    {
+                        "amenity": "Tủ lạnh nhỏ trong phòng",
+                        "type": "mini-bar"
+                    },
+                    {
+                        "amenity": "Không hút thuốc",
+                        "type": "non-smoking-room"
+                    },
+                    {
+                        "amenity": "phòng tắm riêng",
+                        "type": "bathrooms"
+                    }
+                ],
+                "price_options": [
+                    {
+                        "option_name": "Thông tin sức chứa phòng: 4 người lớn.",
+                        "option_price": "3.906.952₫",
+                        "amenities_for_price": [
+                            "Kèm bữa sáng",
+                            "Bao gồm bữa tối",
+                            "Miễn phí hủy trước 17 tháng 11 2025\n\ntooltip\n\nĐặt phòng không có rủi ro! Hủy trước 17 tháng 11 2025 và quý khách sẽ không phải trả gì cả!\n\nBất kỳ việc hủy phòng nào ghi nhận được trong vòng 1 ngày trước ngày đến sẽ phải trả phí cho toàn bộ thời gian ở. Không đến khách sạn hoặc chỗ nghỉ sẽ được giải quyết như là Vắng Mặt và sẽ phải trả một khoản tiền là 100% giá trị đặt phòng (Quy định của khách sạn).",
+                            "Thanh toán tại nơi ở"
+                        ]
+                    },
+                    {
+                        "option_name": "Thông tin sức chứa phòng: 2 người lớn.",
+                        "option_price": "3.925.556₫",
+                        "amenities_for_price": [
+                            "Kèm bữa sáng",
+                            "Bao gồm bữa trưa",
+                            "Miễn phí hủy trước 17 tháng 11 2025\n\ntooltip\n\nĐặt phòng không có rủi ro! Hủy trước 17 tháng 11 2025 và quý khách sẽ không phải trả gì cả!\n\nBất kỳ việc hủy phòng nào ghi nhận được trong vòng 1 ngày trước ngày đến sẽ phải trả khoản tiền đêm đầu tiên. Không đến khách sạn hoặc chỗ nghỉ sẽ được giải quyết như là Vắng Mặt và sẽ phải trả khoản tiền đêm đầu tiên (Quy định của khách sạn).",
+                            "Đặt và trả tiền ngay"
+                        ]
+                    },
+                    {
+                        "option_name": "Thông tin sức chứa phòng: 4 người lớn.",
+                        "option_price": "4.986.724₫",
+                        "amenities_for_price": [
+                            "Kèm bữa sáng",
+                            "Miễn phí hủy trước 17 tháng 11 2025\n\ntooltip\n\nĐặt phòng không có rủi ro! Hủy trước 17 tháng 11 2025 và quý khách sẽ không phải trả gì cả!\n\nBất kỳ việc hủy phòng nào ghi nhận được trong vòng 1 ngày trước ngày đến sẽ phải trả phí cho toàn bộ thời gian ở. Không đến khách sạn hoặc chỗ nghỉ sẽ được giải quyết như là Vắng Mặt và sẽ phải trả một khoản tiền là 100% giá trị đặt phòng (Quy định của khách sạn).",
+                            "Thanh toán tại nơi ở"
+                        ]
+                    },
+                    {
+                        "option_name": "Thông tin sức chứa phòng: 2 người lớn.",
+                        "option_price": "5.010.470₫",
+                        "amenities_for_price": [
+                            "Kèm bữa sáng",
+                            "Miễn phí hủy trước 17 tháng 11 2025\n\ntooltip\n\nĐặt phòng không có rủi ro! Hủy trước 17 tháng 11 2025 và quý khách sẽ không phải trả gì cả!\n\nBất kỳ việc hủy phòng nào ghi nhận được trong vòng 1 ngày trước ngày đến sẽ phải trả khoản tiền đêm đầu tiên. Không đến khách sạn hoặc chỗ nghỉ sẽ được giải quyết như là Vắng Mặt và sẽ phải trả khoản tiền đêm đầu tiên (Quy định của khách sạn).",
+                            "Đặt và trả tiền ngay"
+                        ]
+                    },
+                    {
+                        "option_name": "Thông tin sức chứa phòng: 4 người lớn.",
+                        "option_price": "10.087.939₫",
+                        "amenities_for_price": [
+                            "Kèm bữa sáng",
+                            "Bao gồm bữa trưa",
+                            "Bao gồm bữa tối",
+                            "Miễn phí hủy trước 17 tháng 11 2025\n\ntooltip\n\nĐặt phòng không có rủi ro! Hủy trước 17 tháng 11 2025 và quý khách sẽ không phải trả gì cả!\n\nBất kỳ việc hủy phòng nào ghi nhận được trong vòng 1 ngày trước ngày đến sẽ phải trả phí cho toàn bộ thời gian ở. Không đến khách sạn hoặc chỗ nghỉ sẽ được giải quyết như là Vắng Mặt và sẽ phải trả một khoản tiền là 100% giá trị đặt phòng (Quy định của khách sạn).",
+                            "Thanh toán tại nơi ở"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "867571",
+        "hotel_name": "Khách sạn Mường Thanh Grand Cửa Lò (Muong Thanh Grand Cua Lo Hotel)",
+        "hotel_address": "Số 232 Đường Bình Minh,Phường Nghi Thu, Bãi biển Cửa Lò, Biển Cửa Lò, Việt Nam, 43200",
+        "room_types": [
+            {
+                "room_type_name": "Phòng Deluxe 2 Giường Đơn (Deluxe Twin Bed)",
+                "amenities": [
+                    {
+                        "amenity": "Diện tích phòng: 36 m²",
+                        "type": "sqm"
+                    },
+                    {
+                        "amenity": "Hướng Biển",
+                        "type": "views"
+                    },
+                    {
+                        "amenity": "2 giường đơn",
+                        "type": "bed"
+                    },
+                    {
+                        "amenity": "Bồn tắm/vòi sen riêng",
+                        "type": "separate-shower-and-tub"
+                    },
+                    {
+                        "amenity": "Cửa sổ",
+                        "type": "confirmation-instant"
+                    },
+                    {
+                        "amenity": "Rèm che ánh sáng",
+                        "type": "blackout-curtains"
+                    },
+                    {
+                        "amenity": "Trái cây/đồ ăn vặt",
+                        "type": "confirmation-instant"
+                    },
+                    {
+                        "amenity": "phòng tắm riêng",
+                        "type": "bathrooms"
+                    },
+                    {
+                        "amenity": "Tủ quần áo",
+                        "type": "closet"
+                    }
+                ],
+                "price_options": [
+                    {
+                        "option_name": "Thông tin sức chứa phòng: 2 người lớn.",
+                        "option_price": "955.906₫",
+                        "amenities_for_price": [
+                            "Kèm bữa sáng",
+                            "Miễn phí hủy trước 17 tháng 11 2025\n\ntooltip\n\nĐặt phòng không có rủi ro! Hủy trước 17 tháng 11 2025 và quý khách sẽ không phải trả gì cả!\n\nBất kỳ việc hủy phòng nào ghi nhận được trong vòng 1 ngày trước ngày đến sẽ phải trả phí cho toàn bộ thời gian ở. Không đến khách sạn hoặc chỗ nghỉ sẽ được giải quyết như là Vắng Mặt và sẽ phải trả một khoản tiền là 100% giá trị đặt phòng (Quy định của khách sạn).",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí",
+                            "Phòng tập"
+                        ]
+                    },
+                    {
+                        "option_name": "Thông tin sức chứa phòng: 2 người lớn.",
+                        "option_price": "995.238₫",
+                        "amenities_for_price": [
+                            "Kèm bữa sáng",
+                            "Miễn phí hủy trước 17 tháng 11 2025\n\ntooltip\n\nĐặt phòng không có rủi ro! Hủy trước 17 tháng 11 2025 và quý khách sẽ không phải trả gì cả!\n\nBất kỳ việc hủy phòng nào ghi nhận được trong vòng 1 ngày trước ngày đến sẽ phải trả phí cho toàn bộ thời gian ở. Không đến khách sạn hoặc chỗ nghỉ sẽ được giải quyết như là Vắng Mặt và sẽ phải trả một khoản tiền là 100% giá trị đặt phòng (Quy định của khách sạn).",
+                            "Trả tiền cho khách sạn",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí",
+                            "Phòng tập"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Phòng Loại Sang có Giường Lớn (Deluxe King Bed)",
+                "amenities": [
+                    {
+                        "amenity": "Diện tích phòng: 32 m²",
+                        "type": "sqm"
+                    },
+                    {
+                        "amenity": "Hướng Biển",
+                        "type": "views"
+                    },
+                    {
+                        "amenity": "1 giường đôi",
+                        "type": "bed"
+                    },
+                    {
+                        "amenity": "Bồn tắm/vòi sen riêng",
+                        "type": "separate-shower-and-tub"
+                    },
+                    {
+                        "amenity": "Cửa sổ",
+                        "type": "confirmation-instant"
+                    },
+                    {
+                        "amenity": "Rèm che ánh sáng",
+                        "type": "blackout-curtains"
+                    },
+                    {
+                        "amenity": "Trái cây/đồ ăn vặt",
+                        "type": "confirmation-instant"
+                    },
+                    {
+                        "amenity": "phòng tắm riêng",
+                        "type": "bathrooms"
+                    },
+                    {
+                        "amenity": "Tủ quần áo",
+                        "type": "closet"
+                    }
+                ],
+                "price_options": [
+                    {
+                        "option_name": "Thông tin sức chứa phòng: 2 người lớn.",
+                        "option_price": "955.906₫",
+                        "amenities_for_price": [
+                            "Kèm bữa sáng",
+                            "Miễn phí hủy trước 17 tháng 11 2025\n\ntooltip\n\nĐặt phòng không có rủi ro! Hủy trước 17 tháng 11 2025 và quý khách sẽ không phải trả gì cả!\n\nBất kỳ việc hủy phòng nào ghi nhận được trong vòng 1 ngày trước ngày đến sẽ phải trả phí cho toàn bộ thời gian ở. Không đến khách sạn hoặc chỗ nghỉ sẽ được giải quyết như là Vắng Mặt và sẽ phải trả một khoản tiền là 100% giá trị đặt phòng (Quy định của khách sạn).",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí",
+                            "Phòng tập"
+                        ]
+                    },
+                    {
+                        "option_name": "Thông tin sức chứa phòng: 2 người lớn.",
+                        "option_price": "995.238₫",
+                        "amenities_for_price": [
+                            "Kèm bữa sáng",
+                            "Miễn phí hủy trước 17 tháng 11 2025\n\ntooltip\n\nĐặt phòng không có rủi ro! Hủy trước 17 tháng 11 2025 và quý khách sẽ không phải trả gì cả!\n\nBất kỳ việc hủy phòng nào ghi nhận được trong vòng 1 ngày trước ngày đến sẽ phải trả phí cho toàn bộ thời gian ở. Không đến khách sạn hoặc chỗ nghỉ sẽ được giải quyết như là Vắng Mặt và sẽ phải trả một khoản tiền là 100% giá trị đặt phòng (Quy định của khách sạn).",
+                            "Trả tiền cho khách sạn",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí",
+                            "Phòng tập"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Deluxe 3 người (Deluxe Triple)",
+                "amenities": [
+                    {
+                        "amenity": "Diện tích phòng: 46 m²",
+                        "type": "sqm"
+                    },
+                    {
+                        "amenity": "Hướng Biển",
+                        "type": "views"
+                    },
+                    {
+                        "amenity": "3 giường đơn",
+                        "type": "bed"
+                    },
+                    {
+                        "amenity": "Bồn tắm/vòi sen riêng",
+                        "type": "separate-shower-and-tub"
+                    },
+                    {
+                        "amenity": "Cửa sổ",
+                        "type": "confirmation-instant"
+                    },
+                    {
+                        "amenity": "Rèm che ánh sáng",
+                        "type": "blackout-curtains"
+                    },
+                    {
+                        "amenity": "Trái cây/đồ ăn vặt",
+                        "type": "confirmation-instant"
+                    },
+                    {
+                        "amenity": "phòng tắm riêng",
+                        "type": "bathrooms"
+                    },
+                    {
+                        "amenity": "Tủ quần áo",
+                        "type": "closet"
+                    }
+                ],
+                "price_options": [
+                    {
+                        "option_name": "Thông tin sức chứa phòng: 3 người lớn.",
+                        "option_price": "1.326.984₫",
+                        "amenities_for_price": [
+                            "Kèm bữa sáng",
+                            "Miễn phí hủy trước 17 tháng 11 2025\n\ntooltip\n\nĐặt phòng không có rủi ro! Hủy trước 17 tháng 11 2025 và quý khách sẽ không phải trả gì cả!\n\nBất kỳ việc hủy phòng nào ghi nhận được trong vòng 1 ngày trước ngày đến sẽ phải trả phí cho toàn bộ thời gian ở. Không đến khách sạn hoặc chỗ nghỉ sẽ được giải quyết như là Vắng Mặt và sẽ phải trả một khoản tiền là 100% giá trị đặt phòng (Quy định của khách sạn).",
+                            "Trả tiền cho khách sạn",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí",
+                            "Phòng tập"
+                        ]
+                    },
+                    {
+                        "option_name": "Thông tin sức chứa phòng: 3 người lớn.",
+                        "option_price": "1.337.831₫",
+                        "amenities_for_price": [
+                            "Kèm bữa sáng",
+                            "Miễn phí hủy trước 17 tháng 11 2025\n\ntooltip\n\nĐặt phòng không có rủi ro! Hủy trước 17 tháng 11 2025 và quý khách sẽ không phải trả gì cả!\n\nBất kỳ việc hủy phòng nào ghi nhận được trong vòng 1 ngày trước ngày đến sẽ phải trả phí cho toàn bộ thời gian ở. Không đến khách sạn hoặc chỗ nghỉ sẽ được giải quyết như là Vắng Mặt và sẽ phải trả một khoản tiền là 100% giá trị đặt phòng (Quy định của khách sạn).",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí",
+                            "Phòng tập"
+                        ]
+                    },
+                    {
+                        "option_name": "Thông tin sức chứa phòng: 2 người lớn.",
+                        "option_price": "1.555.728₫",
+                        "amenities_for_price": [
+                            "Kèm bữa sáng",
+                            "Miễn phí hủy trước 18 tháng 11 2025\n\ntooltip\n\nĐặt phòng không có rủi ro! Hủy trước 18 tháng 11 2025 và quý khách sẽ không phải trả gì cả!\n\nBất kỳ việc hủy phòng nào ghi nhận được vào ngày nhận phòng sẽ phải trả một khoản tiền là 100% giá trị đặt phòng. Không đến khách sạn hoặc chỗ nghỉ sẽ được giải quyết như là Vắng Mặt và sẽ phải trả một khoản tiền là 100% giá trị đặt phòng (Quy định của khách sạn).",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí",
+                            "Phòng tập"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Executive Suite",
+                "amenities": [
+                    {
+                        "amenity": "Diện tích phòng: 78 m²",
+                        "type": "sqm"
+                    },
+                    {
+                        "amenity": "Hướng Biển",
+                        "type": "views"
+                    },
+                    {
+                        "amenity": "1 giường đôi",
+                        "type": "bed"
+                    },
+                    {
+                        "amenity": "Bồn tắm/vòi sen riêng",
+                        "type": "separate-shower-and-tub"
+                    },
+                    {
+                        "amenity": "Cửa sổ",
+                        "type": "confirmation-instant"
+                    },
+                    {
+                        "amenity": "Rèm che ánh sáng",
+                        "type": "blackout-curtains"
+                    },
+                    {
+                        "amenity": "Trái cây/đồ ăn vặt",
+                        "type": "confirmation-instant"
+                    },
+                    {
+                        "amenity": "phòng tắm riêng",
+                        "type": "bathrooms"
+                    },
+                    {
+                        "amenity": "Tủ quần áo",
+                        "type": "closet"
+                    }
+                ],
+                "price_options": [
+                    {
+                        "option_name": "Thông tin sức chứa phòng: 2 người lớn.",
+                        "option_price": "1.572.310₫",
+                        "amenities_for_price": [
+                            "Kèm bữa sáng",
+                            "Miễn phí hủy trước 17 tháng 11 2025\n\ntooltip\n\nĐặt phòng không có rủi ro! Hủy trước 17 tháng 11 2025 và quý khách sẽ không phải trả gì cả!\n\nBất kỳ việc hủy phòng nào ghi nhận được trong vòng 1 ngày trước ngày đến sẽ phải trả phí cho toàn bộ thời gian ở. Không đến khách sạn hoặc chỗ nghỉ sẽ được giải quyết như là Vắng Mặt và sẽ phải trả một khoản tiền là 100% giá trị đặt phòng (Quy định của khách sạn).",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí",
+                            "Phòng tập"
+                        ]
+                    },
+                    {
+                        "option_name": "Thông tin sức chứa phòng: 2 người lớn.",
+                        "option_price": "1.609.524₫",
+                        "amenities_for_price": [
+                            "Kèm bữa sáng",
+                            "Miễn phí hủy trước 17 tháng 11 2025\n\ntooltip\n\nĐặt phòng không có rủi ro! Hủy trước 17 tháng 11 2025 và quý khách sẽ không phải trả gì cả!\n\nBất kỳ việc hủy phòng nào ghi nhận được trong vòng 1 ngày trước ngày đến sẽ phải trả phí cho toàn bộ thời gian ở. Không đến khách sạn hoặc chỗ nghỉ sẽ được giải quyết như là Vắng Mặt và sẽ phải trả một khoản tiền là 100% giá trị đặt phòng (Quy định của khách sạn).",
+                            "Trả tiền cho khách sạn",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí",
+                            "Phòng tập"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "75225",
+        "hotel_name": "Sài Gòn Kim Liên Resort - Biển Cửa Lò (Saigon Kim Lien Resort - Cua Lo Beach)",
+        "hotel_address": "Số 212 Đường Bình Minh, Bãi biển Cửa Lò, Biển Cửa Lò, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Phòng Superior 2 giường (Superior Twin Room)",
+                "amenities": [
+                    {
+                        "amenity": "Diện tích phòng: 25 m²",
+                        "type": "sqm"
+                    },
+                    {
+                        "amenity": "Hướng Đại dương (một phần)",
+                        "type": "views"
+                    },
+                    {
+                        "amenity": "2 giường đôi lớn",
+                        "type": "bed"
+                    },
+                    {
+                        "amenity": "Bồn tắm/vòi sen riêng",
+                        "type": "separate-shower-and-tub"
+                    },
+                    {
+                        "amenity": "Ban công/sân hiên",
+                        "type": "balcony-terrace"
+                    },
+                    {
+                        "amenity": "Rèm che ánh sáng",
+                        "type": "blackout-curtains"
+                    },
+                    {
+                        "amenity": "Rượu",
+                        "type": "confirmation-instant"
+                    },
+                    {
+                        "amenity": "Không hút thuốc",
+                        "type": "non-smoking-room"
+                    },
+                    {
+                        "amenity": "Phòng tắm chung",
+                        "type": "bathrooms"
+                    }
+                ],
+                "price_options": [
+                    {
+                        "option_name": "Thông tin sức chứa phòng: 2 người lớn và 1 trẻ em.",
+                        "option_price": "634.921₫",
+                        "amenities_for_price": [
+                            "Kèm bữa sáng",
+                            "Không hoàn tiền (Giá thấp!)\n\ntooltip\n\nKhuyến mại đặc biệt này bao gồm giá cực thấp, nhưng không thể nào thay đổi hoặc hủy bỏ được. Trong trường hợp vắng mặt, chỗ nghỉ sẽ không hoàn tiền đặt phòng.\n\nNếu chắc về ngày quý khách đến/đi, quý khách có thể tận dụng khuyến mại đặc biệt này!",
+                            "Trả tiền cho khách sạn",
+                            "Bãi đậu xe",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "23097743",
+        "hotel_name": "Khách sạn Kingdom Cửa Lò (Kingdom Hotel Cua Lo)",
+        "hotel_address": "10 Hoang Van Tam, Nghi Huong, Bãi biển Cửa Lò, Biển Cửa Lò, Việt Nam, 43200",
+        "room_types": [
+            {
+                "room_type_name": "Phòng Loại Sang Giường Đôi (Deluxe Double Room)",
+                "amenities": [
+                    {
+                        "amenity": "Diện tích phòng: 18 m²",
+                        "type": "sqm"
+                    },
+                    {
+                        "amenity": "1 giường lớn",
+                        "type": "bed"
+                    },
+                    {
+                        "amenity": "Cửa sổ",
+                        "type": "confirmation-instant"
+                    },
+                    {
+                        "amenity": "Giường cực dài",
+                        "type": "extra-long-beds"
+                    },
+                    {
+                        "amenity": "Rèm che ánh sáng",
+                        "type": "blackout-curtains"
+                    },
+                    {
+                        "amenity": "Tủ lạnh nhỏ trong phòng",
+                        "type": "mini-bar"
+                    },
+                    {
+                        "amenity": "Không hút thuốc",
+                        "type": "non-smoking-room"
+                    },
+                    {
+                        "amenity": "phòng tắm riêng",
+                        "type": "bathrooms"
+                    },
+                    {
+                        "amenity": "Tủ quần áo",
+                        "type": "closet"
+                    }
+                ],
+                "price_options": [
+                    {
+                        "option_name": "Thông tin sức chứa phòng: 2 người lớn và 1 trẻ em.",
+                        "option_price": "745.403₫",
+                        "amenities_for_price": [
+                            "Miễn phí hủy trước 18 tháng 11 2025\n\ntooltip\n\nĐặt phòng không có rủi ro! Hủy trước 18 tháng 11 2025 và quý khách sẽ không phải trả gì cả!\n\nBất kỳ việc hủy phòng nào ghi nhận được vào ngày nhận phòng sẽ phải trả một khoản tiền là 100% giá trị đặt phòng. Không đến khách sạn hoặc chỗ nghỉ sẽ được giải quyết như là Vắng Mặt và sẽ phải trả một khoản tiền là 100% giá trị đặt phòng (Quy định của khách sạn).",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    },
+                    {
+                        "option_name": "Thông tin sức chứa phòng: 2 người lớn và 1 trẻ em.",
+                        "option_price": "872.667₫",
+                        "amenities_for_price": [
+                            "Chính sách hủy\n\ntooltip\n\nBất kỳ việc hủy phòng nào ghi nhận được sẽ phải trả một khoản tiền là 50% giá trị đặt phòng. Bất kỳ việc hủy phòng nào ghi nhận được vào ngày nhận phòng sẽ phải trả một khoản tiền là 100% giá trị đặt phòng. Không đến khách sạn hoặc chỗ nghỉ sẽ được giải quyết như là Vắng Mặt và sẽ phải trả một khoản tiền là 100% giá trị đặt phòng (Quy định của khách sạn).",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Phòng Deluxe 4 người (Deluxe Quadruple Room)",
+                "amenities": [
+                    {
+                        "amenity": "Diện tích phòng: 23 m²",
+                        "type": "sqm"
+                    },
+                    {
+                        "amenity": "Hướng Biển",
+                        "type": "views"
+                    },
+                    {
+                        "amenity": "1 giường đôi",
+                        "type": "bed"
+                    },
+                    {
+                        "amenity": "Bồn tắm/vòi sen riêng",
+                        "type": "separate-shower-and-tub"
+                    },
+                    {
+                        "amenity": "Ban công/sân hiên",
+                        "type": "balcony-terrace"
+                    },
+                    {
+                        "amenity": "Cửa sổ",
+                        "type": "confirmation-instant"
+                    },
+                    {
+                        "amenity": "Giường cực dài",
+                        "type": "extra-long-beds"
+                    },
+                    {
+                        "amenity": "Rèm che ánh sáng",
+                        "type": "blackout-curtains"
+                    },
+                    {
+                        "amenity": "Tủ lạnh nhỏ trong phòng",
+                        "type": "mini-bar"
+                    },
+                    {
+                        "amenity": "Không hút thuốc",
+                        "type": "non-smoking-room"
+                    }
+                ],
+                "price_options": [
+                    {
+                        "option_name": "Thông tin sức chứa phòng: 4 người lớn và 1 trẻ em.",
+                        "option_price": "747.252₫",
+                        "amenities_for_price": [
+                            "Miễn phí hủy trước 18 tháng 11 2025\n\ntooltip\n\nĐặt phòng không có rủi ro! Hủy trước 18 tháng 11 2025 và quý khách sẽ không phải trả gì cả!\n\nBất kỳ việc hủy phòng nào ghi nhận được vào ngày nhận phòng sẽ phải trả một khoản tiền là 100% giá trị đặt phòng. Không đến khách sạn hoặc chỗ nghỉ sẽ được giải quyết như là Vắng Mặt và sẽ phải trả một khoản tiền là 100% giá trị đặt phòng (Quy định của khách sạn).",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Phòng Tiêu chuẩn 4 người (Standard Quadruple Room)",
+                "amenities": [
+                    {
+                        "amenity": "Diện tích phòng: 23 m²",
+                        "type": "sqm"
+                    },
+                    {
+                        "amenity": "Hướng Sân trong",
+                        "type": "views"
+                    },
+                    {
+                        "amenity": "1 giường đôi",
+                        "type": "bed"
+                    },
+                    {
+                        "amenity": "Bồn tắm/vòi sen riêng",
+                        "type": "separate-shower-and-tub"
+                    },
+                    {
+                        "amenity": "Ban công/sân hiên",
+                        "type": "balcony-terrace"
+                    },
+                    {
+                        "amenity": "Cửa sổ",
+                        "type": "confirmation-instant"
+                    },
+                    {
+                        "amenity": "Giường cực dài",
+                        "type": "extra-long-beds"
+                    },
+                    {
+                        "amenity": "Rèm che ánh sáng",
+                        "type": "blackout-curtains"
+                    },
+                    {
+                        "amenity": "Tủ lạnh nhỏ trong phòng",
+                        "type": "mini-bar"
+                    },
+                    {
+                        "amenity": "Không hút thuốc",
+                        "type": "non-smoking-room"
+                    }
+                ],
+                "price_options": [
+                    {
+                        "option_name": "Thông tin sức chứa phòng: 4 người lớn và 1 trẻ em.",
+                        "option_price": "747.252₫",
+                        "amenities_for_price": [
+                            "Miễn phí hủy trước 18 tháng 11 2025\n\ntooltip\n\nĐặt phòng không có rủi ro! Hủy trước 18 tháng 11 2025 và quý khách sẽ không phải trả gì cả!\n\nBất kỳ việc hủy phòng nào ghi nhận được vào ngày nhận phòng sẽ phải trả một khoản tiền là 100% giá trị đặt phòng. Không đến khách sạn hoặc chỗ nghỉ sẽ được giải quyết như là Vắng Mặt và sẽ phải trả một khoản tiền là 100% giá trị đặt phòng (Quy định của khách sạn).",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    },
+                    {
+                        "option_name": "Thông tin sức chứa phòng: 4 người lớn và 1 trẻ em.",
+                        "option_price": "872.667₫",
+                        "amenities_for_price": [
+                            "Chính sách hủy\n\ntooltip\n\nBất kỳ việc hủy phòng nào ghi nhận được sẽ phải trả một khoản tiền là 50% giá trị đặt phòng. Bất kỳ việc hủy phòng nào ghi nhận được vào ngày nhận phòng sẽ phải trả một khoản tiền là 100% giá trị đặt phòng. Không đến khách sạn hoặc chỗ nghỉ sẽ được giải quyết như là Vắng Mặt và sẽ phải trả một khoản tiền là 100% giá trị đặt phòng (Quy định của khách sạn).",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Phòng Ba Người (Triple Room)",
+                "amenities": [
+                    {
+                        "amenity": "Diện tích phòng: 21 m²",
+                        "type": "sqm"
+                    },
+                    {
+                        "amenity": "Hướng Bãi biển",
+                        "type": "views"
+                    },
+                    {
+                        "amenity": "1 giường đôi nhỏ và 1 giường đôi",
+                        "type": "bed"
+                    },
+                    {
+                        "amenity": "Cửa sổ",
+                        "type": "confirmation-instant"
+                    },
+                    {
+                        "amenity": "Giường cực dài",
+                        "type": "extra-long-beds"
+                    },
+                    {
+                        "amenity": "Rèm che ánh sáng",
+                        "type": "blackout-curtains"
+                    },
+                    {
+                        "amenity": "Tủ lạnh nhỏ trong phòng",
+                        "type": "mini-bar"
+                    },
+                    {
+                        "amenity": "Không hút thuốc",
+                        "type": "non-smoking-room"
+                    },
+                    {
+                        "amenity": "phòng tắm riêng",
+                        "type": "bathrooms"
+                    }
+                ],
+                "price_options": [
+                    {
+                        "option_name": "Thông tin sức chứa phòng: 3 người lớn và 1 trẻ em.",
+                        "option_price": "747.252₫",
+                        "amenities_for_price": [
+                            "Miễn phí hủy trước 18 tháng 11 2025\n\ntooltip\n\nĐặt phòng không có rủi ro! Hủy trước 18 tháng 11 2025 và quý khách sẽ không phải trả gì cả!\n\nBất kỳ việc hủy phòng nào ghi nhận được vào ngày nhận phòng sẽ phải trả một khoản tiền là 100% giá trị đặt phòng. Không đến khách sạn hoặc chỗ nghỉ sẽ được giải quyết như là Vắng Mặt và sẽ phải trả một khoản tiền là 100% giá trị đặt phòng (Quy định của khách sạn).",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    },
+                    {
+                        "option_name": "Thông tin sức chứa phòng: 3 người lớn và 1 trẻ em.",
+                        "option_price": "872.667₫",
+                        "amenities_for_price": [
+                            "Chính sách hủy\n\ntooltip\n\nBất kỳ việc hủy phòng nào ghi nhận được sẽ phải trả một khoản tiền là 50% giá trị đặt phòng. Bất kỳ việc hủy phòng nào ghi nhận được vào ngày nhận phòng sẽ phải trả một khoản tiền là 100% giá trị đặt phòng. Không đến khách sạn hoặc chỗ nghỉ sẽ được giải quyết như là Vắng Mặt và sẽ phải trả một khoản tiền là 100% giá trị đặt phòng (Quy định của khách sạn).",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "7432247",
+        "hotel_name": "Bong Mai",
+        "hotel_address": "Đường Làng Vạc, Bãi biển Cửa Lò, Biển Cửa Lò, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Phòng Đôi Loại Sang (Deluxe Double Room)",
+                "amenities": [
+                    {
+                        "amenity": "Diện tích phòng: 15 m²",
+                        "type": "sqm"
+                    },
+                    {
+                        "amenity": "Hướng Ngoài trời",
+                        "type": "views"
+                    },
+                    {
+                        "amenity": "1 giường đôi lớn",
+                        "type": "bed"
+                    },
+                    {
+                        "amenity": "Ban công/sân hiên",
+                        "type": "balcony-terrace"
+                    },
+                    {
+                        "amenity": "Phòng thay đồ",
+                        "type": "dressing-room"
+                    },
+                    {
+                        "amenity": "Điều hòa",
+                        "type": "air-conditioning"
+                    }
+                ],
+                "price_options": [
+                    {
+                        "option_name": "Thông tin sức chứa phòng: 2 người lớn và 1 trẻ em.",
+                        "option_price": "238.095₫",
+                        "amenities_for_price": [
+                            "Miễn phí hủy trước 18 tháng 11 2025\n\ntooltip\n\nĐặt phòng không có rủi ro! Hủy trước 18 tháng 11 2025 và quý khách sẽ không phải trả gì cả!\n\nBất kỳ việc hủy phòng nào ghi nhận được vào ngày nhận phòng sẽ phải trả một khoản tiền là 100% giá trị đặt phòng. Không đến khách sạn hoặc chỗ nghỉ sẽ được giải quyết như là Vắng Mặt và sẽ phải trả một khoản tiền là 100% giá trị đặt phòng (Quy định của khách sạn).",
+                            "Thanh toán tại nơi ở",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Phòng Hai Giường Đơn (Twin Room)",
+                "amenities": [
+                    {
+                        "amenity": "Diện tích phòng: 15 m²",
+                        "type": "sqm"
+                    },
+                    {
+                        "amenity": "Hướng Vườn",
+                        "type": "views"
+                    },
+                    {
+                        "amenity": "2 giường đôi",
+                        "type": "bed"
+                    },
+                    {
+                        "amenity": "Ban công/sân hiên",
+                        "type": "balcony-terrace"
+                    },
+                    {
+                        "amenity": "Đồ dùng cho giấc ngủ thoải mái",
+                        "type": "confirmation-instant"
+                    },
+                    {
+                        "amenity": "Đồ gỗ ngoài trời",
+                        "type": "confirmation-instant"
+                    },
+                    {
+                        "amenity": "Phòng thay đồ",
+                        "type": "dressing-room"
+                    },
+                    {
+                        "amenity": "Điều hòa",
+                        "type": "air-conditioning"
+                    },
+                    {
+                        "amenity": "Nước đóng chai miễn phí",
+                        "type": "complimentary-bottled-water"
+                    },
+                    {
+                        "amenity": "Ấm nước điện",
+                        "type": "confirmation-instant"
+                    }
+                ],
+                "price_options": [
+                    {
+                        "option_name": "Thông tin sức chứa phòng: 2 người lớn và 1 trẻ em.",
+                        "option_price": "264.550₫",
+                        "amenities_for_price": [
+                            "Miễn phí hủy trước 18 tháng 11 2025\n\ntooltip\n\nĐặt phòng không có rủi ro! Hủy trước 18 tháng 11 2025 và quý khách sẽ không phải trả gì cả!\n\nBất kỳ việc hủy phòng nào ghi nhận được vào ngày nhận phòng sẽ phải trả một khoản tiền là 100% giá trị đặt phòng. Không đến khách sạn hoặc chỗ nghỉ sẽ được giải quyết như là Vắng Mặt và sẽ phải trả một khoản tiền là 100% giá trị đặt phòng (Quy định của khách sạn).",
+                            "Thanh toán tại nơi ở",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "5285325",
+        "room_types": [
+            {
+                "room_type_name": "Phòng Đôi hoặc 2 giường đơn Lớn (Large Double or Twin Room)",
+                "amenities": [
+                    {
+                        "amenity": "Diện tích phòng: 24 m²",
+                        "type": "sqm"
+                    },
+                    {
+                        "amenity": "Hướng Ngoài trời",
+                        "type": "views"
+                    },
+                    {
+                        "amenity": "2 giường đôi lớn",
+                        "type": "bed"
+                    },
+                    {
+                        "amenity": "Ban công/sân hiên",
+                        "type": "balcony-terrace"
+                    },
+                    {
+                        "amenity": "Đồ dùng cho giấc ngủ thoải mái",
+                        "type": "confirmation-instant"
+                    },
+                    {
+                        "amenity": "phòng tắm riêng",
+                        "type": "bathrooms"
+                    },
+                    {
+                        "amenity": "Tủ quần áo",
+                        "type": "closet"
+                    },
+                    {
+                        "amenity": "Điều hòa",
+                        "type": "air-conditioning"
+                    },
+                    {
+                        "amenity": "Nước đóng chai miễn phí",
+                        "type": "complimentary-bottled-water"
+                    },
+                    {
+                        "amenity": "Ấm nước điện",
+                        "type": "confirmation-instant"
+                    }
+                ],
+                "price_options": [
+                    {
+                        "option_name": "Thông tin sức chứa phòng: 4 người lớn và 1 trẻ em.",
+                        "option_price": "317.460₫",
+                        "amenities_for_price": [
+                            "Chính sách hủy\n\ntooltip\n\nBất kỳ việc hủy phòng nào ghi nhận được sẽ phải trả một khoản tiền là 50% giá trị đặt phòng. Không đến khách sạn hoặc chỗ nghỉ sẽ được giải quyết như là Vắng Mặt và sẽ phải trả một khoản tiền là 50% giá trị đặt phòng (Quy định của khách sạn).",
+                            "Thanh toán tại nơi ở",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "53731300",
+        "hotel_name": "Khách sạn SAMMY (SAMMY Hotel - Khách sạn SAMMY)",
+        "hotel_address": "306 Bình Minh, Nghi Hương, Bãi biển Cửa Lò, Biển Cửa Lò, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Giường đôi - 2 người (Double - 2 People)",
+                "amenities": [
+                    {
+                        "amenity": "Diện tích phòng: 25 m²",
+                        "type": "sqm"
+                    },
+                    {
+                        "amenity": "Hướng biển (hướng một phần)",
+                        "type": "views"
+                    },
+                    {
+                        "amenity": "1 giường đôi lớn",
+                        "type": "bed"
+                    },
+                    {
+                        "amenity": "Đồ dùng cho giấc ngủ thoải mái",
+                        "type": "confirmation-instant"
+                    },
+                    {
+                        "amenity": "Phòng tắm chung",
+                        "type": "bathrooms"
+                    },
+                    {
+                        "amenity": "Tủ quần áo",
+                        "type": "closet"
+                    },
+                    {
+                        "amenity": "Điều hòa cá nhân",
+                        "type": "confirmation-instant"
+                    },
+                    {
+                        "amenity": "Ấm nước điện",
+                        "type": "confirmation-instant"
+                    },
+                    {
+                        "amenity": "Tủ lạnh",
+                        "type": "refrigerator"
+                    },
+                    {
+                        "amenity": "Máy sấy tóc",
+                        "type": "hair-dryer"
+                    }
+                ],
+                "price_options": [
+                    {
+                        "option_name": "Thông tin sức chứa phòng: 2 người lớn.",
+                        "option_price": "326.139₫",
+                        "amenities_for_price": [
+                            "Miễn phí hủy trước 17 tháng 11 2025\n\ntooltip\n\nĐặt phòng không có rủi ro! Hủy trước 17 tháng 11 2025 và quý khách sẽ không phải trả gì cả!\n\nBất kỳ việc hủy phòng nào ghi nhận được trong vòng 1 ngày trước ngày đến sẽ phải trả phí cho toàn bộ thời gian ở. Không đến khách sạn hoặc chỗ nghỉ sẽ được giải quyết như là Vắng Mặt và sẽ phải trả một khoản tiền là 100% giá trị đặt phòng (Quy định của khách sạn).",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    },
+                    {
+                        "option_name": "Thông tin sức chứa phòng: 2 người lớn.",
+                        "option_price": "349.265₫",
+                        "amenities_for_price": [
+                            "Chính sách hủy\n\ntooltip\n\nBất kỳ việc hủy phòng nào ghi nhận được sẽ phải trả một khoản tiền là 92% giá trị đặt phòng. Bất kỳ việc hủy phòng nào ghi nhận được vào ngày nhận phòng sẽ phải trả một khoản tiền là 92% giá trị đặt phòng. Không đến khách sạn hoặc chỗ nghỉ sẽ được giải quyết như là Vắng Mặt và sẽ phải trả một khoản tiền là 92% giá trị đặt phòng (Quy định của khách sạn).",
+                            "Thanh toán tại nơi ở",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Phòng Hướng Biển Giường Lớn Đối Diện Bãi Biển (Sea View Beachfront King Room)",
+                "amenities": [
+                    {
+                        "amenity": "Diện tích phòng: 28 m²",
+                        "type": "sqm"
+                    },
+                    {
+                        "amenity": "Hướng Biển",
+                        "type": "views"
+                    },
+                    {
+                        "amenity": "1 giường lớn",
+                        "type": "bed"
+                    },
+                    {
+                        "amenity": "Điều hòa",
+                        "type": "air-conditioning"
+                    }
+                ],
+                "price_options": [
+                    {
+                        "option_name": "Thông tin sức chứa phòng: 2 người lớn.",
+                        "option_price": "362.377₫",
+                        "amenities_for_price": [
+                            "Miễn phí hủy trước 17 tháng 11 2025\n\ntooltip\n\nĐặt phòng không có rủi ro! Hủy trước 17 tháng 11 2025 và quý khách sẽ không phải trả gì cả!\n\nBất kỳ việc hủy phòng nào ghi nhận được trong vòng 1 ngày trước ngày đến sẽ phải trả phí cho toàn bộ thời gian ở. Không đến khách sạn hoặc chỗ nghỉ sẽ được giải quyết như là Vắng Mặt và sẽ phải trả một khoản tiền là 100% giá trị đặt phòng (Quy định của khách sạn).",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Phòng 4 Người Gia đình Và Bạn bè (Friends and Family Quadruple Room)",
+                "amenities": [
+                    {
+                        "amenity": "Diện tích phòng: 28 m²",
+                        "type": "sqm"
+                    },
+                    {
+                        "amenity": "Hướng biển (hướng một phần)",
+                        "type": "views"
+                    },
+                    {
+                        "amenity": "2 giường đôi lớn",
+                        "type": "bed"
+                    },
+                    {
+                        "amenity": "Cửa sổ mở",
+                        "type": "NULL"
+                    },
+                    {
+                        "amenity": "Rèm che ánh sáng",
+                        "type": "blackout-curtains"
+                    },
+                    {
+                        "amenity": "Không hút thuốc",
+                        "type": "non-smoking-room"
+                    },
+                    {
+                        "amenity": "Hành lang ngoài",
+                        "type": "confirmation-instant"
+                    },
+                    {
+                        "amenity": "Phòng tắm chung",
+                        "type": "bathrooms"
+                    },
+                    {
+                        "amenity": "Tủ quần áo",
+                        "type": "closet"
+                    }
+                ],
+                "price_options": [
+                    {
+                        "option_name": "Thông tin sức chứa phòng: 4 người lớn.",
+                        "option_price": "380.013₫",
+                        "amenities_for_price": [
+                            "Miễn phí hủy trước 17 tháng 11 2025\n\ntooltip\n\nĐặt phòng không có rủi ro! Hủy trước 17 tháng 11 2025 và quý khách sẽ không phải trả gì cả!\n\nBất kỳ việc hủy phòng nào ghi nhận được trong vòng 1 ngày trước ngày đến sẽ phải trả phí cho toàn bộ thời gian ở. Không đến khách sạn hoặc chỗ nghỉ sẽ được giải quyết như là Vắng Mặt và sẽ phải trả một khoản tiền là 100% giá trị đặt phòng (Quy định của khách sạn).",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    },
+                    {
+                        "option_name": "Thông tin sức chứa phòng: 4 người lớn.",
+                        "option_price": "392.923₫",
+                        "amenities_for_price": [
+                            "Chính sách hủy\n\ntooltip\n\nBất kỳ việc hủy phòng nào ghi nhận được sẽ phải trả một khoản tiền là 92% giá trị đặt phòng. Bất kỳ việc hủy phòng nào ghi nhận được vào ngày nhận phòng sẽ phải trả một khoản tiền là 92% giá trị đặt phòng. Không đến khách sạn hoặc chỗ nghỉ sẽ được giải quyết như là Vắng Mặt và sẽ phải trả một khoản tiền là 92% giá trị đặt phòng (Quy định của khách sạn).",
+                            "Thanh toán tại nơi ở",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Phòng Hướng Biển 2 Giường Đơn Đối Diện Bãi Biển (Sea View Beachfront Twin Room)",
+                "amenities": [
+                    {
+                        "amenity": "Diện tích phòng: 28 m²",
+                        "type": "sqm"
+                    },
+                    {
+                        "amenity": "Hướng Bãi biển",
+                        "type": "views"
+                    },
+                    {
+                        "amenity": "2 giường đôi lớn",
+                        "type": "bed"
+                    },
+                    {
+                        "amenity": "Đồ dùng cho giấc ngủ thoải mái",
+                        "type": "confirmation-instant"
+                    },
+                    {
+                        "amenity": "Phòng tắm chung",
+                        "type": "bathrooms"
+                    },
+                    {
+                        "amenity": "Tủ quần áo",
+                        "type": "closet"
+                    },
+                    {
+                        "amenity": "Điều hòa cá nhân",
+                        "type": "confirmation-instant"
+                    },
+                    {
+                        "amenity": "Ấm nước điện",
+                        "type": "confirmation-instant"
+                    },
+                    {
+                        "amenity": "Tủ lạnh",
+                        "type": "refrigerator"
+                    },
+                    {
+                        "amenity": "Máy sấy tóc",
+                        "type": "hair-dryer"
+                    }
+                ],
+                "price_options": [
+                    {
+                        "option_name": "Thông tin sức chứa phòng: 4 người lớn.",
+                        "option_price": "459.450₫",
+                        "amenities_for_price": [
+                            "Miễn phí hủy trước 17 tháng 11 2025\n\ntooltip\n\nĐặt phòng không có rủi ro! Hủy trước 17 tháng 11 2025 và quý khách sẽ không phải trả gì cả!\n\nBất kỳ việc hủy phòng nào ghi nhận được trong vòng 1 ngày trước ngày đến sẽ phải trả phí cho toàn bộ thời gian ở. Không đến khách sạn hoặc chỗ nghỉ sẽ được giải quyết như là Vắng Mặt và sẽ phải trả một khoản tiền là 100% giá trị đặt phòng (Quy định của khách sạn).",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    },
+                    {
+                        "option_name": "Thông tin sức chứa phòng: 4 người lớn.",
+                        "option_price": "480.239₫",
+                        "amenities_for_price": [
+                            "Chính sách hủy\n\ntooltip\n\nBất kỳ việc hủy phòng nào ghi nhận được sẽ phải trả một khoản tiền là 92% giá trị đặt phòng. Bất kỳ việc hủy phòng nào ghi nhận được vào ngày nhận phòng sẽ phải trả một khoản tiền là 92% giá trị đặt phòng. Không đến khách sạn hoặc chỗ nghỉ sẽ được giải quyết như là Vắng Mặt và sẽ phải trả một khoản tiền là 92% giá trị đặt phòng (Quy định của khách sạn).",
+                            "Thanh toán tại nơi ở",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "31958172",
+        "hotel_name": "Khách sạn Tuấn Thảo (Khách Sạn Tuấn Thảo)",
+        "hotel_address": "8 Đường Nguyễn Cảnh Quế, Khách sạn Tuấn Thảo, Bãi biển Cửa Lò, Biển Cửa Lò, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Phòng Gia đình Có ban công (Family Balcony Room)",
+                "amenities": [
+                    {
+                        "amenity": "Diện tích phòng: 30 m²",
+                        "type": "sqm"
+                    },
+                    {
+                        "amenity": "Hướng Đường phố",
+                        "type": "views"
+                    },
+                    {
+                        "amenity": "2 giường đôi",
+                        "type": "bed"
+                    },
+                    {
+                        "amenity": "Ban công/sân hiên",
+                        "type": "balcony-terrace"
+                    },
+                    {
+                        "amenity": "Cửa sổ mở",
+                        "type": "NULL"
+                    },
+                    {
+                        "amenity": "Rèm che ánh sáng",
+                        "type": "blackout-curtains"
+                    },
+                    {
+                        "amenity": "Tủ lạnh nhỏ trong phòng",
+                        "type": "mini-bar"
+                    },
+                    {
+                        "amenity": "tầng cao",
+                        "type": "high-floor"
+                    },
+                    {
+                        "amenity": "Cho phép hút thuốc",
+                        "type": "smoking-allowed"
+                    },
+                    {
+                        "amenity": "Hành lang ngoài",
+                        "type": "confirmation-instant"
+                    }
+                ],
+                "price_options": [
+                    {
+                        "option_name": "Thông tin sức chứa phòng: 4 người lớn và 1 trẻ em.",
+                        "option_price": "203.274₫",
+                        "amenities_for_price": [
+                            "Chính sách hủy\n\ntooltip\n\nBất kỳ việc hủy phòng nào ghi nhận được trong vòng 5 ngày trước ngày đến sẽ phải trả phí cho toàn bộ thời gian ở. Không đến khách sạn hoặc chỗ nghỉ sẽ được giải quyết như là Vắng Mặt và sẽ phải trả một khoản tiền là 100% giá trị đặt phòng (Quy định của khách sạn).",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "Thuê xe đạp",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "39591358",
+        "hotel_name": "Khách sạn 1986 (1986 Hotel)",
+        "hotel_address": "No. 10, Nguyen Su Hoi Street, 228, 10, Bãi biển Cửa Lò, Biển Cửa Lò, Việt Nam, 42000",
+        "room_types": [
+            {
+                "room_type_name": "Phòng Hai Giường Đơn (Twin Room)",
+                "amenities": [
+                    {
+                        "amenity": "Diện tích phòng: 24 m²",
+                        "type": "sqm"
+                    },
+                    {
+                        "amenity": "Hướng Biển",
+                        "type": "views"
+                    },
+                    {
+                        "amenity": "2 giường đơn",
+                        "type": "bed"
+                    },
+                    {
+                        "amenity": "Cửa sổ",
+                        "type": "confirmation-instant"
+                    },
+                    {
+                        "amenity": "Rèm che ánh sáng",
+                        "type": "blackout-curtains"
+                    },
+                    {
+                        "amenity": "Không hút thuốc",
+                        "type": "non-smoking-room"
+                    },
+                    {
+                        "amenity": "phòng tắm riêng",
+                        "type": "bathrooms"
+                    },
+                    {
+                        "amenity": "Tủ quần áo",
+                        "type": "closet"
+                    },
+                    {
+                        "amenity": "Điều hòa cá nhân",
+                        "type": "confirmation-instant"
+                    }
+                ],
+                "price_options": [
+                    {
+                        "option_name": "Thông tin sức chứa phòng: 2 người lớn và 1 trẻ em.",
+                        "option_price": "633.519₫",
+                        "amenities_for_price": [
+                            "Chính sách hủy\n\ntooltip\n\nBất kỳ việc hủy phòng nào ghi nhận được trong vòng 5 ngày trước ngày đến sẽ phải trả phí cho toàn bộ thời gian ở. Không đến khách sạn hoặc chỗ nghỉ sẽ được giải quyết như là Vắng Mặt và sẽ phải trả một khoản tiền là 100% giá trị đặt phòng (Quy định của khách sạn).",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "73567973",
+        "room_types": [
+            {
+                "room_type_name": "Biệt Thự 3 Phòng Ngủ (Three-Bedroom Villa)",
+                "amenities": [
+                    {
+                        "amenity": "Diện tích phòng: 456 m²",
+                        "type": "sqm"
+                    },
+                    {
+                        "amenity": "Hướng Vườn",
+                        "type": "views"
+                    },
+                    {
+                        "amenity": "1 giường lớn & 1 giường sofa",
+                        "type": "bed"
+                    },
+                    {
+                        "amenity": "Studio/1 phòng ngủ",
+                        "type": "bedroom"
+                    },
+                    {
+                        "amenity": "3 phòng tắm",
+                        "type": "bathrooms"
+                    },
+                    {
+                        "amenity": "Ban công/sân hiên",
+                        "type": "balcony-terrace"
+                    },
+                    {
+                        "amenity": "Điều hòa",
+                        "type": "air-conditioning"
+                    }
+                ],
+                "price_options": [
+                    {
+                        "option_name": "Thông tin sức chứa phòng: 2 người lớn.",
+                        "option_price": "3.840.165₫",
+                        "amenities_for_price": [
+                            "Miễn phí hủy trước 17 tháng 11 2025\n\ntooltip\n\nĐặt phòng không có rủi ro! Hủy trước 17 tháng 11 2025 và quý khách sẽ không phải trả gì cả!\n\nBất kỳ việc hủy phòng nào nhận được trong vòng 1 ngày trước ngày đến sẽ phải trả một khoản tiền là 92% giá trị đặt phòng. Không đến khách sạn hoặc chỗ nghỉ sẽ được giải quyết như là Vắng Mặt và sẽ phải trả một khoản tiền là 92% giá trị đặt phòng (Quy định của khách sạn).",
+                            "Thanh toán tại nơi ở",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "1615350",
+        "hotel_name": "Mường Thanh Luxury Diễn Lâm (Muong Thanh Luxury Dien Lam)",
+        "hotel_address": "Xã Diễn Lâm, Diễn Châu, Nghệ An, Diễn Châu, Diễn Châu, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Phòng Deluxe 2 Giường đơn (Deluxe Twin)",
+                "amenities": [
+                    {
+                        "amenity": "Diện tích phòng: 32 m²",
+                        "type": "sqm"
+                    },
+                    {
+                        "amenity": "Hướng Sông",
+                        "type": "views"
+                    },
+                    {
+                        "amenity": "2 giường đôi nhỏ",
+                        "type": "bed"
+                    },
+                    {
+                        "amenity": "Bồn tắm/vòi sen riêng",
+                        "type": "separate-shower-and-tub"
+                    },
+                    {
+                        "amenity": "Cửa sổ mở",
+                        "type": "NULL"
+                    },
+                    {
+                        "amenity": "Rèm che ánh sáng",
+                        "type": "blackout-curtains"
+                    },
+                    {
+                        "amenity": "Trái cây/đồ ăn vặt",
+                        "type": "confirmation-instant"
+                    },
+                    {
+                        "amenity": "Không hút thuốc",
+                        "type": "non-smoking-room"
+                    },
+                    {
+                        "amenity": "phòng tắm riêng",
+                        "type": "bathrooms"
+                    }
+                ],
+                "price_options": [
+                    {
+                        "option_name": "Thông tin sức chứa phòng: 2 người lớn.",
+                        "option_price": "805.423₫",
+                        "amenities_for_price": [
+                            "Kèm bữa sáng",
+                            "Không hoàn tiền (Giá thấp!)\n\ntooltip\n\nKhuyến mại đặc biệt này bao gồm giá cực thấp, nhưng không thể nào thay đổi hoặc hủy bỏ được. Trong trường hợp vắng mặt, chỗ nghỉ sẽ không hoàn tiền đặt phòng.\n\nNếu chắc về ngày quý khách đến/đi, quý khách có thể tận dụng khuyến mại đặc biệt này!",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí"
+                        ]
+                    },
+                    {
+                        "option_name": "Thông tin sức chứa phòng: 2 người lớn.",
+                        "option_price": "846.517₫",
+                        "amenities_for_price": [
+                            "Kèm bữa sáng",
+                            "Miễn phí hủy trước 17 tháng 11 2025\n\ntooltip\n\nĐặt phòng không có rủi ro! Hủy trước 17 tháng 11 2025 và quý khách sẽ không phải trả gì cả!\n\nBất kỳ việc hủy phòng nào ghi nhận được trong vòng 1 ngày trước ngày đến sẽ phải trả phí cho toàn bộ thời gian ở. Không đến khách sạn hoặc chỗ nghỉ sẽ được giải quyết như là Vắng Mặt và sẽ phải trả một khoản tiền là 100% giá trị đặt phòng (Quy định của khách sạn).",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí"
+                        ]
+                    },
+                    {
+                        "option_name": "Thông tin sức chứa phòng: 2 người lớn.",
+                        "option_price": "1.940.035₫",
+                        "amenities_for_price": [
+                            "Kèm bữa sáng",
+                            "Miễn phí hủy trước 18 tháng 11 2025\n\ntooltip\n\nĐặt phòng không có rủi ro! Hủy trước 18 tháng 11 2025 và quý khách sẽ không phải trả gì cả!\n\nBất kỳ việc hủy phòng nào ghi nhận được vào ngày nhận phòng sẽ phải trả một khoản tiền là 100% giá trị đặt phòng. Không đến khách sạn hoặc chỗ nghỉ sẽ được giải quyết như là Vắng Mặt và sẽ phải trả một khoản tiền là 100% giá trị đặt phòng (Quy định của khách sạn).",
+                            "Thanh toán tại nơi ở",
+                            "Bãi đậu xe",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Deluxe giường King (Deluxe King)",
+                "amenities": [
+                    {
+                        "amenity": "Diện tích phòng: 32 m²",
+                        "type": "sqm"
+                    },
+                    {
+                        "amenity": "Hướng Sông",
+                        "type": "views"
+                    },
+                    {
+                        "amenity": "1 giường lớn",
+                        "type": "bed"
+                    },
+                    {
+                        "amenity": "Bồn tắm",
+                        "type": "bathtub"
+                    },
+                    {
+                        "amenity": "Cửa sổ mở",
+                        "type": "NULL"
+                    },
+                    {
+                        "amenity": "Rèm che ánh sáng",
+                        "type": "blackout-curtains"
+                    },
+                    {
+                        "amenity": "Trái cây/đồ ăn vặt",
+                        "type": "confirmation-instant"
+                    },
+                    {
+                        "amenity": "Không hút thuốc",
+                        "type": "non-smoking-room"
+                    },
+                    {
+                        "amenity": "phòng tắm riêng",
+                        "type": "bathrooms"
+                    }
+                ],
+                "price_options": [
+                    {
+                        "option_name": "Thông tin sức chứa phòng: 2 người lớn.",
+                        "option_price": "805.423₫",
+                        "amenities_for_price": [
+                            "Kèm bữa sáng",
+                            "Không hoàn tiền (Giá thấp!)\n\ntooltip\n\nKhuyến mại đặc biệt này bao gồm giá cực thấp, nhưng không thể nào thay đổi hoặc hủy bỏ được. Trong trường hợp vắng mặt, chỗ nghỉ sẽ không hoàn tiền đặt phòng.\n\nNếu chắc về ngày quý khách đến/đi, quý khách có thể tận dụng khuyến mại đặc biệt này!",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí"
+                        ]
+                    },
+                    {
+                        "option_name": "Thông tin sức chứa phòng: 2 người lớn.",
+                        "option_price": "846.517₫",
+                        "amenities_for_price": [
+                            "Kèm bữa sáng",
+                            "Miễn phí hủy trước 17 tháng 11 2025\n\ntooltip\n\nĐặt phòng không có rủi ro! Hủy trước 17 tháng 11 2025 và quý khách sẽ không phải trả gì cả!\n\nBất kỳ việc hủy phòng nào ghi nhận được trong vòng 1 ngày trước ngày đến sẽ phải trả phí cho toàn bộ thời gian ở. Không đến khách sạn hoặc chỗ nghỉ sẽ được giải quyết như là Vắng Mặt và sẽ phải trả một khoản tiền là 100% giá trị đặt phòng (Quy định của khách sạn).",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí"
+                        ]
+                    },
+                    {
+                        "option_name": "Thông tin sức chứa phòng: 2 người lớn.",
+                        "option_price": "1.940.035₫",
+                        "amenities_for_price": [
+                            "Kèm bữa sáng",
+                            "Miễn phí hủy trước 18 tháng 11 2025\n\ntooltip\n\nĐặt phòng không có rủi ro! Hủy trước 18 tháng 11 2025 và quý khách sẽ không phải trả gì cả!\n\nBất kỳ việc hủy phòng nào ghi nhận được vào ngày nhận phòng sẽ phải trả một khoản tiền là 100% giá trị đặt phòng. Không đến khách sạn hoặc chỗ nghỉ sẽ được giải quyết như là Vắng Mặt và sẽ phải trả một khoản tiền là 100% giá trị đặt phòng (Quy định của khách sạn).",
+                            "Thanh toán tại nơi ở",
+                            "Bãi đậu xe",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Executive Suite",
+                "amenities": [
+                    {
+                        "amenity": "Diện tích phòng: 65 m²",
+                        "type": "sqm"
+                    },
+                    {
+                        "amenity": "Hướng Sông",
+                        "type": "views"
+                    },
+                    {
+                        "amenity": "1 giường lớn",
+                        "type": "bed"
+                    },
+                    {
+                        "amenity": "Bồn tắm tạo sóng",
+                        "type": "jacuzzi-bathtub"
+                    },
+                    {
+                        "amenity": "Ban công/sân hiên",
+                        "type": "balcony-terrace"
+                    },
+                    {
+                        "amenity": "Cửa sổ mở",
+                        "type": "NULL"
+                    },
+                    {
+                        "amenity": "Giường cực dài",
+                        "type": "extra-long-beds"
+                    },
+                    {
+                        "amenity": "Rèm che ánh sáng",
+                        "type": "blackout-curtains"
+                    },
+                    {
+                        "amenity": "Trái cây/đồ ăn vặt",
+                        "type": "confirmation-instant"
+                    },
+                    {
+                        "amenity": "Không hút thuốc",
+                        "type": "non-smoking-room"
+                    }
+                ],
+                "price_options": [
+                    {
+                        "option_name": "Thông tin sức chứa phòng: 2 người lớn.",
+                        "option_price": "2.256.001₫",
+                        "amenities_for_price": [
+                            "Kèm bữa sáng",
+                            "Không hoàn tiền (Giá thấp!)\n\ntooltip\n\nKhuyến mại đặc biệt này bao gồm giá cực thấp, nhưng không thể nào thay đổi hoặc hủy bỏ được. Trong trường hợp vắng mặt, chỗ nghỉ sẽ không hoàn tiền đặt phòng.\n\nNếu chắc về ngày quý khách đến/đi, quý khách có thể tận dụng khuyến mại đặc biệt này!",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí"
+                        ]
+                    },
+                    {
+                        "option_name": "Thông tin sức chứa phòng: 2 người lớn.",
+                        "option_price": "3.439.153₫",
+                        "amenities_for_price": [
+                            "Kèm bữa sáng",
+                            "Miễn phí hủy trước 18 tháng 11 2025\n\ntooltip\n\nĐặt phòng không có rủi ro! Hủy trước 18 tháng 11 2025 và quý khách sẽ không phải trả gì cả!\n\nBất kỳ việc hủy phòng nào ghi nhận được vào ngày nhận phòng sẽ phải trả một khoản tiền là 100% giá trị đặt phòng. Không đến khách sạn hoặc chỗ nghỉ sẽ được giải quyết như là Vắng Mặt và sẽ phải trả một khoản tiền là 100% giá trị đặt phòng (Quy định của khách sạn).",
+                            "Thanh toán tại nơi ở",
+                            "Bãi đậu xe",
+                            "Nhận phòng nhanh",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "41340442",
+        "hotel_name": "Khu du lịch sinh thái Hòn Mát (KHU DU LỊCH SINH THÁI HÒN MÁT)",
+        "hotel_address": "Xom Son Hai, Nghia Loc Commune, Nghia Dan District, Nghe An Province, Vietnam, Quang Tiến, Thái Hòa (Nghệ An), Việt Nam, 43700",
+        "room_types": [
+            {
+                "room_type_name": "Phòng Đôi (Double Room)",
+                "amenities": [
+                    {
+                        "amenity": "Diện tích phòng: 20 m²",
+                        "type": "sqm"
+                    },
+                    {
+                        "amenity": "Hướng Sông",
+                        "type": "views"
+                    },
+                    {
+                        "amenity": "2 giường đôi",
+                        "type": "bed"
+                    },
+                    {
+                        "amenity": "Ban công/sân hiên",
+                        "type": "balcony-terrace"
+                    },
+                    {
+                        "amenity": "Cửa sổ có thể mở ra",
+                        "type": "confirmation-instant"
+                    },
+                    {
+                        "amenity": "Rèm che ánh sáng",
+                        "type": "blackout-curtains"
+                    },
+                    {
+                        "amenity": "tầng trệt",
+                        "type": "ground-floor"
+                    },
+                    {
+                        "amenity": "Hành lang ngoài",
+                        "type": "confirmation-instant"
+                    },
+                    {
+                        "amenity": "Phòng tắm chung",
+                        "type": "bathrooms"
+                    }
+                ],
+                "price_options": [
+                    {
+                        "option_name": "Thông tin sức chứa phòng: 2 người lớn và 1 trẻ em.",
+                        "option_price": "440.252₫",
+                        "amenities_for_price": [
+                            "Chính sách hủy\n\ntooltip\n\nBất kỳ việc hủy phòng nào nhận được trong vòng 14 ngày trước ngày đến sẽ phải trả một khoản tiền là 50% giá trị đặt phòng. Bất kỳ việc hủy phòng nào ghi nhận được trong vòng 7 ngày trước ngày đến sẽ phải trả phí cho toàn bộ thời gian ở. Không đến khách sạn hoặc chỗ nghỉ sẽ được giải quyết như là Vắng Mặt và sẽ phải trả một khoản tiền là 100% giá trị đặt phòng (Quy định của khách sạn).",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Bungalow Nhìn ra mặt nước (Waterfront Bungalow)",
+                "amenities": [
+                    {
+                        "amenity": "Diện tích phòng: 20 m²",
+                        "type": "sqm"
+                    },
+                    {
+                        "amenity": "Hướng Núi",
+                        "type": "views"
+                    },
+                    {
+                        "amenity": "1 giường đôi",
+                        "type": "bed"
+                    },
+                    {
+                        "amenity": "Được vào phòng chờ Thương Gia",
+                        "type": "executive-lounge-access"
+                    },
+                    {
+                        "amenity": "Bể bơi riêng",
+                        "type": "private-pool"
+                    },
+                    {
+                        "amenity": "Ban công/sân hiên",
+                        "type": "balcony-terrace"
+                    },
+                    {
+                        "amenity": "Cửa sổ mở",
+                        "type": "NULL"
+                    },
+                    {
+                        "amenity": "Rèm che ánh sáng",
+                        "type": "blackout-curtains"
+                    },
+                    {
+                        "amenity": "Tủ lạnh nhỏ trong phòng",
+                        "type": "mini-bar"
+                    },
+                    {
+                        "amenity": "tầng trệt",
+                        "type": "ground-floor"
+                    }
+                ],
+                "price_options": [
+                    {
+                        "option_name": "Thông tin sức chứa phòng: 2 người lớn và 1 trẻ em.",
+                        "option_price": "646.713₫",
+                        "amenities_for_price": [
+                            "Kèm bữa sáng",
+                            "Chính sách hủy\n\ntooltip\n\nBất kỳ việc hủy phòng nào nhận được trong vòng 14 ngày trước ngày đến sẽ phải trả một khoản tiền là 50% giá trị đặt phòng. Bất kỳ việc hủy phòng nào ghi nhận được trong vòng 7 ngày trước ngày đến sẽ phải trả phí cho toàn bộ thời gian ở. Không đến khách sạn hoặc chỗ nghỉ sẽ được giải quyết như là Vắng Mặt và sẽ phải trả một khoản tiền là 100% giá trị đặt phòng (Quy định của khách sạn).",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    },
+                    {
+                        "option_name": "Thông tin sức chứa phòng: 2 người lớn.",
+                        "option_price": "694.444₫",
+                        "amenities_for_price": [
+                            "Kèm bữa sáng",
+                            "Không hoàn tiền (Giá thấp!)\n\ntooltip\n\nKhuyến mại đặc biệt này bao gồm giá cực thấp, nhưng không thể nào thay đổi hoặc hủy bỏ được. Trong trường hợp vắng mặt, chỗ nghỉ sẽ không hoàn tiền đặt phòng.\n\nNếu chắc về ngày quý khách đến/đi, quý khách có thể tận dụng khuyến mại đặc biệt này!",
+                            "Trả tiền cho khách sạn",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Phòng Đơn (Single)",
+                "amenities": [
+                    {
+                        "amenity": "Diện tích phòng: 10 m²",
+                        "type": "sqm"
+                    },
+                    {
+                        "amenity": "Hướng Núi",
+                        "type": "views"
+                    },
+                    {
+                        "amenity": "1 giường đơn",
+                        "type": "bed"
+                    },
+                    {
+                        "amenity": "Ban công/sân hiên",
+                        "type": "balcony-terrace"
+                    },
+                    {
+                        "amenity": "Cửa sổ mở",
+                        "type": "NULL"
+                    },
+                    {
+                        "amenity": "Đồ dùng cho giấc ngủ thoải mái",
+                        "type": "confirmation-instant"
+                    },
+                    {
+                        "amenity": "Trái cây/đồ ăn vặt",
+                        "type": "confirmation-instant"
+                    },
+                    {
+                        "amenity": "tầng trệt",
+                        "type": "ground-floor"
+                    },
+                    {
+                        "amenity": "Không hút thuốc",
+                        "type": "non-smoking-room"
+                    },
+                    {
+                        "amenity": "Hành lang ngoài",
+                        "type": "confirmation-instant"
+                    }
+                ],
+                "price_options": [
+                    {
+                        "option_name": "Thông tin sức chứa phòng: 1 người lớn và 1 trẻ em.",
+                        "option_price": "302.762₫",
+                        "amenities_for_price": [
+                            "Chính sách hủy\n\ntooltip\n\nBất kỳ việc hủy phòng nào nhận được trong vòng 14 ngày trước ngày đến sẽ phải trả một khoản tiền là 50% giá trị đặt phòng. Bất kỳ việc hủy phòng nào ghi nhận được trong vòng 7 ngày trước ngày đến sẽ phải trả phí cho toàn bộ thời gian ở. Không đến khách sạn hoặc chỗ nghỉ sẽ được giải quyết như là Vắng Mặt và sẽ phải trả một khoản tiền là 100% giá trị đặt phòng (Quy định của khách sạn).",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    },
+                    {
+                        "option_name": "Thông tin sức chứa phòng: 1 người lớn và 1 trẻ em.",
+                        "option_price": "324.074₫",
+                        "amenities_for_price": [
+                            "Chính sách hủy\n\ntooltip\n\nBất kỳ việc hủy phòng nào nhận được trong vòng 14 ngày trước ngày đến sẽ phải trả một khoản tiền là 50% giá trị đặt phòng. Không đến khách sạn hoặc chỗ nghỉ sẽ được giải quyết như là Vắng Mặt và sẽ phải trả một khoản tiền là 50% giá trị đặt phòng (Quy định của khách sạn).",
+                            "Thanh toán tại nơi ở",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "71446859",
+        "room_types": [
+            {
+                "room_type_name": "Phòng Đôi (Double Room)",
+                "amenities": [
+                    {
+                        "amenity": "Diện tích phòng: 18 m²",
+                        "type": "sqm"
+                    },
+                    {
+                        "amenity": "1 giường đôi",
+                        "type": "bed"
+                    },
+                    {
+                        "amenity": "phòng tắm riêng",
+                        "type": "bathrooms"
+                    },
+                    {
+                        "amenity": "Tủ quần áo",
+                        "type": "closet"
+                    },
+                    {
+                        "amenity": "Điều hòa",
+                        "type": "air-conditioning"
+                    },
+                    {
+                        "amenity": "Ấm nước điện",
+                        "type": "confirmation-instant"
+                    },
+                    {
+                        "amenity": "Máy sấy tóc",
+                        "type": "hair-dryer"
+                    },
+                    {
+                        "amenity": "Vòi sen",
+                        "type": "shower"
+                    }
+                ],
+                "price_options": [
+                    {
+                        "option_name": "Thông tin sức chứa phòng: 2 người lớn.",
+                        "option_price": "1.818.182₫",
+                        "amenities_for_price": [
+                            "Miễn phí hủy trước 18 tháng 11 2025\n\ntooltip\n\nĐặt phòng không có rủi ro! Hủy trước 18 tháng 11 2025 và quý khách sẽ không phải trả gì cả!\n\nBất kỳ việc hủy phòng nào ghi nhận được vào ngày nhận phòng sẽ phải trả một khoản tiền là 100% giá trị đặt phòng. Không đến khách sạn hoặc chỗ nghỉ sẽ được giải quyết như là Vắng Mặt và sẽ phải trả một khoản tiền là 100% giá trị đặt phòng (Quy định của khách sạn).",
+                            "Thanh toán tại nơi ở",
+                            "Đặt không cần thẻ tín dụng",
+                            "Bãi đậu xe"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hotel_id": "28762037",
+        "hotel_name": "Khách sạn Blue Wave (Blue Wave Hotel)",
+        "hotel_address": "1 Hoang Van Tam, Nghi Huong, Cua Lo, Nghe An, Bãi biển Cửa Lò, Biển Cửa Lò, Việt Nam",
+        "room_types": [
+            {
+                "room_type_name": "Phòng Deluxe 2 giường Queen (Deluxe Queen Room with Two Queen Beds)",
+                "amenities": [
+                    {
+                        "amenity": "Diện tích phòng: 35 m²",
+                        "type": "sqm"
+                    },
+                    {
+                        "amenity": "Hướng Ngoài trời",
+                        "type": "views"
+                    },
+                    {
+                        "amenity": "2 giường đôi lớn",
+                        "type": "bed"
+                    },
+                    {
+                        "amenity": "Ban công/sân hiên",
+                        "type": "balcony-terrace"
+                    },
+                    {
+                        "amenity": "Cửa sổ",
+                        "type": "confirmation-instant"
+                    },
+                    {
+                        "amenity": "Giường cực dài",
+                        "type": "extra-long-beds"
+                    },
+                    {
+                        "amenity": "Đồ dùng cho giấc ngủ thoải mái",
+                        "type": "confirmation-instant"
+                    },
+                    {
+                        "amenity": "Tủ lạnh nhỏ trong phòng",
+                        "type": "mini-bar"
+                    },
+                    {
+                        "amenity": "Không hút thuốc",
+                        "type": "non-smoking-room"
+                    },
+                    {
+                        "amenity": "Phòng tắm chung",
+                        "type": "bathrooms"
+                    }
+                ],
+                "price_options": [
+                    {
+                        "option_name": "Thông tin sức chứa phòng: 2 người lớn.",
+                        "option_price": "561.867₫",
+                        "amenities_for_price": [
+                            "Không hoàn tiền (Giá thấp!)\n\ntooltip\n\nKhuyến mại đặc biệt này bao gồm giá cực thấp, nhưng không thể nào thay đổi hoặc hủy bỏ được. Trong trường hợp vắng mặt, chỗ nghỉ sẽ không hoàn tiền đặt phòng.\n\nNếu chắc về ngày quý khách đến/đi, quý khách có thể tận dụng khuyến mại đặc biệt này!",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    },
+                    {
+                        "option_name": "Thông tin sức chứa phòng: 2 người lớn và 2 trẻ em.",
+                        "option_price": "705.467₫",
+                        "amenities_for_price": [
+                            "Kèm bữa sáng",
+                            "Không hoàn tiền (Giá thấp!)\n\ntooltip\n\nKhuyến mại đặc biệt này bao gồm giá cực thấp, nhưng không thể nào thay đổi hoặc hủy bỏ được. Trong trường hợp vắng mặt, chỗ nghỉ sẽ không hoàn tiền đặt phòng.\n\nNếu chắc về ngày quý khách đến/đi, quý khách có thể tận dụng khuyến mại đặc biệt này!",
+                            "Trả tiền cho khách sạn"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Phòng Executive (Executive Room)",
+                "amenities": [
+                    {
+                        "amenity": "Diện tích phòng: 45 m²",
+                        "type": "sqm"
+                    },
+                    {
+                        "amenity": "Hướng Thành phố",
+                        "type": "views"
+                    },
+                    {
+                        "amenity": "2 giường đôi lớn",
+                        "type": "bed"
+                    },
+                    {
+                        "amenity": "Bồn tắm tạo sóng",
+                        "type": "jacuzzi-bathtub"
+                    },
+                    {
+                        "amenity": "Ban công/sân hiên",
+                        "type": "balcony-terrace"
+                    },
+                    {
+                        "amenity": "Cửa sổ",
+                        "type": "confirmation-instant"
+                    },
+                    {
+                        "amenity": "Giường cực dài",
+                        "type": "extra-long-beds"
+                    },
+                    {
+                        "amenity": "Rèm che ánh sáng",
+                        "type": "blackout-curtains"
+                    },
+                    {
+                        "amenity": "Tủ lạnh nhỏ trong phòng",
+                        "type": "mini-bar"
+                    },
+                    {
+                        "amenity": "Không hút thuốc",
+                        "type": "non-smoking-room"
+                    }
+                ],
+                "price_options": [
+                    {
+                        "option_name": "Thông tin sức chứa phòng: 2 người lớn.",
+                        "option_price": "621.664₫",
+                        "amenities_for_price": [
+                            "Không hoàn tiền (Giá thấp!)\n\ntooltip\n\nKhuyến mại đặc biệt này bao gồm giá cực thấp, nhưng không thể nào thay đổi hoặc hủy bỏ được. Trong trường hợp vắng mặt, chỗ nghỉ sẽ không hoàn tiền đặt phòng.\n\nNếu chắc về ngày quý khách đến/đi, quý khách có thể tận dụng khuyến mại đặc biệt này!",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    },
+                    {
+                        "option_name": "Thông tin sức chứa phòng: 2 người lớn và 2 trẻ em.",
+                        "option_price": "925.926₫",
+                        "amenities_for_price": [
+                            "Kèm bữa sáng",
+                            "Không hoàn tiền (Giá thấp!)\n\ntooltip\n\nKhuyến mại đặc biệt này bao gồm giá cực thấp, nhưng không thể nào thay đổi hoặc hủy bỏ được. Trong trường hợp vắng mặt, chỗ nghỉ sẽ không hoàn tiền đặt phòng.\n\nNếu chắc về ngày quý khách đến/đi, quý khách có thể tận dụng khuyến mại đặc biệt này!",
+                            "Trả tiền cho khách sạn"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Suite",
+                "amenities": [
+                    {
+                        "amenity": "Diện tích phòng: 60 m²",
+                        "type": "sqm"
+                    },
+                    {
+                        "amenity": "Hướng Thành phố",
+                        "type": "views"
+                    },
+                    {
+                        "amenity": "1 giường lớn",
+                        "type": "bed"
+                    },
+                    {
+                        "amenity": "Bồn tắm tạo sóng",
+                        "type": "jacuzzi-bathtub"
+                    },
+                    {
+                        "amenity": "Ban công/sân hiên",
+                        "type": "balcony-terrace"
+                    },
+                    {
+                        "amenity": "Cửa sổ",
+                        "type": "confirmation-instant"
+                    },
+                    {
+                        "amenity": "Giường cực dài",
+                        "type": "extra-long-beds"
+                    },
+                    {
+                        "amenity": "Rèm che ánh sáng",
+                        "type": "blackout-curtains"
+                    },
+                    {
+                        "amenity": "Tủ lạnh nhỏ trong phòng",
+                        "type": "mini-bar"
+                    },
+                    {
+                        "amenity": "Không hút thuốc",
+                        "type": "non-smoking-room"
+                    }
+                ],
+                "price_options": [
+                    {
+                        "option_name": "Thông tin sức chứa phòng: 2 người lớn.",
+                        "option_price": "687.213₫",
+                        "amenities_for_price": [
+                            "Không hoàn tiền (Giá thấp!)\n\ntooltip\n\nKhuyến mại đặc biệt này bao gồm giá cực thấp, nhưng không thể nào thay đổi hoặc hủy bỏ được. Trong trường hợp vắng mặt, chỗ nghỉ sẽ không hoàn tiền đặt phòng.\n\nNếu chắc về ngày quý khách đến/đi, quý khách có thể tận dụng khuyến mại đặc biệt này!",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    },
+                    {
+                        "option_name": "Thông tin sức chứa phòng: 2 người lớn và 1 trẻ em.",
+                        "option_price": "970.018₫",
+                        "amenities_for_price": [
+                            "Kèm bữa sáng",
+                            "Không hoàn tiền (Giá thấp!)\n\ntooltip\n\nKhuyến mại đặc biệt này bao gồm giá cực thấp, nhưng không thể nào thay đổi hoặc hủy bỏ được. Trong trường hợp vắng mặt, chỗ nghỉ sẽ không hoàn tiền đặt phòng.\n\nNếu chắc về ngày quý khách đến/đi, quý khách có thể tận dụng khuyến mại đặc biệt này!",
+                            "Trả tiền cho khách sạn"
+                        ]
+                    }
+                ]
+            },
+            {
+                "room_type_name": "Phòng Loại Sang Hướng Biển 2 Giường Đơn (Deluxe Twin Room with Sea View)",
+                "amenities": [
+                    {
+                        "amenity": "Diện tích phòng: 45 m²",
+                        "type": "sqm"
+                    },
+                    {
+                        "amenity": "Hướng Biển",
+                        "type": "views"
+                    },
+                    {
+                        "amenity": "2 giường đôi lớn",
+                        "type": "bed"
+                    },
+                    {
+                        "amenity": "Bồn tắm",
+                        "type": "bathtub"
+                    },
+                    {
+                        "amenity": "Ban công/sân hiên",
+                        "type": "balcony-terrace"
+                    },
+                    {
+                        "amenity": "Cửa sổ",
+                        "type": "confirmation-instant"
+                    },
+                    {
+                        "amenity": "Giường cực dài",
+                        "type": "extra-long-beds"
+                    },
+                    {
+                        "amenity": "Đồ dùng cho giấc ngủ thoải mái",
+                        "type": "confirmation-instant"
+                    },
+                    {
+                        "amenity": "Tủ lạnh nhỏ trong phòng",
+                        "type": "mini-bar"
+                    },
+                    {
+                        "amenity": "Không hút thuốc",
+                        "type": "non-smoking-room"
+                    }
+                ],
+                "price_options": [
+                    {
+                        "option_name": "Thông tin sức chứa phòng: 2 người lớn.",
+                        "option_price": "784.230₫",
+                        "amenities_for_price": [
+                            "Không hoàn tiền (Giá thấp!)\n\ntooltip\n\nKhuyến mại đặc biệt này bao gồm giá cực thấp, nhưng không thể nào thay đổi hoặc hủy bỏ được. Trong trường hợp vắng mặt, chỗ nghỉ sẽ không hoàn tiền đặt phòng.\n\nNếu chắc về ngày quý khách đến/đi, quý khách có thể tận dụng khuyến mại đặc biệt này!",
+                            "Đặt và trả tiền ngay",
+                            "Bãi đậu xe",
+                            "WiFi miễn phí"
+                        ]
+                    },
+                    {
+                        "option_name": "Thông tin sức chứa phòng: 2 người lớn và 2 trẻ em.",
+                        "option_price": "837.742₫",
+                        "amenities_for_price": [
+                            "Kèm bữa sáng",
+                            "Không hoàn tiền (Giá thấp!)\n\ntooltip\n\nKhuyến mại đặc biệt này bao gồm giá cực thấp, nhưng không thể nào thay đổi hoặc hủy bỏ được. Trong trường hợp vắng mặt, chỗ nghỉ sẽ không hoàn tiền đặt phòng.\n\nNếu chắc về ngày quý khách đến/đi, quý khách có thể tận dụng khuyến mại đặc biệt này!",
+                            "Trả tiền cho khách sạn"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]
